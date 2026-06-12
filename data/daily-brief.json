@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T23:21:44.569228Z",
+  "generated_at": "2026-06-12T01:56:22.834939Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -39,6 +39,15 @@
           "published_at": "2026-06-11T21:10:07.936000Z"
         },
         {
+          "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-11T19:54:54Z"
+        },
+        {
           "id": "dc27af65a8007267722a7b61bf2c8bbbff03b705",
           "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
           "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
@@ -48,7 +57,7 @@
           "published_at": "2026-06-11T19:54:54Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -84,6 +93,15 @@
           "published_at": "2026-06-11T21:10:07.936000Z"
         },
         {
+          "id": "a1e03371b6e48457831c4d57ca178ed9e7344d62",
+          "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? My AI nuclear simulation",
+          "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-11T19:54:54Z"
+        },
+        {
           "id": "dc27af65a8007267722a7b61bf2c8bbbff03b705",
           "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器 / Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
           "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
@@ -93,17 +111,17 @@
           "published_at": "2026-06-11T19:54:54Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8789,
-      "importance": 0.8789,
-      "importance_score": 0.8789,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8824,
+      "importance": 0.8824,
+      "importance_score": 0.8824,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9594,
-        "story_heat": 0.75
+        "recency": 0.852,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -122,21 +140,101 @@
       }
     },
     {
-      "story_id": "story_654e30a95575",
-      "title": "如果获得批准，机器人创建的拉取请求可以运行工作流程 / Bot-created pull requests can run workflows if approved",
-      "url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
-      "primary_url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
+      "story_id": "story_34c2425ad136",
+      "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
+      "url": "https://www.aibase.com/news/28868",
+      "primary_url": "https://www.aibase.com/news/28868",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "022da61af0454fbb7730a68011863183049b3c7f",
+          "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
+          "url": "https://www.aibase.com/news/28868",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T01:56:22.834939Z"
+        },
+        {
+          "id": "aab55a4254d412b85de79a4288008e603cc115b4",
+          "title": "DoorDash 发布「Ask DoorDash」AI 聊天机器人，支持文本与照片跨模态下单",
+          "url": "https://www.aibase.com/zh/news/28868",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "022da61af0454fbb7730a68011863183049b3c7f",
+          "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
+          "url": "https://www.aibase.com/news/28868",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T01:56:22.834939Z"
+        },
+        {
+          "id": "aab55a4254d412b85de79a4288008e603cc115b4",
+          "title": "DoorDash 发布「Ask DoorDash」AI 聊天机器人，支持文本与照片跨模态下单",
+          "url": "https://www.aibase.com/zh/news/28868",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T01:56:22.834939Z",
+      "latest_at": "2026-06-12T01:56:22.834939Z",
+      "primary_item": {
+        "id": "022da61af0454fbb7730a68011863183049b3c7f",
+        "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
+        "url": "https://www.aibase.com/news/28868",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3a4847defc4c",
+      "title": "GitHub Enterprise Server 3.21 现已全面发布 / GitHub Enterprise Server 3.21 is now generally available",
+      "url": "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "805814af7544bbd5c78d54357eda50419368cd8b",
-          "title": "如果获得批准，机器人创建的拉取请求可以运行工作流程 / Bot-created pull requests can run workflows if approved",
-          "url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
+          "id": "0b44160bbfb47740068394d6cc97fc1dad3ee15a",
+          "title": "GitHub Enterprise Server 3.21 现已全面发布 / GitHub Enterprise Server 3.21 is now generally available",
+          "url": "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-11T19:00:56Z"
+          "published_at": "2026-06-11T22:46:53Z"
         }
       ],
       "source_count": 1,
@@ -145,25 +243,25 @@
       ],
       "items": [
         {
-          "id": "805814af7544bbd5c78d54357eda50419368cd8b",
-          "title": "如果获得批准，机器人创建的拉取请求可以运行工作流程 / Bot-created pull requests can run workflows if approved",
-          "url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
+          "id": "0b44160bbfb47740068394d6cc97fc1dad3ee15a",
+          "title": "GitHub Enterprise Server 3.21 现已全面发布 / GitHub Enterprise Server 3.21 is now generally available",
+          "url": "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-11T19:00:56Z"
+          "published_at": "2026-06-11T22:46:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8189,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -172,14 +270,254 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-11T19:00:56Z",
-      "latest_at": "2026-06-11T19:00:56Z",
+      "earliest_at": "2026-06-11T22:46:53Z",
+      "latest_at": "2026-06-11T22:46:53Z",
       "primary_item": {
-        "id": "805814af7544bbd5c78d54357eda50419368cd8b",
-        "title": "如果获得批准，机器人创建的拉取请求可以运行工作流程 / Bot-created pull requests can run workflows if approved",
-        "url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
+        "id": "0b44160bbfb47740068394d6cc97fc1dad3ee15a",
+        "title": "GitHub Enterprise Server 3.21 现已全面发布 / GitHub Enterprise Server 3.21 is now generally available",
+        "url": "https://github.blog/changelog/2026-06-11-github-enterprise-server-3-21-is-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1f2f928706d4",
+      "title": "Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环",
+      "url": "https://x.com/shao__meng/status/2065234132431675439",
+      "primary_url": "https://x.com/shao__meng/status/2065234132431675439",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "55f344efe93f8182bea0242989394b80e4760b82",
+          "title": "Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环",
+          "url": "https://x.com/shao__meng/status/2065234132431675439",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T00:46:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "55f344efe93f8182bea0242989394b80e4760b82",
+          "title": "Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环",
+          "url": "https://x.com/shao__meng/status/2065234132431675439",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T00:46:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9511,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T00:46:02Z",
+      "latest_at": "2026-06-12T00:46:02Z",
+      "primary_item": {
+        "id": "55f344efe93f8182bea0242989394b80e4760b82",
+        "title": "Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环",
+        "url": "https://x.com/shao__meng/status/2065234132431675439",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9f0b097305dc",
+      "title": "Codex 推出浏览器开发者模式",
+      "url": "https://x.com/OpenAIDevs/status/2065226355495895521",
+      "primary_url": "https://x.com/OpenAIDevs/status/2065226355495895521",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8d5c6b892e6175f39d51f27b0e1dc5818f845bf8",
+          "title": "Codex 推出浏览器开发者模式",
+          "url": "https://x.com/OpenAIDevs/status/2065226355495895521",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T00:15:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "8d5c6b892e6175f39d51f27b0e1dc5818f845bf8",
+          "title": "Codex 推出浏览器开发者模式",
+          "url": "https://x.com/OpenAIDevs/status/2065226355495895521",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T00:15:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9297,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T00:15:07Z",
+      "latest_at": "2026-06-12T00:15:07Z",
+      "primary_item": {
+        "id": "8d5c6b892e6175f39d51f27b0e1dc5818f845bf8",
+        "title": "Codex 推出浏览器开发者模式",
+        "url": "https://x.com/OpenAIDevs/status/2065226355495895521",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_87c008546a0e",
+      "title": "OpenAI Codex 推出速率重置攒存功能",
+      "url": "https://x.com/OpenAI/status/2065225362544726371",
+      "primary_url": "https://x.com/OpenAI/status/2065225362544726371",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8fd9f8859ebb6e19dea2e98e53e769db9e40ee9a",
+          "title": "OpenAI Codex 推出速率重置攒存功能",
+          "url": "https://x.com/OpenAI/status/2065225362544726371",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T00:11:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "8fd9f8859ebb6e19dea2e98e53e769db9e40ee9a",
+          "title": "OpenAI Codex 推出速率重置攒存功能",
+          "url": "https://x.com/OpenAI/status/2065225362544726371",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-12T00:11:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9269,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T00:11:11Z",
+      "latest_at": "2026-06-12T00:11:11Z",
+      "primary_item": {
+        "id": "8fd9f8859ebb6e19dea2e98e53e769db9e40ee9a",
+        "title": "OpenAI Codex 推出速率重置攒存功能",
+        "url": "https://x.com/OpenAI/status/2065225362544726371",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2ed541c2ea28",
+      "title": "AI代你买单？Visa联手OpenAI，彻底重塑购物体验",
+      "url": "https://www.aibase.com/news/28865",
+      "primary_url": "https://www.aibase.com/news/28865",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7ff8fa0b2c4a5e45c47d88bf7e809ac7b76edce7",
+          "title": "AI代你买单？Visa联手OpenAI，彻底重塑购物体验",
+          "url": "https://www.aibase.com/news/28865",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T01:56:22.834939Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7ff8fa0b2c4a5e45c47d88bf7e809ac7b76edce7",
+          "title": "AI代你买单？Visa联手OpenAI，彻底重塑购物体验",
+          "url": "https://www.aibase.com/news/28865",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T01:56:22.834939Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T01:56:22.834939Z",
+      "latest_at": "2026-06-12T01:56:22.834939Z",
+      "primary_item": {
+        "id": "7ff8fa0b2c4a5e45c47d88bf7e809ac7b76edce7",
+        "title": "AI代你买单？Visa联手OpenAI，彻底重塑购物体验",
+        "url": "https://www.aibase.com/news/28865",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -217,14 +555,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,14 +615,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6932,
+        "recency": 0.5858,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,14 +676,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.8142,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -364,21 +702,21 @@
       }
     },
     {
-      "story_id": "story_358ff63a9284",
-      "title": "AI 使用报告更新 / AI usage report updates",
-      "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
-      "primary_url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+      "story_id": "story_654e30a95575",
+      "title": "如果获得批准，机器人创建的拉取请求可以运行工作流程 / Bot-created pull requests can run workflows if approved",
+      "url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
+      "primary_url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d7765cab624dc3dfb10e8ca6d986a5f0ce5ab95f",
-          "title": "AI 使用报告更新 / AI usage report updates",
-          "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+          "id": "805814af7544bbd5c78d54357eda50419368cd8b",
+          "title": "如果获得批准，机器人创建的拉取请求可以运行工作流程 / Bot-created pull requests can run workflows if approved",
+          "url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-11T18:27:05Z"
+          "published_at": "2026-06-11T19:00:56Z"
         }
       ],
       "source_count": 1,
@@ -387,25 +725,25 @@
       ],
       "items": [
         {
-          "id": "d7765cab624dc3dfb10e8ca6d986a5f0ce5ab95f",
-          "title": "AI 使用报告更新 / AI usage report updates",
-          "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+          "id": "805814af7544bbd5c78d54357eda50419368cd8b",
+          "title": "如果获得批准，机器人创建的拉取请求可以运行工作流程 / Bot-created pull requests can run workflows if approved",
+          "url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-11T18:27:05Z"
+          "published_at": "2026-06-11T19:00:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7954,
+        "recency": 0.7115,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,59 +752,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-11T18:27:05Z",
-      "latest_at": "2026-06-11T18:27:05Z",
+      "earliest_at": "2026-06-11T19:00:56Z",
+      "latest_at": "2026-06-11T19:00:56Z",
       "primary_item": {
-        "id": "d7765cab624dc3dfb10e8ca6d986a5f0ce5ab95f",
-        "title": "AI 使用报告更新 / AI usage report updates",
-        "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+        "id": "805814af7544bbd5c78d54357eda50419368cd8b",
+        "title": "如果获得批准，机器人创建的拉取请求可以运行工作流程 / Bot-created pull requests can run workflows if approved",
+        "url": "https://github.blog/changelog/2026-06-11-bot-created-pull-requests-can-run-workflows-if-approved",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_78751a65033a",
-      "title": "Replit 与 Databricks 集成升级，公开预览开放",
-      "url": "https://x.com/Replit/status/2065189762365813089",
-      "primary_url": "https://x.com/Replit/status/2065189762365813089",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
+      "story_id": "story_c3fd9aa332d9",
+      "title": "Anthropic布局美国数据中心 拟寻求谷歌母公司资金支持",
+      "url": "https://www.aibase.com/news/28870",
+      "primary_url": "https://www.aibase.com/news/28870",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "2d20cb0ae7d08ec380c1a8d3eb4c7366e02add26",
-          "title": "Replit 与 Databricks 集成升级，公开预览开放",
-          "url": "https://x.com/Replit/status/2065189762365813089",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T21:49:43Z"
+          "id": "1b059f973ec5113a54687babce306a3f5ee882f3",
+          "title": "Anthropic布局美国数据中心 拟寻求谷歌母公司资金支持",
+          "url": "https://www.aibase.com/news/28870",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T01:56:22.834939Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Replit (@Replit)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "2d20cb0ae7d08ec380c1a8d3eb4c7366e02add26",
-          "title": "Replit 与 Databricks 集成升级，公开预览开放",
-          "url": "https://x.com/Replit/status/2065189762365813089",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T21:49:43Z"
+          "id": "1b059f973ec5113a54687babce306a3f5ee882f3",
+          "title": "Anthropic布局美国数据中心 拟寻求谷歌母公司资金支持",
+          "url": "https://www.aibase.com/news/28870",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-12T01:56:22.834939Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9361,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -474,14 +812,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-11T21:49:43Z",
-      "latest_at": "2026-06-11T21:49:43Z",
+      "earliest_at": "2026-06-12T01:56:22.834939Z",
+      "latest_at": "2026-06-12T01:56:22.834939Z",
       "primary_item": {
-        "id": "2d20cb0ae7d08ec380c1a8d3eb4c7366e02add26",
-        "title": "Replit 与 Databricks 集成升级，公开预览开放",
-        "url": "https://x.com/Replit/status/2065189762365813089",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
+        "id": "1b059f973ec5113a54687babce306a3f5ee882f3",
+        "title": "Anthropic布局美国数据中心 拟寻求谷歌母公司资金支持",
+        "url": "https://www.aibase.com/news/28870",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -519,20 +857,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7858,
+        "recency": 0.6784,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T18:13:16Z",
       "latest_at": "2026-06-11T18:13:16Z",
@@ -541,6 +878,66 @@
         "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
         "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
         "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_78751a65033a",
+      "title": "Replit 与 Databricks 集成升级，公开预览开放",
+      "url": "https://x.com/Replit/status/2065189762365813089",
+      "primary_url": "https://x.com/Replit/status/2065189762365813089",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2d20cb0ae7d08ec380c1a8d3eb4c7366e02add26",
+          "title": "Replit 与 Databricks 集成升级，公开预览开放",
+          "url": "https://x.com/Replit/status/2065189762365813089",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T21:49:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "2d20cb0ae7d08ec380c1a8d3eb4c7366e02add26",
+          "title": "Replit 与 Databricks 集成升级，公开预览开放",
+          "url": "https://x.com/Replit/status/2065189762365813089",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-11T21:49:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8287,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T21:49:43Z",
+      "latest_at": "2026-06-11T21:49:43Z",
+      "primary_item": {
+        "id": "2d20cb0ae7d08ec380c1a8d3eb4c7366e02add26",
+        "title": "Replit 与 Databricks 集成升级，公开预览开放",
+        "url": "https://x.com/Replit/status/2065189762365813089",
+        "source": "X：Replit (@Replit)",
         "source_name": "AI HOT"
       }
     },
@@ -579,20 +976,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7572,
+        "recency": 0.6498,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T17:32:06Z",
       "latest_at": "2026-06-11T17:32:06Z",
@@ -602,6 +998,67 @@
         "url": "https://x.com/perplexity_ai/status/2065124930463916317",
         "source": "X：Perplexity (@perplexity_ai)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_358ff63a9284",
+      "title": "AI 使用报告更新 / AI usage report updates",
+      "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+      "primary_url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d7765cab624dc3dfb10e8ca6d986a5f0ce5ab95f",
+          "title": "AI 使用报告更新 / AI usage report updates",
+          "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T18:27:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d7765cab624dc3dfb10e8ca6d986a5f0ce5ab95f",
+          "title": "AI 使用报告更新 / AI usage report updates",
+          "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-11T18:27:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.688,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-11T18:27:05Z",
+      "latest_at": "2026-06-11T18:27:05Z",
+      "primary_item": {
+        "id": "d7765cab624dc3dfb10e8ca6d986a5f0ce5ab95f",
+        "title": "AI 使用报告更新 / AI usage report updates",
+        "url": "https://github.blog/changelog/2026-06-11-ai-usage-report-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -639,20 +1096,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7384,
+        "recency": 0.631,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T17:05:00Z",
       "latest_at": "2026-06-11T17:05:00Z",
@@ -662,67 +1118,6 @@
         "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
         "source": "X：Logan Kilpatrick (@OfficialLoganK)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fae97ecdc455",
-      "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
-      "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-      "primary_url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
-          "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
-          "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T16:44:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
-          "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
-          "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-11T16:44:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7244,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-11T16:44:55Z",
-      "latest_at": "2026-06-11T16:44:55Z",
-      "primary_item": {
-        "id": "f309ea2410efe333db1ac004cfda39c2596a228b",
-        "title": "Copilot CLI：使用 /settings 从一处配置所有内容 / Copilot CLI: Configure everything from one place with /settings",
-        "url": "https://github.blog/changelog/2026-06-11-copilot-cli-configure-everything-from-one-place-with-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -760,20 +1155,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6932,
+        "recency": 0.5858,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-11T16:00:00Z",
       "latest_at": "2026-06-11T16:00:00Z",
@@ -820,14 +1214,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8384,
+        "recency": 0.7311,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -880,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6865,
+        "recency": 0.5791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -901,360 +1295,6 @@
         "title": "xAI Grok Build插件市场进入Beta测试",
         "url": "https://x.com/xai/status/2065099299541893577",
         "source": "X：xAI (@xai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d08c5c9b3188",
-      "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
-      "url": "https://x.com/kimmonismus/status/2065097988859744503",
-      "primary_url": "https://x.com/kimmonismus/status/2065097988859744503",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d66bc37b1c9b2e354d235b155b62b80a0b810e77",
-          "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
-          "url": "https://x.com/kimmonismus/status/2065097988859744503",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:45:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "d66bc37b1c9b2e354d235b155b62b80a0b810e77",
-          "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
-          "url": "https://x.com/kimmonismus/status/2065097988859744503",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:45:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6828,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T15:45:02Z",
-      "latest_at": "2026-06-11T15:45:02Z",
-      "primary_item": {
-        "id": "d66bc37b1c9b2e354d235b155b62b80a0b810e77",
-        "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
-        "url": "https://x.com/kimmonismus/status/2065097988859744503",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2a3c443e836e",
-      "title": "OpenRouter 基准探索器：10项帕累托曲线",
-      "url": "https://x.com/OpenRouter/status/2065094780271329729",
-      "primary_url": "https://x.com/OpenRouter/status/2065094780271329729",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a11631bbee2b39afd418538f3eda4b8ce81e6895",
-          "title": "OpenRouter 基准探索器：10项帕累托曲线",
-          "url": "https://x.com/OpenRouter/status/2065094780271329729",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:32:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "a11631bbee2b39afd418538f3eda4b8ce81e6895",
-          "title": "OpenRouter 基准探索器：10项帕累托曲线",
-          "url": "https://x.com/OpenRouter/status/2065094780271329729",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:32:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.674,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T15:32:17Z",
-      "latest_at": "2026-06-11T15:32:17Z",
-      "primary_item": {
-        "id": "a11631bbee2b39afd418538f3eda4b8ce81e6895",
-        "title": "OpenRouter 基准探索器：10项帕累托曲线",
-        "url": "https://x.com/OpenRouter/status/2065094780271329729",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fafcf5b4d04a",
-      "title": "Codex Goal指令生成Skill发布：一句话需求转目标",
-      "url": "https://x.com/vista8/status/2065090494972174821",
-      "primary_url": "https://x.com/vista8/status/2065090494972174821",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d684b0a761f4f288b82278e9aca56f697e6bb58e",
-          "title": "Codex Goal指令生成Skill发布：一句话需求转目标",
-          "url": "https://x.com/vista8/status/2065090494972174821",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:15:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "d684b0a761f4f288b82278e9aca56f697e6bb58e",
-          "title": "Codex Goal指令生成Skill发布：一句话需求转目标",
-          "url": "https://x.com/vista8/status/2065090494972174821",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:15:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6622,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T15:15:16Z",
-      "latest_at": "2026-06-11T15:15:16Z",
-      "primary_item": {
-        "id": "d684b0a761f4f288b82278e9aca56f697e6bb58e",
-        "title": "Codex Goal指令生成Skill发布：一句话需求转目标",
-        "url": "https://x.com/vista8/status/2065090494972174821",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f7ca6b6ad18c",
-      "title": "Krea 2 推出生成式滑块控制图像属性",
-      "url": "https://x.com/krea_ai/status/2065086662166901114",
-      "primary_url": "https://x.com/krea_ai/status/2065086662166901114",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8281485d44c4216c55c580506fc89dfe93c72a02",
-          "title": "Krea 2 推出生成式滑块控制图像属性",
-          "url": "https://x.com/krea_ai/status/2065086662166901114",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:00:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "8281485d44c4216c55c580506fc89dfe93c72a02",
-          "title": "Krea 2 推出生成式滑块控制图像属性",
-          "url": "https://x.com/krea_ai/status/2065086662166901114",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T15:00:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6516,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T15:00:02Z",
-      "latest_at": "2026-06-11T15:00:02Z",
-      "primary_item": {
-        "id": "8281485d44c4216c55c580506fc89dfe93c72a02",
-        "title": "Krea 2 推出生成式滑块控制图像属性",
-        "url": "https://x.com/krea_ai/status/2065086662166901114",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b507a55c19c8",
-      "title": "Runway与Lionsgate扩大战略合作",
-      "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-      "primary_url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "748072de3aaf78b2426e5325a9584a078ddcedc6",
-          "title": "Runway与Lionsgate扩大战略合作",
-          "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T14:31:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Runway：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "748072de3aaf78b2426e5325a9584a078ddcedc6",
-          "title": "Runway与Lionsgate扩大战略合作",
-          "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T14:31:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.632,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T14:31:51Z",
-      "latest_at": "2026-06-11T14:31:51Z",
-      "primary_item": {
-        "id": "748072de3aaf78b2426e5325a9584a078ddcedc6",
-        "title": "Runway与Lionsgate扩大战略合作",
-        "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_37a82905764a",
-      "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
-      "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-      "primary_url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "45e338cb1adacc992fbcbb05b92ba528ac98d529",
-          "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
-          "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T13:34:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "45e338cb1adacc992fbcbb05b92ba528ac98d529",
-          "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
-          "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-11T13:34:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5924,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-11T13:34:49Z",
-      "latest_at": "2026-06-11T13:34:49Z",
-      "primary_item": {
-        "id": "45e338cb1adacc992fbcbb05b92ba528ac98d529",
-        "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
-        "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       }
     }
