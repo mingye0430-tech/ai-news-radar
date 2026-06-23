@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-22T23:57:06.726420Z",
+  "generated_at": "2026-06-23T11:44:12.210635Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0957-34ee-befb-2644b9b00aed&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-0957-34ee-befb-2644b9b00aed&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2144-3459-af7b-56c12bd9903d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-2144-3459-af7b-56c12bd9903d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "faca004f8154c22005e2152ce530986d28a6199a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2144-3459-af7b-56c12bd9903d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "7a822e8ca3672944b76a62e35d31c40b102b2341",
           "title": "点击这里进入 / Click here to enter",
@@ -24,15 +33,6 @@
           "id": "6267faca926b63a260e2db8462561890d71a79a7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0559-04d1-9dce-b58c920054c6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "60432c8d39629132b605b6b93aec1b1f4355b9ab",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-1742-451a-abc7-61cfb5be630f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -45,6 +45,15 @@
       ],
       "items": [
         {
+          "id": "faca004f8154c22005e2152ce530986d28a6199a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2144-3459-af7b-56c12bd9903d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "7a822e8ca3672944b76a62e35d31c40b102b2341",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0957-34ee-befb-2644b9b00aed&fp=-3",
@@ -57,15 +66,6 @@
           "id": "6267faca926b63a260e2db8462561890d71a79a7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0559-04d1-9dce-b58c920054c6&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "60432c8d39629132b605b6b93aec1b1f4355b9ab",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-1742-451a-abc7-61cfb5be630f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -90,93 +90,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T07:42:19.789941Z",
-      "latest_at": "2026-06-22T23:57:06.726420Z",
+      "earliest_at": "2026-06-22T19:58:37.422688Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
       "primary_item": {
-        "id": "7a822e8ca3672944b76a62e35d31c40b102b2341",
+        "id": "faca004f8154c22005e2152ce530986d28a6199a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0957-34ee-befb-2644b9b00aed&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-2144-3459-af7b-56c12bd9903d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_76bfa22b1a42",
-      "title": "JetBrains IDE 中的新功能和 Claude 作为代理提供商预览 / New features and Claude as agent provider preview in JetBrains IDEs",
-      "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
-      "primary_url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "76f9590dd5120f37a8a9c1b7a2b01015251fe453",
-          "title": "JetBrains IDE 中的新功能和 Claude 作为代理提供商预览 / New features and Claude as agent provider preview in JetBrains IDEs",
-          "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-22T15:34:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "76f9590dd5120f37a8a9c1b7a2b01015251fe453",
-          "title": "JetBrains IDE 中的新功能和 Claude 作为代理提供商预览 / New features and Claude as agent provider preview in JetBrains IDEs",
-          "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-22T15:34:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6506,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T15:34:00Z",
-      "latest_at": "2026-06-22T15:34:00Z",
-      "primary_item": {
-        "id": "76f9590dd5120f37a8a9c1b7a2b01015251fe453",
-        "title": "JetBrains IDE 中的新功能和 Claude 作为代理提供商预览 / New features and Claude as agent provider preview in JetBrains IDEs",
-        "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2eeb4be61641",
-      "title": "前商汤科技高管创立的流形空间融资近 10 亿元，跃升为世界模型独角兽！",
-      "url": "https://www.aibase.com/news/29065",
-      "primary_url": "https://www.aibase.com/news/29065",
+      "story_id": "story_bc99bb8587ce",
+      "title": "MiniMax7月9日迎首批解禁 阿里、米哈游明确不减持",
+      "url": "https://www.aibase.com/news/29090",
+      "primary_url": "https://www.aibase.com/news/29090",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b7782f1790c3af0c5d074a7ba4de436f58ef16f5",
-          "title": "前商汤科技高管创立的流形空间融资近 10 亿元，跃升为世界模型独角兽！",
-          "url": "https://www.aibase.com/news/29065",
+          "id": "cf6ec3b10cea2b5e20e90418737cf73bd195151d",
+          "title": "MiniMax7月9日迎首批解禁 阿里、米哈游明确不减持",
+          "url": "https://www.aibase.com/news/29090",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T18:58:37.422688Z"
+          "published_at": "2026-06-23T11:44:12.210635Z"
         }
       ],
       "source_count": 1,
@@ -185,25 +124,25 @@
       ],
       "items": [
         {
-          "id": "b7782f1790c3af0c5d074a7ba4de436f58ef16f5",
-          "title": "前商汤科技高管创立的流形空间融资近 10 亿元，跃升为世界模型独角兽！",
-          "url": "https://www.aibase.com/news/29065",
+          "id": "cf6ec3b10cea2b5e20e90418737cf73bd195151d",
+          "title": "MiniMax7月9日迎首批解禁 阿里、米哈游明确不减持",
+          "url": "https://www.aibase.com/news/29090",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T18:58:37.422688Z"
+          "published_at": "2026-06-23T11:44:12.210635Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7927,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -211,59 +150,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T18:58:37.422688Z",
-      "latest_at": "2026-06-22T18:58:37.422688Z",
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
       "primary_item": {
-        "id": "b7782f1790c3af0c5d074a7ba4de436f58ef16f5",
-        "title": "前商汤科技高管创立的流形空间融资近 10 亿元，跃升为世界模型独角兽！",
-        "url": "https://www.aibase.com/news/29065",
+        "id": "cf6ec3b10cea2b5e20e90418737cf73bd195151d",
+        "title": "MiniMax7月9日迎首批解禁 阿里、米哈游明确不减持",
+        "url": "https://www.aibase.com/news/29090",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_68ef9a11772e",
-      "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
-      "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
-      "primary_url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_547675dba728",
+      "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
+      "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+      "primary_url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6708c0929ef5a20f706c971e345390e6e048b757",
-          "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
-          "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "8d75f1b73c60d5ae2584e0efdd5c6923791b2dfd",
+          "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
+          "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-22T18:49:44Z"
+          "published_at": "2026-06-23T11:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "6708c0929ef5a20f706c971e345390e6e048b757",
-          "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
-          "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "8d75f1b73c60d5ae2584e0efdd5c6923791b2dfd",
+          "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
+          "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-22T18:49:44Z"
+          "published_at": "2026-06-23T11:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7865,
+        "recency": 0.9693,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -271,59 +210,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T18:49:44Z",
-      "latest_at": "2026-06-22T18:49:44Z",
+      "earliest_at": "2026-06-23T11:00:00Z",
+      "latest_at": "2026-06-23T11:00:00Z",
       "primary_item": {
-        "id": "6708c0929ef5a20f706c971e345390e6e048b757",
-        "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
-        "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "8d75f1b73c60d5ae2584e0efdd5c6923791b2dfd",
+        "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
+        "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ae642b3e728a",
-      "title": "Google ADK 与 A2A 协议：跨语言多智能体团队构建实战",
-      "url": "https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h",
-      "primary_url": "https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h",
-      "source": "Google Developers Blog（RSS）",
+      "story_id": "story_d2bc2c108e2a",
+      "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+      "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+      "primary_url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+      "source": "公众号：千问APP（阿里）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f9610c996e8c39bf09c307cc0c40d5a521af1b90",
-          "title": "Google ADK 与 A2A 协议：跨语言多智能体团队构建实战",
-          "url": "https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h",
-          "source": "Google Developers Blog（RSS）",
+          "id": "780f310b5affababd40799179458005630c65877",
+          "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+          "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+          "source": "公众号：千问APP（阿里）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-22T17:08:43Z"
+          "published_at": "2026-06-23T10:54:49Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Developers Blog（RSS）"
+        "公众号：千问APP（阿里）"
       ],
       "items": [
         {
-          "id": "f9610c996e8c39bf09c307cc0c40d5a521af1b90",
-          "title": "Google ADK 与 A2A 协议：跨语言多智能体团队构建实战",
-          "url": "https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h",
-          "source": "Google Developers Blog（RSS）",
+          "id": "780f310b5affababd40799179458005630c65877",
+          "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+          "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+          "source": "公众号：千问APP（阿里）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-22T17:08:43Z"
+          "published_at": "2026-06-23T10:54:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7164,
+        "recency": 0.9657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,14 +270,615 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T17:08:43Z",
-      "latest_at": "2026-06-22T17:08:43Z",
+      "earliest_at": "2026-06-23T10:54:49Z",
+      "latest_at": "2026-06-23T10:54:49Z",
       "primary_item": {
-        "id": "f9610c996e8c39bf09c307cc0c40d5a521af1b90",
-        "title": "Google ADK 与 A2A 协议：跨语言多智能体团队构建实战",
-        "url": "https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h",
-        "source": "Google Developers Blog（RSS）",
+        "id": "780f310b5affababd40799179458005630c65877",
+        "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+        "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+        "source": "公众号：千问APP（阿里）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_49c160394cb9",
+      "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "primary_url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
+          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
+          "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+          "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.511,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T00:00:00Z",
+      "latest_at": "2026-06-23T00:00:00Z",
+      "primary_item": {
+        "id": "bd69c6454a7824b8921b484ae0d989f37f10b396",
+        "title": "每周通过 AI、开放工具和人员参与交付 Huggingface_hub / Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+        "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_334bc590ee97",
+      "title": "企业微信\"大圆\"内测上线：左滑一下，AI就能帮你盘客户、写总结",
+      "url": "https://www.aibase.com/news/29101",
+      "primary_url": "https://www.aibase.com/news/29101",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "691404fd660f911479f6dc591e7b521502157c64",
+          "title": "企业微信\"大圆\"内测上线：左滑一下，AI就能帮你盘客户、写总结",
+          "url": "https://www.aibase.com/news/29101",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "691404fd660f911479f6dc591e7b521502157c64",
+          "title": "企业微信\"大圆\"内测上线：左滑一下，AI就能帮你盘客户、写总结",
+          "url": "https://www.aibase.com/news/29101",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
+      "primary_item": {
+        "id": "691404fd660f911479f6dc591e7b521502157c64",
+        "title": "企业微信\"大圆\"内测上线：左滑一下，AI就能帮你盘客户、写总结",
+        "url": "https://www.aibase.com/news/29101",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_92142459046d",
+      "title": "五眼联盟警告：AI网络威胁数月内将影响普通用户",
+      "url": "https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt",
+      "primary_url": "https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt",
+      "source": "Artificial Intelligence News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4f112543d794adfaa40c0bf0503a4c3c61bbc4c1",
+          "title": "五眼联盟警告：AI网络威胁数月内将影响普通用户",
+          "url": "https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt",
+          "source": "Artificial Intelligence News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Artificial Intelligence News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4f112543d794adfaa40c0bf0503a4c3c61bbc4c1",
+          "title": "五眼联盟警告：AI网络威胁数月内将影响普通用户",
+          "url": "https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt",
+          "source": "Artificial Intelligence News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8443,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T08:00:00Z",
+      "latest_at": "2026-06-23T08:00:00Z",
+      "primary_item": {
+        "id": "4f112543d794adfaa40c0bf0503a4c3c61bbc4c1",
+        "title": "五眼联盟警告：AI网络威胁数月内将影响普通用户",
+        "url": "https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt",
+        "source": "Artificial Intelligence News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cda25e6c66f0",
+      "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
+      "url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
+      "primary_url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
+      "source": "公众号：京东JoyAI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c45f19f271630c58389173205deab5a1469cb574",
+          "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
+          "url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
+          "source": "公众号：京东JoyAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T06:04:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：京东JoyAI"
+      ],
+      "items": [
+        {
+          "id": "c45f19f271630c58389173205deab5a1469cb574",
+          "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
+          "url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
+          "source": "公众号：京东JoyAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T06:04:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7643,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T06:04:50Z",
+      "latest_at": "2026-06-23T06:04:50Z",
+      "primary_item": {
+        "id": "c45f19f271630c58389173205deab5a1469cb574",
+        "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
+        "url": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
+        "source": "公众号：京东JoyAI",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a6126a1d8f2b",
+      "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
+      "url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
+      "primary_url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
+      "source": "公众号：火山引擎",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d4258e5a907f1aec8f5c7bbac5f059fb5f3fe8d",
+          "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
+          "url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
+          "source": "公众号：火山引擎",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T05:41:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：火山引擎"
+      ],
+      "items": [
+        {
+          "id": "9d4258e5a907f1aec8f5c7bbac5f059fb5f3fe8d",
+          "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
+          "url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
+          "source": "公众号：火山引擎",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T05:41:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7479,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T05:41:11Z",
+      "latest_at": "2026-06-23T05:41:11Z",
+      "primary_item": {
+        "id": "9d4258e5a907f1aec8f5c7bbac5f059fb5f3fe8d",
+        "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
+        "url": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
+        "source": "公众号：火山引擎",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_63964873df30",
+      "title": "多所高校扩招超 600 人，AI和机器人专业成\"新宠\"：这届高考生的机会来了",
+      "url": "https://www.aibase.com/news/29093",
+      "primary_url": "https://www.aibase.com/news/29093",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8ea172f2f540551c11976acbb8ae44eac7ebef0f",
+          "title": "多所高校扩招超 600 人，AI和机器人专业成\"新宠\"：这届高考生的机会来了",
+          "url": "https://www.aibase.com/news/29093",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8ea172f2f540551c11976acbb8ae44eac7ebef0f",
+          "title": "多所高校扩招超 600 人，AI和机器人专业成\"新宠\"：这届高考生的机会来了",
+          "url": "https://www.aibase.com/news/29093",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
+      "primary_item": {
+        "id": "8ea172f2f540551c11976acbb8ae44eac7ebef0f",
+        "title": "多所高校扩招超 600 人，AI和机器人专业成\"新宠\"：这届高考生的机会来了",
+        "url": "https://www.aibase.com/news/29093",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_03c8b85f2520",
+      "title": "字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能\"魔改\"周星驰电影",
+      "url": "https://www.aibase.com/news/29094",
+      "primary_url": "https://www.aibase.com/news/29094",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "85a5d2117d762c9120850bd861be8e90ec6f69e2",
+          "title": "字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能\"魔改\"周星驰电影",
+          "url": "https://www.aibase.com/news/29094",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "85a5d2117d762c9120850bd861be8e90ec6f69e2",
+          "title": "字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能\"魔改\"周星驰电影",
+          "url": "https://www.aibase.com/news/29094",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
+      "primary_item": {
+        "id": "85a5d2117d762c9120850bd861be8e90ec6f69e2",
+        "title": "字节Seedance 2. 5 七月上线， 50 个素材同时输入，还能\"魔改\"周星驰电影",
+        "url": "https://www.aibase.com/news/29094",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_97f7df15a4f9",
+      "title": "字节跳动梁汝波定调：全面转向大模型，从“流量变现”到“硬核技术”",
+      "url": "https://www.aibase.com/news/29088",
+      "primary_url": "https://www.aibase.com/news/29088",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "73a10992f8f6b6a3d8c9735cb3bec651127434e0",
+          "title": "字节跳动梁汝波定调：全面转向大模型，从“流量变现”到“硬核技术”",
+          "url": "https://www.aibase.com/news/29088",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "73a10992f8f6b6a3d8c9735cb3bec651127434e0",
+          "title": "字节跳动梁汝波定调：全面转向大模型，从“流量变现”到“硬核技术”",
+          "url": "https://www.aibase.com/news/29088",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
+      "primary_item": {
+        "id": "73a10992f8f6b6a3d8c9735cb3bec651127434e0",
+        "title": "字节跳动梁汝波定调：全面转向大模型，从“流量变现”到“硬核技术”",
+        "url": "https://www.aibase.com/news/29088",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_689a3d371c06",
+      "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
+      "url": "https://www.aibase.com/news/29100",
+      "primary_url": "https://www.aibase.com/news/29100",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
+          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
+          "url": "https://www.aibase.com/news/29100",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
+          "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
+          "url": "https://www.aibase.com/news/29100",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
+      "primary_item": {
+        "id": "88f8e419b21966c0307f3d56c0377c10f1426035",
+        "title": "影眸科技获数亿元新一轮融资，发布千万面级3D大模型Rodin Gen-2.5",
+        "url": "https://www.aibase.com/news/29100",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ef1b74f661b0",
+      "title": "火山引擎发布豆包2.1Pro:日常功能确认免费，将推专业版办公模式",
+      "url": "https://www.aibase.com/news/29095",
+      "primary_url": "https://www.aibase.com/news/29095",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4295fbb74dab287d19216662cccf79c936e2cdb3",
+          "title": "火山引擎发布豆包2.1Pro:日常功能确认免费，将推专业版办公模式",
+          "url": "https://www.aibase.com/news/29095",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4295fbb74dab287d19216662cccf79c936e2cdb3",
+          "title": "火山引擎发布豆包2.1Pro:日常功能确认免费，将推专业版办公模式",
+          "url": "https://www.aibase.com/news/29095",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
+      "primary_item": {
+        "id": "4295fbb74dab287d19216662cccf79c936e2cdb3",
+        "title": "火山引擎发布豆包2.1Pro:日常功能确认免费，将推专业版办公模式",
+        "url": "https://www.aibase.com/news/29095",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -395,17 +935,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
-      "importance_label": "行业动态",
+      "score": 0.6511,
+      "importance": 0.6511,
+      "importance_score": 0.6511,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5616,
+        "recency": 0.0705,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -421,80 +961,21 @@
       }
     },
     {
-      "story_id": "story_a1f469d7faac",
-      "title": "东京 AI 公司 Sakana AI 推出多智能体编排系统 Sakana Fugu",
-      "url": "https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih",
-      "primary_url": "https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih",
-      "source": "X：Berry Xia (@berryxia)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b42b20ebce557a243d44f6843d2addf95d4850b2",
-          "title": "东京 AI 公司 Sakana AI 推出多智能体编排系统 Sakana Fugu",
-          "url": "https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T16:11:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Berry Xia (@berryxia)"
-      ],
-      "items": [
-        {
-          "id": "b42b20ebce557a243d44f6843d2addf95d4850b2",
-          "title": "东京 AI 公司 Sakana AI 推出多智能体编排系统 Sakana Fugu",
-          "url": "https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T16:11:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6768,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T16:11:41Z",
-      "latest_at": "2026-06-22T16:11:41Z",
-      "primary_item": {
-        "id": "b42b20ebce557a243d44f6843d2addf95d4850b2",
-        "title": "东京 AI 公司 Sakana AI 推出多智能体编排系统 Sakana Fugu",
-        "url": "https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih",
-        "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5f002749a665",
-      "title": "拒绝“一问一答”：京东开源实时视频交互模型 JoyAI-VL-Interaction",
-      "url": "https://www.aibase.com/news/29063",
-      "primary_url": "https://www.aibase.com/news/29063",
+      "story_id": "story_e27862d0fcf5",
+      "title": "火山引擎发布豆包Seedance2.5视频模型，方舟大模型服务用户超110万",
+      "url": "https://www.aibase.com/news/29087",
+      "primary_url": "https://www.aibase.com/news/29087",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "31358d938c742ca36f866d10d17e2153396a9daa",
-          "title": "拒绝“一问一答”：京东开源实时视频交互模型 JoyAI-VL-Interaction",
-          "url": "https://www.aibase.com/news/29063",
+          "id": "3b6b1256c88f6c7f31286e6dbd57a8f24c3dfa8a",
+          "title": "火山引擎发布豆包Seedance2.5视频模型，方舟大模型服务用户超110万",
+          "url": "https://www.aibase.com/news/29087",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T17:58:37.422688Z"
+          "published_at": "2026-06-23T11:44:12.210635Z"
         }
       ],
       "source_count": 1,
@@ -503,736 +984,205 @@
       ],
       "items": [
         {
-          "id": "31358d938c742ca36f866d10d17e2153396a9daa",
-          "title": "拒绝“一问一答”：京东开源实时视频交互模型 JoyAI-VL-Interaction",
-          "url": "https://www.aibase.com/news/29063",
+          "id": "3b6b1256c88f6c7f31286e6dbd57a8f24c3dfa8a",
+          "title": "火山引擎发布豆包Seedance2.5视频模型，方舟大模型服务用户超110万",
+          "url": "https://www.aibase.com/news/29087",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T17:58:37.422688Z"
+          "published_at": "2026-06-23T11:44:12.210635Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.751,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T17:58:37.422688Z",
-      "latest_at": "2026-06-22T17:58:37.422688Z",
-      "primary_item": {
-        "id": "31358d938c742ca36f866d10d17e2153396a9daa",
-        "title": "拒绝“一问一答”：京东开源实时视频交互模型 JoyAI-VL-Interaction",
-        "url": "https://www.aibase.com/news/29063",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_27233b33d43d",
-      "title": "微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录",
-      "url": "https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67",
-      "primary_url": "https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "46e38d1251a2c36630febf16da434c74d29780b4",
-          "title": "微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录",
-          "url": "https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T13:34:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "46e38d1251a2c36630febf16da434c74d29780b4",
-          "title": "微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录",
-          "url": "https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T13:34:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5674,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T13:34:14Z",
-      "latest_at": "2026-06-22T13:34:14Z",
-      "primary_item": {
-        "id": "46e38d1251a2c36630febf16da434c74d29780b4",
-        "title": "微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录",
-        "url": "https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_204b31e66429",
-      "title": "PP-OCRv6 on Hugging Face：50 语言 OCR，参数规模 1.5M 至 34.5M",
-      "url": "https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9",
-      "primary_url": "https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9",
-      "source": "Hugging Face：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "318e04d996db4e60133b60a1d52eb3a2728a057d",
-          "title": "PP-OCRv6 on Hugging Face：50 语言 OCR，参数规模 1.5M 至 34.5M",
-          "url": "https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T13:18:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "318e04d996db4e60133b60a1d52eb3a2728a057d",
-          "title": "PP-OCRv6 on Hugging Face：50 语言 OCR，参数规模 1.5M 至 34.5M",
-          "url": "https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T13:18:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5568,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T13:18:56Z",
-      "latest_at": "2026-06-22T13:18:56Z",
-      "primary_item": {
-        "id": "318e04d996db4e60133b60a1d52eb3a2728a057d",
-        "title": "PP-OCRv6 on Hugging Face：50 语言 OCR，参数规模 1.5M 至 34.5M",
-        "url": "https://aihot.virxact.com/items/cmqpamzm108huslx6vf1oonz9",
-        "source": "Hugging Face：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7bbe1d2cfd45",
-      "title": "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
-      "url": "https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt",
-      "primary_url": "https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9810b6be418632dca3473b145c19a358e1ea2022",
-          "title": "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
-          "url": "https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T16:08:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9810b6be418632dca3473b145c19a358e1ea2022",
-          "title": "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
-          "url": "https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T16:08:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6747,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T16:08:41Z",
-      "latest_at": "2026-06-22T16:08:41Z",
-      "primary_item": {
-        "id": "9810b6be418632dca3473b145c19a358e1ea2022",
-        "title": "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
-        "url": "https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4696c62dea4a",
-      "title": "开辟新赛道：小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录，官方圈速榜新增\"自动驾驶\"分类",
-      "url": "https://aihot.virxact.com/items/cmqpepyo500j1sldkfj5exgj8",
-      "primary_url": "https://aihot.virxact.com/items/cmqpepyo500j1sldkfj5exgj8",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28b456a3437c323078eee408bd204c6edf4933f3",
-          "title": "开辟新赛道：小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录，官方圈速榜新增\"自动驾驶\"分类",
-          "url": "https://aihot.virxact.com/items/cmqpepyo500j1sldkfj5exgj8",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T15:13:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "28b456a3437c323078eee408bd204c6edf4933f3",
-          "title": "开辟新赛道：小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录，官方圈速榜新增\"自动驾驶\"分类",
-          "url": "https://aihot.virxact.com/items/cmqpepyo500j1sldkfj5exgj8",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T15:13:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6364,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T15:13:29Z",
-      "latest_at": "2026-06-22T15:13:29Z",
-      "primary_item": {
-        "id": "28b456a3437c323078eee408bd204c6edf4933f3",
-        "title": "开辟新赛道：小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录，官方圈速榜新增\"自动驾驶\"分类",
-        "url": "https://aihot.virxact.com/items/cmqpepyo500j1sldkfj5exgj8",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a3e1554648a4",
-      "title": "联动全屋五大场景!英特尔携手国内科技巨头，让“AI大脑”住进千家万户",
-      "url": "https://www.aibase.com/news/29064",
-      "primary_url": "https://www.aibase.com/news/29064",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8519e824302778fbf591a546afeec3f284e82966",
-          "title": "联动全屋五大场景!英特尔携手国内科技巨头，让“AI大脑”住进千家万户",
-          "url": "https://www.aibase.com/news/29064",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T17:58:37.422688Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8519e824302778fbf591a546afeec3f284e82966",
-          "title": "联动全屋五大场景!英特尔携手国内科技巨头，让“AI大脑”住进千家万户",
-          "url": "https://www.aibase.com/news/29064",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T17:58:37.422688Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.751,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T17:58:37.422688Z",
-      "latest_at": "2026-06-22T17:58:37.422688Z",
-      "primary_item": {
-        "id": "8519e824302778fbf591a546afeec3f284e82966",
-        "title": "联动全屋五大场景!英特尔携手国内科技巨头，让“AI大脑”住进千家万户",
-        "url": "https://www.aibase.com/news/29064",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_40c8ae514e75",
-      "title": "OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT",
-      "url": "https://www.aibase.com/news/29061",
-      "primary_url": "https://www.aibase.com/news/29061",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6f70031b454beab17cadb0a94ce602bfa1f461b7",
-          "title": "OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT",
-          "url": "https://www.aibase.com/news/29061",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T16:58:37.422688Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6f70031b454beab17cadb0a94ce602bfa1f461b7",
-          "title": "OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT",
-          "url": "https://www.aibase.com/news/29061",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T16:58:37.422688Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7094,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T16:58:37.422688Z",
-      "latest_at": "2026-06-22T16:58:37.422688Z",
-      "primary_item": {
-        "id": "6f70031b454beab17cadb0a94ce602bfa1f461b7",
-        "title": "OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT",
-        "url": "https://www.aibase.com/news/29061",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7bef45bda6d6",
-      "title": "日本豪掷 10 万亿日元押注物理AI， 17 大战略领域圈定未来产业版图",
-      "url": "https://www.aibase.com/news/29059",
-      "primary_url": "https://www.aibase.com/news/29059",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5d5136b6350f8c86f59ea8879869d063c93231f0",
-          "title": "日本豪掷 10 万亿日元押注物理AI， 17 大战略领域圈定未来产业版图",
-          "url": "https://www.aibase.com/news/29059",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T16:58:37.422688Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5d5136b6350f8c86f59ea8879869d063c93231f0",
-          "title": "日本豪掷 10 万亿日元押注物理AI， 17 大战略领域圈定未来产业版图",
-          "url": "https://www.aibase.com/news/29059",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T16:58:37.422688Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7094,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T16:58:37.422688Z",
-      "latest_at": "2026-06-22T16:58:37.422688Z",
-      "primary_item": {
-        "id": "5d5136b6350f8c86f59ea8879869d063c93231f0",
-        "title": "日本豪掷 10 万亿日元押注物理AI， 17 大战略领域圈定未来产业版图",
-        "url": "https://www.aibase.com/news/29059",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4909c4a00def",
-      "title": "美团破解百万商家的视觉难题 AI 海报生成的“技术闭环”",
-      "url": "https://www.aibase.com/news/29062",
-      "primary_url": "https://www.aibase.com/news/29062",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2422f14962755a7252a64fcaa265b329cfba03a7",
-          "title": "美团破解百万商家的视觉难题 AI 海报生成的“技术闭环”",
-          "url": "https://www.aibase.com/news/29062",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T16:58:37.422688Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2422f14962755a7252a64fcaa265b329cfba03a7",
-          "title": "美团破解百万商家的视觉难题 AI 海报生成的“技术闭环”",
-          "url": "https://www.aibase.com/news/29062",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T16:58:37.422688Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7094,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T16:58:37.422688Z",
-      "latest_at": "2026-06-22T16:58:37.422688Z",
-      "primary_item": {
-        "id": "2422f14962755a7252a64fcaa265b329cfba03a7",
-        "title": "美团破解百万商家的视觉难题 AI 海报生成的“技术闭环”",
-        "url": "https://www.aibase.com/news/29062",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_72e247ee906f",
-      "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-      "url": "https://news.ycombinator.com/item?id=48631726",
-      "primary_url": "https://news.ycombinator.com/item?id=48631726",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c49703343289304e950aa718d749f947186da345",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T23:57:53.669000Z"
-        },
-        {
-          "id": "a2e801a509db7942693d3773582a00abd57084b5",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代品 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T19:59:09.139000Z"
-        },
-        {
-          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T15:37:48Z"
-        },
-        {
-          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T15:37:48Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c49703343289304e950aa718d749f947186da345",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T23:57:53.669000Z"
-        },
-        {
-          "id": "a2e801a509db7942693d3773582a00abd57084b5",
-          "title": "Show HN：Oak – 专为代理设计的 Git 替代品 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://news.ycombinator.com/item?id=48631726",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T19:59:09.139000Z"
-        },
-        {
-          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-22T15:37:48Z"
-        },
-        {
-          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
-          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
-          "url": "https://oak.space/oak/oak",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T15:37:48Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.598,
-      "importance": 0.598,
-      "importance_score": 0.598,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.75
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-22T15:37:48Z",
-      "latest_at": "2026-06-22T23:57:53.669000Z",
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
       "primary_item": {
-        "id": "c49703343289304e950aa718d749f947186da345",
-        "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
-        "url": "https://news.ycombinator.com/item?id=48631726",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "3b6b1256c88f6c7f31286e6dbd57a8f24c3dfa8a",
+        "title": "火山引擎发布豆包Seedance2.5视频模型，方舟大模型服务用户超110万",
+        "url": "https://www.aibase.com/news/29087",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_198b49c670d8",
-      "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
-      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-      "primary_url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_10989cb36c1e",
+      "title": "甲骨文一年裁员2. 1 万人：AI转型的账单，全球科技巨头都在付",
+      "url": "https://www.aibase.com/news/29091",
+      "primary_url": "https://www.aibase.com/news/29091",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "3e6ce30c4608ff9685b9c7ca3dd9cf169a2fb0a1",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-22T20:44:26.914000Z"
+          "id": "f888827ad00100468f358565f50f77dd52ae0f7c",
+          "title": "甲骨文一年裁员2. 1 万人：AI转型的账单，全球科技巨头都在付",
+          "url": "https://www.aibase.com/news/29091",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f888827ad00100468f358565f50f77dd52ae0f7c",
+          "title": "甲骨文一年裁员2. 1 万人：AI转型的账单，全球科技巨头都在付",
+          "url": "https://www.aibase.com/news/29091",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-23T11:44:12.210635Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
+      "primary_item": {
+        "id": "f888827ad00100468f358565f50f77dd52ae0f7c",
+        "title": "甲骨文一年裁员2. 1 万人：AI转型的账单，全球科技巨头都在付",
+        "url": "https://www.aibase.com/news/29091",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1ad50bcdd332",
+      "title": "AI 定价彻底分化，大模型只剩两种活法，中间的先死",
+      "url": "https://www.huxiu.com/article/4869635.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4869635.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1f75b930f1a9e03a5f980d0bd7b669185f39f204",
+          "title": "AI 定价彻底分化，大模型只剩两种活法，中间的先死",
+          "url": "https://www.huxiu.com/article/4869635.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "fe080ec0ef2b7bcc41064d000e67cbc244270e93",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目 / Meta pauses an AI training program that tracks employees' keystrokes after a companywide leak",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T20:20:28Z"
+          "id": "8f270c34023666f01cddef78639a06e1b198e9c0",
+          "title": "AI定价彻底分化，大模型只剩两种活法，中间的先死",
+          "url": "https://www.huxiu.com/article/4869635.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-23T11:25:57Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "3e6ce30c4608ff9685b9c7ca3dd9cf169a2fb0a1",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-22T20:44:26.914000Z"
+          "id": "1f75b930f1a9e03a5f980d0bd7b669185f39f204",
+          "title": "AI 定价彻底分化，大模型只剩两种活法，中间的先死",
+          "url": "https://www.huxiu.com/article/4869635.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "fe080ec0ef2b7bcc41064d000e67cbc244270e93",
-          "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目 / Meta pauses an AI training program that tracks employees' keystrokes after a companywide leak",
-          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-22T20:20:28Z"
+          "id": "8f270c34023666f01cddef78639a06e1b198e9c0",
+          "title": "AI定价彻底分化，大模型只剩两种活法，中间的先死",
+          "url": "https://www.huxiu.com/article/4869635.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-23T11:25:57Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8662,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-22T20:20:28Z",
-      "latest_at": "2026-06-22T20:44:26.914000Z",
+      "earliest_at": "2026-06-23T11:25:57Z",
+      "latest_at": "2026-06-23T11:44:12.210635Z",
       "primary_item": {
-        "id": "3e6ce30c4608ff9685b9c7ca3dd9cf169a2fb0a1",
-        "title": "在发生数据泄露事件后，Meta暂停了一项用于追踪员工击键记录的人工智能训练项目",
-        "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "1f75b930f1a9e03a5f980d0bd7b669185f39f204",
+        "title": "AI 定价彻底分化，大模型只剩两种活法，中间的先死",
+        "url": "https://www.huxiu.com/article/4869635.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_2a59fbf9b429",
-      "title": "JCodes更多 / ai-website-clone-template / JCodesMore / ai-website-cloner-template",
-      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "primary_url": "https://github.com/JCodesMore/ai-website-cloner-template",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_dd219ead6163",
+      "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan /      claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "primary_url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "09e0f8b47c4796645798facafcdc107d14527833",
-          "title": "JCodes更多 / ai-website-clone-template / JCodesMore / ai-website-cloner-template",
-          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "id": "077710be9b4b2dd03a36fe5f2dc2042b6e0030bd",
+          "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan /      claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-23T11:44:38.847000Z"
+        },
+        {
+          "id": "ad1070deda078a5087536398cf1df8a95002f9c5",
+          "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan / claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "5f3c2e59043df585e66d00d92b8aa38592df74e2",
-          "title": "JCodes更多 / ai-website-clone-template / JCodesMore /      ai-website-cloner-template",
-          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T19:33:19.001000Z"
         }
       ],
       "source_count": 2,
@@ -1242,125 +1192,126 @@
       ],
       "items": [
         {
-          "id": "09e0f8b47c4796645798facafcdc107d14527833",
-          "title": "JCodes更多 / ai-website-clone-template / JCodesMore / ai-website-cloner-template",
-          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+          "id": "077710be9b4b2dd03a36fe5f2dc2042b6e0030bd",
+          "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan /      claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-23T11:44:38.847000Z"
+        },
+        {
+          "id": "ad1070deda078a5087536398cf1df8a95002f9c5",
+          "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan / claude-code-best-practice",
+          "url": "https://github.com/shanraisshan/claude-code-best-practice",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "5f3c2e59043df585e66d00d92b8aa38592df74e2",
-          "title": "JCodes更多 / ai-website-clone-template / JCodesMore /      ai-website-cloner-template",
-          "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T19:33:19.001000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8344,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-22T19:33:19.001000Z",
-      "latest_at": "2026-06-22T19:58:37.422688Z",
+      "earliest_at": "2026-06-23T11:44:12.210635Z",
+      "latest_at": "2026-06-23T11:44:38.847000Z",
       "primary_item": {
-        "id": "09e0f8b47c4796645798facafcdc107d14527833",
-        "title": "JCodes更多 / ai-website-clone-template / JCodesMore / ai-website-cloner-template",
-        "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "077710be9b4b2dd03a36fe5f2dc2042b6e0030bd",
+        "title": "shanraisshan / 克劳德代码最佳实践 / shanraisshan /      claude-code-best-practice",
+        "url": "https://github.com/shanraisshan/claude-code-best-practice",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_1495b5c27cc4",
-      "title": "加拿大计划在未来15年内新建多达10座核反应堆 / Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "primary_url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_f7e9d38ae732",
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "url": "https://news.ycombinator.com/item?id=48639063",
+      "primary_url": "https://news.ycombinator.com/item?id=48639063",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "59a53c054c7c4ce3d56521f090d0ccfde01f8b34",
-          "title": "加拿大计划在未来15年内新建多达10座核反应堆 / Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
-          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-22T19:06:48Z"
+          "id": "1e925dd9948c3154b9be9294d58ab43c57f43449",
+          "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+          "url": "https://news.ycombinator.com/item?id=48639063",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-23T11:19:43.152000Z"
         },
         {
-          "id": "8dc61d21bfc92351cdc5d69d1c33d75648d106d7",
-          "title": "加拿大计划在未来15年内新建多达10座核反应堆 / Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-22T19:06:48Z"
+          "id": "0c2c88283934813da658e2e9a9fb64274bbc530b",
+          "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+          "url": "https://openai.com/index/daybreak-securing-the-world",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-23T10:04:15.857000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "hackernews",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "59a53c054c7c4ce3d56521f090d0ccfde01f8b34",
-          "title": "加拿大计划在未来15年内新建多达10座核反应堆 / Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
-          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-22T19:06:48Z"
+          "id": "1e925dd9948c3154b9be9294d58ab43c57f43449",
+          "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+          "url": "https://news.ycombinator.com/item?id=48639063",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-23T11:19:43.152000Z"
         },
         {
-          "id": "8dc61d21bfc92351cdc5d69d1c33d75648d106d7",
-          "title": "加拿大计划在未来15年内新建多达10座核反应堆 / Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-          "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-22T19:06:48Z"
+          "id": "0c2c88283934813da658e2e9a9fb64274bbc530b",
+          "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+          "url": "https://openai.com/index/daybreak-securing-the-world",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-23T10:04:15.857000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7984,
+        "recency": 0.983,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-22T19:06:48Z",
-      "latest_at": "2026-06-22T19:06:48Z",
+      "earliest_at": "2026-06-23T10:04:15.857000Z",
+      "latest_at": "2026-06-23T11:19:43.152000Z",
       "primary_item": {
-        "id": "59a53c054c7c4ce3d56521f090d0ccfde01f8b34",
-        "title": "加拿大计划在未来15年内新建多达10座核反应堆 / Canada is looking to build up to 10 new nuclear reactors over the next 15 years",
-        "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "1e925dd9948c3154b9be9294d58ab43c57f43449",
+        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+        "url": "https://news.ycombinator.com/item?id=48639063",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
