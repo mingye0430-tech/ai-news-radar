@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-23T19:25:28.137185Z",
+  "generated_at": "2026-06-23T23:35:07.518218Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0525-4939-acc6-3b0c56304686&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260624-0525-4939-acc6-3b0c56304686&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0935-3183-96ae-b0935a2ea309&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260624-0935-3183-96ae-b0935a2ea309&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ec331f6679550ca957f8df9595ecf72e9e0353c6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0935-3183-96ae-b0935a2ea309&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "689aba17c83b157e76787a185c07772fac7a3f16",
           "title": "点击这里进入 / Click here to enter",
@@ -33,15 +42,6 @@
           "id": "7a822e8ca3672944b76a62e35d31c40b102b2341",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0957-34ee-befb-2644b9b00aed&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6267faca926b63a260e2db8462561890d71a79a7",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0559-04d1-9dce-b58c920054c6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -54,6 +54,15 @@
       ],
       "items": [
         {
+          "id": "ec331f6679550ca957f8df9595ecf72e9e0353c6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0935-3183-96ae-b0935a2ea309&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "689aba17c83b157e76787a185c07772fac7a3f16",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0525-4939-acc6-3b0c56304686&fp=-3",
@@ -75,15 +84,6 @@
           "id": "7a822e8ca3672944b76a62e35d31c40b102b2341",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0957-34ee-befb-2644b9b00aed&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6267faca926b63a260e2db8462561890d71a79a7",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0559-04d1-9dce-b58c920054c6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,32 +108,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T19:58:37.422688Z",
-      "latest_at": "2026-06-23T19:25:28.137185Z",
+      "earliest_at": "2026-06-22T23:57:06.726420Z",
+      "latest_at": "2026-06-23T23:35:07.518218Z",
       "primary_item": {
-        "id": "689aba17c83b157e76787a185c07772fac7a3f16",
+        "id": "ec331f6679550ca957f8df9595ecf72e9e0353c6",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0525-4939-acc6-3b0c56304686&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260624-0935-3183-96ae-b0935a2ea309&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_5254f068e367",
-      "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
-      "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+      "story_id": "story_2b6df21683e4",
+      "title": "秘密扫描为复制秘密添加了扩展元数据 / Secret scanning adds extended metadata for Replicate secrets",
+      "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
+      "primary_url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
-          "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
-          "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+          "id": "999c633e50129f65e141d4a5ac13fa19fed971ac",
+          "title": "秘密扫描为复制秘密添加了扩展元数据 / Secret scanning adds extended metadata for Replicate secrets",
+          "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T18:38:41Z"
+          "published_at": "2026-06-23T19:50:00Z"
         }
       ],
       "source_count": 1,
@@ -142,25 +142,25 @@
       ],
       "items": [
         {
-          "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
-          "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
-          "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+          "id": "999c633e50129f65e141d4a5ac13fa19fed971ac",
+          "title": "秘密扫描为复制秘密添加了扩展元数据 / Secret scanning adds extended metadata for Replicate secrets",
+          "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T18:38:41Z"
+          "published_at": "2026-06-23T19:50:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8545,
-      "importance": 0.8545,
-      "importance_score": 0.8545,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9675,
+        "recency": 0.8437,
         "story_heat": 0.0
       },
       "category": "official",
@@ -169,12 +169,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-23T18:38:41Z",
-      "latest_at": "2026-06-23T18:38:41Z",
+      "earliest_at": "2026-06-23T19:50:00Z",
+      "latest_at": "2026-06-23T19:50:00Z",
       "primary_item": {
-        "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
-        "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
-        "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+        "id": "999c633e50129f65e141d4a5ac13fa19fed971ac",
+        "title": "秘密扫描为复制秘密添加了扩展元数据 / Secret scanning adds extended metadata for Replicate secrets",
+        "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -214,14 +214,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8573,
+        "recency": 0.6839,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,6 +238,66 @@
         "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f267d797731c",
+      "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
+      "url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
+      "primary_url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "48616ca5dc4f7094751e5cd3a8cda241f0c148b2",
+          "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
+          "url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T21:48:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "48616ca5dc4f7094751e5cd3a8cda241f0c148b2",
+          "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
+          "url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T21:48:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9259,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T21:48:25Z",
+      "latest_at": "2026-06-23T21:48:25Z",
+      "primary_item": {
+        "id": "48616ca5dc4f7094751e5cd3a8cda241f0c148b2",
+        "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
+        "url": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -275,14 +335,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7267,
+        "recency": 0.5533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -302,21 +362,81 @@
       }
     },
     {
-      "story_id": "story_8e10ac4aaa85",
-      "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
-      "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "story_id": "story_f673b7b66b6e",
+      "title": "Runway推出Seedance 4K等三款新模型",
+      "url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
+      "primary_url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1acda81c893086745abb1646102cbd7e2fdad705",
+          "title": "Runway推出Seedance 4K等三款新模型",
+          "url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T21:36:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "1acda81c893086745abb1646102cbd7e2fdad705",
+          "title": "Runway推出Seedance 4K等三款新模型",
+          "url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T21:36:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9178,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T21:36:44Z",
+      "latest_at": "2026-06-23T21:36:44Z",
+      "primary_item": {
+        "id": "1acda81c893086745abb1646102cbd7e2fdad705",
+        "title": "Runway推出Seedance 4K等三款新模型",
+        "url": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5254f068e367",
+      "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
+      "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
-          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
-          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+          "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
+          "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
+          "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T16:35:45Z"
+          "published_at": "2026-06-23T18:38:41Z"
         }
       ],
       "source_count": 1,
@@ -325,25 +445,25 @@
       ],
       "items": [
         {
-          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
-          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
-          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+          "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
+          "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
+          "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T16:35:45Z"
+          "published_at": "2026-06-23T18:38:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8494,
-      "importance": 0.8494,
-      "importance_score": 0.8494,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8821,
+        "ai_relevance": 0.87,
+        "recency": 0.7941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -352,14 +472,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-23T16:35:45Z",
-      "latest_at": "2026-06-23T16:35:45Z",
+      "earliest_at": "2026-06-23T18:38:41Z",
+      "latest_at": "2026-06-23T18:38:41Z",
       "primary_item": {
-        "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
-        "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
-        "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+        "id": "78d2a4f02c396f87f3ca24612580725f0c3fa9ef",
+        "title": "通过 REST API 获取代码质量调查结果 / Fetch Code Quality findings via REST API",
+        "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_80381f6d9f43",
+      "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+      "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+      "primary_url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9154fefa4531d8dc42eedcbcea042da5d8b3287a",
+          "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+          "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T20:17:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9154fefa4531d8dc42eedcbcea042da5d8b3287a",
+          "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+          "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T20:17:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8629,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-23T20:17:38Z",
+      "latest_at": "2026-06-23T20:17:38Z",
+      "primary_item": {
+        "id": "9154fefa4531d8dc42eedcbcea042da5d8b3287a",
+        "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+        "url": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -397,14 +577,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9771,
+        "recency": 0.8037,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -457,14 +637,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.7474,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -517,14 +697,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.7323,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -543,21 +723,21 @@
       }
     },
     {
-      "story_id": "story_0930e77e2dc7",
-      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-      "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
-      "primary_url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+      "story_id": "story_8e10ac4aaa85",
+      "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+      "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
+          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T16:46:05Z"
+          "published_at": "2026-06-23T16:35:45Z"
         }
       ],
       "source_count": 1,
@@ -566,25 +746,25 @@
       ],
       "items": [
         {
-          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
-          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+          "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
+          "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T16:46:05Z"
+          "published_at": "2026-06-23T16:35:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8893,
+        "ai_relevance": 0.91,
+        "recency": 0.7088,
         "story_heat": 0.0
       },
       "category": "official",
@@ -593,14 +773,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-23T16:46:05Z",
-      "latest_at": "2026-06-23T16:46:05Z",
+      "earliest_at": "2026-06-23T16:35:45Z",
+      "latest_at": "2026-06-23T16:35:45Z",
       "primary_item": {
-        "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
-        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
-        "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+        "id": "3010ef4ecdf6e64a70a87d900ff9489a4f93d61b",
+        "title": "Copilot CLI：新的终端界面全面可用 / Copilot CLI: New terminal interface is generally available",
+        "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_609a81bb9e93",
+      "title": "GitHub联合开源联盟呼吁修改加州AI透明度法案以保护开源",
+      "url": "https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37",
+      "primary_url": "https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ff79dc1a9dd8893cf8db4cd268d1b26029639562",
+          "title": "GitHub联合开源联盟呼吁修改加州AI透明度法案以保护开源",
+          "url": "https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T15:48:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "ff79dc1a9dd8893cf8db4cd268d1b26029639562",
+          "title": "GitHub联合开源联盟呼吁修改加州AI透明度法案以保护开源",
+          "url": "https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-23T15:48:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6756,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-23T15:48:00Z",
+      "latest_at": "2026-06-23T15:48:00Z",
+      "primary_item": {
+        "id": "ff79dc1a9dd8893cf8db4cd268d1b26029639562",
+        "title": "GitHub联合开源联盟呼吁修改加州AI透明度法案以保护开源",
+        "url": "https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -676,22 +915,21 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.1906,
+        "recency": 0.0173,
         "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T00:00:00Z",
       "latest_at": "2026-06-23T18:52:31.713000Z",
@@ -738,20 +976,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7913,
+        "recency": 0.6179,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T14:24:55Z",
       "latest_at": "2026-06-23T14:24:55Z",
@@ -760,66 +997,6 @@
         "title": "米斯特拉尔 OCR 4 / Mistral OCR 4",
         "url": "https://aihot.virxact.com/items/cmqqqkqoh0chzslp5i6l20j5q",
         "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0dc947ff3e05",
-      "title": "无限制OCR：单次长时域解析",
-      "url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
-      "primary_url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "66e6244848677d87ad07a860e98b47b563a48797",
-          "title": "无限制OCR：单次长时域解析",
-          "url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T13:32:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "66e6244848677d87ad07a860e98b47b563a48797",
-          "title": "无限制OCR：单次长时域解析",
-          "url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T13:32:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7548,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-23T13:32:22Z",
-      "latest_at": "2026-06-23T13:32:22Z",
-      "primary_item": {
-        "id": "66e6244848677d87ad07a860e98b47b563a48797",
-        "title": "无限制OCR：单次长时域解析",
-        "url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -858,20 +1035,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7267,
+        "recency": 0.5533,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-23T12:51:55Z",
       "latest_at": "2026-06-23T12:51:55Z",
@@ -884,179 +1060,122 @@
       }
     },
     {
-      "story_id": "story_bc99bb8587ce",
-      "title": "MiniMax7月9日迎首批解禁 阿里、米哈游明确不减持",
-      "url": "https://www.aibase.com/news/29090",
-      "primary_url": "https://www.aibase.com/news/29090",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_0930e77e2dc7",
+      "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+      "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+      "primary_url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cf6ec3b10cea2b5e20e90418737cf73bd195151d",
-          "title": "MiniMax7月9日迎首批解禁 阿里、米哈游明确不减持",
-          "url": "https://www.aibase.com/news/29090",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T11:44:12.210635Z"
+          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:46:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "cf6ec3b10cea2b5e20e90418737cf73bd195151d",
-          "title": "MiniMax7月9日迎首批解禁 阿里、米哈游明确不减持",
-          "url": "https://www.aibase.com/news/29090",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T11:44:12.210635Z"
+          "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-23T16:46:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
-      "importance_label": "行业动态",
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6797,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7159,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-23T11:44:12.210635Z",
-      "latest_at": "2026-06-23T11:44:12.210635Z",
+      "earliest_at": "2026-06-23T16:46:05Z",
+      "latest_at": "2026-06-23T16:46:05Z",
       "primary_item": {
-        "id": "cf6ec3b10cea2b5e20e90418737cf73bd195151d",
-        "title": "MiniMax7月9日迎首批解禁 阿里、米哈游明确不减持",
-        "url": "https://www.aibase.com/news/29090",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "fd25b8723ccf992966a699fc6fbb55e17e01ede0",
+        "title": "自动 Dependabot 访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+        "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_547675dba728",
-      "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
-      "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
-      "primary_url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
-      "source": "IT之家（RSS）",
+      "story_id": "story_0dc947ff3e05",
+      "title": "无限制OCR：单次长时域解析",
+      "url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
+      "primary_url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8d75f1b73c60d5ae2584e0efdd5c6923791b2dfd",
-          "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
-          "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
-          "source": "IT之家（RSS）",
+          "id": "66e6244848677d87ad07a860e98b47b563a48797",
+          "title": "无限制OCR：单次长时域解析",
+          "url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-23T11:00:00Z"
+          "published_at": "2026-06-23T13:32:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "8d75f1b73c60d5ae2584e0efdd5c6923791b2dfd",
-          "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
-          "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
-          "source": "IT之家（RSS）",
+          "id": "66e6244848677d87ad07a860e98b47b563a48797",
+          "title": "无限制OCR：单次长时域解析",
+          "url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-23T11:00:00Z"
+          "published_at": "2026-06-23T13:32:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.649,
+        "recency": 0.5814,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-23T11:00:00Z",
-      "latest_at": "2026-06-23T11:00:00Z",
+      "earliest_at": "2026-06-23T13:32:22Z",
+      "latest_at": "2026-06-23T13:32:22Z",
       "primary_item": {
-        "id": "8d75f1b73c60d5ae2584e0efdd5c6923791b2dfd",
-        "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
-        "url": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d2bc2c108e2a",
-      "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
-      "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
-      "primary_url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "780f310b5affababd40799179458005630c65877",
-          "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
-          "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T10:54:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP（阿里）"
-      ],
-      "items": [
-        {
-          "id": "780f310b5affababd40799179458005630c65877",
-          "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
-          "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-23T10:54:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6454,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T10:54:49Z",
-      "latest_at": "2026-06-23T10:54:49Z",
-      "primary_item": {
-        "id": "780f310b5affababd40799179458005630c65877",
-        "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
-        "url": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
-        "source": "公众号：千问APP（阿里）",
+        "id": "66e6244848677d87ad07a860e98b47b563a48797",
+        "title": "无限制OCR：单次长时域解析",
+        "url": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1095,14 +1214,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8479,
+        "recency": 0.6746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1122,107 +1241,48 @@
       }
     },
     {
-      "story_id": "story_334bc590ee97",
-      "title": "企业微信\"大圆\"内测上线：左滑一下，AI就能帮你盘客户、写总结",
-      "url": "https://www.aibase.com/news/29101",
-      "primary_url": "https://www.aibase.com/news/29101",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "691404fd660f911479f6dc591e7b521502157c64",
-          "title": "企业微信\"大圆\"内测上线：左滑一下，AI就能帮你盘客户、写总结",
-          "url": "https://www.aibase.com/news/29101",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T11:44:12.210635Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "691404fd660f911479f6dc591e7b521502157c64",
-          "title": "企业微信\"大圆\"内测上线：左滑一下，AI就能帮你盘客户、写总结",
-          "url": "https://www.aibase.com/news/29101",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T11:44:12.210635Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6797,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T11:44:12.210635Z",
-      "latest_at": "2026-06-23T11:44:12.210635Z",
-      "primary_item": {
-        "id": "691404fd660f911479f6dc591e7b521502157c64",
-        "title": "企业微信\"大圆\"内测上线：左滑一下，AI就能帮你盘客户、写总结",
-        "url": "https://www.aibase.com/news/29101",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_dba1e8f05869",
-      "title": "在 Transformers.js 中试验建议的跨源存储 API / Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "primary_url": "https://huggingface.co/blog/cross-origin-storage",
-      "source": "Hugging Face Blog",
+      "story_id": "story_07cefb840b6a",
+      "title": "GitHub Copilot 应用程序对 BYOK 的支持 / GitHub Copilot app support for BYOK",
+      "url": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+      "primary_url": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c24cab3a9b375f052547e013bd6a2bf1725fedef",
-          "title": "在 Transformers.js 中试验建议的跨源存储 API / Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-          "url": "https://huggingface.co/blog/cross-origin-storage",
-          "source": "Hugging Face Blog",
+          "id": "405fa70735b5b23a8235915a740b7ce8af2dc264",
+          "title": "GitHub Copilot 应用程序对 BYOK 的支持 / GitHub Copilot app support for BYOK",
+          "url": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T00:00:00Z"
+          "published_at": "2026-06-23T08:00:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "c24cab3a9b375f052547e013bd6a2bf1725fedef",
-          "title": "在 Transformers.js 中试验建议的跨源存储 API / Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-          "url": "https://huggingface.co/blog/cross-origin-storage",
-          "source": "Hugging Face Blog",
+          "id": "405fa70735b5b23a8235915a740b7ce8af2dc264",
+          "title": "GitHub Copilot 应用程序对 BYOK 的支持 / GitHub Copilot app support for BYOK",
+          "url": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-23T00:00:00Z"
+          "published_at": "2026-06-23T08:00:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.1906,
+        "ai_relevance": 0.91,
+        "recency": 0.3506,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1230,73 +1290,14 @@
         "official_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-23T00:00:00Z",
-      "latest_at": "2026-06-23T00:00:00Z",
+      "earliest_at": "2026-06-23T08:00:02Z",
+      "latest_at": "2026-06-23T08:00:02Z",
       "primary_item": {
-        "id": "c24cab3a9b375f052547e013bd6a2bf1725fedef",
-        "title": "在 Transformers.js 中试验建议的跨源存储 API / Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-        "url": "https://huggingface.co/blog/cross-origin-storage",
-        "source": "Hugging Face Blog",
+        "id": "405fa70735b5b23a8235915a740b7ce8af2dc264",
+        "title": "GitHub Copilot 应用程序对 BYOK 的支持 / GitHub Copilot app support for BYOK",
+        "url": "https://github.blog/changelog/2026-06-23-github-copilot-app-support-for-byok",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_63964873df30",
-      "title": "多所高校扩招超 600 人，AI和机器人专业成\"新宠\"：这届高考生的机会来了",
-      "url": "https://www.aibase.com/news/29093",
-      "primary_url": "https://www.aibase.com/news/29093",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8ea172f2f540551c11976acbb8ae44eac7ebef0f",
-          "title": "多所高校扩招超 600 人，AI和机器人专业成\"新宠\"：这届高考生的机会来了",
-          "url": "https://www.aibase.com/news/29093",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T11:44:12.210635Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8ea172f2f540551c11976acbb8ae44eac7ebef0f",
-          "title": "多所高校扩招超 600 人，AI和机器人专业成\"新宠\"：这届高考生的机会来了",
-          "url": "https://www.aibase.com/news/29093",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-23T11:44:12.210635Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6797,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-23T11:44:12.210635Z",
-      "latest_at": "2026-06-23T11:44:12.210635Z",
-      "primary_item": {
-        "id": "8ea172f2f540551c11976acbb8ae44eac7ebef0f",
-        "title": "多所高校扩招超 600 人，AI和机器人专业成\"新宠\"：这届高考生的机会来了",
-        "url": "https://www.aibase.com/news/29093",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
