@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T10:39:16.883183Z",
+  "generated_at": "2026-06-26T17:21:36.299001Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2039-41af-b200-c0b97a011861&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-2039-41af-b200-c0b97a011861&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0322-01e6-be34-a03ac30dd8fd&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0322-01e6-be34-a03ac30dd8fd&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "a6429dede8e4343774ba86978d947f980481e248",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0322-01e6-be34-a03ac30dd8fd&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "55916897582fcfd63707898e14b3182419384b3b",
           "title": "点击这里进入 / Click here to enter",
@@ -39,12 +48,21 @@
           "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "a6429dede8e4343774ba86978d947f980481e248",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0322-01e6-be34-a03ac30dd8fd&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "55916897582fcfd63707898e14b3182419384b3b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2039-41af-b200-c0b97a011861&fp=-3",
@@ -72,17 +90,17 @@
           "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.887,
+      "importance": 0.887,
+      "importance_score": 0.887,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.5
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -91,13 +109,396 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-25T17:34:26.367239Z",
-      "latest_at": "2026-06-26T10:39:16.883183Z",
+      "latest_at": "2026-06-26T17:21:36.299001Z",
       "primary_item": {
-        "id": "55916897582fcfd63707898e14b3182419384b3b",
+        "id": "a6429dede8e4343774ba86978d947f980481e248",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-2039-41af-b200-c0b97a011861&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0322-01e6-be34-a03ac30dd8fd&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_8d74ffd51987",
+      "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+      "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0559ae8717a848bacaaa30857be886e768639787",
+          "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+          "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T16:35:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0559ae8717a848bacaaa30857be886e768639787",
+          "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+          "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T16:35:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8665,
+      "importance": 0.8665,
+      "importance_score": 0.8665,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9677,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T16:35:06Z",
+      "latest_at": "2026-06-26T16:35:06Z",
+      "primary_item": {
+        "id": "0559ae8717a848bacaaa30857be886e768639787",
+        "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+        "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_adbd50c1b1db",
+      "title": "预览 GPT-5.6 Sol：下一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "预览 GPT-5.6 Sol：下一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
+          "title": "预览 GPT‑5.6 Sol：下一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "预览 GPT-5.6 Sol：下一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
+          "title": "预览 GPT‑5.6 Sol：下一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6933,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:00:00Z",
+      "latest_at": "2026-06-26T17:06:55Z",
+      "primary_item": {
+        "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+        "title": "预览 GPT-5.6 Sol：下一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d6501d7af258",
+      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+      "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+      "primary_url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
+          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+          "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T16:51:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
+          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+          "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T16:51:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9789,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T16:51:17Z",
+      "latest_at": "2026-06-26T16:51:17Z",
+      "primary_item": {
+        "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
+        "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+        "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_85a7e86ef122",
+      "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+      "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+      "primary_url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9279,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T15:37:43Z",
+      "latest_at": "2026-06-26T15:37:43Z",
+      "primary_item": {
+        "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
+        "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+        "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d47132200c0",
+      "title": "Anthropic Economic Index 报告：使用节奏",
+      "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+      "primary_url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c4c90d6cd63d919109debcf0033616b65b4108d7",
+          "title": "Anthropic Economic Index 报告：使用节奏",
+          "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:18:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "c4c90d6cd63d919109debcf0033616b65b4108d7",
+          "title": "Anthropic Economic Index 报告：使用节奏",
+          "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:18:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9148,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T15:18:56Z",
+      "latest_at": "2026-06-26T15:18:56Z",
+      "primary_item": {
+        "id": "c4c90d6cd63d919109debcf0033616b65b4108d7",
+        "title": "Anthropic Economic Index 报告：使用节奏",
+        "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eaa14c52b6e0",
+      "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "primary_url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7162,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:32:58Z",
+      "latest_at": "2026-06-26T10:32:58Z",
+      "primary_item": {
+        "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+        "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -154,14 +555,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -234,14 +635,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -295,21 +696,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5142,
+        "recency": 0.2348,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T22:59:45Z",
       "latest_at": "2026-06-25T22:59:45Z",
@@ -318,127 +718,6 @@
         "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
         "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f1c0696003cb",
-      "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-      "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-      "primary_url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
-          "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-          "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T05:40:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
-          "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-          "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T05:40:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7928,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T05:40:52Z",
-      "latest_at": "2026-06-26T05:40:52Z",
-      "primary_item": {
-        "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
-        "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-        "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cc97c2cd299c",
-      "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-      "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-      "primary_url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4597,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T21:41:18Z",
-      "latest_at": "2026-06-25T21:41:18Z",
-      "primary_item": {
-        "id": "21911b12003d8f4100254e885cc65209d21983f8",
-        "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-        "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -477,14 +756,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,245 +779,6 @@
         "url": "https://www.aibase.com/news/29200",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4baaebd0e477",
-      "title": "Claude Code 6个实用Hook玩法",
-      "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-      "primary_url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5faac4931e599991303536d1fd6c8ec82605fea7",
-          "title": "Claude Code 6个实用Hook玩法",
-          "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T02:02:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "5faac4931e599991303536d1fd6c8ec82605fea7",
-          "title": "Claude Code 6个实用Hook玩法",
-          "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T02:02:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6408,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T02:02:00Z",
-      "latest_at": "2026-06-26T02:02:00Z",
-      "primary_item": {
-        "id": "5faac4931e599991303536d1fd6c8ec82605fea7",
-        "title": "Claude Code 6个实用Hook玩法",
-        "url": "https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7c6b9936b816",
-      "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-      "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-      "primary_url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-      "source": "X：小互 (@xiaohu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
-          "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-          "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T01:26:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：小互 (@xiaohu)"
-      ],
-      "items": [
-        {
-          "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
-          "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-          "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T01:26:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.616,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T01:26:23Z",
-      "latest_at": "2026-06-26T01:26:23Z",
-      "primary_item": {
-        "id": "c0693b626768ee7b1d9e3a215536ef577a689179",
-        "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-        "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-        "source": "X：小互 (@xiaohu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0dfa7e4bd23b",
-      "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-      "primary_url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4524,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T21:30:42Z",
-      "latest_at": "2026-06-25T21:30:42Z",
-      "primary_item": {
-        "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-        "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-        "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_24be2fa5cbd6",
-      "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-      "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-      "primary_url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
-          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-          "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T04:37:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
-          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-          "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T04:37:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7491,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T04:37:58Z",
-      "latest_at": "2026-06-26T04:37:58Z",
-      "primary_item": {
-        "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
-        "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-        "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -776,14 +816,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -836,14 +876,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -859,66 +899,6 @@
         "url": "https://www.aibase.com/news/29188",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c6eeafaa2096",
-      "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-      "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-      "primary_url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
-          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:29:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
-          "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-          "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:29:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3262,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T18:29:01Z",
-      "latest_at": "2026-06-25T18:29:01Z",
-      "primary_item": {
-        "id": "72f6ceb3f689a36757f63b413500110865d86e1a",
-        "title": "存储库问题的保存视图 - 项目中的公共预览和可调整行高 / Saved views for repository issues – Public Preview and adjustable row heights in projects",
-        "url": "https://github.blog/changelog/2026-06-25-saved-views-for-repository-issues-and-adjustable-row-heights-in-projects",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -956,14 +936,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -979,66 +959,6 @@
         "url": "https://www.aibase.com/news/29192",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_43bc8b14a9a3",
-      "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
-      "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-      "primary_url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
-          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
-          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:16:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
-          "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
-          "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T18:16:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3177,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T18:16:46Z",
-      "latest_at": "2026-06-25T18:16:46Z",
-      "primary_item": {
-        "id": "0e61ac1ebaa0afa1f5ff9d67844c5253e8f99072",
-        "title": "更好地控制 GitHub 托管的运行器 / More control over your GitHub-hosted runners",
-        "url": "https://github.blog/changelog/2026-06-25-more-control-over-your-github-hosted-runners",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1076,14 +996,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1099,83 +1019,6 @@
         "url": "https://www.aibase.com/news/29190",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_99d213ebfa6b",
-      "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-      "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-      "primary_url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
-          "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-26T18:18:18Z"
-        },
-        {
-          "id": "b865665fe4c83d38b572600ab501eb9fbc9fde26",
-          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-25T12:12:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
-          "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-26T18:18:18Z"
-        },
-        {
-          "id": "b865665fe4c83d38b572600ab501eb9fbc9fde26",
-          "title": "AI可以用任何手段、写任何东西，但你得是个“中年老登”",
-          "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-25T12:12:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.626,
-      "importance": 0.626,
-      "importance_score": 0.626,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-25T12:12:13Z",
-      "latest_at": "2026-06-26T18:18:18Z",
-      "primary_item": {
-        "id": "56c8d5ce4930b0d985abcf0ef6e41de433c48c10",
-        "title": "AI确实可以用任何手段、写任何东西，但你得是个“中年老登”",
-        "url": "https://www.infoq.cn/article/l2lF7aoPeLGlotlX1tdt",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
       }
     },
     {
@@ -1213,14 +1056,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,6 +1079,162 @@
         "url": "https://www.aibase.com/news/29198",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_615d03de7f4c",
+      "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+      "url": "https://news.ycombinator.com/item?id=48688961",
+      "primary_url": "https://news.ycombinator.com/item?id=48688961",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c98db5a1831ad35ec9eed52127720e311a70f951",
+          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+          "url": "https://news.ycombinator.com/item?id=48688961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T17:02:23.172000Z"
+        },
+        {
+          "id": "10834ef54e87e1de05e8b3dc9e3961a2f02bdffa",
+          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+          "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T17:00:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c98db5a1831ad35ec9eed52127720e311a70f951",
+          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+          "url": "https://news.ycombinator.com/item?id=48688961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T17:02:23.172000Z"
+        },
+        {
+          "id": "10834ef54e87e1de05e8b3dc9e3961a2f02bdffa",
+          "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+          "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T17:00:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9867,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T17:00:43Z",
+      "latest_at": "2026-06-26T17:02:23.172000Z",
+      "primary_item": {
+        "id": "c98db5a1831ad35ec9eed52127720e311a70f951",
+        "title": "Liva AI (YC S25) 正在招聘 / Liva AI (YC S25) Is Hiring",
+        "url": "https://news.ycombinator.com/item?id=48688961",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_49daf822efec",
+      "title": "为什么当前的大型语言模型（LLM）成本不可持续",
+      "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+      "primary_url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+      "source": "aditya.patadia.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b266dd9cf47d5332213dcb9bddee28ab35a120c6",
+          "title": "为什么当前的大型语言模型（LLM）成本不可持续",
+          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+          "source": "aditya.patadia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T14:03:56.675000Z"
+        },
+        {
+          "id": "9317daa09d6258604df396fb9430fb6e60a6458c",
+          "title": "为什么当前的大型语言模型（LLM）成本不可持续 / Why current LLM costs are not sustainable",
+          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T07:44:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "aditya.patadia.org"
+      ],
+      "items": [
+        {
+          "id": "b266dd9cf47d5332213dcb9bddee28ab35a120c6",
+          "title": "为什么当前的大型语言模型（LLM）成本不可持续",
+          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+          "source": "aditya.patadia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T14:03:56.675000Z"
+        },
+        {
+          "id": "9317daa09d6258604df396fb9430fb6e60a6458c",
+          "title": "为什么当前的大型语言模型（LLM）成本不可持续 / Why current LLM costs are not sustainable",
+          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T07:44:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8627,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T07:44:11Z",
+      "latest_at": "2026-06-26T14:03:56.675000Z",
+      "primary_item": {
+        "id": "b266dd9cf47d5332213dcb9bddee28ab35a120c6",
+        "title": "为什么当前的大型语言模型（LLM）成本不可持续",
+        "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+        "source": "aditya.patadia.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1273,14 +1272,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,6 +1295,84 @@
         "url": "https://www.aibase.com/news/29191",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_14667f465e75",
+      "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://news.ycombinator.com/item?id=48688700",
+      "primary_url": "https://news.ycombinator.com/item?id=48688700",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7449a83952280a36ec2433a1b107ce29e6984a4c",
+          "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "url": "https://news.ycombinator.com/item?id=48688700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T17:02:23.172000Z"
+        },
+        {
+          "id": "f3b2cb4b369c131dffe73c547e518c7e850bdcb4",
+          "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "url": "https://github.com/workweave/router",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T16:40:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7449a83952280a36ec2433a1b107ce29e6984a4c",
+          "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "url": "https://news.ycombinator.com/item?id=48688700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T17:02:23.172000Z"
+        },
+        {
+          "id": "f3b2cb4b369c131dffe73c547e518c7e850bdcb4",
+          "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "url": "https://github.com/workweave/router",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T16:40:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9867,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T16:40:11Z",
+      "latest_at": "2026-06-26T17:02:23.172000Z",
+      "primary_item": {
+        "id": "7449a83952280a36ec2433a1b107ce29e6984a4c",
+        "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+        "url": "https://news.ycombinator.com/item?id=48688700",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
