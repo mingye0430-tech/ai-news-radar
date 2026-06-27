@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T16:47:42.998961Z",
+  "generated_at": "2026-06-27T20:41:45.907013Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0248-09c0-9ebd-5a7b6d1fa259&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0248-09c0-9ebd-5a7b6d1fa259&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0642-109e-8b0c-d8f602e7bd1c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0642-109e-8b0c-d8f602e7bd1c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "01f0db9b66d2ec94a3bfd40b925479385740608a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0642-109e-8b0c-d8f602e7bd1c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "26e3d6dad4600ab6d29a78831c45250c59b858ad",
           "title": "点击这里进入 / Click here to enter",
@@ -42,15 +51,6 @@
           "id": "03a2345129d724a08518248522251ba109324588",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0751-4573-9cad-b8352f41fbb2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a6429dede8e4343774ba86978d947f980481e248",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0322-01e6-be34-a03ac30dd8fd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -63,6 +63,15 @@
       ],
       "items": [
         {
+          "id": "01f0db9b66d2ec94a3bfd40b925479385740608a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0642-109e-8b0c-d8f602e7bd1c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "26e3d6dad4600ab6d29a78831c45250c59b858ad",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0248-09c0-9ebd-5a7b6d1fa259&fp=-3",
@@ -93,15 +102,6 @@
           "id": "03a2345129d724a08518248522251ba109324588",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0751-4573-9cad-b8352f41fbb2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a6429dede8e4343774ba86978d947f980481e248",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0322-01e6-be34-a03ac30dd8fd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,14 +126,134 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T17:21:36.299001Z",
-      "latest_at": "2026-06-27T16:47:42.998961Z",
+      "earliest_at": "2026-06-26T21:51:23.740693Z",
+      "latest_at": "2026-06-27T20:41:45.907013Z",
       "primary_item": {
-        "id": "26e3d6dad4600ab6d29a78831c45250c59b858ad",
+        "id": "01f0db9b66d2ec94a3bfd40b925479385740608a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0248-09c0-9ebd-5a7b6d1fa259&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0642-109e-8b0c-d8f602e7bd1c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_6bceae4e9906",
+      "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+      "url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
+      "primary_url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
+      "source": "X：Berry Xia (@berryxia)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b8c014add10edaab3a6ef68d50c691436123016d",
+          "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+          "url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
+          "source": "X：Berry Xia (@berryxia)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T17:05:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Berry Xia (@berryxia)"
+      ],
+      "items": [
+        {
+          "id": "b8c014add10edaab3a6ef68d50c691436123016d",
+          "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+          "url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
+          "source": "X：Berry Xia (@berryxia)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T17:05:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.85,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T17:05:48Z",
+      "latest_at": "2026-06-27T17:05:48Z",
+      "primary_item": {
+        "id": "b8c014add10edaab3a6ef68d50c691436123016d",
+        "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+        "url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
+        "source": "X：Berry Xia (@berryxia)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5eafaf2ce433",
+      "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+      "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+      "primary_url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "43459c8b3dbd2170bb89a8b7eb60c03909ed9033",
+          "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+          "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T16:59:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "43459c8b3dbd2170bb89a8b7eb60c03909ed9033",
+          "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+          "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T16:59:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.846,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T16:59:58Z",
+      "latest_at": "2026-06-27T16:59:58Z",
+      "primary_item": {
+        "id": "43459c8b3dbd2170bb89a8b7eb60c03909ed9033",
+        "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
+        "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -171,14 +291,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9529,
+        "recency": 0.7904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -231,20 +351,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.6807,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-27T13:02:00Z",
       "latest_at": "2026-06-27T13:02:00Z",
@@ -291,20 +410,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8178,
+        "recency": 0.6553,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-27T12:25:21Z",
       "latest_at": "2026-06-27T12:25:21Z",
@@ -370,21 +488,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6447,
+        "recency": 0.4822,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-27T08:16:09Z",
       "latest_at": "2026-06-27T08:16:09Z",
@@ -450,17 +567,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
+      "score": 0.695,
+      "importance": 0.695,
+      "importance_score": 0.695,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4523,
+        "recency": 0.2898,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -585,14 +702,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
+      "score": 0.5906,
+      "importance": 0.5906,
+      "importance_score": 0.5906,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8379,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -607,6 +724,259 @@
         "url": "https://news.ycombinator.com/item?id=48696585",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6a7998f56b03",
+      "title": "白嫖 AI 的日子，彻底结束了",
+      "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870953.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
+          "title": "白嫖 AI 的日子，彻底结束了",
+          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f2e90925000001a6068474fdb78500a65786012",
+          "title": "白嫖AI的日子，彻底结束了",
+          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T16:14:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
+          "title": "白嫖 AI 的日子，彻底结束了",
+          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f2e90925000001a6068474fdb78500a65786012",
+          "title": "白嫖AI的日子，彻底结束了",
+          "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T16:14:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T16:14:41Z",
+      "latest_at": "2026-06-27T20:41:45.907013Z",
+      "primary_item": {
+        "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
+        "title": "白嫖 AI 的日子，彻底结束了",
+        "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_31fa110f6818",
+      "title": "AI 学习 RFIC 设计的“黑暗艺术” / AI learns the “dark art” of RFIC design",
+      "url": "https://news.ycombinator.com/item?id=48660021",
+      "primary_url": "https://news.ycombinator.com/item?id=48660021",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d7b963c6b8c3428fb2d463d91d6679992ba2ff87",
+          "title": "AI 学习 RFIC 设计的“黑暗艺术” / AI learns the “dark art” of RFIC design",
+          "url": "https://news.ycombinator.com/item?id=48660021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T20:42:15.124000Z"
+        },
+        {
+          "id": "488852a8727daa8581d8b4d8385fb86b1cc5869d",
+          "title": "人工智能掌握了射频芯片设计的“玄学”",
+          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T18:19:58.376000Z"
+        },
+        {
+          "id": "51bb8bec37de84195692395b7a03897f4d8f3bbf",
+          "title": "人工智能掌握了射频芯片设计的“玄学” / AI Learns the \"Dark Art\" of RF Chip Design",
+          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T18:03:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "hackernews",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "d7b963c6b8c3428fb2d463d91d6679992ba2ff87",
+          "title": "AI 学习 RFIC 设计的“黑暗艺术” / AI learns the “dark art” of RFIC design",
+          "url": "https://news.ycombinator.com/item?id=48660021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T20:42:15.124000Z"
+        },
+        {
+          "id": "488852a8727daa8581d8b4d8385fb86b1cc5869d",
+          "title": "人工智能掌握了射频芯片设计的“玄学”",
+          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T18:19:58.376000Z"
+        },
+        {
+          "id": "51bb8bec37de84195692395b7a03897f4d8f3bbf",
+          "title": "人工智能掌握了射频芯片设计的“玄学” / AI Learns the \"Dark Art\" of RF Chip Design",
+          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T18:03:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T18:03:29Z",
+      "latest_at": "2026-06-27T20:42:15.124000Z",
+      "primary_item": {
+        "id": "d7b963c6b8c3428fb2d463d91d6679992ba2ff87",
+        "title": "AI 学习 RFIC 设计的“黑暗艺术” / AI learns the “dark art” of RFIC design",
+        "url": "https://news.ycombinator.com/item?id=48660021",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_3d3110b16cbb",
+      "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+      "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870954.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
+          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T16:28:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
+          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T16:28:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T16:28:07Z",
+      "latest_at": "2026-06-27T20:41:45.907013Z",
+      "primary_item": {
+        "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+        "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+        "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -663,14 +1033,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9307,
+        "recency": 0.7682,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -685,6 +1055,83 @@
         "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2de2d1d791f8",
+      "title": "可疑的不连续性 / Suspicious Discontinuities",
+      "url": "https://danluu.com/discontinuities",
+      "primary_url": "https://danluu.com/discontinuities",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2b628386ab4e913216e3538f8ff19ebcfc5ef70f",
+          "title": "可疑的不连续性 / Suspicious Discontinuities",
+          "url": "https://danluu.com/discontinuities",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:32:20Z"
+        },
+        {
+          "id": "4da7457422ceac3ec37f61e993b74e0772918059",
+          "title": "可疑的不连续性 / Suspicious Discontinuities (2020)",
+          "url": "https://danluu.com/discontinuities",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:32:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2b628386ab4e913216e3538f8ff19ebcfc5ef70f",
+          "title": "可疑的不连续性 / Suspicious Discontinuities",
+          "url": "https://danluu.com/discontinuities",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:32:20Z"
+        },
+        {
+          "id": "4da7457422ceac3ec37f61e993b74e0772918059",
+          "title": "可疑的不连续性 / Suspicious Discontinuities (2020)",
+          "url": "https://danluu.com/discontinuities",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:32:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4884,
+      "importance": 0.4884,
+      "importance_score": 0.4884,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7018,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T13:32:20Z",
+      "latest_at": "2026-06-27T13:32:20Z",
+      "primary_item": {
+        "id": "2b628386ab4e913216e3538f8ff19ebcfc5ef70f",
+        "title": "可疑的不连续性 / Suspicious Discontinuities",
+        "url": "https://danluu.com/discontinuities",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -741,14 +1188,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.4853,
+      "importance": 0.4853,
+      "importance_score": 0.4853,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8491,
+        "recency": 0.6865,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -819,14 +1266,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.4833,
+      "importance": 0.4833,
+      "importance_score": 0.4833,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8391,
+        "recency": 0.6765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -840,84 +1287,6 @@
         "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
         "url": "https://github.com/Anil-matcha/Open-Generative-AI",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_da2ca93e797f",
-      "title": "DeepSeek 开始造富",
-      "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870918.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
-          "title": "DeepSeek 开始造富",
-          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d2e47da75d198ec6bd3885f844609d2692bd7480",
-          "title": "DeepSeek开始造富",
-          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T12:14:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
-          "title": "DeepSeek 开始造富",
-          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d2e47da75d198ec6bd3885f844609d2692bd7480",
-          "title": "DeepSeek开始造富",
-          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T12:14:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8391,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T12:14:04Z",
-      "latest_at": "2026-06-27T12:55:56.968445Z",
-      "primary_item": {
-        "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
-        "title": "DeepSeek 开始造富",
-        "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -1012,14 +1381,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.4827,
+      "importance": 0.4827,
+      "importance_score": 0.4827,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5862,
+        "recency": 0.4237,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1090,14 +1459,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4875,
-      "importance": 0.4875,
-      "importance_score": 0.4875,
+      "score": 0.455,
+      "importance": 0.455,
+      "importance_score": 0.455,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6974,
+        "recency": 0.5348,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1168,14 +1537,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.4833,
+      "importance": 0.4833,
+      "importance_score": 0.4833,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8391,
+        "recency": 0.6765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1193,471 +1562,80 @@
       }
     },
     {
-      "story_id": "story_64d9d42451e6",
-      "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-      "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-      "primary_url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_8ca9061ce25f",
+      "title": "如果拿不住，那就不是你的 / If you can't hold it, you don't own it",
+      "url": "https://dervis.de/physical",
+      "primary_url": "https://dervis.de/physical",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "741a55884485351a658d521cdf0869ad1db6872e",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T10:03:56.528000Z"
-        },
-        {
-          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T09:48:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "741a55884485351a658d521cdf0869ad1db6872e",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T10:03:56.528000Z"
-        },
-        {
-          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T09:48:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4919,
-      "importance": 0.4919,
-      "importance_score": 0.4919,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7196,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T09:48:02Z",
-      "latest_at": "2026-06-27T10:03:56.528000Z",
-      "primary_item": {
-        "id": "741a55884485351a658d521cdf0869ad1db6872e",
-        "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-        "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7129d0b9ffa8",
-      "title": "Sam Altman 的个人财富炼金术：投资 400 家公司，超 10 家与 OpenAI 深度绑定",
-      "url": "https://www.huxiu.com/article/4870875.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870875.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2703d6e340364517f731da8a4dd2eb6d85a368a1",
-          "title": "Sam Altman 的个人财富炼金术：投资 400 家公司，超 10 家与 OpenAI 深度绑定",
-          "url": "https://www.huxiu.com/article/4870875.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a4b9101aaa647851c2c5331e6fe09dc51ed33863",
-          "title": "Sam Altman的个人财富炼金术：投资400家公司，超10家与OpenAI深度绑定",
-          "url": "https://www.huxiu.com/article/4870875.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T07:20:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "2703d6e340364517f731da8a4dd2eb6d85a368a1",
-          "title": "Sam Altman 的个人财富炼金术：投资 400 家公司，超 10 家与 OpenAI 深度绑定",
-          "url": "https://www.huxiu.com/article/4870875.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a4b9101aaa647851c2c5331e6fe09dc51ed33863",
-          "title": "Sam Altman的个人财富炼金术：投资400家公司，超10家与OpenAI深度绑定",
-          "url": "https://www.huxiu.com/article/4870875.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T07:20:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6414,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T07:20:43Z",
-      "latest_at": "2026-06-27T08:11:17.229082Z",
-      "primary_item": {
-        "id": "2703d6e340364517f731da8a4dd2eb6d85a368a1",
-        "title": "Sam Altman 的个人财富炼金术：投资 400 家公司，超 10 家与 OpenAI 深度绑定",
-        "url": "https://www.huxiu.com/article/4870875.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_736b32438d56",
-      "title": "Ask HN: MacBook 与 LLM 专用显卡的对比",
-      "url": "https://news.ycombinator.com/item?id=48694802",
-      "primary_url": "https://news.ycombinator.com/item?id=48694802",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "37a3d2b33f0e017aa248cc14bdfea0772fb3c975",
-          "title": "Ask HN: MacBook 与 LLM 专用显卡的对比",
-          "url": "https://news.ycombinator.com/item?id=48694802",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T03:23:57.492000Z"
-        },
-        {
-          "id": "cfdb7b2578397d43dc87b361a0f5617a2263cdf1",
-          "title": "Ask HN: MacBook 与 LLM 专用显卡的对比 / Ask HN: MacBook vs. Dedicated GPU for LLM",
-          "url": "https://news.ycombinator.com/item?id=48694802",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T03:17:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "37a3d2b33f0e017aa248cc14bdfea0772fb3c975",
-          "title": "Ask HN: MacBook 与 LLM 专用显卡的对比",
-          "url": "https://news.ycombinator.com/item?id=48694802",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T03:23:57.492000Z"
-        },
-        {
-          "id": "cfdb7b2578397d43dc87b361a0f5617a2263cdf1",
-          "title": "Ask HN: MacBook 与 LLM 专用显卡的对比 / Ask HN: MacBook vs. Dedicated GPU for LLM",
-          "url": "https://news.ycombinator.com/item?id=48694802",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T03:17:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4364,
-      "importance": 0.4364,
-      "importance_score": 0.4364,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4418,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T03:17:43Z",
-      "latest_at": "2026-06-27T03:23:57.492000Z",
-      "primary_item": {
-        "id": "37a3d2b33f0e017aa248cc14bdfea0772fb3c975",
-        "title": "Ask HN: MacBook 与 LLM 专用显卡的对比",
-        "url": "https://news.ycombinator.com/item?id=48694802",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5bb5f4b2f4da",
-      "title": "今年以来算力相关产品加速出海，有武汉企业 800G 以上光模块出口同比增长超过 100 倍",
-      "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a526e094453d3aee7fb50c4e12e5e67cf4d428eb",
-          "title": "今年以来算力相关产品加速出海，有武汉企业 800G 以上光模块出口同比增长超过 100 倍",
-          "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4c2abe37b4d8124f0088de4f0340a5e99e831349",
-          "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
-          "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T07:28:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a526e094453d3aee7fb50c4e12e5e67cf4d428eb",
-          "title": "今年以来算力相关产品加速出海，有武汉企业 800G 以上光模块出口同比增长超过 100 倍",
-          "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4c2abe37b4d8124f0088de4f0340a5e99e831349",
-          "title": "今年以来算力相关产品加速出海，有武汉企业800G以上光模块出口同比增长超过100倍",
-          "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T07:28:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6414,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T07:28:44Z",
-      "latest_at": "2026-06-27T08:11:17.229082Z",
-      "primary_item": {
-        "id": "a526e094453d3aee7fb50c4e12e5e67cf4d428eb",
-        "title": "今年以来算力相关产品加速出海，有武汉企业 800G 以上光模块出口同比增长超过 100 倍",
-        "url": "https://36kr.com/newsflashes/3871102147908867?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7bd447334a41",
-      "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "primary_url": "https://blog.doubleword.ai/frontier-os-llm",
-      "source": "blog.doubleword.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c0cea761cd223ced74db626a74d58a583d591be7",
-          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
-          "url": "https://blog.doubleword.ai/frontier-os-llm",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:43:50.307000Z"
-        },
-        {
-          "id": "e50f09f9cfe7b2f6f88e7caaf16e3072b4817a11",
-          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "id": "8b44d9bbc34eb711b7e244917e60484e323fc66b",
+          "title": "如果拿不住，那就不是你的 / If you can't hold it, you don't own it",
+          "url": "https://dervis.de/physical",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-06-26T21:14:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.doubleword.ai"
-      ],
-      "items": [
-        {
-          "id": "c0cea761cd223ced74db626a74d58a583d591be7",
-          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
-          "url": "https://blog.doubleword.ai/frontier-os-llm",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:43:50.307000Z"
+          "published_at": "2026-06-27T11:32:10Z"
         },
         {
-          "id": "e50f09f9cfe7b2f6f88e7caaf16e3072b4817a11",
-          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "id": "06f2c0821eab87f0c6c80a1ec21692e1bff4ac37",
+          "title": "如果拿不住，那就不是你的 / The case for physical media ownership",
+          "url": "https://dervis.de/physical",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-06-26T21:14:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4141,
-      "importance": 0.4141,
-      "importance_score": 0.4141,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3306,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T21:14:47Z",
-      "latest_at": "2026-06-27T00:43:50.307000Z",
-      "primary_item": {
-        "id": "c0cea761cd223ced74db626a74d58a583d591be7",
-        "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
-        "url": "https://blog.doubleword.ai/frontier-os-llm",
-        "source": "blog.doubleword.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c791ccfc6401",
-      "title": "NLNet Labs 大型语言模型政策",
-      "url": "https://nlnetlabs.nl/llm-policy",
-      "primary_url": "https://nlnetlabs.nl/llm-policy",
-      "source": "nlnetlabs.nl",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
-          "title": "NLNet Labs 大型语言模型政策",
-          "url": "https://nlnetlabs.nl/llm-policy",
-          "source": "nlnetlabs.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:27:51.623000Z"
-        },
-        {
-          "id": "5b211aabb67b1169d98b2a26a634fd924972d84c",
-          "title": "NLNet Labs 大型语言模型政策 / NLNet Labs LLM Policy",
-          "url": "https://nlnetlabs.nl/llm-policy",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T00:08:45Z"
+          "published_at": "2026-06-27T11:32:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "nlnetlabs.nl"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
-          "title": "NLNet Labs 大型语言模型政策",
-          "url": "https://nlnetlabs.nl/llm-policy",
-          "source": "nlnetlabs.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:27:51.623000Z"
+          "id": "8b44d9bbc34eb711b7e244917e60484e323fc66b",
+          "title": "如果拿不住，那就不是你的 / If you can't hold it, you don't own it",
+          "url": "https://dervis.de/physical",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T11:32:10Z"
         },
         {
-          "id": "5b211aabb67b1169d98b2a26a634fd924972d84c",
-          "title": "NLNet Labs 大型语言模型政策 / NLNet Labs LLM Policy",
-          "url": "https://nlnetlabs.nl/llm-policy",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T00:08:45Z"
+          "id": "06f2c0821eab87f0c6c80a1ec21692e1bff4ac37",
+          "title": "如果拿不住，那就不是你的 / The case for physical media ownership",
+          "url": "https://dervis.de/physical",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T11:32:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4119,
-      "importance": 0.4119,
-      "importance_score": 0.4119,
+      "score": 0.4717,
+      "importance": 0.4717,
+      "importance_score": 0.4717,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3195,
+        "recency": 0.6183,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T00:08:45Z",
-      "latest_at": "2026-06-27T00:27:51.623000Z",
+      "earliest_at": "2026-06-27T11:32:10Z",
+      "latest_at": "2026-06-27T11:32:10Z",
       "primary_item": {
-        "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
-        "title": "NLNet Labs 大型语言模型政策",
-        "url": "https://nlnetlabs.nl/llm-policy",
-        "source": "nlnetlabs.nl",
-        "source_name": "Buzzing"
+        "id": "8b44d9bbc34eb711b7e244917e60484e323fc66b",
+        "title": "如果拿不住，那就不是你的 / If you can't hold it, you don't own it",
+        "url": "https://dervis.de/physical",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
