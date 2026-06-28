@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T20:41:45.907013Z",
+  "generated_at": "2026-06-28T08:34:12.071815Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0642-109e-8b0c-d8f602e7bd1c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0642-109e-8b0c-d8f602e7bd1c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-1835-2198-8acc-3e86a552f48a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-1835-2198-8acc-3e86a552f48a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "cff890a4b6477779fdad5baef7e226a207d23cde",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-1835-2198-8acc-3e86a552f48a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "01f0db9b66d2ec94a3bfd40b925479385740608a",
           "title": "点击这里进入 / Click here to enter",
@@ -37,32 +46,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "3e150dc1ff2ddf8e417a01d1f924570d150d5315",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1811-4623-b080-eef306c5b80a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "03a2345129d724a08518248522251ba109324588",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0751-4573-9cad-b8352f41fbb2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "cff890a4b6477779fdad5baef7e226a207d23cde",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-1835-2198-8acc-3e86a552f48a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "01f0db9b66d2ec94a3bfd40b925479385740608a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0642-109e-8b0c-d8f602e7bd1c&fp=-3",
@@ -88,37 +88,19 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "3e150dc1ff2ddf8e417a01d1f924570d150d5315",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1811-4623-b080-eef306c5b80a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "03a2345129d724a08518248522251ba109324588",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0751-4573-9cad-b8352f41fbb2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.912,
-      "importance": 0.912,
-      "importance_score": 0.912,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.887,
+      "importance": 0.887,
+      "importance_score": 0.887,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 1.0
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -126,271 +108,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T21:51:23.740693Z",
-      "latest_at": "2026-06-27T20:41:45.907013Z",
+      "earliest_at": "2026-06-27T12:55:56.968445Z",
+      "latest_at": "2026-06-28T08:34:12.071815Z",
       "primary_item": {
-        "id": "01f0db9b66d2ec94a3bfd40b925479385740608a",
+        "id": "cff890a4b6477779fdad5baef7e226a207d23cde",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0642-109e-8b0c-d8f602e7bd1c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-1835-2198-8acc-3e86a552f48a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_6bceae4e9906",
-      "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
-      "url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
-      "primary_url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
-      "source": "X：Berry Xia (@berryxia)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8c014add10edaab3a6ef68d50c691436123016d",
-          "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
-          "url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T17:05:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Berry Xia (@berryxia)"
-      ],
-      "items": [
-        {
-          "id": "b8c014add10edaab3a6ef68d50c691436123016d",
-          "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
-          "url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T17:05:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.85,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-27T17:05:48Z",
-      "latest_at": "2026-06-27T17:05:48Z",
-      "primary_item": {
-        "id": "b8c014add10edaab3a6ef68d50c691436123016d",
-        "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
-        "url": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
-        "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5eafaf2ce433",
-      "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
-      "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
-      "primary_url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "43459c8b3dbd2170bb89a8b7eb60c03909ed9033",
-          "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
-          "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T16:59:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "43459c8b3dbd2170bb89a8b7eb60c03909ed9033",
-          "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
-          "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T16:59:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.846,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-27T16:59:58Z",
-      "latest_at": "2026-06-27T16:59:58Z",
-      "primary_item": {
-        "id": "43459c8b3dbd2170bb89a8b7eb60c03909ed9033",
-        "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
-        "url": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed562065c656",
-      "title": "一次失败的（民族国家？）攻击的剖析",
-      "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
-      "primary_url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c599b1c9fce09f0e49b9e92eee79d4e9a0371ab",
-          "title": "一次失败的（民族国家？）攻击的剖析",
-          "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T15:39:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "0c599b1c9fce09f0e49b9e92eee79d4e9a0371ab",
-          "title": "一次失败的（民族国家？）攻击的剖析",
-          "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T15:39:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-27T15:39:53Z",
-      "latest_at": "2026-06-27T15:39:53Z",
-      "primary_item": {
-        "id": "0c599b1c9fce09f0e49b9e92eee79d4e9a0371ab",
-        "title": "一次失败的（民族国家？）攻击的剖析",
-        "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_803668c7791b",
-      "title": "Runway API 推出广告本地化 Recipe",
-      "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-      "primary_url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5cbe948822e0c30093f97e5d36ba484a9bbd3b19",
-          "title": "Runway API 推出广告本地化 Recipe",
-          "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T13:02:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "5cbe948822e0c30093f97e5d36ba484a9bbd3b19",
-          "title": "Runway API 推出广告本地化 Recipe",
-          "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T13:02:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6807,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-27T13:02:00Z",
-      "latest_at": "2026-06-27T13:02:00Z",
-      "primary_item": {
-        "id": "5cbe948822e0c30093f97e5d36ba484a9bbd3b19",
-        "title": "Runway API 推出广告本地化 Recipe",
-        "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
-        "source": "X：Runway (@runwayml)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_507f99a64e1f",
-      "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
-      "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
-      "primary_url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+      "story_id": "story_9c7fd1a6733a",
+      "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+      "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
+      "primary_url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8b1e50b2d11395cd5e30a3fba208a1f96b29f8a4",
-          "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
-          "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+          "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
+          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+          "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-27T12:25:21Z"
+          "published_at": "2026-06-28T07:44:41Z"
         }
       ],
       "source_count": 1,
@@ -399,331 +142,626 @@
       ],
       "items": [
         {
-          "id": "8b1e50b2d11395cd5e30a3fba208a1f96b29f8a4",
-          "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
-          "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+          "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
+          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+          "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-27T12:25:21Z"
+          "published_at": "2026-06-28T07:44:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6553,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-27T12:25:21Z",
-      "latest_at": "2026-06-27T12:25:21Z",
+      "earliest_at": "2026-06-28T07:44:41Z",
+      "latest_at": "2026-06-28T07:44:41Z",
       "primary_item": {
-        "id": "8b1e50b2d11395cd5e30a3fba208a1f96b29f8a4",
-        "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
-        "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+        "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
+        "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+        "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5258ff9579da",
-      "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-      "url": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
-      "primary_url": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
-      "source": "IT之家（RSS）",
+      "story_id": "story_8e3fe9f65d42",
+      "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
+      "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
+      "primary_url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0283b702f7fb2e4dac597b4ab3e46aa38e6729bf",
-          "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-          "url": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
-          "source": "IT之家（RSS）",
+          "id": "623a3f2554d139895162cf2255e34c8156fcbdd6",
+          "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
+          "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-27T08:16:09Z"
-        },
-        {
-          "id": "dcc0eeba3b110db4e6c105af5760be57d6ac6c26",
-          "title": "AI 账单失控后 DeepSeek 成“香饽饽”，部分美国企业已 100% 切换",
-          "url": "https://www.ithome.com/0/969/400.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T08:16:09Z"
+          "published_at": "2026-06-28T03:55:17Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "0283b702f7fb2e4dac597b4ab3e46aa38e6729bf",
-          "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-          "url": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
-          "source": "IT之家（RSS）",
+          "id": "623a3f2554d139895162cf2255e34c8156fcbdd6",
+          "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
+          "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-27T08:16:09Z"
-        },
-        {
-          "id": "dcc0eeba3b110db4e6c105af5760be57d6ac6c26",
-          "title": "AI 账单失控后 DeepSeek 成“香饽饽”，部分美国企业已 100% 切换",
-          "url": "https://www.ithome.com/0/969/400.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T08:16:09Z"
+          "published_at": "2026-06-28T03:55:17Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4822,
-        "story_heat": 0.25
+        "recency": 0.8063,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-27T08:16:09Z",
-      "latest_at": "2026-06-27T08:16:09Z",
+      "earliest_at": "2026-06-28T03:55:17Z",
+      "latest_at": "2026-06-28T03:55:17Z",
       "primary_item": {
-        "id": "0283b702f7fb2e4dac597b4ab3e46aa38e6729bf",
-        "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-        "url": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
-        "source": "IT之家（RSS）",
+        "id": "623a3f2554d139895162cf2255e34c8156fcbdd6",
+        "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
+        "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_11c996ddf30f",
-      "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-      "url": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
-      "primary_url": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
+      "story_id": "story_d7ca66dad168",
+      "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
+      "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
+      "primary_url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "962e57fb0116981de6365d5225d6eb84d254b008",
-          "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-          "url": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
+          "id": "8a4dc348f898cc3db0878a95a6764af81223602c",
+          "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
+          "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-27T03:39:06Z"
-        },
-        {
-          "id": "62570124211d46f791a7e03e8b1c890e20f81552",
-          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-          "url": "https://www.ithome.com/0/969/334.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T03:39:06Z"
+          "published_at": "2026-06-28T02:45:16Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
         "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "962e57fb0116981de6365d5225d6eb84d254b008",
-          "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-          "url": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
+          "id": "8a4dc348f898cc3db0878a95a6764af81223602c",
+          "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
+          "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-27T03:39:06Z"
-        },
-        {
-          "id": "62570124211d46f791a7e03e8b1c890e20f81552",
-          "title": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-          "url": "https://www.ithome.com/0/969/334.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T03:39:06Z"
+          "published_at": "2026-06-28T02:45:16Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.695,
-      "importance": 0.695,
-      "importance_score": 0.695,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2898,
-        "story_heat": 0.25
+        "recency": 0.7577,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-27T03:39:06Z",
-      "latest_at": "2026-06-27T03:39:06Z",
+      "earliest_at": "2026-06-28T02:45:16Z",
+      "latest_at": "2026-06-28T02:45:16Z",
       "primary_item": {
-        "id": "962e57fb0116981de6365d5225d6eb84d254b008",
-        "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-        "url": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
+        "id": "8a4dc348f898cc3db0878a95a6764af81223602c",
+        "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
+        "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_42658ae9e5a8",
-      "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://news.ycombinator.com/item?id=48696585",
-      "primary_url": "https://news.ycombinator.com/item?id=48696585",
+      "story_id": "story_15b81a17c7dd",
+      "title": "福特雇佣了人工智能并解雇了人类。结果适得其反 / Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://news.ycombinator.com/item?id=48703968",
+      "primary_url": "https://news.ycombinator.com/item?id=48703968",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9c08323f2fcab504c57ecf9599b56e86b968e29d",
-          "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48696585",
+          "id": "22d9b1e5926cb164c9a724bec1274a5e614345bc",
+          "title": "福特雇佣了人工智能并解雇了人类。结果适得其反 / Ford hired AI and sacked humans. It backfired badly",
+          "url": "https://news.ycombinator.com/item?id=48703968",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-27T16:48:17.409000Z"
+          "published_at": "2026-06-28T08:35:25.850000Z"
         },
         {
-          "id": "cf2a5476f20349e7fee6c5b6f9676a5b91fde490",
-          "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48696585",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T12:56:37.950000Z"
-        },
-        {
-          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "github.com",
+          "id": "9f2cf774469e602d03b86df3c1930f7c40867658",
+          "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。",
+          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+          "source": "www.the-independent.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-27T10:19:53.844000Z"
+          "published_at": "2026-06-28T06:19:06.155000Z"
         },
         {
-          "id": "6bec3c0adfd0daa4ecf03f6687b322ae4d4cc6df",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T09:18:52Z"
-        },
-        {
-          "id": "e98297a754737fb90175d27eef8575e462557009",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T09:18:52Z"
+          "id": "c5c9361bee3e9ccf3be77011cea5a3962d2bea50",
+          "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。 / Ford hired AI and sacked humans. It backfired badly",
+          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T03:09:13Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
+        "Hacker News",
+        "hackernews",
+        "www.the-independent.com"
       ],
       "items": [
         {
-          "id": "9c08323f2fcab504c57ecf9599b56e86b968e29d",
-          "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48696585",
+          "id": "22d9b1e5926cb164c9a724bec1274a5e614345bc",
+          "title": "福特雇佣了人工智能并解雇了人类。结果适得其反 / Ford hired AI and sacked humans. It backfired badly",
+          "url": "https://news.ycombinator.com/item?id=48703968",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-27T16:48:17.409000Z"
+          "published_at": "2026-06-28T08:35:25.850000Z"
         },
         {
-          "id": "cf2a5476f20349e7fee6c5b6f9676a5b91fde490",
-          "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48696585",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T12:56:37.950000Z"
-        },
-        {
-          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "github.com",
+          "id": "9f2cf774469e602d03b86df3c1930f7c40867658",
+          "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。",
+          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+          "source": "www.the-independent.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-27T10:19:53.844000Z"
+          "published_at": "2026-06-28T06:19:06.155000Z"
         },
         {
-          "id": "6bec3c0adfd0daa4ecf03f6687b322ae4d4cc6df",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T09:18:52Z"
-        },
-        {
-          "id": "e98297a754737fb90175d27eef8575e462557009",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T09:18:52Z"
+          "id": "c5c9361bee3e9ccf3be77011cea5a3962d2bea50",
+          "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。 / Ford hired AI and sacked humans. It backfired badly",
+          "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T03:09:13Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5906,
-      "importance": 0.5906,
-      "importance_score": 0.5906,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8379,
-        "story_heat": 1.0
+        "recency": 1.0,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T09:18:52Z",
-      "latest_at": "2026-06-27T16:48:17.409000Z",
+      "earliest_at": "2026-06-28T03:09:13Z",
+      "latest_at": "2026-06-28T08:35:25.850000Z",
       "primary_item": {
-        "id": "9c08323f2fcab504c57ecf9599b56e86b968e29d",
-        "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
-        "url": "https://news.ycombinator.com/item?id=48696585",
+        "id": "22d9b1e5926cb164c9a724bec1274a5e614345bc",
+        "title": "福特雇佣了人工智能并解雇了人类。结果适得其反 / Ford hired AI and sacked humans. It backfired badly",
+        "url": "https://news.ycombinator.com/item?id=48703968",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_57de68a664e5",
+      "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "primary_url": "https://jayacunzo.com/blog/your-move-chief",
+      "source": "jayacunzo.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0f3bd76bba96f3ed3f59862aff7170aed96cde5f",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "jayacunzo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T04:26:54.879000Z"
+        },
+        {
+          "id": "ec033dacf12140986d6c4537116f83821c328af4",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / Response to AI slop is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T01:28:10Z"
+        },
+        {
+          "id": "6b911f130ead90bd488b847c085353825f230ae2",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / The best response to AI slop and online noise is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T01:28:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "jayacunzo.com"
+      ],
+      "items": [
+        {
+          "id": "0f3bd76bba96f3ed3f59862aff7170aed96cde5f",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "jayacunzo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T04:26:54.879000Z"
+        },
+        {
+          "id": "ec033dacf12140986d6c4537116f83821c328af4",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / Response to AI slop is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T01:28:10Z"
+        },
+        {
+          "id": "6b911f130ead90bd488b847c085353825f230ae2",
+          "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / The best response to AI slop and online noise is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T01:28:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8283,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T01:28:10Z",
+      "latest_at": "2026-06-28T04:26:54.879000Z",
+      "primary_item": {
+        "id": "0f3bd76bba96f3ed3f59862aff7170aed96cde5f",
+        "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯",
+        "url": "https://jayacunzo.com/blog/your-move-chief",
+        "source": "jayacunzo.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5b273f77cdfd",
+      "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://news.ycombinator.com/item?id=48704373",
+      "primary_url": "https://news.ycombinator.com/item?id=48704373",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8f678ab05294525d09eb008ce78fbf6620c5a4d5",
+          "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+          "url": "https://news.ycombinator.com/item?id=48704373",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T08:35:25.850000Z"
+        },
+        {
+          "id": "79b5b6d03eae14de546a8e1af039c031a92cef23",
+          "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+          "url": "https://github.com/itsthelore/wayfinder-router",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T04:31:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8f678ab05294525d09eb008ce78fbf6620c5a4d5",
+          "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+          "url": "https://news.ycombinator.com/item?id=48704373",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T08:35:25.850000Z"
+        },
+        {
+          "id": "79b5b6d03eae14de546a8e1af039c031a92cef23",
+          "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+          "url": "https://github.com/itsthelore/wayfinder-router",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T04:31:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T04:31:18Z",
+      "latest_at": "2026-06-28T08:35:25.850000Z",
+      "primary_item": {
+        "id": "8f678ab05294525d09eb008ce78fbf6620c5a4d5",
+        "title": "Wayfinder Router：本地和托管 LLM 之间查询的确定性路由 / Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "url": "https://news.ycombinator.com/item?id=48704373",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_84e0d65e5b7f",
+      "title": "亚洲人工智能初创企业推出类似Mythos的模型",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+      "primary_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+      "source": "techcrunch.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b26206afe1b583847b1ea18a5794848ac9e9ab8b",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T23:23:10.059000Z"
+        },
+        {
+          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like models",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T13:10:21Z"
+        },
+        {
+          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T12:00:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "TechCrunch",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "b26206afe1b583847b1ea18a5794848ac9e9ab8b",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T23:23:10.059000Z"
+        },
+        {
+          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like models",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T13:10:21Z"
+        },
+        {
+          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
+          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T12:00:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4965,
+      "importance": 0.4965,
+      "importance_score": 0.4965,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6173,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T12:00:00Z",
+      "latest_at": "2026-06-27T23:23:10.059000Z",
+      "primary_item": {
+        "id": "b26206afe1b583847b1ea18a5794848ac9e9ab8b",
+        "title": "亚洲人工智能初创企业推出类似Mythos的模型",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+        "source": "techcrunch.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "如果一个人练习射击一百万次会怎样？射门 90172，足球进展 [视频] / What If a Man Practised Shooting a Million Times? Shot 90172, Football Progress [video]",
+      "url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+      "primary_url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "68dfab153bf443fffcd461656a5df7a65238b01b",
+          "title": "如果一个人练习射击一百万次会怎样？射门 90172，足球进展 [视频] / What If a Man Practised Shooting a Million Times? Shot 90172, Football Progress [video]",
+          "url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T20:29:53Z"
+        },
+        {
+          "id": "506e569ccd2109289d0105596a8b8bbefd5a3c9a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T09:31:56.215000Z"
+        },
+        {
+          "id": "f07679b53b908eedd31a61be7985b8e2eb29f80a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题 / \"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:17:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "68dfab153bf443fffcd461656a5df7a65238b01b",
+          "title": "如果一个人练习射击一百万次会怎样？射门 90172，足球进展 [视频] / What If a Man Practised Shooting a Million Times? Shot 90172, Football Progress [video]",
+          "url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T20:29:53Z"
+        },
+        {
+          "id": "506e569ccd2109289d0105596a8b8bbefd5a3c9a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T09:31:56.215000Z"
+        },
+        {
+          "id": "f07679b53b908eedd31a61be7985b8e2eb29f80a",
+          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题 / \"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
+          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:17:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4724,
+      "importance": 0.4724,
+      "importance_score": 0.4724,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.497,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T09:17:42Z",
+      "latest_at": "2026-06-27T20:29:53Z",
+      "primary_item": {
+        "id": "68dfab153bf443fffcd461656a5df7a65238b01b",
+        "title": "如果一个人练习射击一百万次会怎样？射门 90172，足球进展 [视频] / What If a Man Practised Shooting a Million Times? Shot 90172, Football Progress [video]",
+        "url": "https://www.youtube.com/watch?v=CI9oUUnUzw0",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -780,14 +818,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.4491,
+      "importance": 0.4491,
+      "importance_score": 0.4491,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.5053,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -800,6 +838,84 @@
         "id": "ee95cb915c60933724f786113eb1211cb7cf45f4",
         "title": "白嫖 AI 的日子，彻底结束了",
         "url": "https://www.huxiu.com/article/4870953.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3d3110b16cbb",
+      "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+      "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870954.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
+          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T16:28:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
+          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
+          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T16:28:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4491,
+      "importance": 0.4491,
+      "importance_score": 0.4491,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5053,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T16:28:07Z",
+      "latest_at": "2026-06-27T20:41:45.907013Z",
+      "primary_item": {
+        "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
+        "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
+        "url": "https://www.huxiu.com/article/4870954.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -877,14 +993,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.4741,
+      "importance": 0.4741,
+      "importance_score": 0.4741,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.5056,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -899,84 +1015,6 @@
         "url": "https://news.ycombinator.com/item?id=48660021",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3d3110b16cbb",
-      "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
-      "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870954.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
-          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
-          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
-          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
-          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T16:28:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
-          "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
-          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c85268a01181ef4d8bed26f5f6d0a335c49718c6",
-          "title": "脑子还在发烫，和两位AI大神聊完，邻桌的帅哥终于忍不住了……",
-          "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T16:28:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T16:28:07Z",
-      "latest_at": "2026-06-27T20:41:45.907013Z",
-      "primary_item": {
-        "id": "2d2fdda01a834ce4dfcb316f3ac6b908762fc1fa",
-        "title": "脑子还在发烫，和两位 AI 大神聊完，邻桌的帅哥终于忍不住了……",
-        "url": "https://www.huxiu.com/article/4870954.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1033,14 +1071,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
+      "score": 0.4027,
+      "importance": 0.4027,
+      "importance_score": 0.4027,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7682,
+        "recency": 0.2734,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1053,6 +1091,414 @@
         "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
         "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
         "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_42658ae9e5a8",
+      "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "primary_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:19:53.844000Z"
+        },
+        {
+          "id": "6bec3c0adfd0daa4ecf03f6687b322ae4d4cc6df",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T09:18:52Z"
+        },
+        {
+          "id": "e98297a754737fb90175d27eef8575e462557009",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:18:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:19:53.844000Z"
+        },
+        {
+          "id": "6bec3c0adfd0daa4ecf03f6687b322ae4d4cc6df",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T09:18:52Z"
+        },
+        {
+          "id": "e98297a754737fb90175d27eef8575e462557009",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:18:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.3877,
+      "importance": 0.3877,
+      "importance_score": 0.3877,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.0734,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T09:18:52Z",
+      "latest_at": "2026-06-27T10:19:53.844000Z",
+      "primary_item": {
+        "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
+        "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1647e421b056",
+      "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "primary_url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "76fa1f565e309ef83d66010b86b2639eeaa61318",
+          "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e2d768d1dfb74b27548ee818ed1d2ed68848b472",
+          "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha /      Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T12:32:41.900000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "76fa1f565e309ef83d66010b86b2639eeaa61318",
+          "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e2d768d1dfb74b27548ee818ed1d2ed68848b472",
+          "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha /      Open-Generative-AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T12:32:41.900000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3844,
+      "importance": 0.3844,
+      "importance_score": 0.3844,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1818,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T12:32:41.900000Z",
+      "latest_at": "2026-06-27T12:55:56.968445Z",
+      "primary_item": {
+        "id": "76fa1f565e309ef83d66010b86b2639eeaa61318",
+        "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
+        "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_525c27ccf30b",
+      "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+      "primary_url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "383fcdedebd4d5cf723275e0f553e4660dc5a6ce",
+          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T14:38:05Z"
+        },
+        {
+          "id": "60e45658ccf1a0cd17171d1b55159c5a9fb9c99f",
+          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's war on whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T14:38:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "383fcdedebd4d5cf723275e0f553e4660dc5a6ce",
+          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T14:38:05Z"
+        },
+        {
+          "id": "60e45658ccf1a0cd17171d1b55159c5a9fb9c99f",
+          "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's war on whistleblowers",
+          "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T14:38:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3985,
+      "importance": 0.3985,
+      "importance_score": 0.3985,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2527,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T14:38:05Z",
+      "latest_at": "2026-06-27T14:38:05Z",
+      "primary_item": {
+        "id": "383fcdedebd4d5cf723275e0f553e4660dc5a6ce",
+        "title": "扎克伯格针对举报人的战争愈发离奇 / Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+        "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_aab5296bb2be",
+      "title": "Fission-AI / OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "primary_url": "https://github.com/Fission-AI/OpenSpec",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "cd14ebc51ea65e0180521eadb58a40dc0a4d0a46",
+          "title": "Fission-AI / OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "afb2265b2a4c4feec5d39cba4c814228fc8b4d4e",
+          "title": "Fission-AI /      OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T12:32:41.900000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "cd14ebc51ea65e0180521eadb58a40dc0a4d0a46",
+          "title": "Fission-AI / OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "afb2265b2a4c4feec5d39cba4c814228fc8b4d4e",
+          "title": "Fission-AI /      OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T12:32:41.900000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3844,
+      "importance": 0.3844,
+      "importance_score": 0.3844,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1818,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T12:32:41.900000Z",
+      "latest_at": "2026-06-27T12:55:56.968445Z",
+      "primary_item": {
+        "id": "cd14ebc51ea65e0180521eadb58a40dc0a4d0a46",
+        "title": "Fission-AI / OpenSpec",
+        "url": "https://github.com/Fission-AI/OpenSpec",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_64d9d42451e6",
+      "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
+      "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+      "primary_url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "741a55884485351a658d521cdf0869ad1db6872e",
+          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
+          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:03:56.528000Z"
+        },
+        {
+          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
+          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
+          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T09:48:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "741a55884485351a658d521cdf0869ad1db6872e",
+          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
+          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:03:56.528000Z"
+        },
+        {
+          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
+          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
+          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T09:48:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3605,
+      "importance": 0.3605,
+      "importance_score": 0.3605,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.0623,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T09:48:02Z",
+      "latest_at": "2026-06-27T10:03:56.528000Z",
+      "primary_item": {
+        "id": "741a55884485351a658d521cdf0869ad1db6872e",
+        "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
+        "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1110,14 +1556,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4884,
-      "importance": 0.4884,
-      "importance_score": 0.4884,
+      "score": 0.3894,
+      "importance": 0.3894,
+      "importance_score": 0.3894,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7018,
+        "recency": 0.207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1135,507 +1581,80 @@
       }
     },
     {
-      "story_id": "story_84e0d65e5b7f",
-      "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-      "primary_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "story_id": "story_a6bc7d3c3a46",
+      "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://news.ycombinator.com/item?id=48696585",
+      "primary_url": "https://news.ycombinator.com/item?id=48696585",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
-          "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T13:10:21Z"
-        },
-        {
-          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
-          "title": "随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T12:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "TechCrunch"
-      ],
-      "items": [
-        {
-          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
-          "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T13:10:21Z"
-        },
-        {
-          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
-          "title": "随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T12:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4853,
-      "importance": 0.4853,
-      "importance_score": 0.4853,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6865,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T12:00:00Z",
-      "latest_at": "2026-06-27T13:10:21Z",
-      "primary_item": {
-        "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
-        "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
-        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_1647e421b056",
-      "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "primary_url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "76fa1f565e309ef83d66010b86b2639eeaa61318",
-          "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2d768d1dfb74b27548ee818ed1d2ed68848b472",
-          "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha /      Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "source": "github",
+          "id": "9c08323f2fcab504c57ecf9599b56e86b968e29d",
+          "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48696585",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-27T12:32:41.900000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "76fa1f565e309ef83d66010b86b2639eeaa61318",
-          "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-06-27T16:48:17.409000Z"
         },
         {
-          "id": "e2d768d1dfb74b27548ee818ed1d2ed68848b472",
-          "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha /      Open-Generative-AI",
-          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-          "source": "github",
+          "id": "cf2a5476f20349e7fee6c5b6f9676a5b91fde490",
+          "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48696585",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-27T12:32:41.900000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4833,
-      "importance": 0.4833,
-      "importance_score": 0.4833,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6765,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T12:32:41.900000Z",
-      "latest_at": "2026-06-27T12:55:56.968445Z",
-      "primary_item": {
-        "id": "76fa1f565e309ef83d66010b86b2639eeaa61318",
-        "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
-        "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2f3830581c59",
-      "title": "数学领域的人工智能正引发重大问题",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "primary_url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "source": "spectrum.ieee.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "33929fe17a57cb8f0e14284ad97b5164a26eee95",
-          "title": "数学领域的人工智能正引发重大问题",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T06:51:49.402000Z"
-        },
-        {
-          "id": "5d84d25fe2ac570f1b4903abb2a5d2454d2837f4",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T02:52:01.640000Z"
-        },
-        {
-          "id": "bbe48ed56aada2c99206584379926d65038647e1",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / What does it mean to be a mathematician when AI does the math?",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T00:27:42Z"
-        },
-        {
-          "id": "b9c3fc59a5cff8cfbd7bf152d105512b9b046926",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / AI in mathematics is forcing big questions",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T22:36:51Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "33929fe17a57cb8f0e14284ad97b5164a26eee95",
-          "title": "数学领域的人工智能正引发重大问题",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T06:51:49.402000Z"
-        },
-        {
-          "id": "5d84d25fe2ac570f1b4903abb2a5d2454d2837f4",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T02:52:01.640000Z"
-        },
-        {
-          "id": "bbe48ed56aada2c99206584379926d65038647e1",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / What does it mean to be a mathematician when AI does the math?",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T00:27:42Z"
-        },
-        {
-          "id": "b9c3fc59a5cff8cfbd7bf152d105512b9b046926",
-          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / AI in mathematics is forcing big questions",
-          "url": "https://spectrum.ieee.org/ai-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T22:36:51Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4237,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T22:36:51Z",
-      "latest_at": "2026-06-27T06:51:49.402000Z",
-      "primary_item": {
-        "id": "33929fe17a57cb8f0e14284ad97b5164a26eee95",
-        "title": "数学领域的人工智能正引发重大问题",
-        "url": "https://spectrum.ieee.org/ai-in-mathematics",
-        "source": "spectrum.ieee.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
-      "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
-      "primary_url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "506e569ccd2109289d0105596a8b8bbefd5a3c9a",
-          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
-          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T09:31:56.215000Z"
-        },
-        {
-          "id": "f07679b53b908eedd31a61be7985b8e2eb29f80a",
-          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题 / \"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
-          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T09:17:42Z"
+          "published_at": "2026-06-27T12:56:37.950000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.youtube.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "506e569ccd2109289d0105596a8b8bbefd5a3c9a",
-          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
-          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T09:31:56.215000Z"
-        },
-        {
-          "id": "f07679b53b908eedd31a61be7985b8e2eb29f80a",
-          "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题 / \"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More",
-          "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T09:17:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.455,
-      "importance": 0.455,
-      "importance_score": 0.455,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5348,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T09:17:42Z",
-      "latest_at": "2026-06-27T09:31:56.215000Z",
-      "primary_item": {
-        "id": "506e569ccd2109289d0105596a8b8bbefd5a3c9a",
-        "title": "《如何看待人工智能》：科里·多克托罗谈科技巨头、理解人工智能、劳动自动化等话题",
-        "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_aab5296bb2be",
-      "title": "Fission-AI / OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "primary_url": "https://github.com/Fission-AI/OpenSpec",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "cd14ebc51ea65e0180521eadb58a40dc0a4d0a46",
-          "title": "Fission-AI / OpenSpec",
-          "url": "https://github.com/Fission-AI/OpenSpec",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "afb2265b2a4c4feec5d39cba4c814228fc8b4d4e",
-          "title": "Fission-AI /      OpenSpec",
-          "url": "https://github.com/Fission-AI/OpenSpec",
-          "source": "github",
+          "id": "9c08323f2fcab504c57ecf9599b56e86b968e29d",
+          "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48696585",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-27T12:32:41.900000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "cd14ebc51ea65e0180521eadb58a40dc0a4d0a46",
-          "title": "Fission-AI / OpenSpec",
-          "url": "https://github.com/Fission-AI/OpenSpec",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-06-27T16:48:17.409000Z"
         },
         {
-          "id": "afb2265b2a4c4feec5d39cba4c814228fc8b4d4e",
-          "title": "Fission-AI /      OpenSpec",
-          "url": "https://github.com/Fission-AI/OpenSpec",
-          "source": "github",
+          "id": "cf2a5476f20349e7fee6c5b6f9676a5b91fde490",
+          "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48696585",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-27T12:32:41.900000Z"
+          "published_at": "2026-06-27T12:56:37.950000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4833,
-      "importance": 0.4833,
-      "importance_score": 0.4833,
+      "score": 0.4166,
+      "importance": 0.4166,
+      "importance_score": 0.4166,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6765,
+        "recency": 0.3431,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T12:32:41.900000Z",
-      "latest_at": "2026-06-27T12:55:56.968445Z",
+      "earliest_at": "2026-06-27T12:56:37.950000Z",
+      "latest_at": "2026-06-27T16:48:17.409000Z",
       "primary_item": {
-        "id": "cd14ebc51ea65e0180521eadb58a40dc0a4d0a46",
-        "title": "Fission-AI / OpenSpec",
-        "url": "https://github.com/Fission-AI/OpenSpec",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_8ca9061ce25f",
-      "title": "如果拿不住，那就不是你的 / If you can't hold it, you don't own it",
-      "url": "https://dervis.de/physical",
-      "primary_url": "https://dervis.de/physical",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "8b44d9bbc34eb711b7e244917e60484e323fc66b",
-          "title": "如果拿不住，那就不是你的 / If you can't hold it, you don't own it",
-          "url": "https://dervis.de/physical",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T11:32:10Z"
-        },
-        {
-          "id": "06f2c0821eab87f0c6c80a1ec21692e1bff4ac37",
-          "title": "如果拿不住，那就不是你的 / The case for physical media ownership",
-          "url": "https://dervis.de/physical",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T11:32:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "8b44d9bbc34eb711b7e244917e60484e323fc66b",
-          "title": "如果拿不住，那就不是你的 / If you can't hold it, you don't own it",
-          "url": "https://dervis.de/physical",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T11:32:10Z"
-        },
-        {
-          "id": "06f2c0821eab87f0c6c80a1ec21692e1bff4ac37",
-          "title": "如果拿不住，那就不是你的 / The case for physical media ownership",
-          "url": "https://dervis.de/physical",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-27T11:32:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4717,
-      "importance": 0.4717,
-      "importance_score": 0.4717,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6183,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T11:32:10Z",
-      "latest_at": "2026-06-27T11:32:10Z",
-      "primary_item": {
-        "id": "8b44d9bbc34eb711b7e244917e60484e323fc66b",
-        "title": "如果拿不住，那就不是你的 / If you can't hold it, you don't own it",
-        "url": "https://dervis.de/physical",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "9c08323f2fcab504c57ecf9599b56e86b968e29d",
+        "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+        "url": "https://news.ycombinator.com/item?id=48696585",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
