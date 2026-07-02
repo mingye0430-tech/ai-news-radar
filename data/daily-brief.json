@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-02T10:16:09.635629Z",
+  "generated_at": "2026-07-02T17:02:23.741514Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2016-41a1-a72f-16b437b86e2b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260702-2016-41a1-a72f-16b437b86e2b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0302-468a-a34a-c1f2b0f41306&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-0302-468a-a34a-c1f2b0f41306&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "1190f93877002b0cd9576759b1e155e2fa906de6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0302-468a-a34a-c1f2b0f41306&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "9e63a523da9ffcf749cefa805f8642c23cc9497a",
           "title": "点击这里进入 / Click here to enter",
@@ -33,15 +42,6 @@
           "id": "4e1642a03fcb0cb51bdc771ec9e2128c81370c82",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0422-0414-a674-794a32874ca4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d76f3b035d0ab60057c93e96c63937fc7d4fd0bd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2058-10a3-9b65-86c5cdf328a6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -54,6 +54,15 @@
       ],
       "items": [
         {
+          "id": "1190f93877002b0cd9576759b1e155e2fa906de6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0302-468a-a34a-c1f2b0f41306&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "9e63a523da9ffcf749cefa805f8642c23cc9497a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2016-41a1-a72f-16b437b86e2b&fp=-3",
@@ -75,15 +84,6 @@
           "id": "4e1642a03fcb0cb51bdc771ec9e2128c81370c82",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0422-0414-a674-794a32874ca4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d76f3b035d0ab60057c93e96c63937fc7d4fd0bd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-2058-10a3-9b65-86c5cdf328a6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,14 +108,134 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T10:57:47.503518Z",
-      "latest_at": "2026-07-02T10:16:09.635629Z",
+      "earliest_at": "2026-07-01T18:21:35.405115Z",
+      "latest_at": "2026-07-02T17:02:23.741514Z",
       "primary_item": {
-        "id": "9e63a523da9ffcf749cefa805f8642c23cc9497a",
+        "id": "1190f93877002b0cd9576759b1e155e2fa906de6",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260702-2016-41a1-a72f-16b437b86e2b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0302-468a-a34a-c1f2b0f41306&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_74f030d9e8a6",
+      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+      "url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
+      "primary_url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce144a7eff765b23d4b5f7eb07f2dcbf5df3fb80",
+          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+          "url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T16:24:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kim (@kimmonismus)"
+      ],
+      "items": [
+        {
+          "id": "ce144a7eff765b23d4b5f7eb07f2dcbf5df3fb80",
+          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+          "url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T16:24:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9739,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T16:24:50Z",
+      "latest_at": "2026-07-02T16:24:50Z",
+      "primary_item": {
+        "id": "ce144a7eff765b23d4b5f7eb07f2dcbf5df3fb80",
+        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+        "url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
+        "source": "X：Kim (@kimmonismus)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9b3407d64917",
+      "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
+      "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
+      "primary_url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90f85f4e595dae1268923a74c67883199b62be2b",
+          "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
+          "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T15:36:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "90f85f4e595dae1268923a74c67883199b62be2b",
+          "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
+          "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T15:36:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9404,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T15:36:38Z",
+      "latest_at": "2026-07-02T15:36:38Z",
+      "primary_item": {
+        "id": "90f85f4e595dae1268923a74c67883199b62be2b",
+        "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
+        "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -153,14 +273,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8445,
-      "importance": 0.8445,
-      "importance_score": 0.8445,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9174,
+        "recency": 0.6353,
         "story_heat": 0.0
       },
       "category": "official",
@@ -233,14 +353,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7179,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -260,21 +380,261 @@
       }
     },
     {
-      "story_id": "story_918d69cad999",
-      "title": "证监会同意宇树科技科创板 IPO 注册申请",
-      "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
-      "primary_url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+      "story_id": "story_2afdb3c90329",
+      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+      "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+      "primary_url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "84ae6dad2369911041e6220aef4433fd27bf9df0",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "84ae6dad2369911041e6220aef4433fd27bf9df0",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8163,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T12:37:49Z",
+      "latest_at": "2026-07-02T12:37:49Z",
+      "primary_item": {
+        "id": "84ae6dad2369911041e6220aef4433fd27bf9df0",
+        "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+        "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_12dca60d063e",
+      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+      "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+      "primary_url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7713,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:33:01Z",
+      "latest_at": "2026-07-02T11:33:01Z",
+      "primary_item": {
+        "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
+        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+        "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b5afe5ee83db",
+      "title": "谷歌AI建设导致2025年用电量增长37%",
+      "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+      "primary_url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
+          "title": "谷歌AI建设导致2025年用电量增长37%",
+          "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:15:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
+          "title": "谷歌AI建设导致2025年用电量增长37%",
+          "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:15:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7593,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:15:49Z",
+      "latest_at": "2026-07-02T11:15:49Z",
+      "primary_item": {
+        "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
+        "title": "谷歌AI建设导致2025年用电量增长37%",
+        "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6e9ecfa08048",
+      "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+      "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+      "primary_url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "12ba6c966302a6728bb739b73ea693ca2e8178ba",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+          "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:04:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "12ba6c966302a6728bb739b73ea693ca2e8178ba",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+          "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:04:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7512,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:04:07Z",
+      "latest_at": "2026-07-02T11:04:07Z",
+      "primary_item": {
+        "id": "12ba6c966302a6728bb739b73ea693ca2e8178ba",
+        "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+        "url": "https://aihot.virxact.com/items/cmr3epwmy008bsllx0y68akps",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a209015f6304",
+      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+      "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
+      "primary_url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
-          "title": "证监会同意宇树科技科创板 IPO 注册申请",
-          "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+          "id": "fcd597989f4e1567d64284bed56a568ba6ed3974",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T09:10:36Z"
+          "published_at": "2026-07-02T14:22:49Z"
         }
       ],
       "source_count": 1,
@@ -283,25 +643,25 @@
       ],
       "items": [
         {
-          "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
-          "title": "证监会同意宇树科技科创板 IPO 注册申请",
-          "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+          "id": "fcd597989f4e1567d64284bed56a568ba6ed3974",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T09:10:36Z"
+          "published_at": "2026-07-02T14:22:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9545,
+        "recency": 0.8892,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -309,13 +669,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T09:10:36Z",
-      "latest_at": "2026-07-02T09:10:36Z",
+      "earliest_at": "2026-07-02T14:22:49Z",
+      "latest_at": "2026-07-02T14:22:49Z",
       "primary_item": {
-        "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
-        "title": "证监会同意宇树科技科创板 IPO 注册申请",
-        "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+        "id": "fcd597989f4e1567d64284bed56a568ba6ed3974",
+        "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+        "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4a763a5d15b1",
+      "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
+      "url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
+      "primary_url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d595be8dad592777a3de9f99686aec51c15bb107",
+          "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
+          "url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T10:22:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "d595be8dad592777a3de9f99686aec51c15bb107",
+          "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
+          "url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T10:22:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.722,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T10:22:07Z",
+      "latest_at": "2026-07-02T10:22:07Z",
+      "primary_item": {
+        "id": "d595be8dad592777a3de9f99686aec51c15bb107",
+        "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
+        "url": "https://aihot.virxact.com/items/cmr3d6uwj0074slq52bmqn20v",
+        "source": "公众号：千问APP（阿里）",
         "source_name": "AI HOT"
       }
     },
@@ -354,20 +774,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.938,
+        "recency": 0.6559,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T08:46:56Z",
       "latest_at": "2026-07-02T08:46:56Z",
@@ -376,66 +795,6 @@
         "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
         "url": "https://aihot.virxact.com/items/cmr3a67dj01zusly043ms4axe",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_58fac03013b5",
-      "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-      "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-      "primary_url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
-          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-          "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:24:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
-          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-          "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:24:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9227,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:24:53Z",
-      "latest_at": "2026-07-02T08:24:53Z",
-      "primary_item": {
-        "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
-        "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
-        "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -474,20 +833,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.6088,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T07:39:07Z",
       "latest_at": "2026-07-02T07:39:07Z",
@@ -534,14 +892,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,6 +915,65 @@
         "url": "https://www.aibase.com/news/29347",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_58fac03013b5",
+      "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+      "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+      "primary_url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+          "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:24:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
+          "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+          "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:24:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6406,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-02T08:24:53Z",
+      "latest_at": "2026-07-02T08:24:53Z",
+      "primary_item": {
+        "id": "07106bb1aacb05414242869b8a65c77b4ba58e97",
+        "title": "Kimi K2.7 Code 已在 GitHub Copilot 上正式发布",
+        "url": "https://aihot.virxact.com/items/cmr397vx001s3sly0t7mkh3fh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -594,14 +1011,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -620,183 +1037,62 @@
       }
     },
     {
-      "story_id": "story_f8d42fe52087",
-      "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-      "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-      "primary_url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-      "source": "公众号：昆仑万维（天工）",
+      "story_id": "story_918d69cad999",
+      "title": "证监会同意宇树科技科创板 IPO 注册申请",
+      "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+      "primary_url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b752e4c79510374e71c99ee8cdd3a1c657fda132",
-          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-          "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-          "source": "公众号：昆仑万维（天工）",
+          "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
+          "title": "证监会同意宇树科技科创板 IPO 注册申请",
+          "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T02:53:26Z"
+          "published_at": "2026-07-02T09:10:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：昆仑万维（天工）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "b752e4c79510374e71c99ee8cdd3a1c657fda132",
-          "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-          "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-          "source": "公众号：昆仑万维（天工）",
+          "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
+          "title": "证监会同意宇树科技科创板 IPO 注册申请",
+          "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T02:53:26Z"
+          "published_at": "2026-07-02T09:10:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6926,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T02:53:26Z",
-      "latest_at": "2026-07-02T02:53:26Z",
-      "primary_item": {
-        "id": "b752e4c79510374e71c99ee8cdd3a1c657fda132",
-        "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
-        "url": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
-        "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bdb94de730c9",
-      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-      "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-      "primary_url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5306c77425ba3d9a2452225ccad7b1a5a5b2867f",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "5306c77425ba3d9a2452225ccad7b1a5a5b2867f",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6116,
+        "recency": 0.6724,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T00:56:56Z",
-      "latest_at": "2026-07-02T00:56:56Z",
+      "earliest_at": "2026-07-02T09:10:36Z",
+      "latest_at": "2026-07-02T09:10:36Z",
       "primary_item": {
-        "id": "5306c77425ba3d9a2452225ccad7b1a5a5b2867f",
-        "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-        "url": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-        "source": "X：邵猛 (@shao__meng)",
+        "id": "c43dc795e2a98256db4bbcc52e7f1c960dec9bb3",
+        "title": "证监会同意宇树科技科创板 IPO 注册申请",
+        "url": "https://aihot.virxact.com/items/cmr3cab57000jslq5wpb1ukxr",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3aa6eba89386",
-      "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-      "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-      "primary_url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T22:27:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T22:27:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5077,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T22:27:16Z",
-      "latest_at": "2026-07-01T22:27:16Z",
-      "primary_item": {
-        "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-        "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-        "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -834,14 +1130,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -857,127 +1153,6 @@
         "url": "https://www.aibase.com/news/29344",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bca47441364f",
-      "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-      "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-      "primary_url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "151788f9ffafe9378c9d0e7098cf23dcae336ec7",
-          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-          "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:51:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "151788f9ffafe9378c9d0e7098cf23dcae336ec7",
-          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-          "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T02:51:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.691,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T02:51:10Z",
-      "latest_at": "2026-07-02T02:51:10Z",
-      "primary_item": {
-        "id": "151788f9ffafe9378c9d0e7098cf23dcae336ec7",
-        "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-        "url": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0818b7e36264",
-      "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-      "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-          "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-          "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T20:32:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4283,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T20:32:52Z",
-      "latest_at": "2026-07-01T20:32:52Z",
-      "primary_item": {
-        "id": "03e970efed24384d67b7df1cd2c89ea55db7ae37",
-        "title": "Copilot CLI 的新 C++ 语言服务器配置技能 / New C++ language server config skill for Copilot CLI",
-        "url": "https://github.blog/changelog/2026-07-01-new-c-language-server-config-skill-for-copilot-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1015,14 +1190,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1038,67 +1213,6 @@
         "url": "https://www.aibase.com/news/29332",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_87c518803758",
-      "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
-      "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-      "primary_url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e5c384b6d2337d32bf7a939188e14b728bd64e78",
-          "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
-          "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T21:30:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e5c384b6d2337d32bf7a939188e14b728bd64e78",
-          "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
-          "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T21:30:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4682,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T21:30:20Z",
-      "latest_at": "2026-07-01T21:30:20Z",
-      "primary_item": {
-        "id": "e5c384b6d2337d32bf7a939188e14b728bd64e78",
-        "title": "GitHub Models 将于 2026 年 7 月 30 日全面退役 / GitHub Models is being fully retired on July 30, 2026",
-        "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1136,14 +1250,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,127 +1273,6 @@
         "url": "https://www.aibase.com/news/29328",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_101c33e5f552",
-      "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
-      "url": "https://www.aibase.com/news/29339",
-      "primary_url": "https://www.aibase.com/news/29339",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b15107a93b7df15a0b2237231e8b4d3fa98c5500",
-          "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
-          "url": "https://www.aibase.com/news/29339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T10:16:09.635629Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b15107a93b7df15a0b2237231e8b4d3fa98c5500",
-          "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
-          "url": "https://www.aibase.com/news/29339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T10:16:09.635629Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T10:16:09.635629Z",
-      "latest_at": "2026-07-02T10:16:09.635629Z",
-      "primary_item": {
-        "id": "b15107a93b7df15a0b2237231e8b4d3fa98c5500",
-        "title": "可灵AI 融资传闻再起：180 亿美元估值背后的资本博弈",
-        "url": "https://www.aibase.com/news/29339",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_774ebb0256c8",
-      "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-      "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-          "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-          "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T18:39:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.3494,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T18:39:17Z",
-      "latest_at": "2026-07-01T18:39:17Z",
-      "primary_item": {
-        "id": "95cb6af314d8fb60bfce7538b4a86be17c4f8192",
-        "title": "副驾驶视野普遍可用 / Copilot vision is generally available",
-        "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
