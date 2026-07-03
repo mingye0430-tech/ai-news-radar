@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T15:59:26.965151Z",
+  "generated_at": "2026-07-03T20:34:31.695559Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0159-537e-90d7-689383721657&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0159-537e-90d7-689383721657&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0634-5849-bef3-5c2e8dbdf603&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0634-5849-bef3-5c2e8dbdf603&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "090b9b3998a8236f2b9c2e803139a5618ecca4fb",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0634-5849-bef3-5c2e8dbdf603&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "867aec61d000d35b624ef78be90f5dbe08e64373",
           "title": "点击这里进入 / Click here to enter",
@@ -33,15 +42,6 @@
           "id": "8837a4a7e00970b2e138cec23a101b3ea39fca37",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0647-22f8-9fb4-cf8dc74e85dd&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1190f93877002b0cd9576759b1e155e2fa906de6",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0302-468a-a34a-c1f2b0f41306&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -54,6 +54,15 @@
       ],
       "items": [
         {
+          "id": "090b9b3998a8236f2b9c2e803139a5618ecca4fb",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0634-5849-bef3-5c2e8dbdf603&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "867aec61d000d35b624ef78be90f5dbe08e64373",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0159-537e-90d7-689383721657&fp=-3",
@@ -75,15 +84,6 @@
           "id": "8837a4a7e00970b2e138cec23a101b3ea39fca37",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0647-22f8-9fb4-cf8dc74e85dd&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1190f93877002b0cd9576759b1e155e2fa906de6",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0302-468a-a34a-c1f2b0f41306&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,12 +108,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T17:02:23.741514Z",
-      "latest_at": "2026-07-03T15:59:26.965151Z",
+      "earliest_at": "2026-07-02T20:46:58.747328Z",
+      "latest_at": "2026-07-03T20:34:31.695559Z",
       "primary_item": {
-        "id": "867aec61d000d35b624ef78be90f5dbe08e64373",
+        "id": "090b9b3998a8236f2b9c2e803139a5618ecca4fb",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0159-537e-90d7-689383721657&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0634-5849-bef3-5c2e8dbdf603&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -153,14 +153,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9349,
+        "recency": 0.7439,
         "story_heat": 0.0
       },
       "category": "official",
@@ -177,6 +177,126 @@
         "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_85eb953de08d",
+      "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+      "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
+      "primary_url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c350838b6681b68bb7f63e4d329578ba4f7ec35b",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+          "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T19:19:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c350838b6681b68bb7f63e4d329578ba4f7ec35b",
+          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+          "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T19:19:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9481,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T19:19:45Z",
+      "latest_at": "2026-07-03T19:19:45Z",
+      "primary_item": {
+        "id": "c350838b6681b68bb7f63e4d329578ba4f7ec35b",
+        "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
+        "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eeacd3fe36d9",
+      "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
+      "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
+      "primary_url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "15855f515ec926ca077f3163288eaef32615c647",
+          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
+          "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T18:51:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "15855f515ec926ca077f3163288eaef32615c647",
+          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
+          "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T18:51:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9282,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T18:51:06Z",
+      "latest_at": "2026-07-03T18:51:06Z",
+      "primary_item": {
+        "id": "15855f515ec926ca077f3163288eaef32615c647",
+        "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
+        "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -214,14 +334,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -274,14 +394,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9725,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -353,14 +473,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8316,
+        "recency": 0.6406,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -414,20 +534,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8513,
+        "recency": 0.6603,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T12:25:20Z",
       "latest_at": "2026-07-03T12:25:20Z",
@@ -474,14 +593,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -534,20 +653,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8044,
+        "recency": 0.6134,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T11:17:47Z",
       "latest_at": "2026-07-03T11:17:47Z",
@@ -594,20 +712,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7528,
+        "recency": 0.5617,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T10:03:25Z",
       "latest_at": "2026-07-03T10:03:25Z",
@@ -616,186 +733,6 @@
         "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
         "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
         "source": "公众号：京东JoyAI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1d6a0d8f7365",
-      "title": "面向 Web 开发者的 Safari MCP 服务器",
-      "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
-      "primary_url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
-          "title": "面向 Web 开发者的 Safari MCP 服务器",
-          "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:59:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
-          "title": "面向 Web 开发者的 Safari MCP 服务器",
-          "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:59:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7502,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T09:59:42Z",
-      "latest_at": "2026-07-03T09:59:42Z",
-      "primary_item": {
-        "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
-        "title": "面向 Web 开发者的 Safari MCP 服务器",
-        "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_10123b922e56",
-      "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-      "url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-      "primary_url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e4ac38274d414fa99db01c70b4b0b949e6a378c1",
-          "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-          "url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:12:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "e4ac38274d414fa99db01c70b4b0b949e6a378c1",
-          "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-          "url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:12:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7172,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T09:12:17Z",
-      "latest_at": "2026-07-03T09:12:17Z",
-      "primary_item": {
-        "id": "e4ac38274d414fa99db01c70b4b0b949e6a378c1",
-        "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
-        "url": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9b9619a9ab66",
-      "title": "Wan Video 推出\"音乐伴舞\"新功能",
-      "url": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf",
-      "primary_url": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5b4454b3758d1475f38c5d000da540e7b99e6418",
-          "title": "Wan Video 推出\"音乐伴舞\"新功能",
-          "url": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf",
-          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T08:55:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)"
-      ],
-      "items": [
-        {
-          "id": "5b4454b3758d1475f38c5d000da540e7b99e6418",
-          "title": "Wan Video 推出\"音乐伴舞\"新功能",
-          "url": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf",
-          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T08:55:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7059,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T08:55:57Z",
-      "latest_at": "2026-07-03T08:55:57Z",
-      "primary_item": {
-        "id": "5b4454b3758d1475f38c5d000da540e7b99e6418",
-        "title": "Wan Video 推出\"音乐伴舞\"新功能",
-        "url": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf",
-        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
         "source_name": "AI HOT"
       }
     },
@@ -834,14 +771,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -860,122 +797,61 @@
       }
     },
     {
-      "story_id": "story_43115179668d",
-      "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-      "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-      "primary_url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
-          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:19:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
-          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:19:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3053,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T23:19:06Z",
-      "latest_at": "2026-07-02T23:19:06Z",
-      "primary_item": {
-        "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
-        "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
-        "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d97367589b14",
-      "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-      "url": "https://aihot.virxact.com/items/cmr4rs02404h6sll50myozvz0",
-      "primary_url": "https://aihot.virxact.com/items/cmr4rs02404h6sll50myozvz0",
-      "source": "IT之家（RSS）",
+      "story_id": "story_1d6a0d8f7365",
+      "title": "面向 Web 开发者的 Safari MCP 服务器",
+      "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+      "primary_url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "679798f75ba6fa267d807e49e5cb59ccc3f20e4f",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://aihot.virxact.com/items/cmr4rs02404h6sll50myozvz0",
-          "source": "IT之家（RSS）",
+          "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
+          "published_at": "2026-07-03T09:59:42Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "679798f75ba6fa267d807e49e5cb59ccc3f20e4f",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://aihot.virxact.com/items/cmr4rs02404h6sll50myozvz0",
-          "source": "IT之家（RSS）",
+          "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
+          "published_at": "2026-07-03T09:59:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7192,
+        "recency": 0.5591,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-03T09:15:08Z",
-      "latest_at": "2026-07-03T09:15:08Z",
+      "earliest_at": "2026-07-03T09:59:42Z",
+      "latest_at": "2026-07-03T09:59:42Z",
       "primary_item": {
-        "id": "679798f75ba6fa267d807e49e5cb59ccc3f20e4f",
-        "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-        "url": "https://aihot.virxact.com/items/cmr4rs02404h6sll50myozvz0",
-        "source": "IT之家（RSS）",
+        "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+        "title": "面向 Web 开发者的 Safari MCP 服务器",
+        "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1014,14 +890,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1040,66 +916,6 @@
       }
     },
     {
-      "story_id": "story_95944acec510",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T23:07:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.297,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T23:07:06Z",
-      "latest_at": "2026-07-02T23:07:06Z",
-      "primary_item": {
-        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
-        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_c0fb7b3f5c2d",
       "title": "《Fable》通关指南：短绳AI编程法",
       "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
@@ -1115,11 +931,21 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-03T06:16:11Z"
+        },
+        {
+          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "blog.okturtles.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T06:16:11.377000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "blog.okturtles.org"
       ],
       "items": [
         {
@@ -1130,26 +956,36 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-03T06:16:11Z"
+        },
+        {
+          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
+          "title": "《Fable》通关指南：短绳AI编程法",
+          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
+          "source": "blog.okturtles.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T06:16:11.377000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7178,
+      "importance": 0.7178,
+      "importance_score": 0.7178,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.595,
-        "story_heat": 0.0
+        "recency": 0.4039,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T06:16:11Z",
-      "latest_at": "2026-07-03T06:16:11Z",
+      "latest_at": "2026-07-03T06:16:11.377000Z",
       "primary_item": {
         "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
         "title": "《Fable》通关指南：短绳AI编程法",
@@ -1159,7 +995,7 @@
       }
     },
     {
-      "story_id": "story_078b85ce6d6a",
+      "story_id": "story_115f21a8d255",
       "title": "AI 智能体 Elements Claw 成功“闭环”超导材料研发",
       "url": "https://www.aibase.com/news/29373",
       "primary_url": "https://www.aibase.com/news/29373",
@@ -1212,21 +1048,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6936,
+        "recency": 0.5025,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T08:38:09.842068Z",
       "latest_at": "2026-07-03T08:38:09.842068Z",
@@ -1239,63 +1074,354 @@
       }
     },
     {
-      "story_id": "story_9425deafab70",
-      "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
-      "url": "https://www.aibase.com/news/29357",
-      "primary_url": "https://www.aibase.com/news/29357",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_d6403d02c2c6",
+      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+      "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+      "primary_url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
-          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
-          "url": "https://www.aibase.com/news/29357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T08:38:09.842068Z"
+          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T04:56:06Z"
+        },
+        {
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
-          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
-          "url": "https://www.aibase.com/news/29357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T08:38:09.842068Z"
+          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
+          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T04:56:06Z"
+        },
+        {
+          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
+          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
+          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T04:56:06.814000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7067,
+      "importance": 0.7067,
+      "importance_score": 0.7067,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6936,
-        "story_heat": 0.0
+        "recency": 0.3483,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-03T08:38:09.842068Z",
-      "latest_at": "2026-07-03T08:38:09.842068Z",
+      "earliest_at": "2026-07-03T04:56:06Z",
+      "latest_at": "2026-07-03T04:56:06.814000Z",
       "primary_item": {
-        "id": "67d61511e88d800fc0153ddef899081752e64fa5",
-        "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
-        "url": "https://www.aibase.com/news/29357",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
+        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
+        "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6dd39e80e7d5",
+      "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "url": "https://news.ycombinator.com/item?id=48777144",
+      "primary_url": "https://news.ycombinator.com/item?id=48777144",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://news.ycombinator.com/item?id=48777144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T20:35:00.951000Z"
+        },
+        {
+          "id": "0106277eaab5730a881a5309eabed31f1085d700",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.504000Z"
+        },
+        {
+          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T16:53:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+          "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://news.ycombinator.com/item?id=48777144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T20:35:00.951000Z"
+        },
+        {
+          "id": "0106277eaab5730a881a5309eabed31f1085d700",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI）",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.504000Z"
+        },
+        {
+          "id": "de8087956e18e6c29ccf80f53bd8e4f2a1e3761d",
+          "title": "Show HN: Mcpsnoop – 面向 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+          "url": "https://github.com/kerlenton/mcpsnoop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T16:53:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T16:53:50Z",
+      "latest_at": "2026-07-03T20:35:00.951000Z",
+      "primary_item": {
+        "id": "f2879e84446177edbb2b1cadb62d80d74996c37a",
+        "title": "Show HN：Mcpsnoop – 适用于 MCP 的 Wireshark（透明代理和实时 TUI） / Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+        "url": "https://news.ycombinator.com/item?id=48777144",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_24e2bdc66332",
+      "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+      "url": "https://github.com/jamesob/local-llm",
+      "primary_url": "https://github.com/jamesob/local-llm",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T18:47:44.003000Z"
+        },
+        {
+          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
+          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://news.ycombinator.com/item?id=48775921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T15:59:55.605000Z"
+        },
+        {
+          "id": "d909c6a5817b472c70df16cbb7d1b8dfa53f2f16",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T15:03:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T18:47:44.003000Z"
+        },
+        {
+          "id": "f6a87333ddd5376ea98fcb9458119952fbac94b0",
+          "title": "Jamesob 在本地运行 SOTA LLM 的指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://news.ycombinator.com/item?id=48775921",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T15:59:55.605000Z"
+        },
+        {
+          "id": "d909c6a5817b472c70df16cbb7d1b8dfa53f2f16",
+          "title": "Jamesob 的本地运行 SOTA 大型语言模型指南 / Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T15:03:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5582,
+      "importance": 0.5582,
+      "importance_score": 0.5582,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9258,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:03:43Z",
+      "latest_at": "2026-07-03T18:47:44.003000Z",
+      "primary_item": {
+        "id": "ddeec80a72889603ce582120ea75344d6c2c3521",
+        "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
+        "url": "https://github.com/jamesob/local-llm",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_040216033e0c",
+      "title": "OpenAI 全面解读",
+      "url": "https://www.huxiu.com/article/4872567.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872567.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7e079a43f41c26be084c1fe3a4d7712c9c06eb3a",
+          "title": "OpenAI 全面解读",
+          "url": "https://www.huxiu.com/article/4872567.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "19c825814147646a59ffb15affbc9e8e4bab09f9",
+          "title": "OpenAI全面解读",
+          "url": "https://www.huxiu.com/article/4872567.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T18:07:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "7e079a43f41c26be084c1fe3a4d7712c9c06eb3a",
+          "title": "OpenAI 全面解读",
+          "url": "https://www.huxiu.com/article/4872567.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "19c825814147646a59ffb15affbc9e8e4bab09f9",
+          "title": "OpenAI全面解读",
+          "url": "https://www.huxiu.com/article/4872567.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T18:07:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T18:07:38Z",
+      "latest_at": "2026-07-03T20:34:31.695559Z",
+      "primary_item": {
+        "id": "7e079a43f41c26be084c1fe3a4d7712c9c06eb3a",
+        "title": "OpenAI 全面解读",
+        "url": "https://www.huxiu.com/article/4872567.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
