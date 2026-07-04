@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-03T20:34:31.695559Z",
+  "generated_at": "2026-07-04T07:30:49.821097Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0634-5849-bef3-5c2e8dbdf603&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-0634-5849-bef3-5c2e8dbdf603&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1731-1894-9d0c-5ad443631993&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-1731-1894-9d0c-5ad443631993&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "c8461f58ca3b4706a5340c7d01497c4970192c38",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1731-1894-9d0c-5ad443631993&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "090b9b3998a8236f2b9c2e803139a5618ecca4fb",
           "title": "点击这里进入 / Click here to enter",
@@ -33,15 +42,6 @@
           "id": "bd247ffd0f77c8f592049a1e68802b569178b3ba",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1839-0456-9203-dafe1e1713a5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8837a4a7e00970b2e138cec23a101b3ea39fca37",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0647-22f8-9fb4-cf8dc74e85dd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -54,6 +54,15 @@
       ],
       "items": [
         {
+          "id": "c8461f58ca3b4706a5340c7d01497c4970192c38",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1731-1894-9d0c-5ad443631993&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "090b9b3998a8236f2b9c2e803139a5618ecca4fb",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0634-5849-bef3-5c2e8dbdf603&fp=-3",
@@ -75,15 +84,6 @@
           "id": "bd247ffd0f77c8f592049a1e68802b569178b3ba",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1839-0456-9203-dafe1e1713a5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8837a4a7e00970b2e138cec23a101b3ea39fca37",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0647-22f8-9fb4-cf8dc74e85dd&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,315 +108,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T20:46:58.747328Z",
-      "latest_at": "2026-07-03T20:34:31.695559Z",
+      "earliest_at": "2026-07-03T08:38:09.842068Z",
+      "latest_at": "2026-07-04T07:30:49.821097Z",
       "primary_item": {
-        "id": "090b9b3998a8236f2b9c2e803139a5618ecca4fb",
+        "id": "c8461f58ca3b4706a5340c7d01497c4970192c38",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0634-5849-bef3-5c2e8dbdf603&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1731-1894-9d0c-5ad443631993&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_1cc388fb9b67",
-      "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-      "primary_url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8a09616a52ed445e32403a6c6fe07ddd62af2390",
-          "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
-          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-03T14:25:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "8a09616a52ed445e32403a6c6fe07ddd62af2390",
-          "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
-          "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-03T14:25:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7439,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T14:25:43Z",
-      "latest_at": "2026-07-03T14:25:43Z",
-      "primary_item": {
-        "id": "8a09616a52ed445e32403a6c6fe07ddd62af2390",
-        "title": "谷歌 DeepMind 和 A24 宣布建立首个研究合作伙伴关系 / Google DeepMind and A24 announce first-of-its-kind research partnership",
-        "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85eb953de08d",
-      "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-      "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-      "primary_url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c350838b6681b68bb7f63e4d329578ba4f7ec35b",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-          "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T19:19:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c350838b6681b68bb7f63e4d329578ba4f7ec35b",
-          "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-          "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T19:19:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9481,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T19:19:45Z",
-      "latest_at": "2026-07-03T19:19:45Z",
-      "primary_item": {
-        "id": "c350838b6681b68bb7f63e4d329578ba4f7ec35b",
-        "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-        "url": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eeacd3fe36d9",
-      "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-      "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-      "primary_url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "15855f515ec926ca077f3163288eaef32615c647",
-          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-          "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T18:51:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "15855f515ec926ca077f3163288eaef32615c647",
-          "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-          "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T18:51:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9282,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T18:51:06Z",
-      "latest_at": "2026-07-03T18:51:06Z",
-      "primary_item": {
-        "id": "15855f515ec926ca077f3163288eaef32615c647",
-        "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-        "url": "https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_45743761a27c",
-      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-      "url": "https://www.aibase.com/news/29378",
-      "primary_url": "https://www.aibase.com/news/29378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T15:59:26.965151Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T15:59:26.965151Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.809,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T15:59:26.965151Z",
-      "latest_at": "2026-07-03T15:59:26.965151Z",
-      "primary_item": {
-        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-        "url": "https://www.aibase.com/news/29378",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_94916d673c4a",
-      "title": "Leanstral 1.5：人人可用的证明丰富性",
-      "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-      "primary_url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Mistral AI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-          "title": "Leanstral 1.5：人人可用的证明丰富性",
-          "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-          "source": "Mistral AI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T15:19:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7815,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T15:19:52Z",
-      "latest_at": "2026-07-03T15:19:52Z",
-      "primary_item": {
-        "id": "e3334b54fe4fe95e1021b3549a986954cdb73084",
-        "title": "Leanstral 1.5：人人可用的证明丰富性",
-        "url": "https://aihot.virxact.com/items/cmr52xv9507bssll51ft3loac",
-        "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -473,21 +172,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
+      "score": 0.674,
+      "importance": 0.674,
+      "importance_score": 0.674,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6406,
+        "recency": 0.1848,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-03T11:57:00Z",
       "latest_at": "2026-07-03T11:57:00Z",
@@ -497,303 +195,6 @@
         "url": "https://aihot.virxact.com/items/cmr4w2clt05kasll56e54tanx",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6f68c5ddc450",
-      "title": "藏师傅PPT与Pencil结合使用技巧",
-      "url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-      "primary_url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-      "source": "X：歸藏 (@op7418)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0207ca8c65a384fbb6bf90db92513f375faaa239",
-          "title": "藏师傅PPT与Pencil结合使用技巧",
-          "url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T12:25:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：歸藏 (@op7418)"
-      ],
-      "items": [
-        {
-          "id": "0207ca8c65a384fbb6bf90db92513f375faaa239",
-          "title": "藏师傅PPT与Pencil结合使用技巧",
-          "url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T12:25:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6603,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T12:25:20Z",
-      "latest_at": "2026-07-03T12:25:20Z",
-      "primary_item": {
-        "id": "0207ca8c65a384fbb6bf90db92513f375faaa239",
-        "title": "藏师傅PPT与Pencil结合使用技巧",
-        "url": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-        "source": "X：歸藏 (@op7418)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0738428c0f84",
-      "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-      "url": "https://www.aibase.com/news/29376",
-      "primary_url": "https://www.aibase.com/news/29376",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
-          "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-          "url": "https://www.aibase.com/news/29376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T15:59:26.965151Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
-          "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-          "url": "https://www.aibase.com/news/29376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T15:59:26.965151Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.809,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T15:59:26.965151Z",
-      "latest_at": "2026-07-03T15:59:26.965151Z",
-      "primary_item": {
-        "id": "ddfac41a22768f607730ed2715b2c7de54f9ea8b",
-        "title": "字节豆包 AI 手机项目生变：硬件负责人离职，项目进入“调整期”",
-        "url": "https://www.aibase.com/news/29376",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5e047f78ae70",
-      "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-      "url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-      "primary_url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-      "source": "公众号：生数科技（Vidu·视频）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91bc87d7743cdfd369383997d9571ba5ba660fae",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：生数科技（Vidu·视频）"
-      ],
-      "items": [
-        {
-          "id": "91bc87d7743cdfd369383997d9571ba5ba660fae",
-          "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-          "url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-          "source": "公众号：生数科技（Vidu·视频）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:17:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6134,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T11:17:47Z",
-      "latest_at": "2026-07-03T11:17:47Z",
-      "primary_item": {
-        "id": "91bc87d7743cdfd369383997d9571ba5ba660fae",
-        "title": "生数科技发布 Vidu S1，推动视频生成迈向\"实时交互\"新时代",
-        "url": "https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3",
-        "source": "公众号：生数科技（Vidu·视频）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5a7b3e0e1abf",
-      "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-      "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-      "primary_url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-      "source": "公众号：京东JoyAI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bebf0ff6ea46d9586ea2baebf153aa4fd011b087",
-          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-          "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T10:03:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：京东JoyAI"
-      ],
-      "items": [
-        {
-          "id": "bebf0ff6ea46d9586ea2baebf153aa4fd011b087",
-          "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-          "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-          "source": "公众号：京东JoyAI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T10:03:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5617,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T10:03:25Z",
-      "latest_at": "2026-07-03T10:03:25Z",
-      "primary_item": {
-        "id": "bebf0ff6ea46d9586ea2baebf153aa4fd011b087",
-        "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-        "url": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-        "source": "公众号：京东JoyAI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d4df2d66480c",
-      "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-      "url": "https://www.aibase.com/news/29379",
-      "primary_url": "https://www.aibase.com/news/29379",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/news/29379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T15:59:26.965151Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/news/29379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T15:59:26.965151Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.809,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T15:59:26.965151Z",
-      "latest_at": "2026-07-03T15:59:26.965151Z",
-      "primary_item": {
-        "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-        "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-        "url": "https://www.aibase.com/news/29379",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -812,11 +213,21 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-03T09:59:42Z"
+        },
+        {
+          "id": "99e9259b5479ee162bbb3a9d1956bfa40caffab1",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+          "source": "webkit.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T09:59:42.679000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "webkit.org"
       ],
       "items": [
         {
@@ -827,156 +238,27 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-03T09:59:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5591,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T09:59:42Z",
-      "latest_at": "2026-07-03T09:59:42Z",
-      "primary_item": {
-        "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
-        "title": "面向 Web 开发者的 Safari MCP 服务器",
-        "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8d1469e1e213",
-      "title": "高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐",
-      "url": "https://www.aibase.com/news/29377",
-      "primary_url": "https://www.aibase.com/news/29377",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b78c38ec3853c6551e5121d2089aaf57e4eae952",
-          "title": "高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐",
-          "url": "https://www.aibase.com/news/29377",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T15:59:26.965151Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b78c38ec3853c6551e5121d2089aaf57e4eae952",
-          "title": "高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐",
-          "url": "https://www.aibase.com/news/29377",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T15:59:26.965151Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.809,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T15:59:26.965151Z",
-      "latest_at": "2026-07-03T15:59:26.965151Z",
-      "primary_item": {
-        "id": "b78c38ec3853c6551e5121d2089aaf57e4eae952",
-        "title": "高盛研判下半年市场：资金撤离七大科技巨头，半导体等 AI 上游板块更受青睐",
-        "url": "https://www.aibase.com/news/29377",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c0fb7b3f5c2d",
-      "title": "《Fable》通关指南：短绳AI编程法",
-      "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
-      "primary_url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T06:16:11Z"
         },
         {
-          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-          "source": "blog.okturtles.org",
+          "id": "99e9259b5479ee162bbb3a9d1956bfa40caffab1",
+          "title": "面向 Web 开发者的 Safari MCP 服务器",
+          "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+          "source": "webkit.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-03T06:16:11.377000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "blog.okturtles.org"
-      ],
-      "items": [
-        {
-          "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T06:16:11Z"
-        },
-        {
-          "id": "9cd36b12b5ee39857c862a28822e27f1dc27dc62",
-          "title": "《Fable》通关指南：短绳AI编程法",
-          "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method",
-          "source": "blog.okturtles.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T06:16:11.377000Z"
+          "published_at": "2026-07-03T09:59:42.679000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7178,
-      "importance": 0.7178,
-      "importance_score": 0.7178,
+      "score": 0.6577,
+      "importance": 0.6577,
+      "importance_score": 0.6577,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4039,
+        "recency": 0.1034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -984,12 +266,12 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-03T06:16:11Z",
-      "latest_at": "2026-07-03T06:16:11.377000Z",
+      "earliest_at": "2026-07-03T09:59:42Z",
+      "latest_at": "2026-07-03T09:59:42.679000Z",
       "primary_item": {
-        "id": "48f0c85d07888a3cf2c44e8a27c4720073131efb",
-        "title": "《Fable》通关指南：短绳AI编程法",
-        "url": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285",
+        "id": "7990b122c46ef43b8182e0c4c125918f60a9dea7",
+        "title": "面向 Web 开发者的 Safari MCP 服务器",
+        "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -1048,17 +330,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "行业动态",
+      "score": 0.6464,
+      "importance": 0.6464,
+      "importance_score": 0.6464,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5025,
+        "recency": 0.0468,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1074,82 +356,393 @@
       }
     },
     {
-      "story_id": "story_d6403d02c2c6",
-      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-      "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-      "primary_url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_ddc5ffe6c280",
+      "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
+      "url": "https://www.huxiu.com/article/4872642.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872642.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06Z"
+          "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
+          "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
+          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
+          "id": "1d707d2ab6b7c2067667020c3b1e94b423f7c93c",
+          "title": "OpenAI拟向美国政府出让股份：AI创造的财富应当由谁享有？",
+          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T06:44:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
-          "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-          "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T04:56:06Z"
+          "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
+          "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
+          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "12fa813fd9b722b28005255b1997d31807cb7d15",
-          "title": "Claude-real-video － 任何大型语言模型（LLM）都能观看视频",
-          "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T04:56:06.814000Z"
+          "id": "1d707d2ab6b7c2067667020c3b1e94b423f7c93c",
+          "title": "OpenAI拟向美国政府出让股份：AI创造的财富应当由谁享有？",
+          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T06:44:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7067,
-      "importance": 0.7067,
-      "importance_score": 0.7067,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3483,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-03T04:56:06Z",
-      "latest_at": "2026-07-03T04:56:06.814000Z",
+      "earliest_at": "2026-07-04T06:44:56Z",
+      "latest_at": "2026-07-04T07:30:49.821097Z",
       "primary_item": {
-        "id": "1ec00f3864a6d94a19f2818c6a1b1dff59f3a917",
-        "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-        "url": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
+        "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
+        "url": "https://www.huxiu.com/article/4872642.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c6444be85c41",
+      "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
+      "url": "https://danluu.com/ai-coding",
+      "primary_url": "https://danluu.com/ai-coding",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "87af066a3c168f120d99f40d94e83edb0f7ae2b0",
+          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
+          "url": "https://danluu.com/ai-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T04:37:15Z"
+        },
+        {
+          "id": "81f944eefb311f798f75869464b64b9d4e69f4d8",
+          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapogos Island",
+          "url": "https://danluu.com/ai-coding",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T03:54:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)"
+      ],
+      "items": [
+        {
+          "id": "87af066a3c168f120d99f40d94e83edb0f7ae2b0",
+          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
+          "url": "https://danluu.com/ai-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T04:37:15Z"
+        },
+        {
+          "id": "81f944eefb311f798f75869464b64b9d4e69f4d8",
+          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapogos Island",
+          "url": "https://danluu.com/ai-coding",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T03:54:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8795,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T03:54:01Z",
+      "latest_at": "2026-07-04T04:37:15Z",
+      "primary_item": {
+        "id": "87af066a3c168f120d99f40d94e83edb0f7ae2b0",
+        "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
+        "url": "https://danluu.com/ai-coding",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_ec5e6b0606c1",
+      "title": "业内首个 AI-eSIM 产业协同平台成立",
+      "url": "https://www.gelonghui.com/live/2536725",
+      "primary_url": "https://www.gelonghui.com/live/2536725",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "5f61aaf580c520ae60ac99dcc0f64902597160fe",
+          "title": "业内首个 AI-eSIM 产业协同平台成立",
+          "url": "https://www.gelonghui.com/live/2536725",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T07:20:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5f61aaf580c520ae60ac99dcc0f64902597160fe",
+          "title": "业内首个 AI-eSIM 产业协同平台成立",
+          "url": "https://www.gelonghui.com/live/2536725",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T07:20:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T07:20:31Z",
+      "latest_at": "2026-07-04T07:30:49.821097Z",
+      "primary_item": {
+        "id": "5f61aaf580c520ae60ac99dcc0f64902597160fe",
+        "title": "业内首个 AI-eSIM 产业协同平台成立",
+        "url": "https://www.gelonghui.com/live/2536725",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_5fa8133bc14c",
+      "title": "Leanstral 1.5：面向所有人的丰富性证明",
+      "url": "https://mistral.ai/news/leanstral-1-5",
+      "primary_url": "https://mistral.ai/news/leanstral-1-5",
+      "source": "mistral.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "a28ad85e2f46382eea59a5d125b45c7678ea34fb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明 / Leanstral 1.5: Proof abundance for all",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T03:03:37.023000Z"
+        },
+        {
+          "id": "a28ad85e2f46382eea59a5d125b45c7678ea34fb",
+          "title": "Leanstral 1.5：面向所有人的丰富性证明 / Leanstral 1.5: Proof abundance for all",
+          "url": "https://mistral.ai/news/leanstral-1-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:33:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5109,
+      "importance": 0.5109,
+      "importance_score": 0.5109,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8144,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T22:33:10Z",
+      "latest_at": "2026-07-04T03:03:37.023000Z",
+      "primary_item": {
+        "id": "253c9ee432cf664c751b1868ca838f869ff541cb",
+        "title": "Leanstral 1.5：面向所有人的丰富性证明",
+        "url": "https://mistral.ai/news/leanstral-1-5",
+        "source": "mistral.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b7e86ff92336",
+      "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "primary_url": "https://www.wafer.ai/blog/glm52-amd",
+      "source": "www.wafer.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T02:31:35.646000Z"
+        },
+        {
+          "id": "b986b1f1bad4ec4a98858ccd0d413cec6f0f82d5",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T21:49:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.wafer.ai"
+      ],
+      "items": [
+        {
+          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T02:31:35.646000Z"
+        },
+        {
+          "id": "b986b1f1bad4ec4a98858ccd0d413cec6f0f82d5",
+          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
+          "url": "https://www.wafer.ai/blog/glm52-amd",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T21:49:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7922,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:49:06Z",
+      "latest_at": "2026-07-04T02:31:35.646000Z",
+      "primary_item": {
+        "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
+        "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
+        "url": "https://www.wafer.ai/blog/glm52-amd",
+        "source": "www.wafer.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1225,14 +818,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.4819,
+      "importance": 0.4819,
+      "importance_score": 0.4819,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.5446,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1247,6 +840,84 @@
         "url": "https://news.ycombinator.com/item?id=48777144",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_17fc9c6b8121",
+      "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+      "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T22:47:55.026000Z"
+        },
+        {
+          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T20:27:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T22:47:55.026000Z"
+        },
+        {
+          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
+          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T20:27:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4754,
+      "importance": 0.4754,
+      "importance_score": 0.4754,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6369,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T20:27:34Z",
+      "latest_at": "2026-07-03T22:47:55.026000Z",
+      "primary_item": {
+        "id": "69ce6334123f06d08a596817abda7f041e1fd040",
+        "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
+        "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1322,14 +993,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.467,
+      "importance": 0.467,
+      "importance_score": 0.467,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9258,
+        "recency": 0.4701,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1343,6 +1014,569 @@
         "title": "Jamesob 的本地运行 SOTA 大型语言模型指南",
         "url": "https://github.com/jamesob/local-llm",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2136c92701f5",
+      "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "primary_url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "source": "inpreparation.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "245757b598ca847002d17893283fa6c037edb6fd",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "inpreparation.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T20:23:50.986000Z"
+        },
+        {
+          "id": "d6d4c4621e609f86ec50ca15896cef948ed601ec",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T17:46:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "inpreparation.substack.com"
+      ],
+      "items": [
+        {
+          "id": "245757b598ca847002d17893283fa6c037edb6fd",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "inpreparation.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T20:23:50.986000Z"
+        },
+        {
+          "id": "d6d4c4621e609f86ec50ca15896cef948ed601ec",
+          "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025） / I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+          "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T17:46:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4554,
+      "importance": 0.4554,
+      "importance_score": 0.4554,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5368,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T17:46:10Z",
+      "latest_at": "2026-07-03T20:23:50.986000Z",
+      "primary_item": {
+        "id": "245757b598ca847002d17893283fa6c037edb6fd",
+        "title": "在我的“粉笔课”上，我不被允许向ChatGPT下达指令：这是歧视（2025）",
+        "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+        "source": "inpreparation.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8efe66f6c2e3",
+      "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
+      "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+      "primary_url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "b23399df6cec0ab3e3dd64ccea21265fc1ea20d0",
+          "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
+          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T21:42:19Z"
+        },
+        {
+          "id": "3e8cfdde29d4b9e13adb09f9cd0385d2e0dced05",
+          "title": "再见，永远，大概吧 / Goodebye Forever Probably: Why I’m leaving developer relations",
+          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T12:27:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "b23399df6cec0ab3e3dd64ccea21265fc1ea20d0",
+          "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
+          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T21:42:19Z"
+        },
+        {
+          "id": "3e8cfdde29d4b9e13adb09f9cd0385d2e0dced05",
+          "title": "再见，永远，大概吧 / Goodebye Forever Probably: Why I’m leaving developer relations",
+          "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T12:27:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4663,
+      "importance": 0.4663,
+      "importance_score": 0.4663,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5913,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T12:27:23Z",
+      "latest_at": "2026-07-03T21:42:19Z",
+      "primary_item": {
+        "id": "b23399df6cec0ab3e3dd64ccea21265fc1ea20d0",
+        "title": "再见，永远，大概吧 / Goodbye, Forever, Probably",
+        "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b21c281561e9",
+      "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.711000Z"
+        },
+        {
+          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
+          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T15:51:47.909000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.711000Z"
+        },
+        {
+          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
+          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T15:51:47.909000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4265,
+      "importance": 0.4265,
+      "importance_score": 0.4265,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3924,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:51:47.909000Z",
+      "latest_at": "2026-07-03T16:55:50.711000Z",
+      "primary_item": {
+        "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+        "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9c241fb43bc9",
+      "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "primary_url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
+          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2e072617880966c376984c0063b46b286f706f04",
+          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T15:39:28.744000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
+          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2e072617880966c376984c0063b46b286f706f04",
+          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T15:39:28.744000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4186,
+      "importance": 0.4186,
+      "importance_score": 0.4186,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3532,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:39:28.744000Z",
+      "latest_at": "2026-07-03T15:59:26.965151Z",
+      "primary_item": {
+        "id": "1c1ee53338a039a48abe9824358713d558495ed1",
+        "title": "人类学 / 克劳德代码 / anthropics / claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c8aa0f752ce9",
+      "title": "克劳德，请别再试图背诵那些乱七八糟的东西了 / Claude, please stop trying to memorize random crap",
+      "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+      "primary_url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "961f7221e0ab542a713301a1b56b92049285e81b",
+          "title": "克劳德，请别再试图背诵那些乱七八糟的东西了 / Claude, please stop trying to memorize random crap",
+          "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T15:32:51Z"
+        },
+        {
+          "id": "9cbbb7e3df56a87ff8f59c91a7651c20ad0c46c7",
+          "title": "克劳德，请别再试图背诵那些乱七八糟的东西了 / Memorizing session transcripts isn't useful",
+          "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T15:32:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "961f7221e0ab542a713301a1b56b92049285e81b",
+          "title": "克劳德，请别再试图背诵那些乱七八糟的东西了 / Claude, please stop trying to memorize random crap",
+          "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T15:32:51Z"
+        },
+        {
+          "id": "9cbbb7e3df56a87ff8f59c91a7651c20ad0c46c7",
+          "title": "克劳德，请别再试图背诵那些乱七八糟的东西了 / Memorizing session transcripts isn't useful",
+          "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T15:32:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4149,
+      "importance": 0.4149,
+      "importance_score": 0.4149,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3347,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:32:51Z",
+      "latest_at": "2026-07-03T15:32:51Z",
+      "primary_item": {
+        "id": "961f7221e0ab542a713301a1b56b92049285e81b",
+        "title": "克劳德，请别再试图背诵那些乱七八糟的东西了 / Claude, please stop trying to memorize random crap",
+        "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_e6b26c6de744",
+      "title": "Show HN：TaskPeace – 我的 AI 编码代理通过 MCP 提取工作的任务队列 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+      "url": "https://news.ycombinator.com/item?id=48775484",
+      "primary_url": "https://news.ycombinator.com/item?id=48775484",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bb3661da8d7e427d85b96c5feda0beb50479e851",
+          "title": "Show HN：TaskPeace – 我的 AI 编码代理通过 MCP 提取工作的任务队列 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+          "url": "https://news.ycombinator.com/item?id=48775484",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T15:59:55.605000Z"
+        },
+        {
+          "id": "dd0262f0f2d0b8d4ca4b6f2f3122ddc2c3b8c7cc",
+          "title": "Show HN: TaskPeace——一个任务队列，我的AI编程代理通过MCP从中提取工作",
+          "url": "https://taskpeace.com",
+          "source": "taskpeace.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T14:31:55.295000Z"
+        },
+        {
+          "id": "655ef37f0acbf3768bae1d2965a467cb3f504bcf",
+          "title": "Show HN: TaskPeace——一个任务队列，我的AI编程代理通过MCP从中提取工作 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+          "url": "https://taskpeace.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T14:27:26Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "taskpeace.com"
+      ],
+      "items": [
+        {
+          "id": "bb3661da8d7e427d85b96c5feda0beb50479e851",
+          "title": "Show HN：TaskPeace – 我的 AI 编码代理通过 MCP 提取工作的任务队列 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+          "url": "https://news.ycombinator.com/item?id=48775484",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T15:59:55.605000Z"
+        },
+        {
+          "id": "dd0262f0f2d0b8d4ca4b6f2f3122ddc2c3b8c7cc",
+          "title": "Show HN: TaskPeace——一个任务队列，我的AI编程代理通过MCP从中提取工作",
+          "url": "https://taskpeace.com",
+          "source": "taskpeace.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T14:31:55.295000Z"
+        },
+        {
+          "id": "655ef37f0acbf3768bae1d2965a467cb3f504bcf",
+          "title": "Show HN: TaskPeace——一个任务队列，我的AI编程代理通过MCP从中提取工作 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+          "url": "https://taskpeace.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T14:27:26Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4437,
+      "importance": 0.4437,
+      "importance_score": 0.4437,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3535,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T14:27:26Z",
+      "latest_at": "2026-07-03T15:59:55.605000Z",
+      "primary_item": {
+        "id": "bb3661da8d7e427d85b96c5feda0beb50479e851",
+        "title": "Show HN：TaskPeace – 我的 AI 编码代理通过 MCP 提取工作的任务队列 / Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+        "url": "https://news.ycombinator.com/item?id=48775484",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_9b40a0a6a0ae",
+      "title": "请停止这场关于人工智能的“自信秀”",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "primary_url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "source": "www.elenaverna.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
+          "title": "请停止这场关于人工智能的“自信秀”",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "www.elenaverna.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T14:31:55.291000Z"
+        },
+        {
+          "id": "e57ec620f64951bfc9f616e3ef61f05e76966e5b",
+          "title": "请停止这场关于人工智能的“自信秀” / Please stop the AI confidence theater",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T12:51:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.elenaverna.com"
+      ],
+      "items": [
+        {
+          "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
+          "title": "请停止这场关于人工智能的“自信秀”",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "www.elenaverna.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T14:31:55.291000Z"
+        },
+        {
+          "id": "e57ec620f64951bfc9f616e3ef61f05e76966e5b",
+          "title": "请停止这场关于人工智能的“自信秀” / Please stop the AI confidence theater",
+          "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T12:51:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4065,
+      "importance": 0.4065,
+      "importance_score": 0.4065,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2924,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T12:51:17Z",
+      "latest_at": "2026-07-03T14:31:55.291000Z",
+      "primary_item": {
+        "id": "81fb5e4eca19f694b17c71171af8c357aa3517b6",
+        "title": "请停止这场关于人工智能的“自信秀”",
+        "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+        "source": "www.elenaverna.com",
         "source_name": "Buzzing"
       }
     },
@@ -1400,14 +1634,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.4568,
+      "importance": 0.4568,
+      "importance_score": 0.4568,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.5442,
         "story_heat": 0.25
       },
       "category": "watch",
