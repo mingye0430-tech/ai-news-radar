@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-05T15:01:20.124056Z",
+  "generated_at": "2026-07-05T20:01:03.315190Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0101-4605-baae-5a6c8726b42e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0101-4605-baae-5a6c8726b42e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0601-2446-9c95-ca182d2fef97&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0601-2446-9c95-ca182d2fef97&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ff73220a447dcb3d01275d7505edc2b88a1bf927",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0601-2446-9c95-ca182d2fef97&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "789e01fb9f967a7d85093a3338c0eb93dae36eeb",
           "title": "点击这里进入 / Click here to enter",
@@ -42,15 +51,6 @@
           "id": "bb5a411ecf4b6df7983230fc1c9cbd83b8638395",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0615-035b-b691-1d8f3ad9119a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "79fabaaf3202777a1288c559cea75aac68d72c00",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0146-5522-8899-7fb499f4768b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -63,6 +63,15 @@
       ],
       "items": [
         {
+          "id": "ff73220a447dcb3d01275d7505edc2b88a1bf927",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0601-2446-9c95-ca182d2fef97&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "789e01fb9f967a7d85093a3338c0eb93dae36eeb",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0101-4605-baae-5a6c8726b42e&fp=-3",
@@ -93,15 +102,6 @@
           "id": "bb5a411ecf4b6df7983230fc1c9cbd83b8638395",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0615-035b-b691-1d8f3ad9119a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "79fabaaf3202777a1288c559cea75aac68d72c00",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0146-5522-8899-7fb499f4768b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,59 +126,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-04T15:46:27.771025Z",
-      "latest_at": "2026-07-05T15:01:20.124056Z",
+      "earliest_at": "2026-07-04T20:14:40.319452Z",
+      "latest_at": "2026-07-05T20:01:03.315190Z",
       "primary_item": {
-        "id": "789e01fb9f967a7d85093a3338c0eb93dae36eeb",
+        "id": "ff73220a447dcb3d01275d7505edc2b88a1bf927",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0101-4605-baae-5a6c8726b42e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0601-2446-9c95-ca182d2fef97&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_0b64a3f633dc",
-      "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-      "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-      "primary_url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_11c31828bc25",
+      "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+      "url": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73",
+      "primary_url": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "276ec98aec3247ced1a889b0d0a819a5f74e9cea",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-          "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-          "source": "MarkTechPost（RSS）",
+          "id": "7f925c7826d574e895e8a64a77ef588cfa1e7002",
+          "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+          "url": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-05T07:50:19Z"
+          "published_at": "2026-07-05T18:19:42Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "276ec98aec3247ced1a889b0d0a819a5f74e9cea",
-          "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-          "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-          "source": "MarkTechPost（RSS）",
+          "id": "7f925c7826d574e895e8a64a77ef588cfa1e7002",
+          "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+          "url": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-05T07:50:19Z"
+          "published_at": "2026-07-05T18:19:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7007,
+        "recency": 0.9296,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -186,14 +186,644 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-05T07:50:19Z",
-      "latest_at": "2026-07-05T07:50:19Z",
+      "earliest_at": "2026-07-05T18:19:42Z",
+      "latest_at": "2026-07-05T18:19:42Z",
       "primary_item": {
-        "id": "276ec98aec3247ced1a889b0d0a819a5f74e9cea",
-        "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-        "url": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-        "source": "MarkTechPost（RSS）",
+        "id": "7f925c7826d574e895e8a64a77ef588cfa1e7002",
+        "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+        "url": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f5e12041245c",
+      "title": "三周前，我不小心创办了一家小公司",
+      "url": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
+      "primary_url": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4fc7ae25661b8ec6936905a2b94999acf114da6f",
+          "title": "三周前，我不小心创办了一家小公司",
+          "url": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T17:43:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "4fc7ae25661b8ec6936905a2b94999acf114da6f",
+          "title": "三周前，我不小心创办了一家小公司",
+          "url": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T17:43:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9048,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T17:43:57Z",
+      "latest_at": "2026-07-05T17:43:57Z",
+      "primary_item": {
+        "id": "4fc7ae25661b8ec6936905a2b94999acf114da6f",
+        "title": "三周前，我不小心创办了一家小公司",
+        "url": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_61d157d55656",
+      "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+      "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+      "primary_url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98f6ce5592bc9fe24c91cc7d203b30e905c2a9fc",
+          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+          "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T14:00:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：美团 LongCat (@Meituan_LongCat)"
+      ],
+      "items": [
+        {
+          "id": "98f6ce5592bc9fe24c91cc7d203b30e905c2a9fc",
+          "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+          "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+          "source": "X：美团 LongCat (@Meituan_LongCat)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T14:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7495,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T14:00:18Z",
+      "latest_at": "2026-07-05T14:00:18Z",
+      "primary_item": {
+        "id": "98f6ce5592bc9fe24c91cc7d203b30e905c2a9fc",
+        "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+        "url": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+        "source": "X：美团 LongCat (@Meituan_LongCat)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bd60b049e710",
+      "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
+      "url": "https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr",
+      "primary_url": "https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1cac117d7914f940bc9b6698df709e70ada24ba8",
+          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
+          "url": "https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T16:23:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "1cac117d7914f940bc9b6698df709e70ada24ba8",
+          "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
+          "url": "https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T16:23:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8491,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T16:23:44Z",
+      "latest_at": "2026-07-05T16:23:44Z",
+      "primary_item": {
+        "id": "1cac117d7914f940bc9b6698df709e70ada24ba8",
+        "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
+        "url": "https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c70a2bc311d2",
+      "title": "Anthropic Claude Design 反向工程提示词开源更新",
+      "url": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs",
+      "primary_url": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30336715f85dc1b4faab3dc492a50862e9e0056f",
+          "title": "Anthropic Claude Design 反向工程提示词开源更新",
+          "url": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T15:35:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "30336715f85dc1b4faab3dc492a50862e9e0056f",
+          "title": "Anthropic Claude Design 反向工程提示词开源更新",
+          "url": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T15:35:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8157,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T15:35:42Z",
+      "latest_at": "2026-07-05T15:35:42Z",
+      "primary_item": {
+        "id": "30336715f85dc1b4faab3dc492a50862e9e0056f",
+        "title": "Anthropic Claude Design 反向工程提示词开源更新",
+        "url": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_655bb15bb133",
+      "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+      "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872798.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
+          "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d5eceb0b967ea1e2ec7946c77c5dbea9753ea313",
+          "title": "AI教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T16:07:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
+          "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d5eceb0b967ea1e2ec7946c77c5dbea9753ea313",
+          "title": "AI教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+          "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T16:07:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T16:07:34Z",
+      "latest_at": "2026-07-05T20:01:03.315190Z",
+      "primary_item": {
+        "id": "6d6ee69cefb0f868f13eea5074311954a6784de4",
+        "title": "AI 教育焦虑：中国家长疯狂加码的方向，美国富人却正在退出",
+        "url": "https://www.huxiu.com/article/4872798.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c39b7836f50e",
+      "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+      "url": "https://news.ycombinator.com/item?id=48795830",
+      "primary_url": "https://news.ycombinator.com/item?id=48795830",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b669ca238626c4ad31a2ebf1d9ff835745e71dbb",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://news.ycombinator.com/item?id=48795830",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:45:38.111000Z"
+        },
+        {
+          "id": "d109d47fc34e928875a0985651d346998cce9a4b",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b669ca238626c4ad31a2ebf1d9ff835745e71dbb",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://news.ycombinator.com/item?id=48795830",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:45:38.111000Z"
+        },
+        {
+          "id": "d109d47fc34e928875a0985651d346998cce9a4b",
+          "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+          "url": "https://arxiv.org/abs/2602.09239",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T17:05:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9893,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T17:05:57Z",
+      "latest_at": "2026-07-05T19:45:38.111000Z",
+      "primary_item": {
+        "id": "b669ca238626c4ad31a2ebf1d9ff835745e71dbb",
+        "title": "人工智能驱动的智能家居设备的社会技术威胁模型 / A sociotechnical threat model for AI-driven smart home devices",
+        "url": "https://news.ycombinator.com/item?id=48795830",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b97dfb6a3918",
+      "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "primary_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "source": "techcrunch.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "12a29fe9116b312175b4ae0f0098cf08888ecae1",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T19:03:35.047000Z"
+        },
+        {
+          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T17:05:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "12a29fe9116b312175b4ae0f0098cf08888ecae1",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T19:03:35.047000Z"
+        },
+        {
+          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
+          "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T17:05:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9601,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T17:05:35Z",
+      "latest_at": "2026-07-05T19:03:35.047000Z",
+      "primary_item": {
+        "id": "12a29fe9116b312175b4ae0f0098cf08888ecae1",
+        "title": "马克·扎克伯格告诉员工，人工智能代理的发展还不够成熟",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+        "source": "techcrunch.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_54e97f468046",
+      "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://news.ycombinator.com/item?id=48796817",
+      "primary_url": "https://news.ycombinator.com/item?id=48796817",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:45:38.111000Z"
+        },
+        {
+          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T18:47:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:45:38.111000Z"
+        },
+        {
+          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T18:47:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9893,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T18:47:43Z",
+      "latest_at": "2026-07-05T19:45:38.111000Z",
+      "primary_item": {
+        "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+        "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+        "url": "https://news.ycombinator.com/item?id=48796817",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_44de5f528adc",
+      "title": "Claude 设计系统提示词",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "primary_url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T15:35:42.919000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+          "title": "Claude 设计系统提示词",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T15:35:42.919000Z"
+        },
+        {
+          "id": "f87a36d546cd99be1223bb000e95ea2562d07032",
+          "title": "Claude 设计系统提示词 / Claude Design System Prompt",
+          "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T08:43:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8157,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T08:43:37Z",
+      "latest_at": "2026-07-05T15:35:42.919000Z",
+      "primary_item": {
+        "id": "556d990e0610ac068dc5c497c1dd8680c8cf4c91",
+        "title": "Claude 设计系统提示词",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -250,14 +880,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7922,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -275,79 +905,79 @@
       }
     },
     {
-      "story_id": "story_d7e88052ae44",
-      "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-      "url": "https://news.ycombinator.com/item?id=48793298",
-      "primary_url": "https://news.ycombinator.com/item?id=48793298",
+      "story_id": "story_d900ec4b1bf6",
+      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "url": "https://news.ycombinator.com/item?id=48795174",
+      "primary_url": "https://news.ycombinator.com/item?id=48795174",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://news.ycombinator.com/item?id=48793298",
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T14:44:55.515000Z"
+          "published_at": "2026-07-05T19:45:38.111000Z"
         },
         {
-          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://prediohq.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T11:30:14Z"
+          "id": "beba3808a000a315f1f8f8bb714f70221af855f6",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T15:49:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://news.ycombinator.com/item?id=48793298",
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T14:44:55.515000Z"
+          "published_at": "2026-07-05T19:45:38.111000Z"
         },
         {
-          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://prediohq.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T11:30:14Z"
+          "id": "beba3808a000a315f1f8f8bb714f70221af855f6",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T15:49:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5457,
-      "importance": 0.5457,
-      "importance_score": 0.5457,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9886,
+        "recency": 0.9893,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T11:30:14Z",
-      "latest_at": "2026-07-05T14:44:55.515000Z",
+      "earliest_at": "2026-07-05T15:49:18Z",
+      "latest_at": "2026-07-05T19:45:38.111000Z",
       "primary_item": {
-        "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
-        "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-        "url": "https://news.ycombinator.com/item?id=48793298",
+        "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+        "url": "https://news.ycombinator.com/item?id=48795174",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -406,14 +1036,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7922,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -484,14 +1114,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.4756,
+      "importance": 0.4756,
+      "importance_score": 0.4756,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8461,
+        "recency": 0.6379,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -562,14 +1192,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
+      "score": 0.4627,
+      "importance": 0.4627,
+      "importance_score": 0.4627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7814,
+        "recency": 0.5733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -587,30 +1217,30 @@
       }
     },
     {
-      "story_id": "story_f2aca3c59c5e",
-      "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://news.ycombinator.com/item?id=48791708",
-      "primary_url": "https://news.ycombinator.com/item?id=48791708",
+      "story_id": "story_d7e88052ae44",
+      "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+      "url": "https://news.ycombinator.com/item?id=48793298",
+      "primary_url": "https://news.ycombinator.com/item?id=48793298",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://news.ycombinator.com/item?id=48791708",
+          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://news.ycombinator.com/item?id=48793298",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T09:35:39.265000Z"
+          "published_at": "2026-07-05T14:44:55.515000Z"
         },
         {
-          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://prediohq.com",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T06:19:34Z"
+          "published_at": "2026-07-05T11:30:14Z"
         }
       ],
       "source_count": 2,
@@ -620,48 +1250,125 @@
       ],
       "items": [
         {
-          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://news.ycombinator.com/item?id=48791708",
+          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://news.ycombinator.com/item?id=48793298",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T09:35:39.265000Z"
+          "published_at": "2026-07-05T14:44:55.515000Z"
         },
         {
-          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
-          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
+          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+          "url": "https://prediohq.com",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T06:19:34Z"
+          "published_at": "2026-07-05T11:30:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5028,
-      "importance": 0.5028,
-      "importance_score": 0.5028,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7738,
+        "recency": 0.7805,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T06:19:34Z",
-      "latest_at": "2026-07-05T09:35:39.265000Z",
+      "earliest_at": "2026-07-05T11:30:14Z",
+      "latest_at": "2026-07-05T14:44:55.515000Z",
       "primary_item": {
-        "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
-        "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "url": "https://news.ycombinator.com/item?id=48791708",
+        "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
+        "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+        "url": "https://news.ycombinator.com/item?id=48793298",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_212c09bd917e",
+      "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+      "url": "https://www.cggonzalez.com/blog/index.html",
+      "primary_url": "https://www.cggonzalez.com/blog/index.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
+          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+          "url": "https://www.cggonzalez.com/blog/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:22:15Z"
+        },
+        {
+          "id": "e3a40c848379619601668a5028136a155dfa63ab",
+          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
+          "url": "https://www.cggonzalez.com/blog/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:22:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
+          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+          "url": "https://www.cggonzalez.com/blog/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:22:15Z"
+        },
+        {
+          "id": "e3a40c848379619601668a5028136a155dfa63ab",
+          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
+          "url": "https://www.cggonzalez.com/blog/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:22:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3759,
+      "importance": 0.3759,
+      "importance_score": 0.3759,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1397,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T23:22:15Z",
+      "latest_at": "2026-07-04T23:22:15Z",
+      "primary_item": {
+        "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
+        "title": "无人机自主 (2021) / Drone Autonomy (2021)",
+        "url": "https://www.cggonzalez.com/blog/index.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -737,14 +1444,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4466,
-      "importance": 0.4466,
-      "importance_score": 0.4466,
+      "score": 0.405,
+      "importance": 0.405,
+      "importance_score": 0.405,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3682,
+        "recency": 0.1601,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -762,235 +1469,81 @@
       }
     },
     {
-      "story_id": "story_212c09bd917e",
-      "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-      "url": "https://www.cggonzalez.com/blog/index.html",
-      "primary_url": "https://www.cggonzalez.com/blog/index.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_f2aca3c59c5e",
+      "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://news.ycombinator.com/item?id=48791708",
+      "primary_url": "https://news.ycombinator.com/item?id=48791708",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
+          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://news.ycombinator.com/item?id=48791708",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T09:35:39.265000Z"
         },
         {
-          "id": "e3a40c848379619601668a5028136a155dfa63ab",
-          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        },
-        {
-          "id": "e3a40c848379619601668a5028136a155dfa63ab",
-          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4176,
-      "importance": 0.4176,
-      "importance_score": 0.4176,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3479,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T23:22:15Z",
-      "latest_at": "2026-07-04T23:22:15Z",
-      "primary_item": {
-        "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-        "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-        "url": "https://www.cggonzalez.com/blog/index.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_5f09d23ce6db",
-      "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-      "url": "https://www.eso.org/public/news/eso2607",
-      "primary_url": "https://www.eso.org/public/news/eso2607",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
-        },
-        {
-          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
-        },
-        {
-          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
-          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
-          "url": "https://www.eso.org/public/news/eso2607",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T17:17:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3669,
-      "importance": 0.3669,
-      "importance_score": 0.3669,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0945,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T17:17:28Z",
-      "latest_at": "2026-07-04T17:17:28Z",
-      "primary_item": {
-        "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
-        "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
-        "url": "https://www.eso.org/public/news/eso2607",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_abc36e33f856",
-      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
+          "published_at": "2026-07-05T06:19:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://news.ycombinator.com/item?id=48791708",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T09:35:39.265000Z"
         },
         {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "e52a5f7ae06864522d204c163e791224f1400c14",
+          "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+          "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
+          "published_at": "2026-07-05T06:19:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3543,
-      "importance": 0.3543,
-      "importance_score": 0.3543,
+      "score": 0.4611,
+      "importance": 0.4611,
+      "importance_score": 0.4611,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0313,
+        "recency": 0.5657,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T15:19:14Z",
-      "latest_at": "2026-07-04T15:46:27.771025Z",
+      "earliest_at": "2026-07-05T06:19:34Z",
+      "latest_at": "2026-07-05T09:35:39.265000Z",
       "primary_item": {
-        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "1bf1f2e4e9babf26514c5f052c2356974b124e67",
+        "title": "sqlite-utils 4.0rc2，主要由 Claude Fable 编写（约 149.25 美元） / sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "url": "https://news.ycombinator.com/item?id=48791708",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
