@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-05T20:01:03.315190Z",
+  "generated_at": "2026-07-06T00:15:59.094166Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0601-2446-9c95-ca182d2fef97&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-0601-2446-9c95-ca182d2fef97&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1016-26fe-97f5-48e777c96f90&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260706-1016-26fe-97f5-48e777c96f90&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "c7815e36b4d6bfde2a036fe87f04476fcbe8230e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1016-26fe-97f5-48e777c96f90&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ff73220a447dcb3d01275d7505edc2b88a1bf927",
           "title": "点击这里进入 / Click here to enter",
@@ -37,32 +46,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "5e8da8947d2245de7e13754fd589abaa82a2f018",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0947-072e-bb5f-8a0eba93e511&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "bb5a411ecf4b6df7983230fc1c9cbd83b8638395",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0615-035b-b691-1d8f3ad9119a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "c7815e36b4d6bfde2a036fe87f04476fcbe8230e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1016-26fe-97f5-48e777c96f90&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ff73220a447dcb3d01275d7505edc2b88a1bf927",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0601-2446-9c95-ca182d2fef97&fp=-3",
@@ -88,37 +88,19 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "5e8da8947d2245de7e13754fd589abaa82a2f018",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0947-072e-bb5f-8a0eba93e511&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "bb5a411ecf4b6df7983230fc1c9cbd83b8638395",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0615-035b-b691-1d8f3ad9119a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.912,
-      "importance": 0.912,
-      "importance_score": 0.912,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.887,
+      "importance": 0.887,
+      "importance_score": 0.887,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 1.0
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -126,14 +108,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-04T20:14:40.319452Z",
-      "latest_at": "2026-07-05T20:01:03.315190Z",
+      "earliest_at": "2026-07-05T09:46:33.767102Z",
+      "latest_at": "2026-07-06T00:15:59.094166Z",
       "primary_item": {
-        "id": "ff73220a447dcb3d01275d7505edc2b88a1bf927",
+        "id": "c7815e36b4d6bfde2a036fe87f04476fcbe8230e",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-0601-2446-9c95-ca182d2fef97&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1016-26fe-97f5-48e777c96f90&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_259e5e743312",
+      "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+      "url": "https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei",
+      "primary_url": "https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a3db686a06060263592253761d45737bbe13a8e0",
+          "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+          "url": "https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T21:00:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：SemiAnalysis (@SemiAnalysis_)"
+      ],
+      "items": [
+        {
+          "id": "a3db686a06060263592253761d45737bbe13a8e0",
+          "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+          "url": "https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T21:00:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8642,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T21:00:27Z",
+      "latest_at": "2026-07-05T21:00:27Z",
+      "primary_item": {
+        "id": "a3db686a06060263592253761d45737bbe13a8e0",
+        "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+        "url": "https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei",
+        "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -171,14 +213,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -231,14 +273,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9048,
+        "recency": 0.7278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -291,20 +333,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7495,
+        "recency": 0.5724,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T14:00:18Z",
       "latest_at": "2026-07-05T14:00:18Z",
@@ -351,20 +392,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8491,
+        "recency": 0.672,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T16:23:44Z",
       "latest_at": "2026-07-05T16:23:44Z",
@@ -411,20 +451,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8157,
+        "recency": 0.6387,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-05T15:35:42Z",
       "latest_at": "2026-07-05T15:35:42Z",
@@ -434,6 +473,103 @@
         "url": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_54e97f468046",
+      "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "primary_url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "source": "intextbooks.science.uu.nl",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
+          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "intextbooks.science.uu.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T22:31:42.105000Z"
+        },
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:45:38.111000Z"
+        },
+        {
+          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
+          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T18:47:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "intextbooks.science.uu.nl"
+      ],
+      "items": [
+        {
+          "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
+          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "intextbooks.science.uu.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T22:31:42.105000Z"
+        },
+        {
+          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
+          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48796817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T19:45:38.111000Z"
+        },
+        {
+          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
+          "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T18:47:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5585,
+      "importance": 0.5585,
+      "importance_score": 0.5585,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9276,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T18:47:43Z",
+      "latest_at": "2026-07-05T22:31:42.105000Z",
+      "primary_item": {
+        "id": "cbd9023f9cffd7ae91a258d8ec3b241d5d511c34",
+        "title": "达特茅斯大学的一门课程中，新型AI辅导系统实现了0.71-1.30个标准差的效果量 [pdf]",
+        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+        "source": "intextbooks.science.uu.nl",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -490,14 +626,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.823,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -568,14 +704,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5459,
-      "importance": 0.5459,
-      "importance_score": 0.5459,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.8123,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -646,14 +782,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9601,
+        "recency": 0.7831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -671,79 +807,79 @@
       }
     },
     {
-      "story_id": "story_54e97f468046",
-      "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://news.ycombinator.com/item?id=48796817",
-      "primary_url": "https://news.ycombinator.com/item?id=48796817",
+      "story_id": "story_d900ec4b1bf6",
+      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "url": "https://news.ycombinator.com/item?id=48795174",
+      "primary_url": "https://news.ycombinator.com/item?id=48795174",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-05T19:45:38.111000Z"
         },
         {
-          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T18:47:43Z"
+          "id": "beba3808a000a315f1f8f8bb714f70221af855f6",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T15:49:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48796817",
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-05T19:45:38.111000Z"
         },
         {
-          "id": "d3e8e6b94371e751f27f8fe7579a7b3685b4c70c",
-          "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T18:47:43Z"
+          "id": "beba3808a000a315f1f8f8bb714f70221af855f6",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T15:49:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5459,
-      "importance": 0.5459,
-      "importance_score": 0.5459,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.8123,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T18:47:43Z",
+      "earliest_at": "2026-07-05T15:49:18Z",
       "latest_at": "2026-07-05T19:45:38.111000Z",
       "primary_item": {
-        "id": "93e508fa2d6f9a9a8b029efb4b73976a39b41c31",
-        "title": "新的人工智能导师在达特茅斯课程中实现了 0.71-1.30 SD 效果大小 [pdf] / New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-        "url": "https://news.ycombinator.com/item?id=48796817",
+        "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+        "url": "https://news.ycombinator.com/item?id=48795174",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -802,14 +938,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5111,
-      "importance": 0.5111,
-      "importance_score": 0.5111,
+      "score": 0.4757,
+      "importance": 0.4757,
+      "importance_score": 0.4757,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8157,
+        "recency": 0.6387,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -880,14 +1016,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
+      "score": 0.471,
+      "importance": 0.471,
+      "importance_score": 0.471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7922,
+        "recency": 0.6152,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -901,84 +1037,6 @@
         "title": "hesreallyhim / 很棒的克劳德代码 / hesreallyhim /      awesome-claude-code",
         "url": "https://github.com/hesreallyhim/awesome-claude-code",
         "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d900ec4b1bf6",
-      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-      "url": "https://news.ycombinator.com/item?id=48795174",
-      "primary_url": "https://news.ycombinator.com/item?id=48795174",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T19:45:38.111000Z"
-        },
-        {
-          "id": "beba3808a000a315f1f8f8bb714f70221af855f6",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T15:49:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T19:45:38.111000Z"
-        },
-        {
-          "id": "beba3808a000a315f1f8f8bb714f70221af855f6",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-05T15:49:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5459,
-      "importance": 0.5459,
-      "importance_score": 0.5459,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9893,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T15:49:18Z",
-      "latest_at": "2026-07-05T19:45:38.111000Z",
-      "primary_item": {
-        "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-        "url": "https://news.ycombinator.com/item?id=48795174",
-        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -1036,14 +1094,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
+      "score": 0.471,
+      "importance": 0.471,
+      "importance_score": 0.471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7922,
+        "recency": 0.6152,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1114,14 +1172,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4756,
-      "importance": 0.4756,
-      "importance_score": 0.4756,
+      "score": 0.4402,
+      "importance": 0.4402,
+      "importance_score": 0.4402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6379,
+        "recency": 0.4609,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1136,84 +1194,6 @@
         "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4a7960e33ae9",
-      "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-      "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872728.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
-          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T07:53:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
-          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
-          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T07:53:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4627,
-      "importance": 0.4627,
-      "importance_score": 0.4627,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5733,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T07:53:38Z",
-      "latest_at": "2026-07-05T09:46:33.767102Z",
-      "primary_item": {
-        "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
-        "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
-        "url": "https://www.huxiu.com/article/4872728.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1270,14 +1250,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5041,
-      "importance": 0.5041,
-      "importance_score": 0.5041,
+      "score": 0.4687,
+      "importance": 0.4687,
+      "importance_score": 0.4687,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7805,
+        "recency": 0.6034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1295,177 +1275,81 @@
       }
     },
     {
-      "story_id": "story_212c09bd917e",
-      "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-      "url": "https://www.cggonzalez.com/blog/index.html",
-      "primary_url": "https://www.cggonzalez.com/blog/index.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_4a7960e33ae9",
+      "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
+      "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872728.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
+          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
+          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
+          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "e3a40c848379619601668a5028136a155dfa63ab",
-          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
+          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
+          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
+          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T07:53:38Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-          "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
+          "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
+          "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
+          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "e3a40c848379619601668a5028136a155dfa63ab",
-          "title": "无人机自主速成课程 / Drone Autonomy Crash Course",
-          "url": "https://www.cggonzalez.com/blog/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T23:22:15Z"
+          "id": "388e8d9290d7233318daa76ca327b7a0970bfaa6",
+          "title": "别问AI像不像人了，先问它在灾难里能不能逃命",
+          "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T07:53:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3759,
-      "importance": 0.3759,
-      "importance_score": 0.3759,
+      "score": 0.4272,
+      "importance": 0.4272,
+      "importance_score": 0.4272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1397,
+        "recency": 0.3962,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T23:22:15Z",
-      "latest_at": "2026-07-04T23:22:15Z",
+      "earliest_at": "2026-07-05T07:53:38Z",
+      "latest_at": "2026-07-05T09:46:33.767102Z",
       "primary_item": {
-        "id": "102dcc9f0483b55e1961b11e0a357fce2dfb1705",
-        "title": "无人机自主 (2021) / Drone Autonomy (2021)",
-        "url": "https://www.cggonzalez.com/blog/index.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_7e9ffc3a6038",
-      "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "primary_url": "https://github.com/openai/codex/issues/30364",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1491dceae844e236964ec16492437e204db4290b",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T23:51:31.657000Z"
-        },
-        {
-          "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://news.ycombinator.com/item?id=48789428",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T23:47:10.374000Z"
-        },
-        {
-          "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T21:51:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1491dceae844e236964ec16492437e204db4290b",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T23:51:31.657000Z"
-        },
-        {
-          "id": "b7019ca39a3312db824536e584e62b72a0cdd691",
-          "title": "GPT-5.5 Codex 推理令牌聚类可能会导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://news.ycombinator.com/item?id=48789428",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T23:47:10.374000Z"
-        },
-        {
-          "id": "92cc93d4ff527a25a903102003082aff4adc32fa",
-          "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降 / GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-          "url": "https://github.com/openai/codex/issues/30364",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T21:51:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.405,
-      "importance": 0.405,
-      "importance_score": 0.405,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1601,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T21:51:09Z",
-      "latest_at": "2026-07-04T23:51:31.657000Z",
-      "primary_item": {
-        "id": "1491dceae844e236964ec16492437e204db4290b",
-        "title": "GPT-5.5 Codex 的推理令牌聚类可能导致性能下降",
-        "url": "https://github.com/openai/codex/issues/30364",
-        "source": "github.com",
-        "source_name": "Buzzing"
+        "id": "548d718e33849fa94c0a33bfa849ec44290758c7",
+        "title": "别问 AI 像不像人了，先问它在灾难里能不能逃命",
+        "url": "https://www.huxiu.com/article/4872728.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1522,14 +1406,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4611,
-      "importance": 0.4611,
-      "importance_score": 0.4611,
+      "score": 0.4257,
+      "importance": 0.4257,
+      "importance_score": 0.4257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5657,
+        "recency": 0.3887,
         "story_heat": 0.25
       },
       "category": "watch",
