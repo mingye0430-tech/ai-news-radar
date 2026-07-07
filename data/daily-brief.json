@@ -1,16 +1,86 @@
 {
-  "generated_at": "2026-07-07T18:32:34.244100Z",
+  "generated_at": "2026-07-07T22:42:39.959708Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_ca9a2a21da07",
+      "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "primary_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T21:15:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T21:15:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8729,
+      "importance": 0.8729,
+      "importance_score": 0.8729,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9395,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T21:15:33Z",
+      "latest_at": "2026-07-07T21:15:33Z",
+      "primary_item": {
+        "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
+        "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
+        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0432-55ed-8a17-790c055b1b73&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-0432-55ed-8a17-790c055b1b73&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0843-0630-95f2-281dbfd0e0f8&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-0843-0630-95f2-281dbfd0e0f8&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "cea79563119984cdbe204333660ade69018ee26b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0843-0630-95f2-281dbfd0e0f8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "84c9016f3e23a35e31456256abf5f343d81101d7",
           "title": "点击这里进入 / Click here to enter",
@@ -24,15 +94,6 @@
           "id": "59bda464cb574b994928f377e79058fed78a8f80",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2031-372d-94aa-b38e0be854a8&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "39c307f6b76ab190703c3a621f82cf2707e1ae15",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0704-34cd-80d9-08f9e77d3782&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -45,6 +106,15 @@
       ],
       "items": [
         {
+          "id": "cea79563119984cdbe204333660ade69018ee26b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0843-0630-95f2-281dbfd0e0f8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "84c9016f3e23a35e31456256abf5f343d81101d7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0432-55ed-8a17-790c055b1b73&fp=-3",
@@ -57,15 +127,6 @@
           "id": "59bda464cb574b994928f377e79058fed78a8f80",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2031-372d-94aa-b38e0be854a8&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "39c307f6b76ab190703c3a621f82cf2707e1ae15",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0704-34cd-80d9-08f9e77d3782&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -90,14 +151,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T21:04:11.967854Z",
-      "latest_at": "2026-07-07T18:32:34.244100Z",
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T22:42:39.959708Z",
       "primary_item": {
-        "id": "84c9016f3e23a35e31456256abf5f343d81101d7",
+        "id": "cea79563119984cdbe204333660ade69018ee26b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0432-55ed-8a17-790c055b1b73&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0843-0630-95f2-281dbfd0e0f8&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_7722e8723f31",
+      "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+      "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+      "primary_url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
+          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T17:09:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
+          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T17:09:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7686,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T17:09:29Z",
+      "latest_at": "2026-07-07T17:09:29Z",
+      "primary_item": {
+        "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
+        "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+        "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -135,14 +257,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8583,
-      "importance": 0.8583,
-      "importance_score": 0.8583,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8663,
+        "recency": 0.6927,
         "story_heat": 0.0
       },
       "category": "official",
@@ -159,6 +281,126 @@
         "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_db893fc62a8e",
+      "title": "Krea 2 身份保留功能上线",
+      "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+      "primary_url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
+          "title": "Krea 2 身份保留功能上线",
+          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T20:22:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
+          "title": "Krea 2 身份保留功能上线",
+          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T20:22:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9028,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T20:22:46Z",
+      "latest_at": "2026-07-07T20:22:46Z",
+      "primary_item": {
+        "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
+        "title": "Krea 2 身份保留功能上线",
+        "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+        "source": "X：Krea AI (@krea_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b39e53757bd9",
+      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+      "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+      "primary_url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI at Meta (@AIatMeta)"
+      ],
+      "items": [
+        {
+          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8689,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T19:33:53Z",
+      "latest_at": "2026-07-07T19:33:53Z",
+      "primary_item": {
+        "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
+        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+        "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+        "source": "X：AI at Meta (@AIatMeta)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -196,14 +438,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8458,
-      "importance": 0.8458,
-      "importance_score": 0.8458,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.924,
+        "recency": 0.7503,
         "story_heat": 0.0
       },
       "category": "official",
@@ -223,64 +465,63 @@
       }
     },
     {
-      "story_id": "story_5b541b9a66cd",
-      "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_87f69b1f29d7",
+      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+      "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+      "primary_url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
+          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T18:35:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
+          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T18:35:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
-      "importance_label": "官方更新",
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8595,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8287,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T15:10:14Z",
-      "latest_at": "2026-07-07T15:10:14Z",
+      "earliest_at": "2026-07-07T18:35:58Z",
+      "latest_at": "2026-07-07T18:35:58Z",
       "primary_item": {
-        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-        "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
+        "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+        "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -318,14 +559,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.7983,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -378,14 +619,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9696,
+        "recency": 0.7959,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -438,14 +679,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5982,
+        "recency": 0.4245,
         "story_heat": 0.0
       },
       "category": "official",
@@ -499,14 +740,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -559,14 +800,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9109,
+        "recency": 0.7372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,6 +823,127 @@
         "url": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c7c15137bded",
+      "title": "Rowboat：开源、本地优先的桌面AI助手",
+      "url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
+      "primary_url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d601ae53bcc4dd55d7143832535db6f647f1789a",
+          "title": "Rowboat：开源、本地优先的桌面AI助手",
+          "url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T16:10:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "d601ae53bcc4dd55d7143832535db6f647f1789a",
+          "title": "Rowboat：开源、本地优先的桌面AI助手",
+          "url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T16:10:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7278,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T16:10:44Z",
+      "latest_at": "2026-07-07T16:10:44Z",
+      "primary_item": {
+        "id": "d601ae53bcc4dd55d7143832535db6f647f1789a",
+        "title": "Rowboat：开源、本地优先的桌面AI助手",
+        "url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5b541b9a66cd",
+      "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:10:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:10:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6858,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:10:14Z",
+      "latest_at": "2026-07-07T15:10:14Z",
+      "primary_item": {
+        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+        "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -619,20 +981,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8625,
+        "recency": 0.6888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T15:14:30Z",
       "latest_at": "2026-07-07T15:14:30Z",
@@ -642,67 +1003,6 @@
         "url": "https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_18e9ce98bcc6",
-      "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-      "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-      "primary_url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8463,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T14:51:13Z",
-      "latest_at": "2026-07-07T14:51:13Z",
-      "primary_item": {
-        "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-        "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-        "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -740,20 +1040,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8453,
+        "recency": 0.6716,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T14:49:47Z",
       "latest_at": "2026-07-07T14:49:47Z",
@@ -800,20 +1099,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8211,
+        "recency": 0.6474,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T14:14:57Z",
       "latest_at": "2026-07-07T14:14:57Z",
@@ -879,21 +1177,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6657,
+        "recency": 0.492,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T10:31:07.618265Z",
       "latest_at": "2026-07-07T10:31:07.618265Z",
@@ -940,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9109,
+        "recency": 0.7372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -961,304 +1258,6 @@
         "id": "812501053a9577b46c82afe8073634f5e1650747",
         "title": "人们如何使用Claude Cowork",
         "url": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_32d22c096387",
-      "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-      "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-      "primary_url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8634,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T15:15:54Z",
-      "latest_at": "2026-07-07T15:15:54Z",
-      "primary_item": {
-        "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-        "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-        "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e16ebf254737",
-      "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-      "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-      "primary_url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-      "source": "BAIR：Berkeley AI Research Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90eebb306962cbedc161daa0b8e0e82937f28c84",
-          "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-          "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-          "source": "BAIR：Berkeley AI Research Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "BAIR：Berkeley AI Research Blog"
-      ],
-      "items": [
-        {
-          "id": "90eebb306962cbedc161daa0b8e0e82937f28c84",
-          "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-          "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-          "source": "BAIR：Berkeley AI Research Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6024,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T09:00:00Z",
-      "latest_at": "2026-07-07T09:00:00Z",
-      "primary_item": {
-        "id": "90eebb306962cbedc161daa0b8e0e82937f28c84",
-        "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-        "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-        "source": "BAIR：Berkeley AI Research Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eb05edfa90f4",
-      "title": "美国首批自主地面车辆在乌克兰参战",
-      "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-      "primary_url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f2ea86d57c0b8eaf05c69ee032b17f564c2452b",
-          "title": "美国首批自主地面车辆在乌克兰参战",
-          "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1f2ea86d57c0b8eaf05c69ee032b17f564c2452b",
-          "title": "美国首批自主地面车辆在乌克兰参战",
-          "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6024,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T09:00:00Z",
-      "latest_at": "2026-07-07T09:00:00Z",
-      "primary_item": {
-        "id": "1f2ea86d57c0b8eaf05c69ee032b17f564c2452b",
-        "title": "美国首批自主地面车辆在乌克兰参战",
-        "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_86cc7ebf8726",
-      "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
-      "url": "https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6",
-      "primary_url": "https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6",
-      "source": "Google Blog：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a4f8877509163405a3e65dd7fab5568a470ad688",
-          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
-          "url": "https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T08:54:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a4f8877509163405a3e65dd7fab5568a470ad688",
-          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
-          "url": "https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T08:54:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5982,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T08:54:00Z",
-      "latest_at": "2026-07-07T08:54:00Z",
-      "primary_item": {
-        "id": "a4f8877509163405a3e65dd7fab5568a470ad688",
-        "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
-        "url": "https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6",
-        "source": "Google Blog：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ffc133507e60",
-      "title": "在 Claude Code 中选择 Claude 模型与努力级别",
-      "url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
-      "primary_url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1aa8c90a863c58dc68ecf64cf9e5e8fdb0947cca",
-          "title": "在 Claude Code 中选择 Claude 模型与努力级别",
-          "url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T14:21:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "1aa8c90a863c58dc68ecf64cf9e5e8fdb0947cca",
-          "title": "在 Claude Code 中选择 Claude 模型与努力级别",
-          "url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T14:21:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.826,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T14:21:59Z",
-      "latest_at": "2026-07-07T14:21:59Z",
-      "primary_item": {
-        "id": "1aa8c90a863c58dc68ecf64cf9e5e8fdb0947cca",
-        "title": "在 Claude Code 中选择 Claude 模型与努力级别",
-        "url": "https://aihot.virxact.com/items/cmraqmpst004cihogf6nqkgvh",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
