@@ -1,8 +1,185 @@
 {
-  "generated_at": "2026-07-06T21:04:11.967854Z",
+  "generated_at": "2026-07-07T10:31:07.618265Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0c55289d534f",
+      "title": "点击这里进入 / Click here to enter",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2031-372d-94aa-b38e0be854a8&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260707-2031-372d-94aa-b38e0be854a8&fp=-3",
+      "source": "Page Fallback",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "59bda464cb574b994928f377e79058fed78a8f80",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2031-372d-94aa-b38e0be854a8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "39c307f6b76ab190703c3a621f82cf2707e1ae15",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0704-34cd-80d9-08f9e77d3782&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "b67b6e21543f25b0cd70ca6e550c94c9b8740542",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0009-2216-9f3a-7ed7e4bac135&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Page Fallback"
+      ],
+      "items": [
+        {
+          "id": "59bda464cb574b994928f377e79058fed78a8f80",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2031-372d-94aa-b38e0be854a8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "39c307f6b76ab190703c3a621f82cf2707e1ae15",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0704-34cd-80d9-08f9e77d3782&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "b67b6e21543f25b0cd70ca6e550c94c9b8740542",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0009-2216-9f3a-7ed7e4bac135&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-06T14:08:55.976837Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
+      "primary_item": {
+        "id": "59bda464cb574b994928f377e79058fed78a8f80",
+        "title": "点击这里进入 / Click here to enter",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2031-372d-94aa-b38e0be854a8&fp=-3",
+        "source": "Page Fallback",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_2b371a729181",
+      "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+      "url": "https://www.aibase.com/news/29432",
+      "primary_url": "https://www.aibase.com/news/29432",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.aibase.com/news/29432",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T10:31:07.618265Z"
+        },
+        {
+          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
+          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.qbitai.com/2026/07/445184.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+          "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.aibase.com/news/29432",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T10:31:07.618265Z"
+        },
+        {
+          "id": "7311ec2e7f36ce7face4e20e03f218e4030f2438",
+          "title": "机器人视觉迎来新突破！蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+          "url": "https://www.qbitai.com/2026/07/445184.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
+      "primary_item": {
+        "id": "9845e9edf1bdf063a965400d686c75bb1e512cab",
+        "title": "机器人视觉迎来新突破!蚂蚁灵波空间感知模型LingBot-Depth 2.0正式发布",
+        "url": "https://www.aibase.com/news/29432",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_0a1d2bd6cc12",
       "title": "乐机器人v0.6.0：想象、评估、改进 / LeRobot v0.6.0: Imagine, Evaluate, Improve",
@@ -38,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.894,
-      "importance": 0.894,
-      "importance_score": 0.894,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 1.0,
+        "recency": 0.5617,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,178 +242,21 @@
       }
     },
     {
-      "story_id": "story_0c55289d534f",
-      "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0704-34cd-80d9-08f9e77d3782&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260707-0704-34cd-80d9-08f9e77d3782&fp=-3",
-      "source": "Page Fallback",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "39c307f6b76ab190703c3a621f82cf2707e1ae15",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0704-34cd-80d9-08f9e77d3782&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b67b6e21543f25b0cd70ca6e550c94c9b8740542",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0009-2216-9f3a-7ed7e4bac135&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c7815e36b4d6bfde2a036fe87f04476fcbe8230e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1016-26fe-97f5-48e777c96f90&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Page Fallback"
-      ],
-      "items": [
-        {
-          "id": "39c307f6b76ab190703c3a621f82cf2707e1ae15",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0704-34cd-80d9-08f9e77d3782&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b67b6e21543f25b0cd70ca6e550c94c9b8740542",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0009-2216-9f3a-7ed7e4bac135&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c7815e36b4d6bfde2a036fe87f04476fcbe8230e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260706-1016-26fe-97f5-48e777c96f90&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T00:15:59.094166Z",
-      "latest_at": "2026-07-06T21:04:11.967854Z",
-      "primary_item": {
-        "id": "39c307f6b76ab190703c3a621f82cf2707e1ae15",
-        "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0704-34cd-80d9-08f9e77d3782&fp=-3",
-        "source": "Page Fallback",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_860f64423003",
-      "title": "Claude Code 团队详解四种智能体循环类型",
-      "url": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
-      "primary_url": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "be12e32d0c10f11b73e037662a65368cf6f3ebd9",
-          "title": "Claude Code 团队详解四种智能体循环类型",
-          "url": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T19:08:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "be12e32d0c10f11b73e037662a65368cf6f3ebd9",
-          "title": "Claude Code 团队详解四种智能体循环类型",
-          "url": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T19:08:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9198,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T19:08:45Z",
-      "latest_at": "2026-07-06T19:08:45Z",
-      "primary_item": {
-        "id": "be12e32d0c10f11b73e037662a65368cf6f3ebd9",
-        "title": "Claude Code 团队详解四种智能体循环类型",
-        "url": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7d7c67e77779",
-      "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-      "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
-      "primary_url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
+      "story_id": "story_eb05edfa90f4",
+      "title": "美国首批自主地面车辆在乌克兰参战",
+      "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
+      "primary_url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
       "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e74a4cfbae8fa07dce35599b15a1db4b1afa905d",
-          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-          "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
+          "id": "1f2ea86d57c0b8eaf05c69ee032b17f564c2452b",
+          "title": "美国首批自主地面车辆在乌克兰参战",
+          "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T18:35:00Z"
+          "published_at": "2026-07-07T09:00:00Z"
         }
       ],
       "source_count": 1,
@@ -245,25 +265,25 @@
       ],
       "items": [
         {
-          "id": "e74a4cfbae8fa07dce35599b15a1db4b1afa905d",
-          "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-          "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
+          "id": "1f2ea86d57c0b8eaf05c69ee032b17f564c2452b",
+          "title": "美国首批自主地面车辆在乌克兰参战",
+          "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T18:35:00Z"
+          "published_at": "2026-07-07T09:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.9367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -271,212 +291,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T18:35:00Z",
-      "latest_at": "2026-07-06T18:35:00Z",
+      "earliest_at": "2026-07-07T09:00:00Z",
+      "latest_at": "2026-07-07T09:00:00Z",
       "primary_item": {
-        "id": "e74a4cfbae8fa07dce35599b15a1db4b1afa905d",
-        "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
-        "url": "https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t",
+        "id": "1f2ea86d57c0b8eaf05c69ee032b17f564c2452b",
+        "title": "美国首批自主地面车辆在乌克兰参战",
+        "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_eaac20c66171",
-      "title": "Claude Fable实地指南：发现你的未知",
-      "url": "https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos",
-      "primary_url": "https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "25a19fe123ef63de3612a3c86292d9762400bfa2",
-          "title": "Claude Fable实地指南：发现你的未知",
-          "url": "https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:20:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "25a19fe123ef63de3612a3c86292d9762400bfa2",
-          "title": "Claude Fable实地指南：发现你的未知",
-          "url": "https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T18:20:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8861,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T18:20:11Z",
-      "latest_at": "2026-07-06T18:20:11Z",
-      "primary_item": {
-        "id": "25a19fe123ef63de3612a3c86292d9762400bfa2",
-        "title": "Claude Fable实地指南：发现你的未知",
-        "url": "https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_56a3a39993ea",
-      "title": "OpenClaw 登陆 HuggingFace 本地应用",
-      "url": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73",
-      "primary_url": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73",
-      "source": "X：OpenClaw (@openclaw)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ac3098ba2c159cc09e5e1d4fdbe7d0db1187d66",
-          "title": "OpenClaw 登陆 HuggingFace 本地应用",
-          "url": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:45:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenClaw (@openclaw)"
-      ],
-      "items": [
-        {
-          "id": "6ac3098ba2c159cc09e5e1d4fdbe7d0db1187d66",
-          "title": "OpenClaw 登陆 HuggingFace 本地应用",
-          "url": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:45:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.862,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T17:45:30Z",
-      "latest_at": "2026-07-06T17:45:30Z",
-      "primary_item": {
-        "id": "6ac3098ba2c159cc09e5e1d4fdbe7d0db1187d66",
-        "title": "OpenClaw 登陆 HuggingFace 本地应用",
-        "url": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73",
-        "source": "X：OpenClaw (@openclaw)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ae89b6473f2d",
-      "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
-      "url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-      "primary_url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dc2fcaa2b844230ee2a7464a2f85c745547abffd",
-          "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
-          "url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:11:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "dc2fcaa2b844230ee2a7464a2f85c745547abffd",
-          "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
-          "url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:11:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8386,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T17:11:47Z",
-      "latest_at": "2026-07-06T17:11:47Z",
-      "primary_item": {
-        "id": "dc2fcaa2b844230ee2a7464a2f85c745547abffd",
-        "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
-        "url": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_083716f16ea9",
-      "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-      "url": "https://www.aibase.com/news/29405",
-      "primary_url": "https://www.aibase.com/news/29405",
+      "story_id": "story_cf5265d5a9bf",
+      "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+      "url": "https://www.aibase.com/news/29436",
+      "primary_url": "https://www.aibase.com/news/29436",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-          "url": "https://www.aibase.com/news/29405",
+          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
+          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "source_count": 1,
@@ -485,25 +325,25 @@
       ],
       "items": [
         {
-          "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-          "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-          "url": "https://www.aibase.com/news/29405",
+          "id": "70de58f4488252d4956c9539101570b5b5f4537d",
+          "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+          "url": "https://www.aibase.com/news/29436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7116,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -511,231 +351,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T14:08:55.976837Z",
-      "latest_at": "2026-07-06T14:08:55.976837Z",
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
       "primary_item": {
-        "id": "cb6dc8988f87449a0c5b953346aad3d7ebcc4f38",
-        "title": "15 岁少年利用AI实施勒索攻击，致知名平台全站停服",
-        "url": "https://www.aibase.com/news/29405",
+        "id": "70de58f4488252d4956c9539101570b5b5f4537d",
+        "title": "Claude Sonnet 5 上线后遭大量投诉：频繁反驳、说教成风",
+        "url": "https://www.aibase.com/news/29436",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_142cdbeab35d",
-      "title": "免费开源API中转站监测网站tokhub.me上线",
-      "url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-      "primary_url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "80185cfaff2d44de5a4b08f245dd58e124dac2a0",
-          "title": "免费开源API中转站监测网站tokhub.me上线",
-          "url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T13:57:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "80185cfaff2d44de5a4b08f245dd58e124dac2a0",
-          "title": "免费开源API中转站监测网站tokhub.me上线",
-          "url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T13:57:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T13:57:49Z",
-      "latest_at": "2026-07-06T13:57:49Z",
-      "primary_item": {
-        "id": "80185cfaff2d44de5a4b08f245dd58e124dac2a0",
-        "title": "免费开源API中转站监测网站tokhub.me上线",
-        "url": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_da0a4fef15a2",
-      "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-      "url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
-      "primary_url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3f5992f5565e5d155b9d486e9cd480842b7bc59d",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3f5992f5565e5d155b9d486e9cd480842b7bc59d",
-          "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-          "url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T17:04:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8339,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-06T17:04:58Z",
-      "latest_at": "2026-07-06T17:04:58Z",
-      "primary_item": {
-        "id": "3f5992f5565e5d155b9d486e9cd480842b7bc59d",
-        "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
-        "url": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9074fbe55dba",
-      "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-      "url": "https://aihot.virxact.com/items/cmr91yrn100noslmpusn7u7q0",
-      "primary_url": "https://aihot.virxact.com/items/cmr91yrn100noslmpusn7u7q0",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ce98f4d259b6f37d7f04f7ca75f6a437627cec2",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://aihot.virxact.com/items/cmr91yrn100noslmpusn7u7q0",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        },
-        {
-          "id": "c09f91f41de3c4d2d6542140885074df03bc47b6",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0ce98f4d259b6f37d7f04f7ca75f6a437627cec2",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://aihot.virxact.com/items/cmr91yrn100noslmpusn7u7q0",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-06T09:23:28Z"
-        },
-        {
-          "id": "c09f91f41de3c4d2d6542140885074df03bc47b6",
-          "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-          "url": "https://www.ithome.com/0/973/207.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-06T09:23:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5134,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T09:23:28Z",
-      "latest_at": "2026-07-06T09:23:28Z",
-      "primary_item": {
-        "id": "0ce98f4d259b6f37d7f04f7ca75f6a437627cec2",
-        "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
-        "url": "https://aihot.virxact.com/items/cmr91yrn100noslmpusn7u7q0",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_de70bb266c71",
-      "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-      "url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
-      "primary_url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
+      "story_id": "story_cd19c925b7d1",
+      "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+      "url": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih",
+      "primary_url": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "47f032c16901052cf42af16e0b0c7d83eba01264",
-          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-          "url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
+          "id": "671dd8c9e4920bd1a8b7bfca1e0eb7dbbac79e6f",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+          "url": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T11:51:40Z"
+          "published_at": "2026-07-07T06:45:06Z"
         }
       ],
       "source_count": 1,
@@ -744,57 +385,297 @@
       ],
       "items": [
         {
-          "id": "47f032c16901052cf42af16e0b0c7d83eba01264",
-          "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-          "url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
+          "id": "671dd8c9e4920bd1a8b7bfca1e0eb7dbbac79e6f",
+          "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+          "url": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-06T11:51:40Z"
+          "published_at": "2026-07-07T06:45:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6163,
+        "recency": 0.843,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T06:45:06Z",
+      "latest_at": "2026-07-07T06:45:06Z",
+      "primary_item": {
+        "id": "671dd8c9e4920bd1a8b7bfca1e0eb7dbbac79e6f",
+        "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+        "url": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a71b02214cf7",
+      "title": "Grok Imagine 更新：支持 15 秒视频",
+      "url": "https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s",
+      "primary_url": "https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1082ab57b31aebf961276e43701d4517aa7d6988",
+          "title": "Grok Imagine 更新：支持 15 秒视频",
+          "url": "https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:23:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "1082ab57b31aebf961276e43701d4517aa7d6988",
+          "title": "Grok Imagine 更新：支持 15 秒视频",
+          "url": "https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T06:23:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8277,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T06:23:05Z",
+      "latest_at": "2026-07-07T06:23:05Z",
+      "primary_item": {
+        "id": "1082ab57b31aebf961276e43701d4517aa7d6988",
+        "title": "Grok Imagine 更新：支持 15 秒视频",
+        "url": "https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8b8dc88f5bd0",
+      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+      "url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
+      "primary_url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "94fd0e67f090d0d4520565ecfa3b276a44ee0fed",
+          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+          "url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T04:22:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ethan Mollick (@emollick)"
+      ],
+      "items": [
+        {
+          "id": "94fd0e67f090d0d4520565ecfa3b276a44ee0fed",
+          "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+          "url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T04:22:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7439,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T04:22:22Z",
+      "latest_at": "2026-07-07T04:22:22Z",
+      "primary_item": {
+        "id": "94fd0e67f090d0d4520565ecfa3b276a44ee0fed",
+        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+        "url": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6e07258dc312",
+      "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+      "url": "https://www.aibase.com/news/29443",
+      "primary_url": "https://www.aibase.com/news/29443",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
+          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+          "url": "https://www.aibase.com/news/29443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T10:31:07.618265Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
+          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+          "url": "https://www.aibase.com/news/29443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T10:31:07.618265Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
+      "primary_item": {
+        "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
+        "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
+        "url": "https://www.aibase.com/news/29443",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1160c785cb6c",
+      "title": "Gemini Spark 可智能追踪话题实时反应",
+      "url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+      "primary_url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "343ab4fe1c9370f6382042970dc00908ef79f0ca",
+          "title": "Gemini Spark 可智能追踪话题实时反应",
+          "url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "343ab4fe1c9370f6382042970dc00908ef79f0ca",
+          "title": "Gemini Spark 可智能追踪话题实时反应",
+          "url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5568,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T11:51:40Z",
-      "latest_at": "2026-07-06T11:51:40Z",
+      "earliest_at": "2026-07-06T23:52:57Z",
+      "latest_at": "2026-07-06T23:52:57Z",
       "primary_item": {
-        "id": "47f032c16901052cf42af16e0b0c7d83eba01264",
-        "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
-        "url": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "343ab4fe1c9370f6382042970dc00908ef79f0ca",
+        "title": "Gemini Spark 可智能追踪话题实时反应",
+        "url": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+        "source": "X：Gemini (@GeminiApp)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a2d65654a136",
-      "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-      "url": "https://www.aibase.com/news/29403",
-      "primary_url": "https://www.aibase.com/news/29403",
+      "story_id": "story_d9e57ddb245d",
+      "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
+      "url": "https://www.aibase.com/news/29431",
+      "primary_url": "https://www.aibase.com/news/29431",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
+          "id": "356d42d5092d289d65541f6e1db6af46eb870804",
+          "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
+          "url": "https://www.aibase.com/news/29431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "source_count": 1,
@@ -803,25 +684,25 @@
       ],
       "items": [
         {
-          "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-          "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-          "url": "https://www.aibase.com/news/29403",
+          "id": "356d42d5092d289d65541f6e1db6af46eb870804",
+          "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
+          "url": "https://www.aibase.com/news/29431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7116,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -829,32 +710,91 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T14:08:55.976837Z",
-      "latest_at": "2026-07-06T14:08:55.976837Z",
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
       "primary_item": {
-        "id": "cc0906bfc0d1a9dbdea8b161884c02f9d713250f",
-        "title": "Mistral AI开源数学证明利器：119B参数只激活6B，解题成本仅为竞品百分之一",
-        "url": "https://www.aibase.com/news/29403",
+        "id": "356d42d5092d289d65541f6e1db6af46eb870804",
+        "title": "一次接入、多端分发！支付宝 AI 开放平台开启邀测",
+        "url": "https://www.aibase.com/news/29431",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_99f4f77fa6f9",
-      "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
-      "url": "https://www.aibase.com/news/29401",
-      "primary_url": "https://www.aibase.com/news/29401",
+      "story_id": "story_6c2696abe1fb",
+      "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
+      "url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+      "primary_url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2bb52f219236674a6ce0e031aaf5a3b505df604",
+          "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
+          "url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:56:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b2bb52f219236674a6ce0e031aaf5a3b505df604",
+          "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
+          "url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-06T23:56:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5591,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T23:56:14Z",
+      "latest_at": "2026-07-06T23:56:14Z",
+      "primary_item": {
+        "id": "b2bb52f219236674a6ce0e031aaf5a3b505df604",
+        "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
+        "url": "https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8503c6afa662",
+      "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+      "url": "https://www.aibase.com/news/29433",
+      "primary_url": "https://www.aibase.com/news/29433",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "41a4edf23675224e15cc331f02be53d4b9af3ab9",
-          "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
-          "url": "https://www.aibase.com/news/29401",
+          "id": "c50170106c4c63293a6884053b51f510deb4eb3e",
+          "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+          "url": "https://www.aibase.com/news/29433",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "source_count": 1,
@@ -863,25 +803,25 @@
       ],
       "items": [
         {
-          "id": "41a4edf23675224e15cc331f02be53d4b9af3ab9",
-          "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
-          "url": "https://www.aibase.com/news/29401",
+          "id": "c50170106c4c63293a6884053b51f510deb4eb3e",
+          "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+          "url": "https://www.aibase.com/news/29433",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7116,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,32 +829,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T14:08:55.976837Z",
-      "latest_at": "2026-07-06T14:08:55.976837Z",
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
       "primary_item": {
-        "id": "41a4edf23675224e15cc331f02be53d4b9af3ab9",
-        "title": "算力利用率破65%:AIGCode如何用“L3级”编程模型突围?",
-        "url": "https://www.aibase.com/news/29401",
+        "id": "c50170106c4c63293a6884053b51f510deb4eb3e",
+        "title": "以 AI 治理 AI：Reddit 升级自动化系统，日均拦截 2300 万条垃圾信息",
+        "url": "https://www.aibase.com/news/29433",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_503c1a6c1abe",
-      "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
-      "url": "https://www.aibase.com/news/29400",
-      "primary_url": "https://www.aibase.com/news/29400",
+      "story_id": "story_7ae4d44106ce",
+      "title": "你的数据正在“喂养”AI：谷歌隐私设置静默更新，如何守护个人信息？",
+      "url": "https://www.aibase.com/news/29428",
+      "primary_url": "https://www.aibase.com/news/29428",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "65ed7f60f26f3d2a2f9e7b22a8ef54393a1d7d94",
-          "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
-          "url": "https://www.aibase.com/news/29400",
+          "id": "88ca794ac4c972f6f71d6387f48e7cb5a20501a6",
+          "title": "你的数据正在“喂养”AI：谷歌隐私设置静默更新，如何守护个人信息？",
+          "url": "https://www.aibase.com/news/29428",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "source_count": 1,
@@ -923,25 +863,25 @@
       ],
       "items": [
         {
-          "id": "65ed7f60f26f3d2a2f9e7b22a8ef54393a1d7d94",
-          "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
-          "url": "https://www.aibase.com/news/29400",
+          "id": "88ca794ac4c972f6f71d6387f48e7cb5a20501a6",
+          "title": "你的数据正在“喂养”AI：谷歌隐私设置静默更新，如何守护个人信息？",
+          "url": "https://www.aibase.com/news/29428",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7116,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -949,32 +889,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T14:08:55.976837Z",
-      "latest_at": "2026-07-06T14:08:55.976837Z",
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
       "primary_item": {
-        "id": "65ed7f60f26f3d2a2f9e7b22a8ef54393a1d7d94",
-        "title": "腾讯混元Hy3发布：Agent能力和产品体验跃升",
-        "url": "https://www.aibase.com/news/29400",
+        "id": "88ca794ac4c972f6f71d6387f48e7cb5a20501a6",
+        "title": "你的数据正在“喂养”AI：谷歌隐私设置静默更新，如何守护个人信息？",
+        "url": "https://www.aibase.com/news/29428",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f046d5c4cef0",
-      "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
-      "url": "https://www.aibase.com/news/29399",
-      "primary_url": "https://www.aibase.com/news/29399",
+      "story_id": "story_131f99f8c6ac",
+      "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
+      "url": "https://www.aibase.com/news/29437",
+      "primary_url": "https://www.aibase.com/news/29437",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a1a229b209527a3b6dd4e61f9ead42f41ba3ae2b",
-          "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
-          "url": "https://www.aibase.com/news/29399",
+          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
+          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
+          "url": "https://www.aibase.com/news/29437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "source_count": 1,
@@ -983,25 +923,25 @@
       ],
       "items": [
         {
-          "id": "a1a229b209527a3b6dd4e61f9ead42f41ba3ae2b",
-          "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
-          "url": "https://www.aibase.com/news/29399",
+          "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
+          "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
+          "url": "https://www.aibase.com/news/29437",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7116,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1009,32 +949,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T14:08:55.976837Z",
-      "latest_at": "2026-07-06T14:08:55.976837Z",
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
       "primary_item": {
-        "id": "a1a229b209527a3b6dd4e61f9ead42f41ba3ae2b",
-        "title": "谷歌跳票之后终定档：Gemini 3.5 Pro七月硬刚DeepSeek V4，全新底座不再\"挤牙膏\"",
-        "url": "https://www.aibase.com/news/29399",
+        "id": "ffc3a76f497fbc2c54b29f3c2701b224d5a98ad8",
+        "title": "告别纯文本！Skill-Omni重塑多模态智能体经验范式",
+        "url": "https://www.aibase.com/news/29437",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c744290c7f43",
-      "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
-      "url": "https://www.aibase.com/news/29398",
-      "primary_url": "https://www.aibase.com/news/29398",
+      "story_id": "story_5cbf7fed655b",
+      "title": "强强联手：TeraWulf携手Anthropic共建百亿规模AI算力新据点",
+      "url": "https://www.aibase.com/news/29434",
+      "primary_url": "https://www.aibase.com/news/29434",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dd73dcdf8a682b0a64fd7c77f4148e758f506c9f",
-          "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
-          "url": "https://www.aibase.com/news/29398",
+          "id": "965c1dcde42bb3ba7f913cc58fd226aa614dccef",
+          "title": "强强联手：TeraWulf携手Anthropic共建百亿规模AI算力新据点",
+          "url": "https://www.aibase.com/news/29434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "source_count": 1,
@@ -1043,25 +983,25 @@
       ],
       "items": [
         {
-          "id": "dd73dcdf8a682b0a64fd7c77f4148e758f506c9f",
-          "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
-          "url": "https://www.aibase.com/news/29398",
+          "id": "965c1dcde42bb3ba7f913cc58fd226aa614dccef",
+          "title": "强强联手：TeraWulf携手Anthropic共建百亿规模AI算力新据点",
+          "url": "https://www.aibase.com/news/29434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7116,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1069,32 +1009,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T14:08:55.976837Z",
-      "latest_at": "2026-07-06T14:08:55.976837Z",
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
       "primary_item": {
-        "id": "dd73dcdf8a682b0a64fd7c77f4148e758f506c9f",
-        "title": "通义千问重磅升级：实时语音识别模型 Fun-ASR-Realtime 正式发布",
-        "url": "https://www.aibase.com/news/29398",
+        "id": "965c1dcde42bb3ba7f913cc58fd226aa614dccef",
+        "title": "强强联手：TeraWulf携手Anthropic共建百亿规模AI算力新据点",
+        "url": "https://www.aibase.com/news/29434",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_07dd471aa88d",
-      "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-      "url": "https://www.aibase.com/news/29404",
-      "primary_url": "https://www.aibase.com/news/29404",
+      "story_id": "story_d09a7f859582",
+      "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
+      "url": "https://www.aibase.com/news/29439",
+      "primary_url": "https://www.aibase.com/news/29439",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
-          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-          "url": "https://www.aibase.com/news/29404",
+          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
+          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
+          "url": "https://www.aibase.com/news/29439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "source_count": 1,
@@ -1103,25 +1043,25 @@
       ],
       "items": [
         {
-          "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
-          "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-          "url": "https://www.aibase.com/news/29404",
+          "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
+          "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
+          "url": "https://www.aibase.com/news/29439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-06T14:08:55.976837Z"
+          "published_at": "2026-07-07T10:31:07.618265Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7116,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,152 +1069,230 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T14:08:55.976837Z",
-      "latest_at": "2026-07-06T14:08:55.976837Z",
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
       "primary_item": {
-        "id": "3a7b89921585331638c4e5edb25e73cb8b77d133",
-        "title": "降低数学科研门槛：Mistral AI 发布开源模型 Leanstral 1.5",
-        "url": "https://www.aibase.com/news/29404",
+        "id": "ba68ba60c5ac9b6b0badf4162e22f58a1ff5bfa3",
+        "title": "智能体进化新刻度：字节Seed发布EdgeBench基准测试",
+        "url": "https://www.aibase.com/news/29439",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_22b32121ee2a",
-      "title": "语言模型中的全局工作区",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "primary_url": "https://www.anthropic.com/research/global-workspace",
-      "source": "www.anthropic.com",
+      "story_id": "story_a4218777eae6",
+      "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+      "url": "https://www.aibase.com/news/29441",
+      "primary_url": "https://www.aibase.com/news/29441",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
+          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+          "url": "https://www.aibase.com/news/29441",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T10:31:07.618265Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
+          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+          "url": "https://www.aibase.com/news/29441",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-07T10:31:07.618265Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T10:31:07.618265Z",
+      "latest_at": "2026-07-07T10:31:07.618265Z",
+      "primary_item": {
+        "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
+        "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
+        "url": "https://www.aibase.com/news/29441",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b7aafd694a45",
+      "title": "我们训练了一个小型LLM，使其舍弃68%的RAG上下文",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "primary_url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "source": "www.kapa.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5bdd217dcff9da240d490605e1cf97bf950eac36",
-          "title": "语言模型中的全局工作区",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "source": "www.anthropic.com",
+          "id": "8f33028e48ebe984ef3229b1f70d41b93d3b8aff",
+          "title": "我们训练了一个小型LLM，使其舍弃68%的RAG上下文",
+          "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+          "source": "www.kapa.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-06T20:39:27.143000Z"
+          "published_at": "2026-07-07T08:51:09.997000Z"
         },
         {
-          "id": "e0c669aebee635a291ed0aa5e8fc359deeaf8fed",
-          "title": "语言模型中的全局工作区 / A global workspace in language models",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-06T17:44:08Z"
+          "id": "bbec2c7ea44f4f4a6ee8d0def81bacba1c198c0b",
+          "title": "我们训练了一个小型LLM，使其舍弃68%的RAG上下文 / Pruning RAG context down to what the answer actually needs",
+          "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T19:28:24Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.anthropic.com"
+        "Hacker News (黑客新闻)",
+        "www.kapa.ai"
       ],
       "items": [
         {
-          "id": "5bdd217dcff9da240d490605e1cf97bf950eac36",
-          "title": "语言模型中的全局工作区",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "source": "www.anthropic.com",
+          "id": "8f33028e48ebe984ef3229b1f70d41b93d3b8aff",
+          "title": "我们训练了一个小型LLM，使其舍弃68%的RAG上下文",
+          "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+          "source": "www.kapa.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-06T20:39:27.143000Z"
+          "published_at": "2026-07-07T08:51:09.997000Z"
         },
         {
-          "id": "e0c669aebee635a291ed0aa5e8fc359deeaf8fed",
-          "title": "语言模型中的全局工作区 / A global workspace in language models",
-          "url": "https://www.anthropic.com/research/global-workspace",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-06T17:44:08Z"
+          "id": "bbec2c7ea44f4f4a6ee8d0def81bacba1c198c0b",
+          "title": "我们训练了一个小型LLM，使其舍弃68%的RAG上下文 / Pruning RAG context down to what the answer actually needs",
+          "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-06T19:28:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9828,
+        "recency": 0.9306,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-06T17:44:08Z",
-      "latest_at": "2026-07-06T20:39:27.143000Z",
+      "earliest_at": "2026-07-06T19:28:24Z",
+      "latest_at": "2026-07-07T08:51:09.997000Z",
       "primary_item": {
-        "id": "5bdd217dcff9da240d490605e1cf97bf950eac36",
-        "title": "语言模型中的全局工作区",
-        "url": "https://www.anthropic.com/research/global-workspace",
-        "source": "www.anthropic.com",
+        "id": "8f33028e48ebe984ef3229b1f70d41b93d3b8aff",
+        "title": "我们训练了一个小型LLM，使其舍弃68%的RAG上下文",
+        "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+        "source": "www.kapa.ai",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_aaeb755b7c2e",
-      "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-      "url": "https://www.aibase.com/news/29397",
-      "primary_url": "https://www.aibase.com/news/29397",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e7f516e56164",
+      "title": "人工智能会让我们变笨吗？研究人员开始感到担忧了",
+      "url": "https://www.businessinsider.com/ai-making-us-dumber-research-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-making-us-dumber-research-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-          "url": "https://www.aibase.com/news/29397",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T13:54:55.976837Z"
+          "id": "a6c893808d911dcdd045b4937becfff5055111f9",
+          "title": "人工智能会让我们变笨吗？研究人员开始感到担忧了",
+          "url": "https://www.businessinsider.com/ai-making-us-dumber-research-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-07T08:35:14.128000Z"
+        },
+        {
+          "id": "c2e9e814425433f6aeb9456b41bc9b151db8e2e6",
+          "title": "人工智能会让我们变笨吗？研究人员开始感到担忧了 / Is AI making us dumber?",
+          "url": "https://www.businessinsider.com/ai-making-us-dumber-research-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-07T08:11:01Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-          "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-          "url": "https://www.aibase.com/news/29397",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-06T13:54:55.976837Z"
+          "id": "a6c893808d911dcdd045b4937becfff5055111f9",
+          "title": "人工智能会让我们变笨吗？研究人员开始感到担忧了",
+          "url": "https://www.businessinsider.com/ai-making-us-dumber-research-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-07T08:35:14.128000Z"
+        },
+        {
+          "id": "c2e9e814425433f6aeb9456b41bc9b151db8e2e6",
+          "title": "人工智能会让我们变笨吗？研究人员开始感到担忧了 / Is AI making us dumber?",
+          "url": "https://www.businessinsider.com/ai-making-us-dumber-research-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-07T08:11:01Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7019,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9195,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-06T13:54:55.976837Z",
-      "latest_at": "2026-07-06T13:54:55.976837Z",
+      "earliest_at": "2026-07-07T08:11:01Z",
+      "latest_at": "2026-07-07T08:35:14.128000Z",
       "primary_item": {
-        "id": "fa979564a863868c75b9d227f9fe15521cbf9db1",
-        "title": "8 小时追平、 2 天反超：面壁智能 ForgeTrain 如何用 AI“锻造”下一代训练框架？",
-        "url": "https://www.aibase.com/news/29397",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "a6c893808d911dcdd045b4937becfff5055111f9",
+        "title": "人工智能会让我们变笨吗？研究人员开始感到担忧了",
+        "url": "https://www.businessinsider.com/ai-making-us-dumber-research-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
