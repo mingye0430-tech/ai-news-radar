@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-10T10:36:13.122785Z",
+  "generated_at": "2026-07-10T17:27:57.918683Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2036-39a9-90f9-cc081eca621c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260710-2036-39a9-90f9-cc081eca621c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0328-2088-a2df-549dc84c8f9a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0328-2088-a2df-549dc84c8f9a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ca40b21f05fb95c0d1cd43d86913d26999b727e6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0328-2088-a2df-549dc84c8f9a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "22e945423e67274ad3e27435e7e9a241e67742bf",
           "title": "点击这里进入 / Click here to enter",
@@ -33,15 +42,6 @@
           "id": "322c2498d89e66cc40475ef336d1daca450c4f16",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0413-14aa-b8d3-0ae74e102084&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c90936b9e60ee892afc8f48fc360b0276d707244",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260709-2038-0123-a115-f3df30af8e77&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -54,6 +54,15 @@
       ],
       "items": [
         {
+          "id": "ca40b21f05fb95c0d1cd43d86913d26999b727e6",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0328-2088-a2df-549dc84c8f9a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "22e945423e67274ad3e27435e7e9a241e67742bf",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2036-39a9-90f9-cc081eca621c&fp=-3",
@@ -75,15 +84,6 @@
           "id": "322c2498d89e66cc40475ef336d1daca450c4f16",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0413-14aa-b8d3-0ae74e102084&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c90936b9e60ee892afc8f48fc360b0276d707244",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260709-2038-0123-a115-f3df30af8e77&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,14 +108,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-09T10:37:31.950009Z",
-      "latest_at": "2026-07-10T10:36:13.122785Z",
+      "earliest_at": "2026-07-09T18:12:52.630470Z",
+      "latest_at": "2026-07-10T17:27:57.918683Z",
       "primary_item": {
-        "id": "22e945423e67274ad3e27435e7e9a241e67742bf",
+        "id": "ca40b21f05fb95c0d1cd43d86913d26999b727e6",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260710-2036-39a9-90f9-cc081eca621c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0328-2088-a2df-549dc84c8f9a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_6e4b204fac83",
+      "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8605,
+      "importance": 0.8605,
+      "importance_score": 0.8605,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9374,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T15:57:47Z",
+      "latest_at": "2026-07-10T15:57:47Z",
+      "primary_item": {
+        "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+        "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -153,14 +214,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.866,
-      "importance": 0.866,
-      "importance_score": 0.866,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9648,
+        "recency": 0.6788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -177,6 +238,66 @@
         "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3cbd5596f65f",
+      "title": "Perplexity 推出跨模型信用额度分析功能",
+      "url": "https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn",
+      "primary_url": "https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "60cc1b466ed885067bda8aca702cb6effda5b726",
+          "title": "Perplexity 推出跨模型信用额度分析功能",
+          "url": "https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T15:14:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Perplexity (@perplexity_ai)"
+      ],
+      "items": [
+        {
+          "id": "60cc1b466ed885067bda8aca702cb6effda5b726",
+          "title": "Perplexity 推出跨模型信用额度分析功能",
+          "url": "https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T15:14:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9073,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T15:14:27Z",
+      "latest_at": "2026-07-10T15:14:27Z",
+      "primary_item": {
+        "id": "60cc1b466ed885067bda8aca702cb6effda5b726",
+        "title": "Perplexity 推出跨模型信用额度分析功能",
+        "url": "https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -214,14 +335,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8498,
+        "recency": 0.5639,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,6 +359,66 @@
         "url": "https://openai.com/index/deutsche-telekom",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_57a973ffabd0",
+      "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+      "url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+      "primary_url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+      "source": "公众号：百度智能云（文心）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "19ae62a311f8273c2259461ad6d95fcea6c245f5",
+          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T13:58:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：百度智能云（文心）"
+      ],
+      "items": [
+        {
+          "id": "19ae62a311f8273c2259461ad6d95fcea6c245f5",
+          "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+          "url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T13:58:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8543,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T13:58:07Z",
+      "latest_at": "2026-07-10T13:58:07Z",
+      "primary_item": {
+        "id": "19ae62a311f8273c2259461ad6d95fcea6c245f5",
+        "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+        "url": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+        "source": "公众号：百度智能云（文心）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -294,14 +475,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.7057,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -374,14 +555,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.868,
+        "recency": 0.5821,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -435,20 +616,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.6882,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T09:59:00Z",
       "latest_at": "2026-07-10T09:59:00Z",
@@ -495,21 +675,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5582,
+        "recency": 0.2722,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T00:00:00Z",
       "latest_at": "2026-07-10T00:00:00Z",
@@ -556,20 +735,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8643,
+        "recency": 0.5783,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T07:20:46Z",
       "latest_at": "2026-07-10T07:20:46Z",
@@ -616,20 +794,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.784,
-      "importance": 0.784,
-      "importance_score": 0.784,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.86,
+        "recency": 0.5741,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T07:14:39Z",
       "latest_at": "2026-07-10T07:14:39Z",
@@ -676,14 +853,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,14 +913,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -759,65 +936,6 @@
         "url": "https://www.aibase.com/news/29526",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cca0cea48a5e",
-      "title": "Claude Code v2.1.206 发布",
-      "url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-      "primary_url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b5c57ebb00cdb69b977c90407d93c01ea565bad5",
-          "title": "Claude Code v2.1.206 发布",
-          "url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T01:45:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude Code：GitHub Releases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b5c57ebb00cdb69b977c90407d93c01ea565bad5",
-          "title": "Claude Code v2.1.206 发布",
-          "url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-          "source": "Claude Code：GitHub Releases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T01:45:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6314,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T01:45:26Z",
-      "latest_at": "2026-07-10T01:45:26Z",
-      "primary_item": {
-        "id": "b5c57ebb00cdb69b977c90407d93c01ea565bad5",
-        "title": "Claude Code v2.1.206 发布",
-        "url": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -873,17 +991,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
-      "importance_label": "行业动态",
+      "score": 0.6729,
+      "importance": 0.6729,
+      "importance_score": 0.6729,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4653,
+        "recency": 0.1794,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -895,65 +1013,6 @@
         "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
         "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1234bd4935ed",
-      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
-      "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-      "primary_url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b20928a0dcd38e8b09920d9dca9fb815a98a74da",
-          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
-          "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T00:20:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "b20928a0dcd38e8b09920d9dca9fb815a98a74da",
-          "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
-          "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T00:20:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5723,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T00:20:20Z",
-      "latest_at": "2026-07-10T00:20:20Z",
-      "primary_item": {
-        "id": "b20928a0dcd38e8b09920d9dca9fb815a98a74da",
-        "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
-        "url": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
-        "source": "Google Research：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -992,14 +1051,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,66 +1074,6 @@
         "url": "https://www.aibase.com/news/29519",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_281a7d3afe46",
-      "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-          "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-09T16:41:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.2537,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T16:41:29Z",
-      "latest_at": "2026-07-09T16:41:29Z",
-      "primary_item": {
-        "id": "fa18e95f858a261e76d8f19b4dfdd2c05fdf5a7a",
-        "title": "OpenAI 的 GPT-5.6 Sol、Terra 和 Luna 现已在 GitHub Copilot 中提供 / OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1112,14 +1111,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1172,14 +1171,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,14 +1231,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1258,63 +1257,80 @@
       }
     },
     {
-      "story_id": "story_c3a962988546",
-      "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
-      "url": "https://www.aibase.com/news/29525",
-      "primary_url": "https://www.aibase.com/news/29525",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_f6f0b21aa3e6",
+      "title": "GPT-5.6",
+      "url": "https://www.producthunt.com/products/openai",
+      "primary_url": "https://www.producthunt.com/products/openai",
+      "source": "producthunt",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f35225d26e262cf5e50826a6645ea6e57d3abc5c",
-          "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
-          "url": "https://www.aibase.com/news/29525",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:36:13.122785Z"
+          "id": "b55c476eac0bb7425c7b19a57311b16fa209fb2d",
+          "title": "GPT-5.6",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T17:28:23.907000Z"
+        },
+        {
+          "id": "78b072f852fc572b88474d0efa3460a478657ecf",
+          "title": "GPT-Live",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-09T18:13:17.294000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "producthunt"
       ],
       "items": [
         {
-          "id": "f35225d26e262cf5e50826a6645ea6e57d3abc5c",
-          "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
-          "url": "https://www.aibase.com/news/29525",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T10:36:13.122785Z"
+          "id": "b55c476eac0bb7425c7b19a57311b16fa209fb2d",
+          "title": "GPT-5.6",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T17:28:23.907000Z"
+        },
+        {
+          "id": "78b072f852fc572b88474d0efa3460a478657ecf",
+          "title": "GPT-Live",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-09T18:13:17.294000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-10T10:36:13.122785Z",
-      "latest_at": "2026-07-10T10:36:13.122785Z",
+      "earliest_at": "2026-07-09T18:13:17.294000Z",
+      "latest_at": "2026-07-10T17:28:23.907000Z",
       "primary_item": {
-        "id": "f35225d26e262cf5e50826a6645ea6e57d3abc5c",
-        "title": "三星开发4nm AI PC专用芯片“GAIA” 已向联想、惠普供样测试",
-        "url": "https://www.aibase.com/news/29525",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "b55c476eac0bb7425c7b19a57311b16fa209fb2d",
+        "title": "GPT-5.6",
+        "url": "https://www.producthunt.com/products/openai",
+        "source": "producthunt",
+        "source_name": "NewsNow"
       }
     }
   ]
