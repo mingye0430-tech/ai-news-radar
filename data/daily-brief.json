@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-12T15:38:24.694285Z",
+  "generated_at": "2026-07-12T19:56:59.241358Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0138-5284-ada1-f12b5f931796&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260713-0138-5284-ada1-f12b5f931796&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7c0f6f69ea90e12c82aecec1bbbed6addaba6215",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ff529d52284ed02fc2e59674cd171d9150e1d757",
           "title": "点击这里进入 / Click here to enter",
@@ -42,15 +51,6 @@
           "id": "fd7fbf94f6030a352a87b434b0682463feedaf3f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0711-11a9-a5b1-152f6d9ee745&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "88ae2d3da6029123208a38611c68a1483c6a4f78",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0407-124b-ba22-a8fe1ae82c8b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -63,6 +63,15 @@
       ],
       "items": [
         {
+          "id": "7c0f6f69ea90e12c82aecec1bbbed6addaba6215",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ff529d52284ed02fc2e59674cd171d9150e1d757",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0138-5284-ada1-f12b5f931796&fp=-3",
@@ -93,15 +102,6 @@
           "id": "fd7fbf94f6030a352a87b434b0682463feedaf3f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0711-11a9-a5b1-152f6d9ee745&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "88ae2d3da6029123208a38611c68a1483c6a4f78",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0407-124b-ba22-a8fe1ae82c8b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,14 +126,194 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T18:06:47.918531Z",
-      "latest_at": "2026-07-12T15:38:24.694285Z",
+      "earliest_at": "2026-07-11T21:10:45.981852Z",
+      "latest_at": "2026-07-12T19:56:59.241358Z",
       "primary_item": {
-        "id": "ff529d52284ed02fc2e59674cd171d9150e1d757",
+        "id": "7c0f6f69ea90e12c82aecec1bbbed6addaba6215",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0138-5284-ada1-f12b5f931796&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_284849328e7e",
+      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+      "url": "https://aihot.virxact.com/items/cmri4sa9p00r9bi3hn0yjz7jx",
+      "primary_url": "https://aihot.virxact.com/items/cmri4sa9p00r9bi3hn0yjz7jx",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "195ff7babc122173ae1b31a542961ae1a5592d5f",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "url": "https://aihot.virxact.com/items/cmri4sa9p00r9bi3hn0yjz7jx",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：宝玉 (@dotey)"
+      ],
+      "items": [
+        {
+          "id": "195ff7babc122173ae1b31a542961ae1a5592d5f",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "url": "https://aihot.virxact.com/items/cmri4sa9p00r9bi3hn0yjz7jx",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9373,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T18:26:38Z",
+      "latest_at": "2026-07-12T18:26:38Z",
+      "primary_item": {
+        "id": "195ff7babc122173ae1b31a542961ae1a5592d5f",
+        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "url": "https://aihot.virxact.com/items/cmri4sa9p00r9bi3hn0yjz7jx",
+        "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_021b917e7ae5",
+      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+      "url": "https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5",
+      "primary_url": "https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f972b1157e52f5f6808c286ef45852c900801a0",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "url": "https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "6f972b1157e52f5f6808c286ef45852c900801a0",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "url": "https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8525,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T16:24:32Z",
+      "latest_at": "2026-07-12T16:24:32Z",
+      "primary_item": {
+        "id": "6f972b1157e52f5f6808c286ef45852c900801a0",
+        "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "url": "https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e5a72f2eea52",
+      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+      "url": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm",
+      "primary_url": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f6b7b3aac86fe6ad0736ab0572b9022f05366d86",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "url": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "f6b7b3aac86fe6ad0736ab0572b9022f05366d86",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "url": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8007,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T15:09:57Z",
+      "latest_at": "2026-07-12T15:09:57Z",
+      "primary_item": {
+        "id": "f6b7b3aac86fe6ad0736ab0572b9022f05366d86",
+        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+        "url": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -171,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -231,20 +411,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7343,
+        "recency": 0.5547,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T09:15:49Z",
       "latest_at": "2026-07-12T09:15:49Z",
@@ -310,14 +489,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7014,
-      "importance": 0.7014,
-      "importance_score": 0.7014,
+      "score": 0.6655,
+      "importance": 0.6655,
+      "importance_score": 0.6655,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3219,
+        "recency": 0.1423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -336,98 +515,231 @@
       }
     },
     {
-      "story_id": "story_af41461907f9",
-      "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-      "url": "https://news.ycombinator.com/item?id=48881009",
-      "primary_url": "https://news.ycombinator.com/item?id=48881009",
+      "story_id": "story_e7c3ab251152",
+      "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
+      "url": "https://news.ycombinator.com/item?id=48881043",
+      "primary_url": "https://news.ycombinator.com/item?id=48881043",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "601d0ade200a1b26af0af0bd0256fdc751a7b11d",
-          "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-          "url": "https://news.ycombinator.com/item?id=48881009",
+          "id": "452ee035aa56d1430de840abe43917375b47a204",
+          "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T18:07:01.116000Z"
+        },
+        {
+          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://news.ycombinator.com/item?id=48881043",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-12T15:23:43.975000Z"
         },
         {
-          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
-          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
-          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T13:35:15.303000Z"
+          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
         },
         {
-          "id": "e59b8609f0107ee4f1e1fb80cbaa732345d32758",
-          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T13:21:01Z"
+          "id": "ea26dc7b16bd417d2aa68e407dc9189716294b0b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "spectrum.ieee.org"
       ],
       "items": [
         {
-          "id": "601d0ade200a1b26af0af0bd0256fdc751a7b11d",
-          "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-          "url": "https://news.ycombinator.com/item?id=48881009",
+          "id": "452ee035aa56d1430de840abe43917375b47a204",
+          "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T18:07:01.116000Z"
+        },
+        {
+          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://news.ycombinator.com/item?id=48881043",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-12T15:23:43.975000Z"
         },
         {
-          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
-          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
-          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T13:35:15.303000Z"
+          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
         },
         {
-          "id": "e59b8609f0107ee4f1e1fb80cbaa732345d32758",
-          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T13:21:01Z"
+          "id": "ea26dc7b16bd417d2aa68e407dc9189716294b0b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.571,
-      "importance": 0.571,
-      "importance_score": 0.571,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.623,
+      "importance": 0.623,
+      "importance_score": 0.623,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9898,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T13:26:13Z",
+      "latest_at": "2026-07-12T19:57:27.770000Z",
+      "primary_item": {
+        "id": "452ee035aa56d1430de840abe43917375b47a204",
+        "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
+        "url": "https://news.ycombinator.com/item?id=48881043",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_065047e21dc3",
+      "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://news.ycombinator.com/item?id=48883275",
+      "primary_url": "https://news.ycombinator.com/item?id=48883275",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
+          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://news.ycombinator.com/item?id=48883275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "systima.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T19:27:07.004000Z"
+        },
+        {
+          "id": "cbcd3125e2dc3eafa30d45fcef4c253b747cde53",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T18:25:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "systima.ai"
+      ],
+      "items": [
+        {
+          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
+          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://news.ycombinator.com/item?id=48883275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "systima.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T19:27:07.004000Z"
+        },
+        {
+          "id": "cbcd3125e2dc3eafa30d45fcef4c253b747cde53",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T18:25:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T13:21:01Z",
-      "latest_at": "2026-07-12T15:23:43.975000Z",
+      "earliest_at": "2026-07-12T18:25:51Z",
+      "latest_at": "2026-07-12T19:57:27.770000Z",
       "primary_item": {
-        "id": "601d0ade200a1b26af0af0bd0256fdc751a7b11d",
-        "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-        "url": "https://news.ycombinator.com/item?id=48881009",
+        "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
+        "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "url": "https://news.ycombinator.com/item?id=48883275",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -486,14 +798,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -508,6 +820,162 @@
         "url": "https://www.huxiu.com/article/4874651.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_12c458e9f6b4",
+      "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T14:23:06.187000Z"
+        },
+        {
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T14:23:06.187000Z"
+        },
+        {
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7681,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T14:02:01Z",
+      "latest_at": "2026-07-12T14:23:06.187000Z",
+      "primary_item": {
+        "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+        "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+        "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ac92e5fbbd7c",
+      "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+      "url": "https://news.ycombinator.com/item?id=48881498",
+      "primary_url": "https://news.ycombinator.com/item?id=48881498",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://news.ycombinator.com/item?id=48881498",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "9b1ed991d1216f878216a15326c1e80733b0b377",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T14:32:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://news.ycombinator.com/item?id=48881498",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "9b1ed991d1216f878216a15326c1e80733b0b377",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T14:32:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T14:32:00Z",
+      "latest_at": "2026-07-12T19:57:27.770000Z",
+      "primary_item": {
+        "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
+        "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+        "url": "https://news.ycombinator.com/item?id=48881498",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -564,14 +1032,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -586,84 +1054,6 @@
         "url": "https://www.huxiu.com/article/4874659.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e7c3ab251152",
-      "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-      "url": "https://news.ycombinator.com/item?id=48881043",
-      "primary_url": "https://news.ycombinator.com/item?id=48881043",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T15:23:43.975000Z"
-        },
-        {
-          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T15:23:43.975000Z"
-        },
-        {
-          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.546,
-      "importance": 0.546,
-      "importance_score": 0.546,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9898,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T13:26:13Z",
-      "latest_at": "2026-07-12T15:23:43.975000Z",
-      "primary_item": {
-        "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-        "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-        "url": "https://news.ycombinator.com/item?id=48881043",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -720,14 +1110,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.4794,
+      "importance": 0.4794,
+      "importance_score": 0.4794,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8363,
+        "recency": 0.6568,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -740,6 +1130,316 @@
         "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
         "title": "Nutlope / 标志 / Nutlope / hallmark",
         "url": "https://github.com/Nutlope/hallmark",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d9a2efbb68a1",
+      "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
+      "primary_url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2dad0f13936b43f501a92c418fa17dfceb2365b6",
+          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
+          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T11:09:42Z"
+        },
+        {
+          "id": "7f5fcbd49809b5e1dcffc23529b9f1b2648e1522",
+          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents by Terry Tao",
+          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T11:09:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2dad0f13936b43f501a92c418fa17dfceb2365b6",
+          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
+          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T11:09:42Z"
+        },
+        {
+          "id": "7f5fcbd49809b5e1dcffc23529b9f1b2648e1522",
+          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents by Terry Tao",
+          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T11:09:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4748,
+      "importance": 0.4748,
+      "importance_score": 0.4748,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6338,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T11:09:42Z",
+      "latest_at": "2026-07-12T11:09:42Z",
+      "primary_item": {
+        "id": "2dad0f13936b43f501a92c418fa17dfceb2365b6",
+        "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
+        "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_a090ea6b9f4d",
+      "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+      "url": "https://www.v2ex.com/t/1226732",
+      "primary_url": "https://www.v2ex.com/t/1226732",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
+          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        },
+        {
+          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
+          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
+          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        },
+        {
+          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
+          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4615,
+      "importance": 0.4615,
+      "importance_score": 0.4615,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5674,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T09:33:59Z",
+      "latest_at": "2026-07-12T09:33:59Z",
+      "primary_item": {
+        "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
+        "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+        "url": "https://www.v2ex.com/t/1226732",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_c382a390d07b",
+      "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
+      "url": "https://news.ycombinator.com/item?id=48883415",
+      "primary_url": "https://news.ycombinator.com/item?id=48883415",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9f612278ec31e834adf706af141de314ca35ac79",
+          "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
+          "url": "https://news.ycombinator.com/item?id=48883415",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "8ae2bd86cb2af7c256631cf73d1d2431c889bf39",
+          "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
+          "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:41:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9f612278ec31e834adf706af141de314ca35ac79",
+          "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
+          "url": "https://news.ycombinator.com/item?id=48883415",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "8ae2bd86cb2af7c256631cf73d1d2431c889bf39",
+          "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
+          "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:41:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T18:41:15Z",
+      "latest_at": "2026-07-12T19:57:27.770000Z",
+      "primary_item": {
+        "id": "9f612278ec31e834adf706af141de314ca35ac79",
+        "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
+        "url": "https://news.ycombinator.com/item?id=48883415",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b409dc7b8493",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T11:31:25.750000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T11:31:25.750000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4794,
+      "importance": 0.4794,
+      "importance_score": 0.4794,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6568,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T11:31:25.750000Z",
+      "latest_at": "2026-07-12T11:42:43.838109Z",
+      "primary_item": {
+        "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+        "title": "Shubhamsaboo / awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
@@ -798,14 +1498,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
+      "score": 0.475,
+      "importance": 0.475,
+      "importance_score": 0.475,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8144,
+        "recency": 0.6348,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,820 +1523,81 @@
       }
     },
     {
-      "story_id": "story_3ff1f70f056f",
-      "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
-      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-      "primary_url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-      "source": "pluralistic.net",
-      "source_name": "Buzzing",
+      "story_id": "story_4f4c2bd39a3c",
+      "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://news.ycombinator.com/item?id=48882716",
+      "primary_url": "https://news.ycombinator.com/item?id=48882716",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
-          "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "pluralistic.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T05:03:04.325000Z"
-        },
-        {
-          "id": "3c0548ff800ab99ca3885825fc0f74f717168e5a",
-          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "url": "https://news.ycombinator.com/item?id=48873855",
+          "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
+          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "url": "https://news.ycombinator.com/item?id=48882716",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-11T21:11:13.898000Z"
+          "published_at": "2026-07-12T19:57:27.770000Z"
         },
         {
-          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
-          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T17:23:52Z"
-        },
-        {
-          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
-          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T17:23:52Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "pluralistic.net"
-      ],
-      "items": [
-        {
-          "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
-          "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "pluralistic.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T05:03:04.325000Z"
-        },
-        {
-          "id": "3c0548ff800ab99ca3885825fc0f74f717168e5a",
-          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "url": "https://news.ycombinator.com/item?id=48873855",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T21:11:13.898000Z"
-        },
-        {
-          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
-          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T17:23:52Z"
-        },
-        {
-          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
-          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T17:23:52Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5588,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T17:23:52Z",
-      "latest_at": "2026-07-12T05:03:04.325000Z",
-      "primary_item": {
-        "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
-        "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
-        "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-        "source": "pluralistic.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a090ea6b9f4d",
-      "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-      "url": "https://www.v2ex.com/t/1226732",
-      "primary_url": "https://www.v2ex.com/t/1226732",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
-          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        },
-        {
-          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
-          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
-          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        },
-        {
-          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
-          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4974,
-      "importance": 0.4974,
-      "importance_score": 0.4974,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7469,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T09:33:59Z",
-      "latest_at": "2026-07-12T09:33:59Z",
-      "primary_item": {
-        "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
-        "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-        "url": "https://www.v2ex.com/t/1226732",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_b409dc7b8493",
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
-          "title": "Shubhamsaboo / awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
-          "title": "Shubhamsaboo /      awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
-          "title": "Shubhamsaboo / awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
-          "title": "Shubhamsaboo /      awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8363,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T11:31:25.750000Z",
-      "latest_at": "2026-07-12T11:42:43.838109Z",
-      "primary_item": {
-        "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
-        "title": "Shubhamsaboo / awesome-llm-apps",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0873f91941f8",
-      "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
-      "url": "https://www.ithome.com/0/975/767.htm",
-      "primary_url": "https://www.ithome.com/0/975/767.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d6059f397f28bef09aac11578a46124e0498bbb2",
-          "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
-          "url": "https://www.ithome.com/0/975/767.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d6059f397f28bef09aac11578a46124e0498bbb2",
-          "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
-          "url": "https://www.ithome.com/0/975/767.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8363,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T11:37:33Z",
-      "latest_at": "2026-07-12T11:42:43.838109Z",
-      "primary_item": {
-        "id": "d6059f397f28bef09aac11578a46124e0498bbb2",
-        "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
-        "url": "https://www.ithome.com/0/975/767.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_3b23309d9289",
-      "title": "维拉特 / ai-hedge-bottom / virattt / ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "primary_url": "https://github.com/virattt/ai-hedge-fund",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fb0669129659f8ab94f494a3d87954f85fb557c8",
-          "title": "维拉特 / ai-hedge-bottom / virattt / ai-hedge-fund",
-          "url": "https://github.com/virattt/ai-hedge-fund",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b7a521d3ca536130b843c14fcd7918e42ddd996a",
-          "title": "维拉特 / ai-hedge-bottom / virattt /      ai-hedge-fund",
-          "url": "https://github.com/virattt/ai-hedge-fund",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "fb0669129659f8ab94f494a3d87954f85fb557c8",
-          "title": "维拉特 / ai-hedge-bottom / virattt / ai-hedge-fund",
-          "url": "https://github.com/virattt/ai-hedge-fund",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b7a521d3ca536130b843c14fcd7918e42ddd996a",
-          "title": "维拉特 / ai-hedge-bottom / virattt /      ai-hedge-fund",
-          "url": "https://github.com/virattt/ai-hedge-fund",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8363,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T11:31:25.750000Z",
-      "latest_at": "2026-07-12T11:42:43.838109Z",
-      "primary_item": {
-        "id": "fb0669129659f8ab94f494a3d87954f85fb557c8",
-        "title": "维拉特 / ai-hedge-bottom / virattt / ai-hedge-fund",
-        "url": "https://github.com/virattt/ai-hedge-fund",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_dfe87bfc97aa",
-      "title": "用100行Lisp编写的智能体",
-      "url": "https://thebeach.dev/posts/lisp-agent",
-      "primary_url": "https://thebeach.dev/posts/lisp-agent",
-      "source": "thebeach.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
-          "title": "用100行Lisp编写的智能体",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "thebeach.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T03:43:08.376000Z"
-        },
-        {
-          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
-          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T03:36:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "thebeach.dev"
-      ],
-      "items": [
-        {
-          "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
-          "title": "用100行Lisp编写的智能体",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "thebeach.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T03:43:08.376000Z"
-        },
-        {
-          "id": "976a01010fcfbc257ad57c908f4262a10779621e",
-          "title": "用100行Lisp编写的智能体 / An Agent in 100 Lines of Lisp",
-          "url": "https://thebeach.dev/posts/lisp-agent",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T03:36:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4487,
-      "importance": 0.4487,
-      "importance_score": 0.4487,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5033,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T03:36:08Z",
-      "latest_at": "2026-07-12T03:43:08.376000Z",
-      "primary_item": {
-        "id": "df9710b1086a65100ad18e57dd1a7a3dc072971c",
-        "title": "用100行Lisp编写的智能体",
-        "url": "https://thebeach.dev/posts/lisp-agent",
-        "source": "thebeach.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3822e0e0e383",
-      "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "primary_url": "https://www.iroh.computer/blog/mesh-llm",
-      "source": "www.iroh.computer",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a979088d4b6bd2358aa7b1ebcb6b5dfb46fbe11d",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "www.iroh.computer",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T02:23:05.249000Z"
-        },
-        {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "id": "685e25baf64ea6ecc2b1619cbd21b76e1f294c3b",
+          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-11T22:38:57Z"
+          "published_at": "2026-07-12T17:13:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "www.iroh.computer"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "a979088d4b6bd2358aa7b1ebcb6b5dfb46fbe11d",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "www.iroh.computer",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T02:23:05.249000Z"
+          "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
+          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "url": "https://news.ycombinator.com/item?id=48882716",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
         },
         {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
-          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "id": "685e25baf64ea6ecc2b1619cbd21b76e1f294c3b",
+          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-11T22:38:57Z"
+          "published_at": "2026-07-12T17:13:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4375,
-      "importance": 0.4375,
-      "importance_score": 0.4375,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4477,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T22:38:57Z",
-      "latest_at": "2026-07-12T02:23:05.249000Z",
+      "earliest_at": "2026-07-12T17:13:07Z",
+      "latest_at": "2026-07-12T19:57:27.770000Z",
       "primary_item": {
-        "id": "a979088d4b6bd2358aa7b1ebcb6b5dfb46fbe11d",
-        "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "source": "www.iroh.computer",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_afc80c46cea0",
-      "title": "别再让我去问LLM了",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-      "primary_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-      "source": "blog.yaelwrites.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
-          "title": "别再让我去问LLM了",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "blog.yaelwrites.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T23:59:09.075000Z"
-        },
-        {
-          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
-          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T22:28:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.yaelwrites.com"
-      ],
-      "items": [
-        {
-          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
-          "title": "别再让我去问LLM了",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "blog.yaelwrites.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T23:59:09.075000Z"
-        },
-        {
-          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
-          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T22:28:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4175,
-      "importance": 0.4175,
-      "importance_score": 0.4175,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3477,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T22:28:48Z",
-      "latest_at": "2026-07-11T23:59:09.075000Z",
-      "primary_item": {
-        "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
-        "title": "别再让我去问LLM了",
-        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-        "source": "blog.yaelwrites.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2c1bf5ffef3f",
-      "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-      "url": "https://36kr.com/p/3892222176574211?f=rss",
-      "primary_url": "https://36kr.com/p/3892222176574211?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4783,
-      "importance": 0.4783,
-      "importance_score": 0.4783,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6515,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T05:47:23Z",
-      "latest_at": "2026-07-12T07:16:35.576193Z",
-      "primary_item": {
-        "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-        "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-        "url": "https://36kr.com/p/3892222176574211?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d01a1045be8c",
-      "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-      "url": "https://github.com/sqlsure/sqlsure",
-      "primary_url": "https://github.com/sqlsure/sqlsure",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3864,
-      "importance": 0.3864,
-      "importance_score": 0.3864,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1921,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:03:42Z",
-      "latest_at": "2026-07-11T20:15:06.203000Z",
-      "primary_item": {
-        "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-        "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-        "url": "https://github.com/sqlsure/sqlsure",
-        "source": "github.com",
-        "source_name": "Buzzing"
+        "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
+        "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+        "url": "https://news.ycombinator.com/item?id=48882716",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
