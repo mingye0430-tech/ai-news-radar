@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-12T19:56:59.241358Z",
+  "generated_at": "2026-07-12T22:32:59.780852Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0833-27ba-940b-c82551350117&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260713-0833-27ba-940b-c82551350117&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "71f3dba83f8fd8c890f65dac9c5b2ec3b00d8847",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0833-27ba-940b-c82551350117&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "7c0f6f69ea90e12c82aecec1bbbed6addaba6215",
           "title": "点击这里进入 / Click here to enter",
@@ -42,15 +51,6 @@
           "id": "81dc760be993b3f58ca07669142a2b5c3897fa10",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1717-001f-81ee-29e27b0b6bfa&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "fd7fbf94f6030a352a87b434b0682463feedaf3f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0711-11a9-a5b1-152f6d9ee745&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -63,6 +63,15 @@
       ],
       "items": [
         {
+          "id": "71f3dba83f8fd8c890f65dac9c5b2ec3b00d8847",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0833-27ba-940b-c82551350117&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "7c0f6f69ea90e12c82aecec1bbbed6addaba6215",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
@@ -93,15 +102,6 @@
           "id": "81dc760be993b3f58ca07669142a2b5c3897fa10",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-1717-001f-81ee-29e27b0b6bfa&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "fd7fbf94f6030a352a87b434b0682463feedaf3f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0711-11a9-a5b1-152f6d9ee745&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,12 +126,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T21:10:45.981852Z",
-      "latest_at": "2026-07-12T19:56:59.241358Z",
+      "earliest_at": "2026-07-12T07:16:35.576193Z",
+      "latest_at": "2026-07-12T22:32:59.780852Z",
       "primary_item": {
-        "id": "7c0f6f69ea90e12c82aecec1bbbed6addaba6215",
+        "id": "71f3dba83f8fd8c890f65dac9c5b2ec3b00d8847",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0833-27ba-940b-c82551350117&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -171,14 +171,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9373,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -193,6 +193,66 @@
         "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
         "url": "https://aihot.virxact.com/items/cmri4sa9p00r9bi3hn0yjz7jx",
         "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1a64d5fd15b3",
+      "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+      "url": "https://aihot.virxact.com/items/cmri4o4kx00qcbi3hqxj8rxqd",
+      "primary_url": "https://aihot.virxact.com/items/cmri4o4kx00qcbi3hqxj8rxqd",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a54cc03af3dfb092b256315c3363620aed0e5b68",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "url": "https://aihot.virxact.com/items/cmri4o4kx00qcbi3hqxj8rxqd",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "a54cc03af3dfb092b256315c3363620aed0e5b68",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "url": "https://aihot.virxact.com/items/cmri4o4kx00qcbi3hqxj8rxqd",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8104,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T17:59:57Z",
+      "latest_at": "2026-07-12T17:59:57Z",
+      "primary_item": {
+        "id": "a54cc03af3dfb092b256315c3363620aed0e5b68",
+        "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
+        "url": "https://aihot.virxact.com/items/cmri4o4kx00qcbi3hqxj8rxqd",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -231,14 +291,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7825,
-      "importance": 0.7825,
-      "importance_score": 0.7825,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8525,
+        "recency": 0.7441,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -291,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8007,
+        "recency": 0.6923,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -351,20 +411,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7459,
+        "recency": 0.6376,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T13:51:05Z",
       "latest_at": "2026-07-12T13:51:05Z",
@@ -373,65 +432,6 @@
         "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
         "url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b29aff4d20c7",
-      "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-      "url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
-      "primary_url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "49591489fa7b5799350de83696f30a3d74847a12",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "49591489fa7b5799350de83696f30a3d74847a12",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7229,
-      "importance": 0.7229,
-      "importance_score": 0.7229,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5547,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T09:15:49Z",
-      "latest_at": "2026-07-12T09:15:49Z",
-      "primary_item": {
-        "id": "49591489fa7b5799350de83696f30a3d74847a12",
-        "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-        "url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -489,14 +489,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6655,
-      "importance": 0.6655,
-      "importance_score": 0.6655,
+      "score": 0.6438,
+      "importance": 0.6438,
+      "importance_score": 0.6438,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1423,
+        "recency": 0.034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -515,136 +515,527 @@
       }
     },
     {
-      "story_id": "story_e7c3ab251152",
-      "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
-      "url": "https://news.ycombinator.com/item?id=48881043",
-      "primary_url": "https://news.ycombinator.com/item?id=48881043",
+      "story_id": "story_be381b18cc59",
+      "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+      "url": "https://news.ycombinator.com/item?id=48884815",
+      "primary_url": "https://news.ycombinator.com/item?id=48884815",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "452ee035aa56d1430de840abe43917375b47a204",
-          "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
-          "url": "https://news.ycombinator.com/item?id=48881043",
+          "id": "f56f112a127bc298cf337411b53d1b9a6d5fb0d0",
+          "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://news.ycombinator.com/item?id=48884815",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-12T19:57:27.770000Z"
+          "published_at": "2026-07-12T22:33:31.923000Z"
         },
         {
-          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "spectrum.ieee.org",
+          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "url": "https://www.adaptiverecall.com",
+          "source": "www.adaptiverecall.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T18:07:01.116000Z"
+          "published_at": "2026-07-12T21:17:10.568000Z"
         },
         {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T15:23:43.975000Z"
-        },
-        {
-          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
-        },
-        {
-          "id": "ea26dc7b16bd417d2aa68e407dc9189716294b0b",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
+          "id": "c444a45271c333e252b7a7a863be697238b393c2",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://www.adaptiverecall.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T21:08:20Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews",
-        "spectrum.ieee.org"
+        "www.adaptiverecall.com"
       ],
       "items": [
         {
-          "id": "452ee035aa56d1430de840abe43917375b47a204",
-          "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
-          "url": "https://news.ycombinator.com/item?id=48881043",
+          "id": "f56f112a127bc298cf337411b53d1b9a6d5fb0d0",
+          "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://news.ycombinator.com/item?id=48884815",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-12T19:57:27.770000Z"
+          "published_at": "2026-07-12T22:33:31.923000Z"
         },
         {
-          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "spectrum.ieee.org",
+          "id": "174dae429e96873b5ecaa3b3d74f28096b67a4af",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案",
+          "url": "https://www.adaptiverecall.com",
+          "source": "www.adaptiverecall.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T18:07:01.116000Z"
+          "published_at": "2026-07-12T21:17:10.568000Z"
         },
         {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T15:23:43.975000Z"
-        },
-        {
-          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
-        },
-        {
-          "id": "ea26dc7b16bd417d2aa68e407dc9189716294b0b",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T13:26:13Z"
+          "id": "c444a45271c333e252b7a7a863be697238b393c2",
+          "title": "Show HN: 自适应回调：基于MCP的AI助手持久化存储方案 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+          "url": "https://www.adaptiverecall.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T21:08:20Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 1.0
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T21:08:20Z",
+      "latest_at": "2026-07-12T22:33:31.923000Z",
+      "primary_item": {
+        "id": "f56f112a127bc298cf337411b53d1b9a6d5fb0d0",
+        "title": "Show HN：自适应召回，通过 MCP 为 AI 助手提供持久记忆 / Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+        "url": "https://news.ycombinator.com/item?id=48884815",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_dd2c6d143ed1",
+      "title": "我喜欢大型语言模型，讨厌炒作",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "primary_url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "source": "geohot.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "12c5acbb94f5d123f7127e1ed16664da4dd64936",
+          "title": "我喜欢大型语言模型，讨厌炒作",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.500000Z"
+        },
+        {
+          "id": "2ee91c796f92d5801172d6838d9d616e13364c1b",
+          "title": "我喜欢法学硕士，我讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://news.ycombinator.com/item?id=48883343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "d597d6bf91186b8bfb46c986d2a055a015631a5c",
+          "title": "我喜欢大型语言模型，讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:31:56Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "geohot.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "12c5acbb94f5d123f7127e1ed16664da4dd64936",
+          "title": "我喜欢大型语言模型，讨厌炒作",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "geohot.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.500000Z"
+        },
+        {
+          "id": "2ee91c796f92d5801172d6838d9d616e13364c1b",
+          "title": "我喜欢法学硕士，我讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://news.ycombinator.com/item?id=48883343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:57:27.770000Z"
+        },
+        {
+          "id": "d597d6bf91186b8bfb46c986d2a055a015631a5c",
+          "title": "我喜欢大型语言模型，讨厌炒作 / I love LLMs, I hate hype",
+          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:31:56Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5538,
+      "importance": 0.5538,
+      "importance_score": 0.5538,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9038,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T18:31:56Z",
+      "latest_at": "2026-07-12T20:14:25.500000Z",
+      "primary_item": {
+        "id": "12c5acbb94f5d123f7127e1ed16664da4dd64936",
+        "title": "我喜欢大型语言模型，讨厌炒作",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "source": "geohot.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_392ad56cd351",
+      "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+      "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+      "primary_url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+      "source": "medium.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c4cb052e0bfe69c6ed5de8f2cd7d17c61d65425c",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T22:21:04.799000Z"
+        },
+        {
+          "id": "e3a3b98ea723b8a6cba4dc4f3a01b95ab0bb7be8",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨 / Know thine enemy: A critical engagement with AI-assisted software development",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T22:12:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "medium.com"
+      ],
+      "items": [
+        {
+          "id": "c4cb052e0bfe69c6ed5de8f2cd7d17c61d65425c",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T22:21:04.799000Z"
+        },
+        {
+          "id": "e3a3b98ea723b8a6cba4dc4f3a01b95ab0bb7be8",
+          "title": "知己知彼：对人工智能辅助软件开发的批判性探讨 / Know thine enemy: A critical engagement with AI-assisted software development",
+          "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T22:12:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5463,
+      "importance": 0.5463,
+      "importance_score": 0.5463,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9917,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T22:12:06Z",
+      "latest_at": "2026-07-12T22:21:04.799000Z",
+      "primary_item": {
+        "id": "c4cb052e0bfe69c6ed5de8f2cd7d17c61d65425c",
+        "title": "知己知彼：对人工智能辅助软件开发的批判性探讨",
+        "url": "https://medium.com/bits-and-behavior/know-thine-enemy-a-critical-engagement-with-ai-assisted-software-development-e41d9b058ab1",
+        "source": "medium.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e7c3ab251152",
+      "title": "人工智能助推科研职业发展，却抑制了科学发现",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "primary_url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "source": "spectrum.ieee.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T18:07:01.116000Z"
+        },
+        {
+          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        },
+        {
+          "id": "ea26dc7b16bd417d2aa68e407dc9189716294b0b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T18:07:01.116000Z"
+        },
+        {
+          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        },
+        {
+          "id": "ea26dc7b16bd417d2aa68e407dc9189716294b0b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8153,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-12T13:26:13Z",
-      "latest_at": "2026-07-12T19:57:27.770000Z",
+      "latest_at": "2026-07-12T18:07:01.116000Z",
       "primary_item": {
-        "id": "452ee035aa56d1430de840abe43917375b47a204",
-        "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
-        "url": "https://news.ycombinator.com/item?id=48881043",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
+        "title": "人工智能助推科研职业发展，却抑制了科学发现",
+        "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+        "source": "spectrum.ieee.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_61e1ad2b47b9",
+      "title": "负责保障OpenAI人工智能安全的负责人接连离职",
+      "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+      "primary_url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
+          "title": "负责保障OpenAI人工智能安全的负责人接连离职",
+          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:46:20.809000Z"
+        },
+        {
+          "id": "fa3e097bc96649f90c46659bf8a475aac9a52bb2",
+          "title": "负责保障OpenAI人工智能安全的负责人接连离职 / The leaders responsible for keeping OpenAI's AI safe keep leaving",
+          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T20:24:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
+          "title": "负责保障OpenAI人工智能安全的负责人接连离职",
+          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:46:20.809000Z"
+        },
+        {
+          "id": "fa3e097bc96649f90c46659bf8a475aac9a52bb2",
+          "title": "负责保障OpenAI人工智能安全的负责人接连离职 / The leaders responsible for keeping OpenAI's AI safe keep leaving",
+          "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T20:24:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9259,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T20:24:48Z",
+      "latest_at": "2026-07-12T20:46:20.809000Z",
+      "primary_item": {
+        "id": "bc91c8c2e75b867c563cb9e808e4a6152ac2d694",
+        "title": "负责保障OpenAI人工智能安全的负责人接连离职",
+        "url": "https://www.businessinsider.com/openai-safety-alignment-leaders-who-have-left-johannes-heidecke-anthropic-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0f42f1a43c3e",
+      "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
+      "url": "https://xandergos.github.io/terrain-diffusion",
+      "primary_url": "https://xandergos.github.io/terrain-diffusion",
+      "source": "xandergos.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
+          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
+          "url": "https://xandergos.github.io/terrain-diffusion",
+          "source": "xandergos.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.984000Z"
+        },
+        {
+          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
+          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
+          "url": "https://xandergos.github.io/terrain-diffusion",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T19:56:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "xandergos.github.io"
+      ],
+      "items": [
+        {
+          "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
+          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
+          "url": "https://xandergos.github.io/terrain-diffusion",
+          "source": "xandergos.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T20:14:25.984000Z"
+        },
+        {
+          "id": "27f9226e8a6f4ce4e081bf0b322bee26f0ccdba3",
+          "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合 / InfiniteDiffusion: Bridging Learned Fidelity and Procedural Utility for Open-World Terrain Generation",
+          "url": "https://xandergos.github.io/terrain-diffusion",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T19:56:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9038,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T19:56:07Z",
+      "latest_at": "2026-07-12T20:14:25.984000Z",
+      "primary_item": {
+        "id": "fb76fd848b5928f438ed4a1424c8ea2ed4bb1145",
+        "title": "InfiniteDiffusion：在开放世界地形生成中实现学习精度与程序化实用性的融合",
+        "url": "https://xandergos.github.io/terrain-diffusion",
+        "source": "xandergos.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -720,14 +1111,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5514,
+      "importance": 0.5514,
+      "importance_score": 0.5514,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.892,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -742,6 +1133,83 @@
         "url": "https://news.ycombinator.com/item?id=48883275",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1061a57c7386",
+      "title": "我们能理解大型语言模型的推理能力吗？ / Can We Understand How Large Language Models Reason?",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+      "primary_url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "b343153d11bf6dff04b805d3820fac2560fdf6f1",
+          "title": "我们能理解大型语言模型的推理能力吗？ / Can We Understand How Large Language Models Reason?",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T18:04:41Z"
+        },
+        {
+          "id": "24e331563ea31ee624fd83b170b6e70652df88ab",
+          "title": "机械可解释性研究人员将因果关系理论应用于法学硕士 / Mechanistic interpretability researchers applying causality theory to LLMs",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T18:04:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "b343153d11bf6dff04b805d3820fac2560fdf6f1",
+          "title": "我们能理解大型语言模型的推理能力吗？ / Can We Understand How Large Language Models Reason?",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T18:04:41Z"
+        },
+        {
+          "id": "24e331563ea31ee624fd83b170b6e70652df88ab",
+          "title": "机械可解释性研究人员将因果关系理论应用于法学硕士 / Mechanistic interpretability researchers applying causality theory to LLMs",
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T18:04:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8137,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T18:04:41Z",
+      "latest_at": "2026-07-12T18:04:41Z",
+      "primary_item": {
+        "id": "b343153d11bf6dff04b805d3820fac2560fdf6f1",
+        "title": "我们能理解大型语言模型的推理能力吗？ / Can We Understand How Large Language Models Reason?",
+        "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -798,14 +1266,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.4904,
+      "importance": 0.4904,
+      "importance_score": 0.4904,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8204,
+        "recency": 0.7121,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,133 +1291,55 @@
       }
     },
     {
-      "story_id": "story_12c458e9f6b4",
-      "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T14:23:06.187000Z"
-        },
-        {
-          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T14:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T14:23:06.187000Z"
-        },
-        {
-          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T14:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7681,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T14:02:01Z",
-      "latest_at": "2026-07-12T14:23:06.187000Z",
-      "primary_item": {
-        "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-        "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-        "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ac92e5fbbd7c",
-      "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
-      "url": "https://news.ycombinator.com/item?id=48881498",
-      "primary_url": "https://news.ycombinator.com/item?id=48881498",
+      "story_id": "story_e90af5436afb",
+      "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
+      "url": "https://news.ycombinator.com/item?id=48884647",
+      "primary_url": "https://news.ycombinator.com/item?id=48884647",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
-          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
-          "url": "https://news.ycombinator.com/item?id=48881498",
+          "id": "19a0b7ceae3c05cf0fcb1b56f40fce9610fd27de",
+          "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48884647",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-12T19:57:27.770000Z"
+          "published_at": "2026-07-12T22:33:31.923000Z"
         },
         {
-          "id": "9b1ed991d1216f878216a15326c1e80733b0b377",
-          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
-          "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T14:32:00Z"
+          "id": "d77724f6bbd0a2eb790d89fcd9f2b0f13dcb9143",
+          "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
+          "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T20:49:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
-          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
-          "url": "https://news.ycombinator.com/item?id=48881498",
+          "id": "19a0b7ceae3c05cf0fcb1b56f40fce9610fd27de",
+          "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48884647",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-12T19:57:27.770000Z"
+          "published_at": "2026-07-12T22:33:31.923000Z"
         },
         {
-          "id": "9b1ed991d1216f878216a15326c1e80733b0b377",
-          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
-          "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T14:32:00Z"
+          "id": "d77724f6bbd0a2eb790d89fcd9f2b0f13dcb9143",
+          "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
+          "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T20:49:46Z"
         }
       ],
       "item_count": 2,
@@ -968,12 +1358,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T14:32:00Z",
-      "latest_at": "2026-07-12T19:57:27.770000Z",
+      "earliest_at": "2026-07-12T20:49:46Z",
+      "latest_at": "2026-07-12T22:33:31.923000Z",
       "primary_item": {
-        "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
-        "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
-        "url": "https://news.ycombinator.com/item?id=48881498",
+        "id": "19a0b7ceae3c05cf0fcb1b56f40fce9610fd27de",
+        "title": "MCP 安全状况 [pdf] / The State of MCP Security [pdf]",
+        "url": "https://news.ycombinator.com/item?id=48884647",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1032,14 +1422,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.4904,
+      "importance": 0.4904,
+      "importance_score": 0.4904,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8204,
+        "recency": 0.7121,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1110,14 +1500,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4794,
-      "importance": 0.4794,
-      "importance_score": 0.4794,
+      "score": 0.4577,
+      "importance": 0.4577,
+      "importance_score": 0.4577,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6568,
+        "recency": 0.5484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1135,340 +1525,30 @@
       }
     },
     {
-      "story_id": "story_d9a2efbb68a1",
-      "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-      "primary_url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2dad0f13936b43f501a92c418fa17dfceb2365b6",
-          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T11:09:42Z"
-        },
-        {
-          "id": "7f5fcbd49809b5e1dcffc23529b9f1b2648e1522",
-          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents by Terry Tao",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T11:09:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2dad0f13936b43f501a92c418fa17dfceb2365b6",
-          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T11:09:42Z"
-        },
-        {
-          "id": "7f5fcbd49809b5e1dcffc23529b9f1b2648e1522",
-          "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents by Terry Tao",
-          "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T11:09:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4748,
-      "importance": 0.4748,
-      "importance_score": 0.4748,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6338,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T11:09:42Z",
-      "latest_at": "2026-07-12T11:09:42Z",
-      "primary_item": {
-        "id": "2dad0f13936b43f501a92c418fa17dfceb2365b6",
-        "title": "《新旧应用：通过现代编码代理》，作者：Terry Tao / Old and new apps, via modern coding agents",
-        "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_a090ea6b9f4d",
-      "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-      "url": "https://www.v2ex.com/t/1226732",
-      "primary_url": "https://www.v2ex.com/t/1226732",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
-          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        },
-        {
-          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
-          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
-          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        },
-        {
-          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
-          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4615,
-      "importance": 0.4615,
-      "importance_score": 0.4615,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5674,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T09:33:59Z",
-      "latest_at": "2026-07-12T09:33:59Z",
-      "primary_item": {
-        "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
-        "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-        "url": "https://www.v2ex.com/t/1226732",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_c382a390d07b",
-      "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
-      "url": "https://news.ycombinator.com/item?id=48883415",
-      "primary_url": "https://news.ycombinator.com/item?id=48883415",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9f612278ec31e834adf706af141de314ca35ac79",
-          "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
-          "url": "https://news.ycombinator.com/item?id=48883415",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T19:57:27.770000Z"
-        },
-        {
-          "id": "8ae2bd86cb2af7c256631cf73d1d2431c889bf39",
-          "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
-          "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T18:41:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9f612278ec31e834adf706af141de314ca35ac79",
-          "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
-          "url": "https://news.ycombinator.com/item?id=48883415",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T19:57:27.770000Z"
-        },
-        {
-          "id": "8ae2bd86cb2af7c256631cf73d1d2431c889bf39",
-          "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
-          "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T18:41:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T18:41:15Z",
-      "latest_at": "2026-07-12T19:57:27.770000Z",
-      "primary_item": {
-        "id": "9f612278ec31e834adf706af141de314ca35ac79",
-        "title": "一步陷阱（人工智能研究中） / The One-Step Trap (In AI Research)",
-        "url": "https://news.ycombinator.com/item?id=48883415",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_b409dc7b8493",
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
-          "title": "Shubhamsaboo / awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
-          "title": "Shubhamsaboo /      awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
-          "title": "Shubhamsaboo / awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
-          "title": "Shubhamsaboo /      awesome-llm-apps",
-          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4794,
-      "importance": 0.4794,
-      "importance_score": 0.4794,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6568,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T11:31:25.750000Z",
-      "latest_at": "2026-07-12T11:42:43.838109Z",
-      "primary_item": {
-        "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
-        "title": "Shubhamsaboo / awesome-llm-apps",
-        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9c16317d5df5",
-      "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-      "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-      "primary_url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+      "story_id": "story_12c458e9f6b4",
+      "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T11:11:07.762000Z"
+          "published_at": "2026-07-12T14:23:06.187000Z"
         },
         {
-          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-12T09:51:01Z"
+          "published_at": "2026-07-12T14:02:01Z"
         }
       ],
       "source_count": 2,
@@ -1478,126 +1558,48 @@
       ],
       "items": [
         {
-          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-12T11:11:07.762000Z"
+          "published_at": "2026-07-12T14:23:06.187000Z"
         },
         {
-          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-12T09:51:01Z"
+          "published_at": "2026-07-12T14:02:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.475,
-      "importance": 0.475,
-      "importance_score": 0.475,
+      "score": 0.48,
+      "importance": 0.48,
+      "importance_score": 0.48,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6348,
+        "recency": 0.6598,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-12T09:51:01Z",
-      "latest_at": "2026-07-12T11:11:07.762000Z",
+      "earliest_at": "2026-07-12T14:02:01Z",
+      "latest_at": "2026-07-12T14:23:06.187000Z",
       "primary_item": {
-        "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
-        "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-        "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+        "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+        "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+        "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4f4c2bd39a3c",
-      "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://news.ycombinator.com/item?id=48882716",
-      "primary_url": "https://news.ycombinator.com/item?id=48882716",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
-          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "url": "https://news.ycombinator.com/item?id=48882716",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T19:57:27.770000Z"
-        },
-        {
-          "id": "685e25baf64ea6ecc2b1619cbd21b76e1f294c3b",
-          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T17:13:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
-          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "url": "https://news.ycombinator.com/item?id=48882716",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T19:57:27.770000Z"
-        },
-        {
-          "id": "685e25baf64ea6ecc2b1619cbd21b76e1f294c3b",
-          "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-          "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T17:13:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T17:13:07Z",
-      "latest_at": "2026-07-12T19:57:27.770000Z",
-      "primary_item": {
-        "id": "494324f73b81243fdc1df1886cd3ec6d393284d2",
-        "title": "将生产 AI 代理迁移到 GPT-5.6：速度提高 2.2 倍，成本降低 27% / Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-        "url": "https://news.ycombinator.com/item?id=48882716",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
