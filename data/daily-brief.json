@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-13T18:06:17.110660Z",
+  "generated_at": "2026-07-13T21:35:28.326043Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0406-3853-96cc-9c327704db0e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0406-3853-96cc-9c327704db0e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0735-507a-bf85-a212c5d52e4f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0735-507a-bf85-a212c5d52e4f&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f36e9ed7691b0f55bf3e11d6c91290ffded97347",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0735-507a-bf85-a212c5d52e4f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "fa924eb5a152fda1d8e3f14c6c663d3bf592ce69",
           "title": "点击这里进入 / Click here to enter",
@@ -33,15 +42,6 @@
           "id": "71f3dba83f8fd8c890f65dac9c5b2ec3b00d8847",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0833-27ba-940b-c82551350117&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7c0f6f69ea90e12c82aecec1bbbed6addaba6215",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -54,6 +54,15 @@
       ],
       "items": [
         {
+          "id": "f36e9ed7691b0f55bf3e11d6c91290ffded97347",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0735-507a-bf85-a212c5d52e4f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "fa924eb5a152fda1d8e3f14c6c663d3bf592ce69",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0406-3853-96cc-9c327704db0e&fp=-3",
@@ -75,15 +84,6 @@
           "id": "71f3dba83f8fd8c890f65dac9c5b2ec3b00d8847",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0833-27ba-940b-c82551350117&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "7c0f6f69ea90e12c82aecec1bbbed6addaba6215",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0557-230b-9a7b-75ddc0de97d1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,12 +108,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-12T19:56:59.241358Z",
-      "latest_at": "2026-07-13T18:06:17.110660Z",
+      "earliest_at": "2026-07-12T22:32:59.780852Z",
+      "latest_at": "2026-07-13T21:35:28.326043Z",
       "primary_item": {
-        "id": "fa924eb5a152fda1d8e3f14c6c663d3bf592ce69",
+        "id": "f36e9ed7691b0f55bf3e11d6c91290ffded97347",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0406-3853-96cc-9c327704db0e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0735-507a-bf85-a212c5d52e4f&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -153,14 +153,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9109,
+        "recency": 0.7656,
         "story_heat": 0.0
       },
       "category": "official",
@@ -180,7 +180,67 @@
       }
     },
     {
-      "story_id": "story_9c49d83844f9",
+      "story_id": "story_63b1d6ee8c3f",
+      "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+      "url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
+      "primary_url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "51f63f726a8a84b6104b299cfbcf75779742d0dc",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+          "url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T17:47:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "51f63f726a8a84b6104b299cfbcf75779742d0dc",
+          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+          "url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T17:47:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8418,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T17:47:39Z",
+      "latest_at": "2026-07-13T17:47:39Z",
+      "primary_item": {
+        "id": "51f63f726a8a84b6104b299cfbcf75779742d0dc",
+        "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+        "url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0bd34d8ebc49",
       "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
       "url": "https://www.aibase.com/news/29553",
       "primary_url": "https://www.aibase.com/news/29553",
@@ -233,21 +293,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6913,
+        "recency": 0.546,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T10:41:46.686594Z",
       "latest_at": "2026-07-13T10:41:46.686594Z",
@@ -260,63 +319,82 @@
       }
     },
     {
-      "story_id": "story_ea4734d4d835",
-      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-      "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
-      "primary_url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "29ee8b55235741a1eeebb24e4b0a8f8ba7b598fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
+          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
+          "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
+        },
+        {
+          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
+          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "29ee8b55235741a1eeebb24e4b0a8f8ba7b598fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
+          "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
+          "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
+        },
+        {
+          "id": "9e799f0c9dbb9b3047013f8b08d426b3e5fe7894",
+          "title": "法典 CLI 0.144.3 / Codex CLI 0.144.3",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7325,
-        "story_heat": 0.0
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.1004,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "official_source",
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T11:41:01Z",
-      "latest_at": "2026-07-13T11:41:01Z",
+      "earliest_at": "2026-07-13T00:00:00Z",
+      "latest_at": "2026-07-13T00:00:00Z",
       "primary_item": {
-        "id": "29ee8b55235741a1eeebb24e4b0a8f8ba7b598fe",
-        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-        "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "5e294431603eb515e6f76d39f3c4598ebec6dcf9",
+        "title": "法典 CLI 0.144.2 / Codex CLI 0.144.2",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -354,20 +432,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.713,
+        "recency": 0.5677,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:12:59Z",
       "latest_at": "2026-07-13T11:12:59Z",
@@ -433,21 +510,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6913,
+        "recency": 0.546,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T07:14:40Z",
       "latest_at": "2026-07-13T10:41:46.686594Z",
@@ -460,120 +536,61 @@
       }
     },
     {
-      "story_id": "story_093e1517834b",
-      "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-      "url": "https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1",
-      "primary_url": "https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1",
-      "source": "IT之家（RSS）",
+      "story_id": "story_ea4734d4d835",
+      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+      "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+      "primary_url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f7657a69b2b5e3312de80a0893c8e13c403146fd",
-          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "url": "https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1",
-          "source": "IT之家（RSS）",
+          "id": "29ee8b55235741a1eeebb24e4b0a8f8ba7b598fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T09:58:56Z"
+          "published_at": "2026-07-13T11:41:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "f7657a69b2b5e3312de80a0893c8e13c403146fd",
-          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-          "url": "https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1",
-          "source": "IT之家（RSS）",
+          "id": "29ee8b55235741a1eeebb24e4b0a8f8ba7b598fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-13T09:58:56Z"
+          "published_at": "2026-07-13T11:41:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6616,
+        "recency": 0.5872,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T09:58:56Z",
-      "latest_at": "2026-07-13T09:58:56Z",
+      "earliest_at": "2026-07-13T11:41:01Z",
+      "latest_at": "2026-07-13T11:41:01Z",
       "primary_item": {
-        "id": "f7657a69b2b5e3312de80a0893c8e13c403146fd",
-        "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
-        "url": "https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8be6fa4d7335",
-      "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-      "url": "https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2",
-      "primary_url": "https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2",
-      "source": "X：歸藏 (@op7418)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0b11d8d772d29195e43a676f8cbfb33a272366b5",
-          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-          "url": "https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T09:48:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：歸藏 (@op7418)"
-      ],
-      "items": [
-        {
-          "id": "0b11d8d772d29195e43a676f8cbfb33a272366b5",
-          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-          "url": "https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T09:48:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6547,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T09:48:59Z",
-      "latest_at": "2026-07-13T09:48:59Z",
-      "primary_item": {
-        "id": "0b11d8d772d29195e43a676f8cbfb33a272366b5",
-        "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-        "url": "https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2",
-        "source": "X：歸藏 (@op7418)",
+        "id": "29ee8b55235741a1eeebb24e4b0a8f8ba7b598fe",
+        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+        "url": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -612,20 +629,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6913,
+        "recency": 0.546,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T10:41:46.686594Z",
       "latest_at": "2026-07-13T10:41:46.686594Z",
@@ -672,20 +688,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6913,
+        "recency": 0.546,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T10:41:46.686594Z",
       "latest_at": "2026-07-13T10:41:46.686594Z",
@@ -732,20 +747,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6913,
+        "recency": 0.546,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T10:41:46.686594Z",
       "latest_at": "2026-07-13T10:41:46.686594Z",
@@ -755,6 +769,103 @@
         "url": "https://www.aibase.com/news/29541",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7596375c34fb",
+      "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=48897969",
+      "primary_url": "https://news.ycombinator.com/item?id=48897969",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8dae23469af8cdb4109495d99f25da1014472554",
+          "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=48897969",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T21:35:53.847000Z"
+        },
+        {
+          "id": "cbfb17a357e8e68b2fcff60def488cd6cd9541aa",
+          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面",
+          "url": "https://planwright.tools",
+          "source": "planwright.tools",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T20:01:46.597000Z"
+        },
+        {
+          "id": "f08dc15868358e60ce2199c640ae0dc1eef2bb07",
+          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+          "url": "https://planwright.tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:59:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "planwright.tools"
+      ],
+      "items": [
+        {
+          "id": "8dae23469af8cdb4109495d99f25da1014472554",
+          "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=48897969",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T21:35:53.847000Z"
+        },
+        {
+          "id": "cbfb17a357e8e68b2fcff60def488cd6cd9541aa",
+          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面",
+          "url": "https://planwright.tools",
+          "source": "planwright.tools",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T20:01:46.597000Z"
+        },
+        {
+          "id": "f08dc15868358e60ce2199c640ae0dc1eef2bb07",
+          "title": "Show HN: PlanWright——一个用于人工智能编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+          "url": "https://planwright.tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:59:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T19:59:50Z",
+      "latest_at": "2026-07-13T21:35:53.847000Z",
+      "primary_item": {
+        "id": "8dae23469af8cdb4109495d99f25da1014472554",
+        "title": "Show HN：PlanWright – AI 编码代理的控制平面 / Show HN: PlanWright – A control plane for AI coding agents",
+        "url": "https://news.ycombinator.com/item?id=48897969",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -792,20 +903,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6913,
+        "recency": 0.546,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T10:41:46.686594Z",
       "latest_at": "2026-07-13T10:41:46.686594Z",
@@ -815,6 +925,161 @@
         "url": "https://www.aibase.com/news/29544",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e9296a12cdd5",
+      "title": "格隆汇 7 月 14 日｜惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
+      "url": "https://www.gelonghui.com/live/2550710",
+      "primary_url": "https://www.gelonghui.com/live/2550710",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "80ad5f82545ec06f2d064118cf8e596c56edc3fa",
+          "title": "格隆汇 7 月 14 日｜惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
+          "url": "https://www.gelonghui.com/live/2550710",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "cacb716f14205b8078035f4bcd45e9cb8f92a429",
+          "title": "财联社 7 月 14 日电，惠誉称，未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
+          "url": "https://api3.cls.cn/share/article/2425179?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "80ad5f82545ec06f2d064118cf8e596c56edc3fa",
+          "title": "格隆汇 7 月 14 日｜惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
+          "url": "https://www.gelonghui.com/live/2550710",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "cacb716f14205b8078035f4bcd45e9cb8f92a429",
+          "title": "财联社 7 月 14 日电，惠誉称，未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
+          "url": "https://api3.cls.cn/share/article/2425179?os=web&sv=8.4.6&app=CailianpressWeb",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T21:35:28.326043Z",
+      "latest_at": "2026-07-13T21:35:28.326043Z",
+      "primary_item": {
+        "id": "80ad5f82545ec06f2d064118cf8e596c56edc3fa",
+        "title": "格隆汇 7 月 14 日｜惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
+        "url": "https://www.gelonghui.com/live/2550710",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b4553fdd4116",
+      "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5b6c33f40b478bab296239daecb72b85255e0ec1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T21:04:25.963000Z"
+        },
+        {
+          "id": "3e2a74ff0e7291c8b9691da54b3ef0e5f41835f1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密 / Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:17:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "5b6c33f40b478bab296239daecb72b85255e0ec1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T21:04:25.963000Z"
+        },
+        {
+          "id": "3e2a74ff0e7291c8b9691da54b3ef0e5f41835f1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密 / Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:17:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9784,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T19:17:51Z",
+      "latest_at": "2026-07-13T21:04:25.963000Z",
+      "primary_item": {
+        "id": "5b6c33f40b478bab296239daecb72b85255e0ec1",
+        "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+        "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -852,20 +1117,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6913,
+        "recency": 0.546,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T10:41:46.686594Z",
       "latest_at": "2026-07-13T10:41:46.686594Z",
@@ -875,6 +1139,84 @@
         "url": "https://www.aibase.com/news/29543",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d1a46fc49e00",
+      "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+      "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.493000Z"
+        },
+        {
+          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T17:45:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.493000Z"
+        },
+        {
+          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T17:45:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8681,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T17:45:41Z",
+      "latest_at": "2026-07-13T18:25:33.493000Z",
+      "primary_item": {
+        "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+        "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+        "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -931,14 +1273,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5189,
+      "importance": 0.5189,
+      "importance_score": 0.5189,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -956,81 +1298,81 @@
       }
     },
     {
-      "story_id": "story_31837d52dfb5",
-      "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-      "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_3bb21a6673df",
+      "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "url": "https://news.ycombinator.com/item?id=48896599",
+      "primary_url": "https://news.ycombinator.com/item?id=48896599",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d320edc14d53d2293a984f47a1a4bfcf96aec9ec",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T17:53:22.325000Z"
+          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://news.ycombinator.com/item?id=48896599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T21:35:53.847000Z"
         },
         {
-          "id": "291514cb6fc6113f31b55dd1c29299f7f0fda24f",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁 / Read the letter Eric Schmidt, Reid Hoffman, and top economists signed warning about AI's threat to jobs",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T12:56:18Z"
+          "id": "d4a53b44127cd79b5e12b8258341b7433c19bb1e",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T18:18:23Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d320edc14d53d2293a984f47a1a4bfcf96aec9ec",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T17:53:22.325000Z"
+          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://news.ycombinator.com/item?id=48896599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T21:35:53.847000Z"
         },
         {
-          "id": "291514cb6fc6113f31b55dd1c29299f7f0fda24f",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁 / Read the letter Eric Schmidt, Reid Hoffman, and top economists signed warning about AI's threat to jobs",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T12:56:18Z"
+          "id": "d4a53b44127cd79b5e12b8258341b7433c19bb1e",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T18:18:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5462,
-      "importance": 0.5462,
-      "importance_score": 0.5462,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.991,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T12:56:18Z",
-      "latest_at": "2026-07-13T17:53:22.325000Z",
+      "earliest_at": "2026-07-13T18:18:23Z",
+      "latest_at": "2026-07-13T21:35:53.847000Z",
       "primary_item": {
-        "id": "d320edc14d53d2293a984f47a1a4bfcf96aec9ec",
-        "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-        "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+        "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+        "url": "https://news.ycombinator.com/item?id=48896599",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1068,20 +1410,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6913,
+        "recency": 0.546,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T10:41:46.686594Z",
       "latest_at": "2026-07-13T10:41:46.686594Z",
@@ -1091,318 +1432,6 @@
         "url": "https://www.aibase.com/news/29542",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_817ee0972d02",
-      "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "primary_url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "50db3f84e37018d0cecf0b108394fb8430ed1848",
-          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
-          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T13:39:59Z"
-        },
-        {
-          "id": "89d5a9f2597a451190e373522935f1e4036d6858",
-          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok CLI uploaded the whole home directory to GCS",
-          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T13:35:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "50db3f84e37018d0cecf0b108394fb8430ed1848",
-          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
-          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T13:39:59Z"
-        },
-        {
-          "id": "89d5a9f2597a451190e373522935f1e4036d6858",
-          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok CLI uploaded the whole home directory to GCS",
-          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T13:35:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8151,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T13:35:32Z",
-      "latest_at": "2026-07-13T13:39:59Z",
-      "primary_item": {
-        "id": "50db3f84e37018d0cecf0b108394fb8430ed1848",
-        "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
-        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_0758182240a0",
-      "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-      "url": "https://www.aibase.com/news/29548",
-      "primary_url": "https://www.aibase.com/news/29548",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "url": "https://www.aibase.com/news/29548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T10:41:46.686594Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "url": "https://www.aibase.com/news/29548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T10:41:46.686594Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6913,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T10:41:46.686594Z",
-      "latest_at": "2026-07-13T10:41:46.686594Z",
-      "primary_item": {
-        "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-        "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-        "url": "https://www.aibase.com/news/29548",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bd87c1bd9f8f",
-      "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://news.ycombinator.com/item?id=48889637",
-      "primary_url": "https://news.ycombinator.com/item?id=48889637",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T10:29:01.812000Z"
-        },
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
-        },
-        {
-          "id": "cf40c86d82b220a732be16d845c086006974a902",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T08:52:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "hackernews",
-        "raymyers.org"
-      ],
-      "items": [
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T10:29:01.812000Z"
-        },
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
-        },
-        {
-          "id": "cf40c86d82b220a732be16d845c086006974a902",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T08:52:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5095,
-      "importance": 0.5095,
-      "importance_score": 0.5095,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6825,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T08:52:41Z",
-      "latest_at": "2026-07-13T10:29:01.812000Z",
-      "primary_item": {
-        "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-        "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-        "url": "https://news.ycombinator.com/item?id=48889637",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_f9ee441fc25a",
-      "title": "Meta正在大力推广AI广告——这给品牌带来了混乱",
-      "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
-      "primary_url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b7a1572138d9c024f97aa54c8afdce3a9533f02f",
-          "title": "Meta正在大力推广AI广告——这给品牌带来了混乱",
-          "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T14:25:55.368000Z"
-        },
-        {
-          "id": "6c2a5840f297e4fccfc158afa0d4138fd7049de6",
-          "title": "Meta正在大力推广AI广告——这给品牌带来了混乱 / Meta is pushing AI ads hard — and causing chaos for brands",
-          "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T14:16:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b7a1572138d9c024f97aa54c8afdce3a9533f02f",
-          "title": "Meta正在大力推广AI广告——这给品牌带来了混乱",
-          "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T14:25:55.368000Z"
-        },
-        {
-          "id": "6c2a5840f297e4fccfc158afa0d4138fd7049de6",
-          "title": "Meta正在大力推广AI广告——这给品牌带来了混乱 / Meta is pushing AI ads hard — and causing chaos for brands",
-          "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T14:16:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.847,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T14:16:39Z",
-      "latest_at": "2026-07-13T14:25:55.368000Z",
-      "primary_item": {
-        "id": "b7a1572138d9c024f97aa54c8afdce3a9533f02f",
-        "title": "Meta正在大力推广AI广告——这给品牌带来了混乱",
-        "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
