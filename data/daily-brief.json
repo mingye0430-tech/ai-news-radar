@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-14T11:49:46.374578Z",
+  "generated_at": "2026-07-14T16:42:58.836723Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2150-24ff-bc2d-420d67cae70d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-2150-24ff-bc2d-420d67cae70d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0243-2247-8c27-73f03a4300d8&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0243-2247-8c27-73f03a4300d8&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "32a6cad1aa195b9bd23a7e5ad3e571f6f45b1d85",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0243-2247-8c27-73f03a4300d8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "fb9b96e14d3cd5447417c2a2b0115c10859b22af",
           "title": "点击这里进入 / Click here to enter",
@@ -48,12 +57,21 @@
           "published_at": null
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "32a6cad1aa195b9bd23a7e5ad3e571f6f45b1d85",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0243-2247-8c27-73f03a4300d8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "fb9b96e14d3cd5447417c2a2b0115c10859b22af",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2150-24ff-bc2d-420d67cae70d&fp=-3",
@@ -90,17 +108,17 @@
           "published_at": null
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.887,
-      "importance": 0.887,
-      "importance_score": 0.887,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.912,
+      "importance": 0.912,
+      "importance_score": 0.912,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.75
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -109,13 +127,375 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-13T18:06:17.110660Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
+      "latest_at": "2026-07-14T16:42:58.836723Z",
       "primary_item": {
-        "id": "fb9b96e14d3cd5447417c2a2b0115c10859b22af",
+        "id": "32a6cad1aa195b9bd23a7e5ad3e571f6f45b1d85",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2150-24ff-bc2d-420d67cae70d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0243-2247-8c27-73f03a4300d8&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_dc9597f1b62f",
+      "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
+          "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
+          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
+          "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
+          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.855,
+      "importance": 0.855,
+      "importance_score": 0.855,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T16:00:00Z",
+      "latest_at": "2026-07-14T16:00:00Z",
+      "primary_item": {
+        "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
+        "title": "庆祝视觉搜索创新 25 周年 / Celebrating 25 years of visual search innovation",
+        "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ed3a2198d15e",
+      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8411,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T12:54:12Z",
+      "latest_at": "2026-07-14T12:54:12Z",
+      "primary_item": {
+        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_719805d60344",
+      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+      "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+      "primary_url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb3b45233687e1a880f5c69c1ce73a769dc6d59d",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI for Developers (@googleaidevs)"
+      ],
+      "items": [
+        {
+          "id": "bb3b45233687e1a880f5c69c1ce73a769dc6d59d",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9408,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T15:17:40Z",
+      "latest_at": "2026-07-14T15:17:40Z",
+      "primary_item": {
+        "id": "bb3b45233687e1a880f5c69c1ce73a769dc6d59d",
+        "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+        "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+        "source": "X：Google AI for Developers (@googleaidevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_613fe007e4a8",
+      "title": "纽约州暂停所有新建大型数据中心项目",
+      "url": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp",
+      "primary_url": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9fd51640549914d6729bf944d6c7be4d01dd3f02",
+          "title": "纽约州暂停所有新建大型数据中心项目",
+          "url": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9fd51640549914d6729bf944d6c7be4d01dd3f02",
+          "title": "纽约州暂停所有新建大型数据中心项目",
+          "url": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.941,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T15:17:59Z",
+      "latest_at": "2026-07-14T15:17:59Z",
+      "primary_item": {
+        "id": "9fd51640549914d6729bf944d6c7be4d01dd3f02",
+        "title": "纽约州暂停所有新建大型数据中心项目",
+        "url": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9da74636b287",
+      "title": "Anthropic 推出 Claude for Teachers",
+      "url": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u",
+      "primary_url": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "68368ae80b181e5437343981c7816c2b567fe040",
+          "title": "Anthropic 推出 Claude for Teachers",
+          "url": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:11:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "68368ae80b181e5437343981c7816c2b567fe040",
+          "title": "Anthropic 推出 Claude for Teachers",
+          "url": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:11:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9363,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T15:11:11Z",
+      "latest_at": "2026-07-14T15:11:11Z",
+      "primary_item": {
+        "id": "68368ae80b181e5437343981c7816c2b567fe040",
+        "title": "Anthropic 推出 Claude for Teachers",
+        "url": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b508a0d1e050",
+      "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+      "url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+      "primary_url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "597a5ebad3308e467c491d30c644916b8c693a44",
+          "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+          "url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T13:06:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "597a5ebad3308e467c491d30c644916b8c693a44",
+          "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+          "url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T13:06:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.85,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T13:06:56Z",
+      "latest_at": "2026-07-14T13:06:56Z",
+      "primary_item": {
+        "id": "597a5ebad3308e467c491d30c644916b8c693a44",
+        "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+        "url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -153,14 +533,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -213,14 +593,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5071,
+        "recency": 0.3035,
         "story_heat": 0.0
       },
       "category": "official",
@@ -274,20 +654,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8892,
+        "recency": 0.6856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T09:10:16Z",
       "latest_at": "2026-07-14T09:10:16Z",
@@ -334,20 +713,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.6813,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T09:04:00Z",
       "latest_at": "2026-07-14T09:04:00Z",
@@ -394,20 +772,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8794,
+        "recency": 0.6758,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T08:56:07Z",
       "latest_at": "2026-07-14T08:56:07Z",
@@ -454,21 +831,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5071,
+        "recency": 0.3035,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T00:00:00Z",
       "latest_at": "2026-07-14T00:00:00Z",
@@ -515,14 +891,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,20 +951,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8312,
+        "recency": 0.6276,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T07:46:46Z",
       "latest_at": "2026-07-14T07:46:46Z",
@@ -635,20 +1010,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.804,
+        "recency": 0.6004,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T07:07:34Z",
       "latest_at": "2026-07-14T07:07:34Z",
@@ -658,67 +1032,6 @@
         "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9b4cfc04bcb",
-      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4928,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T23:39:22Z",
-      "latest_at": "2026-07-13T23:39:22Z",
-      "primary_item": {
-        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -756,14 +1069,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -779,65 +1092,6 @@
         "url": "https://www.aibase.com/news/29585",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_678b5e75e6ba",
-      "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
-      "url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-      "primary_url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2d54c3c21f7dafa4ec7ee33927e601a662cd3ef1",
-          "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
-          "url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T02:29:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "2d54c3c21f7dafa4ec7ee33927e601a662cd3ef1",
-          "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
-          "url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T02:29:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6106,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T02:29:00Z",
-      "latest_at": "2026-07-14T02:29:00Z",
-      "primary_item": {
-        "id": "2d54c3c21f7dafa4ec7ee33927e601a662cd3ef1",
-        "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
-        "url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -875,20 +1129,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7456,
+        "recency": 0.542,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T05:43:25Z",
       "latest_at": "2026-07-14T05:43:25Z",
@@ -935,14 +1188,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -995,14 +1248,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,246 +1269,6 @@
         "id": "a54237efdec97bbf09efc03629057c1426399fe7",
         "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
         "url": "https://www.aibase.com/news/29583",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cd73fff47e39",
-      "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
-      "url": "https://www.aibase.com/news/29576",
-      "primary_url": "https://www.aibase.com/news/29576",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd871d849ba8e56816d69e4ac6b240782b53f4a6",
-          "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
-          "url": "https://www.aibase.com/news/29576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bd871d849ba8e56816d69e4ac6b240782b53f4a6",
-          "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
-          "url": "https://www.aibase.com/news/29576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T11:49:46.374578Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
-      "primary_item": {
-        "id": "bd871d849ba8e56816d69e4ac6b240782b53f4a6",
-        "title": "印度IT巨头HCL Tech官宣进军AI数据中心，拟投资最高 350 亿卢比打造50MW容量",
-        "url": "https://www.aibase.com/news/29576",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6a9b41ee998f",
-      "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-      "url": "https://www.aibase.com/news/29577",
-      "primary_url": "https://www.aibase.com/news/29577",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
-          "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-          "url": "https://www.aibase.com/news/29577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
-          "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-          "url": "https://www.aibase.com/news/29577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T11:49:46.374578Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
-      "primary_item": {
-        "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
-        "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-        "url": "https://www.aibase.com/news/29577",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_60e9c897b324",
-      "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-      "url": "https://www.aibase.com/news/29579",
-      "primary_url": "https://www.aibase.com/news/29579",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-          "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/news/29579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-          "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/news/29579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T11:49:46.374578Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
-      "primary_item": {
-        "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-        "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-        "url": "https://www.aibase.com/news/29579",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1d0786acaba6",
-      "title": "软银携手Sierra在日本推出AI客服服务，客户满意度从74%飙升至93%",
-      "url": "https://www.aibase.com/news/29587",
-      "primary_url": "https://www.aibase.com/news/29587",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e0d2487def9c2e371721f5e5a9b0b489a53a6712",
-          "title": "软银携手Sierra在日本推出AI客服服务，客户满意度从74%飙升至93%",
-          "url": "https://www.aibase.com/news/29587",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e0d2487def9c2e371721f5e5a9b0b489a53a6712",
-          "title": "软银携手Sierra在日本推出AI客服服务，客户满意度从74%飙升至93%",
-          "url": "https://www.aibase.com/news/29587",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T11:49:46.374578Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
-      "primary_item": {
-        "id": "e0d2487def9c2e371721f5e5a9b0b489a53a6712",
-        "title": "软银携手Sierra在日本推出AI客服服务，客户满意度从74%飙升至93%",
-        "url": "https://www.aibase.com/news/29587",
         "source": "AIbase",
         "source_name": "AIbase"
       }
