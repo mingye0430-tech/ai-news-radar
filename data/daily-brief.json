@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-14T20:42:18.060076Z",
+  "generated_at": "2026-07-14T23:37:56.099118Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0642-46f3-9dce-0c124e978553&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0642-46f3-9dce-0c124e978553&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0938-189d-888d-8296062a3515&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0938-189d-888d-8296062a3515&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7fe7716799b9e5fbe070de081da0aad8fdfb5dc3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0938-189d-888d-8296062a3515&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "567f6ff89ff72cd5fd2ee49ab196a1a9001b9179",
           "title": "点击这里进入 / Click here to enter",
@@ -42,15 +51,6 @@
           "id": "b86d1b0de6b01868bc2d99c2a7df8459b2d2e556",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1623-046d-b7c1-2ba179de5e20&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f36e9ed7691b0f55bf3e11d6c91290ffded97347",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0735-507a-bf85-a212c5d52e4f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -63,6 +63,15 @@
       ],
       "items": [
         {
+          "id": "7fe7716799b9e5fbe070de081da0aad8fdfb5dc3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0938-189d-888d-8296062a3515&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "567f6ff89ff72cd5fd2ee49ab196a1a9001b9179",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0642-46f3-9dce-0c124e978553&fp=-3",
@@ -93,15 +102,6 @@
           "id": "b86d1b0de6b01868bc2d99c2a7df8459b2d2e556",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1623-046d-b7c1-2ba179de5e20&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f36e9ed7691b0f55bf3e11d6c91290ffded97347",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0735-507a-bf85-a212c5d52e4f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,12 +126,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T21:35:28.326043Z",
-      "latest_at": "2026-07-14T20:42:18.060076Z",
+      "earliest_at": "2026-07-14T06:22:39.352284Z",
+      "latest_at": "2026-07-14T23:37:56.099118Z",
       "primary_item": {
-        "id": "567f6ff89ff72cd5fd2ee49ab196a1a9001b9179",
+        "id": "7fe7716799b9e5fbe070de081da0aad8fdfb5dc3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0642-46f3-9dce-0c124e978553&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0938-189d-888d-8296062a3515&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -171,14 +171,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9378,
+        "recency": 0.8159,
         "story_heat": 0.0
       },
       "category": "official",
@@ -195,6 +195,66 @@
         "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c9c2e50831e5",
+      "title": "Codex 周活超700万，两月更新150+项",
+      "url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+      "primary_url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "62bbc431b7618e1452b9259f2ff7ce24236dfe3a",
+          "title": "Codex 周活超700万，两月更新150+项",
+          "url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T23:01:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "62bbc431b7618e1452b9259f2ff7ce24236dfe3a",
+          "title": "Codex 周活超700万，两月更新150+项",
+          "url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T23:01:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9744,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T23:01:05Z",
+      "latest_at": "2026-07-14T23:01:05Z",
+      "primary_item": {
+        "id": "62bbc431b7618e1452b9259f2ff7ce24236dfe3a",
+        "title": "Codex 周活超700万，两月更新150+项",
+        "url": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -232,14 +292,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.804,
+        "recency": 0.682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -259,142 +319,21 @@
       }
     },
     {
-      "story_id": "story_f1defe0b5ee6",
-      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-      "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-      "primary_url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-          "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T19:51:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9646,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T19:51:19Z",
-      "latest_at": "2026-07-14T19:51:19Z",
-      "primary_item": {
-        "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
-        "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-        "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9048b47cd9ef",
-      "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8338,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T16:42:59Z",
-      "latest_at": "2026-07-14T16:42:59Z",
-      "primary_item": {
-        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-        "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
-        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9fb4aee306ac",
-      "title": "Google 因 AI 训练再遭出版商集体诉讼",
-      "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
-      "primary_url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+      "story_id": "story_7f4c8b23028a",
+      "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+      "url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
+      "primary_url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
       "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "95aba0762d0d6618d564931fef11e468b42dab60",
-          "title": "Google 因 AI 训练再遭出版商集体诉讼",
-          "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+          "id": "29245084e3fb061b6fad964273e705f88d1c36ef",
+          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+          "url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T18:33:31Z"
+          "published_at": "2026-07-14T21:50:11Z"
         }
       ],
       "source_count": 1,
@@ -403,25 +342,25 @@
       ],
       "items": [
         {
-          "id": "95aba0762d0d6618d564931fef11e468b42dab60",
-          "title": "Google 因 AI 训练再遭出版商集体诉讼",
-          "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+          "id": "29245084e3fb061b6fad964273e705f88d1c36ef",
+          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+          "url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
           "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T18:33:31Z"
+          "published_at": "2026-07-14T21:50:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9106,
+        "recency": 0.9252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,13 +368,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T18:33:31Z",
-      "latest_at": "2026-07-14T18:33:31Z",
+      "earliest_at": "2026-07-14T21:50:11Z",
+      "latest_at": "2026-07-14T21:50:11Z",
       "primary_item": {
-        "id": "95aba0762d0d6618d564931fef11e468b42dab60",
-        "title": "Google 因 AI 训练再遭出版商集体诉讼",
-        "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+        "id": "29245084e3fb061b6fad964273e705f88d1c36ef",
+        "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+        "url": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0d607fda7e78",
+      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+      "url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+      "primary_url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1131f3673c082426eb30adaf5724215a3c7100f5",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T21:27:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "1131f3673c082426eb30adaf5724215a3c7100f5",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T21:27:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9092,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T21:27:11Z",
+      "latest_at": "2026-07-14T21:27:11Z",
+      "primary_item": {
+        "id": "1131f3673c082426eb30adaf5724215a3c7100f5",
+        "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+        "url": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -474,14 +473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.554,
+        "recency": 0.432,
         "story_heat": 0.0
       },
       "category": "official",
@@ -535,14 +534,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8399,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,6 +556,127 @@
         "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
         "url": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa",
         "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed3a2198d15e",
+      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.553,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T12:54:12Z",
+      "latest_at": "2026-07-14T12:54:12Z",
+      "primary_item": {
+        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f1defe0b5ee6",
+      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+      "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+      "primary_url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T19:51:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T19:51:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8426,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T19:51:19Z",
+      "latest_at": "2026-07-14T19:51:19Z",
+      "primary_item": {
+        "id": "e8813a2db5eefaa6432eaadfc536c7fc3f14c32f",
+        "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+        "url": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -595,20 +715,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7746,
+        "recency": 0.6526,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T15:17:40Z",
       "latest_at": "2026-07-14T15:17:40Z",
@@ -655,20 +774,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7701,
+        "recency": 0.6481,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T15:11:11Z",
       "latest_at": "2026-07-14T15:11:11Z",
@@ -677,6 +795,66 @@
         "title": "Anthropic 推出 Claude for Teachers",
         "url": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u",
         "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9fb4aee306ac",
+      "title": "Google 因 AI 训练再遭出版商集体诉讼",
+      "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+      "primary_url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "95aba0762d0d6618d564931fef11e468b42dab60",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼",
+          "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T18:33:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "95aba0762d0d6618d564931fef11e468b42dab60",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼",
+          "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T18:33:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7886,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T18:33:31Z",
+      "latest_at": "2026-07-14T18:33:31Z",
+      "primary_item": {
+        "id": "95aba0762d0d6618d564931fef11e468b42dab60",
+        "title": "Google 因 AI 训练再遭出版商集体诉讼",
+        "url": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -715,14 +893,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6838,
+        "recency": 0.5618,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,14 +952,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8312,
+        "recency": 0.7092,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -797,126 +975,6 @@
         "url": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed3a2198d15e",
-      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T12:54:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6749,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T12:54:12Z",
-      "latest_at": "2026-07-14T12:54:12Z",
-      "primary_item": {
-        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
-        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_97f8c036f0d4",
-      "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-      "url": "https://www.aibase.com/news/29575",
-      "primary_url": "https://www.aibase.com/news/29575",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
-          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-          "url": "https://www.aibase.com/news/29575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
-          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-          "url": "https://www.aibase.com/news/29575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6302,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T11:49:46.374578Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
-      "primary_item": {
-        "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
-        "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-        "url": "https://www.aibase.com/news/29575",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -954,20 +1012,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7748,
+        "recency": 0.6528,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T15:17:59Z",
       "latest_at": "2026-07-14T15:17:59Z",
@@ -980,299 +1037,372 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9bca5dae0eb3",
+      "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "primary_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "source": "mindgard.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
-          "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
+          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
+          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "mindgard.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T21:27:11.693000Z"
+        },
+        {
+          "id": "90d9dc6cc55337bc3aba8165091dd128e6604d54",
+          "title": "光标 0day：当完全披露成为唯一的保护时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+          "url": "https://news.ycombinator.com/item?id=48910676",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T20:42:48.648000Z"
+        },
+        {
+          "id": "78cfa2463e5499e29db33484e9d029f5744a1d3b",
+          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T17:58:35Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "Hacker News",
+        "hackernews",
+        "mindgard.ai"
       ],
       "items": [
         {
-          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
-          "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
+          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
+          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "mindgard.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T21:27:11.693000Z"
+        },
+        {
+          "id": "90d9dc6cc55337bc3aba8165091dd128e6604d54",
+          "title": "光标 0day：当完全披露成为唯一的保护时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+          "url": "https://news.ycombinator.com/item?id=48910676",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T20:42:48.648000Z"
+        },
+        {
+          "id": "78cfa2463e5499e29db33484e9d029f5744a1d3b",
+          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T17:58:35Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.1373,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9092,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
+      "earliest_at": "2026-07-14T17:58:35Z",
+      "latest_at": "2026-07-14T21:27:11.693000Z",
       "primary_item": {
-        "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
-        "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
+        "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
+        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+        "source": "mindgard.ai",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_a1999016055a",
-      "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
-      "url": "https://www.aibase.com/news/29584",
-      "primary_url": "https://www.aibase.com/news/29584",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_343301f708c3",
+      "title": "诉讼称Meta的裁员决定是由人工智能做出的，而非人类",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b0b900f98450c8dba240df905d66b1a429046d4d",
-          "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
-          "url": "https://www.aibase.com/news/29584",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
+          "id": "da3bf9d2b6853daaee2f3b9cd2590f073d051302",
+          "title": "诉讼称Meta的裁员决定是由人工智能做出的，而非人类",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T21:27:11.996000Z"
+        },
+        {
+          "id": "c13ae906a468a8889a5d949e701647b69c6a88a9",
+          "title": "诉讼称 Meta 的裁员决定是由人工智能而非人类做出的 / Lawsuit Claims Meta's Layoff Decisions Were Made By AI, Not Humans",
+          "url": "https://yro.slashdot.org/story/26/07/14/2054236/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T21:00:00Z"
+        },
+        {
+          "id": "df409b1b01e70a0cbdee730a359c8bc5d5521b32",
+          "title": "诉讼称Meta的裁员决定是由人工智能做出的，而非人类 / Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T20:05:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Ars Technica (科技媒体)",
+        "Slashdot",
+        "arstechnica.com"
       ],
       "items": [
         {
-          "id": "b0b900f98450c8dba240df905d66b1a429046d4d",
-          "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
-          "url": "https://www.aibase.com/news/29584",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
+          "id": "da3bf9d2b6853daaee2f3b9cd2590f073d051302",
+          "title": "诉讼称Meta的裁员决定是由人工智能做出的，而非人类",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T21:27:11.996000Z"
+        },
+        {
+          "id": "c13ae906a468a8889a5d949e701647b69c6a88a9",
+          "title": "诉讼称 Meta 的裁员决定是由人工智能而非人类做出的 / Lawsuit Claims Meta's Layoff Decisions Were Made By AI, Not Humans",
+          "url": "https://yro.slashdot.org/story/26/07/14/2054236/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T21:00:00Z"
+        },
+        {
+          "id": "df409b1b01e70a0cbdee730a359c8bc5d5521b32",
+          "title": "诉讼称Meta的裁员决定是由人工智能做出的，而非人类 / Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T20:05:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5548,
+      "importance": 0.5548,
+      "importance_score": 0.5548,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6302,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9092,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-14T11:49:46.374578Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
+      "earliest_at": "2026-07-14T20:05:53Z",
+      "latest_at": "2026-07-14T21:27:11.996000Z",
       "primary_item": {
-        "id": "b0b900f98450c8dba240df905d66b1a429046d4d",
-        "title": "DeepSeek完成74亿美元融资，梁文锋身家升至360亿美元",
-        "url": "https://www.aibase.com/news/29584",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "da3bf9d2b6853daaee2f3b9cd2590f073d051302",
+        "title": "诉讼称Meta的裁员决定是由人工智能做出的，而非人类",
+        "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_d47eb3d149be",
-      "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-      "url": "https://www.aibase.com/news/29585",
-      "primary_url": "https://www.aibase.com/news/29585",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2ac885107ebd",
+      "title": "为人工智能热潮融资：从现金流到债务 [pdf] / Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://news.ycombinator.com/item?id=48913443",
+      "primary_url": "https://news.ycombinator.com/item?id=48913443",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
-          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-          "url": "https://www.aibase.com/news/29585",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
+          "id": "965530283804bb08a4e2b5edd90caf1276bad31c",
+          "title": "为人工智能热潮融资：从现金流到债务 [pdf] / Financing the AI boom: from cash flows to debt [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48913443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T23:10:31.928000Z"
+        },
+        {
+          "id": "fc2d101e4e06b641720c502e98dac5a068013cf8",
+          "title": "为人工智能热潮融资：从现金流到债务 [pdf] / Financing the AI boom: from cash flows to debt [pdf]",
+          "url": "https://www.bis.org/publ/bisbull120.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T21:58:36Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
-          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-          "url": "https://www.aibase.com/news/29585",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
+          "id": "965530283804bb08a4e2b5edd90caf1276bad31c",
+          "title": "为人工智能热潮融资：从现金流到债务 [pdf] / Financing the AI boom: from cash flows to debt [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48913443",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T23:10:31.928000Z"
+        },
+        {
+          "id": "fc2d101e4e06b641720c502e98dac5a068013cf8",
+          "title": "为人工智能热潮融资：从现金流到债务 [pdf] / Financing the AI boom: from cash flows to debt [pdf]",
+          "url": "https://www.bis.org/publ/bisbull120.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T21:58:36Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6302,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.981,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-14T11:49:46.374578Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
+      "earliest_at": "2026-07-14T21:58:36Z",
+      "latest_at": "2026-07-14T23:10:31.928000Z",
       "primary_item": {
-        "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
-        "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-        "url": "https://www.aibase.com/news/29585",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "965530283804bb08a4e2b5edd90caf1276bad31c",
+        "title": "为人工智能热潮融资：从现金流到债务 [pdf] / Financing the AI boom: from cash flows to debt [pdf]",
+        "url": "https://news.ycombinator.com/item?id=48913443",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_90b7f4c605c2",
-      "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-      "url": "https://www.aibase.com/news/29588",
-      "primary_url": "https://www.aibase.com/news/29588",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6cac9653c942",
+      "title": "值得建设的未来是人性化的",
+      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+      "primary_url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+      "source": "thinkingmachines.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "20b47ca922512701538e04e726795bee5e9813d9",
-          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-          "url": "https://www.aibase.com/news/29588",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
+          "id": "958e591bb80a4bc51ef9d96ea0aaa77562897626",
+          "title": "值得建设的未来是人性化的",
+          "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+          "source": "thinkingmachines.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T18:47:15.711000Z"
+        },
+        {
+          "id": "03f3817fc7856df356936ecf622ff98bae1f97a8",
+          "title": "值得建设的未来是人性化的 / The Future Worth Building Is Human",
+          "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-14T11:05:27Z"
+        },
+        {
+          "id": "0501bc648437e1daee7a95a02b72ab4da0ac1865",
+          "title": "值得建设的未来是人性化的 / The Future Worth Building Is Human – Thinking Machines Lab",
+          "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T11:05:27Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "thinkingmachines.ai"
       ],
       "items": [
         {
-          "id": "20b47ca922512701538e04e726795bee5e9813d9",
-          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-          "url": "https://www.aibase.com/news/29588",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6302,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T11:49:46.374578Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
-      "primary_item": {
-        "id": "20b47ca922512701538e04e726795bee5e9813d9",
-        "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-        "url": "https://www.aibase.com/news/29588",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_90976fe1f14b",
-      "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-      "url": "https://www.aibase.com/news/29583",
-      "primary_url": "https://www.aibase.com/news/29583",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
+          "id": "958e591bb80a4bc51ef9d96ea0aaa77562897626",
+          "title": "值得建设的未来是人性化的",
+          "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+          "source": "thinkingmachines.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T18:47:15.711000Z"
+        },
         {
-          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "url": "https://www.aibase.com/news/29583",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
+          "id": "03f3817fc7856df356936ecf622ff98bae1f97a8",
+          "title": "值得建设的未来是人性化的 / The Future Worth Building Is Human",
+          "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-14T11:05:27Z"
+        },
         {
-          "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-          "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-          "url": "https://www.aibase.com/news/29583",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:49:46.374578Z"
+          "id": "0501bc648437e1daee7a95a02b72ab4da0ac1865",
+          "title": "值得建设的未来是人性化的 / The Future Worth Building Is Human – Thinking Machines Lab",
+          "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T11:05:27Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6302,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7981,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-14T11:49:46.374578Z",
-      "latest_at": "2026-07-14T11:49:46.374578Z",
+      "earliest_at": "2026-07-14T11:05:27Z",
+      "latest_at": "2026-07-14T18:47:15.711000Z",
       "primary_item": {
-        "id": "a54237efdec97bbf09efc03629057c1426399fe7",
-        "title": "代码100%由AI编写： 9 年iOS开发者 15 天打造外卖游戏，斩获2. 5 万美元奖​金",
-        "url": "https://www.aibase.com/news/29583",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "958e591bb80a4bc51ef9d96ea0aaa77562897626",
+        "title": "值得建设的未来是人性化的",
+        "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+        "source": "thinkingmachines.ai",
+        "source_name": "Buzzing"
       }
     }
   ]
