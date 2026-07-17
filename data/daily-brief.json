@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-17T16:42:23.887307Z",
+  "generated_at": "2026-07-17T20:16:07.028786Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0242-546d-8c45-557d9a91fe96&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-0242-546d-8c45-557d9a91fe96&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0616-34da-bc19-025c0e589dee&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-0616-34da-bc19-025c0e589dee&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "3d3ccca14fb3b092a58cf9a48be04e1d30295b29",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0616-34da-bc19-025c0e589dee&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a99057b7547306ca6ddfc13f8f6ef90b7fd520a5",
           "title": "点击这里进入 / Click here to enter",
@@ -51,15 +60,6 @@
           "id": "ae6933694c2702ef9fc50a2c489698dc8d7317d4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0639-447d-909b-64e39f1322b2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "10565184cb6dd53511f87896c641f0ae3a9b6fa0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0349-33f2-8450-716974343f75&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -72,6 +72,15 @@
       ],
       "items": [
         {
+          "id": "3d3ccca14fb3b092a58cf9a48be04e1d30295b29",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0616-34da-bc19-025c0e589dee&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a99057b7547306ca6ddfc13f8f6ef90b7fd520a5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0242-546d-8c45-557d9a91fe96&fp=-3",
@@ -111,15 +120,6 @@
           "id": "ae6933694c2702ef9fc50a2c489698dc8d7317d4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0639-447d-909b-64e39f1322b2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "10565184cb6dd53511f87896c641f0ae3a9b6fa0",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0349-33f2-8450-716974343f75&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,14 +144,195 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T17:49:04.311854Z",
-      "latest_at": "2026-07-17T16:42:23.887307Z",
+      "earliest_at": "2026-07-16T20:39:24.311374Z",
+      "latest_at": "2026-07-17T20:16:07.028786Z",
       "primary_item": {
-        "id": "a99057b7547306ca6ddfc13f8f6ef90b7fd520a5",
+        "id": "3d3ccca14fb3b092a58cf9a48be04e1d30295b29",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0242-546d-8c45-557d9a91fe96&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0616-34da-bc19-025c0e589dee&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_c03164d67fef",
+      "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T19:47:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T19:47:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8781,
+      "importance": 0.8781,
+      "importance_score": 0.8781,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9803,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T19:47:45Z",
+      "latest_at": "2026-07-17T19:47:45Z",
+      "primary_item": {
+        "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
+        "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4293789b87c2",
+      "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+      "url": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro",
+      "primary_url": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "71f56403c23e464f7c86142af45b1e2f885e53c9",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+          "url": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:41:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "71f56403c23e464f7c86142af45b1e2f885e53c9",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+          "url": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:41:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8927,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T17:41:32Z",
+      "latest_at": "2026-07-17T17:41:32Z",
+      "primary_item": {
+        "id": "71f56403c23e464f7c86142af45b1e2f885e53c9",
+        "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+        "url": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_34af5214246d",
+      "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+      "url": "https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq",
+      "primary_url": "https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3aa657ab5284cf71f6e5503dae00fb73f269d9e6",
+          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "url": "https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:38:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：宝玉 (@dotey)"
+      ],
+      "items": [
+        {
+          "id": "3aa657ab5284cf71f6e5503dae00fb73f269d9e6",
+          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "url": "https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:38:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8906,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T17:38:33Z",
+      "latest_at": "2026-07-17T17:38:33Z",
+      "primary_item": {
+        "id": "3aa657ab5284cf71f6e5503dae00fb73f269d9e6",
+        "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+        "url": "https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq",
+        "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -189,14 +370,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7206,
+        "recency": 0.5721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -213,6 +394,186 @@
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_855144fabe07",
+      "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+      "url": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
+      "primary_url": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88ae838756630f6bf3cc991654198f4ff6becd00",
+          "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+          "url": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:11:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "88ae838756630f6bf3cc991654198f4ff6becd00",
+          "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+          "url": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:11:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8717,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T17:11:19Z",
+      "latest_at": "2026-07-17T17:11:19Z",
+      "primary_item": {
+        "id": "88ae838756630f6bf3cc991654198f4ff6becd00",
+        "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+        "url": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_772e7027b34e",
+      "title": "Sora 2 视频克隆效果惊人，真假难辨",
+      "url": "https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp",
+      "primary_url": "https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp",
+      "source": "X：Gabriel (@gabriel1)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d267a2534e36aa17a3eaa5884bb4152c0fdb79e6",
+          "title": "Sora 2 视频克隆效果惊人，真假难辨",
+          "url": "https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp",
+          "source": "X：Gabriel (@gabriel1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:34:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gabriel (@gabriel1)"
+      ],
+      "items": [
+        {
+          "id": "d267a2534e36aa17a3eaa5884bb4152c0fdb79e6",
+          "title": "Sora 2 视频克隆效果惊人，真假难辨",
+          "url": "https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp",
+          "source": "X：Gabriel (@gabriel1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:34:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8458,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T16:34:01Z",
+      "latest_at": "2026-07-17T16:34:01Z",
+      "primary_item": {
+        "id": "d267a2534e36aa17a3eaa5884bb4152c0fdb79e6",
+        "title": "Sora 2 视频克隆效果惊人，真假难辨",
+        "url": "https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp",
+        "source": "X：Gabriel (@gabriel1)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e8545f2c81e7",
+      "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+      "url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+      "primary_url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "235f09f846765432b25070efe9b1c7c1464e4561",
+          "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+          "url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:32:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "235f09f846765432b25070efe9b1c7c1464e4561",
+          "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+          "url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:32:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.845,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T16:32:51Z",
+      "latest_at": "2026-07-17T16:32:51Z",
+      "primary_item": {
+        "id": "235f09f846765432b25070efe9b1c7c1464e4561",
+        "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+        "url": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -269,14 +630,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.6576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -349,14 +710,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7692,
+        "recency": 0.6208,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -410,14 +771,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8931,
+        "recency": 0.7447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -470,20 +831,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7206,
+        "recency": 0.5721,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T10:00:00Z",
       "latest_at": "2026-07-17T10:00:00Z",
@@ -530,20 +890,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7077,
+        "recency": 0.5592,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T09:41:25Z",
       "latest_at": "2026-07-17T09:41:25Z",
@@ -552,65 +911,6 @@
         "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
         "url": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
         "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_33c2c23e3c97",
-      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-      "url": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u",
-      "primary_url": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "99974f8b82862bf4b3b4d6d160d27fbe09b2cf2a",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "url": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "99974f8b82862bf4b3b4d6d160d27fbe09b2cf2a",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "url": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6663,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T08:41:53Z",
-      "latest_at": "2026-07-17T08:41:53Z",
-      "primary_item": {
-        "id": "99974f8b82862bf4b3b4d6d160d27fbe09b2cf2a",
-        "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-        "url": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -649,20 +949,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.6576,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T12:03:06.212499Z",
       "latest_at": "2026-07-17T12:03:06.212499Z",
@@ -709,20 +1008,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.6576,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T12:03:06.212499Z",
       "latest_at": "2026-07-17T12:03:06.212499Z",
@@ -732,65 +1030,6 @@
         "url": "https://www.aibase.com/news/29694",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_22767fdda6c2",
-      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-      "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-      "primary_url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a43c2055fac3f569efd601726b10323d73c8a47f",
-          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:14:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "a43c2055fac3f569efd601726b10323d73c8a47f",
-          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-          "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:14:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6053,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T07:14:00Z",
-      "latest_at": "2026-07-17T07:14:00Z",
-      "primary_item": {
-        "id": "a43c2055fac3f569efd601726b10323d73c8a47f",
-        "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-        "url": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -828,20 +1067,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.6576,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T12:03:06.212499Z",
       "latest_at": "2026-07-17T12:03:06.212499Z",
@@ -888,20 +1126,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.6576,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T12:03:06.212499Z",
       "latest_at": "2026-07-17T12:03:06.212499Z",
@@ -911,6 +1148,140 @@
         "url": "https://www.aibase.com/news/29693",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_459273eee35f",
+      "title": "开源人工智能的现状 / The state of open source AI",
+      "url": "https://news.ycombinator.com/item?id=48947825",
+      "primary_url": "https://news.ycombinator.com/item?id=48947825",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
+          "title": "开源人工智能的现状 / The state of open source AI",
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T19:59:05.675000Z"
+        },
+        {
+          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
+          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T16:28:19.506000Z"
+        },
+        {
+          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
+          "title": "Mozilla：开源人工智能的发展现状",
+          "url": "https://stateofopensource.ai",
+          "source": "stateofopensource.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T15:53:45.162000Z"
+        },
+        {
+          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
+          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T14:31:10Z"
+        },
+        {
+          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
+          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T14:31:10Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "stateofopensource.ai"
+      ],
+      "items": [
+        {
+          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
+          "title": "开源人工智能的现状 / The state of open source AI",
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T19:59:05.675000Z"
+        },
+        {
+          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
+          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
+          "url": "https://news.ycombinator.com/item?id=48947825",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T16:28:19.506000Z"
+        },
+        {
+          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
+          "title": "Mozilla：开源人工智能的发展现状",
+          "url": "https://stateofopensource.ai",
+          "source": "stateofopensource.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T15:53:45.162000Z"
+        },
+        {
+          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
+          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T14:31:10Z"
+        },
+        {
+          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
+          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
+          "url": "https://stateofopensource.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-17T14:31:10Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6206,
+      "importance": 0.6206,
+      "importance_score": 0.6206,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9882,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T14:31:10Z",
+      "latest_at": "2026-07-17T19:59:05.675000Z",
+      "primary_item": {
+        "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
+        "title": "开源人工智能的现状 / The state of open source AI",
+        "url": "https://news.ycombinator.com/item?id=48947825",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -967,14 +1338,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6438,
-      "importance": 0.6438,
-      "importance_score": 0.6438,
+      "score": 0.6141,
+      "importance": 0.6141,
+      "importance_score": 0.6141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9691,
+        "recency": 0.8207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1026,20 +1397,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.6576,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T12:03:06.212499Z",
       "latest_at": "2026-07-17T12:03:06.212499Z",
@@ -1049,472 +1419,6 @@
         "url": "https://www.aibase.com/news/29692",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0b8bb68df725",
-      "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-      "url": "https://www.aibase.com/news/29687",
-      "primary_url": "https://www.aibase.com/news/29687",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "04e0ceed95325c153c6073931b867c8815cfb27d",
-          "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-          "url": "https://www.aibase.com/news/29687",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T07:46:02.118540Z"
-        },
-        {
-          "id": "7533aa532ee5e5c561fabfa1f0a8c19e06b70ad8",
-          "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-          "url": "https://www.aibase.com/zh/news/29687",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "04e0ceed95325c153c6073931b867c8815cfb27d",
-          "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-          "url": "https://www.aibase.com/news/29687",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T07:46:02.118540Z"
-        },
-        {
-          "id": "7533aa532ee5e5c561fabfa1f0a8c19e06b70ad8",
-          "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-          "url": "https://www.aibase.com/zh/news/29687",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6275,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T07:46:02.118540Z",
-      "latest_at": "2026-07-17T07:46:02.118540Z",
-      "primary_item": {
-        "id": "04e0ceed95325c153c6073931b867c8815cfb27d",
-        "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-        "url": "https://www.aibase.com/news/29687",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_459273eee35f",
-      "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
-      "url": "https://news.ycombinator.com/item?id=48947825",
-      "primary_url": "https://news.ycombinator.com/item?id=48947825",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
-          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T16:28:19.506000Z"
-        },
-        {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
-        },
-        {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "stateofopensource.ai"
-      ],
-      "items": [
-        {
-          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
-          "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T16:28:19.506000Z"
-        },
-        {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
-        },
-        {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.571,
-      "importance": 0.571,
-      "importance_score": 0.571,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9902,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T14:31:10Z",
-      "latest_at": "2026-07-17T16:28:19.506000Z",
-      "primary_item": {
-        "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
-        "title": "Mozilla：开源人工智能的现状 / Mozilla: The state of open source AI",
-        "url": "https://news.ycombinator.com/item?id=48947825",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2a39ad50840d",
-      "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
-      "primary_url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
-      "source": "www.kaggle.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0185b486c96c92620aea8fac7d1ee1ffd5209cb0",
-          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖",
-          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
-          "source": "www.kaggle.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T12:25:51.514000Z"
-        },
-        {
-          "id": "aeb88e4179e1924e51f2e823c032829b66cd7d09",
-          "title": "Blatant AI slop 刚刚赢得了 2.5 万美元的 DeepMind Kaggle 大奖 / Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-          "url": "https://news.ycombinator.com/item?id=48946010",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T11:45:10.071000Z"
-        },
-        {
-          "id": "dbe47aa651abe82df3d97a22b35df6fc12286b21",
-          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T11:30:00Z"
-        },
-        {
-          "id": "580124ebb1136d3d20b4f077a2be25f5a60627bf",
-          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Evidence of inconsistencies in evaluation process and selection of winners",
-          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T11:30:00Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.kaggle.com"
-      ],
-      "items": [
-        {
-          "id": "0185b486c96c92620aea8fac7d1ee1ffd5209cb0",
-          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖",
-          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
-          "source": "www.kaggle.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T12:25:51.514000Z"
-        },
-        {
-          "id": "aeb88e4179e1924e51f2e823c032829b66cd7d09",
-          "title": "Blatant AI slop 刚刚赢得了 2.5 万美元的 DeepMind Kaggle 大奖 / Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-          "url": "https://news.ycombinator.com/item?id=48946010",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T11:45:10.071000Z"
-        },
-        {
-          "id": "dbe47aa651abe82df3d97a22b35df6fc12286b21",
-          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T11:30:00Z"
-        },
-        {
-          "id": "580124ebb1136d3d20b4f077a2be25f5a60627bf",
-          "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖 / Evidence of inconsistencies in evaluation process and selection of winners",
-          "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T11:30:00Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5624,
-      "importance": 0.5624,
-      "importance_score": 0.5624,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8218,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T11:30:00Z",
-      "latest_at": "2026-07-17T12:25:51.514000Z",
-      "primary_item": {
-        "id": "0185b486c96c92620aea8fac7d1ee1ffd5209cb0",
-        "title": "一篇明显敷衍了事的AI论文刚刚赢得了2.5万美元的DeepMind Kaggle大奖",
-        "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918",
-        "source": "www.kaggle.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6e5f1797a7d7",
-      "title": "苹果向OpenAI员工发出法律信函",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "primary_url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "source": "www.ft.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-          "title": "苹果向OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:52.399000Z"
-        },
-        {
-          "id": "3781ff92b344981882b6a9bb0558d9721bf5c96d",
-          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T12:02:39Z"
-        },
-        {
-          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
-          "title": "苹果向数十名OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T10:33:49.155000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-          "title": "苹果向OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:52.399000Z"
-        },
-        {
-          "id": "3781ff92b344981882b6a9bb0558d9721bf5c96d",
-          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T12:02:39Z"
-        },
-        {
-          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
-          "title": "苹果向数十名OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T10:33:49.155000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5507,
-      "importance": 0.5507,
-      "importance_score": 0.5507,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8885,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T10:33:49.155000Z",
-      "latest_at": "2026-07-17T14:01:52.399000Z",
-      "primary_item": {
-        "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-        "title": "苹果向OpenAI员工发出法律信函",
-        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-        "source": "www.ft.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cee2a64e2f49",
-      "title": "中国国家主席习近平发起新的AI联盟：这是什么？ - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cbf4f3f3c9e60661c9189b46bd082ed35e23db9c",
-          "title": "中国国家主席习近平发起新的AI联盟：这是什么？ - Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T16:26:02.976000Z"
-        },
-        {
-          "id": "4c85fb31010641e83fc7a1555fc4adf6728179ae",
-          "title": "中国国家主席习近平启动新的人工智能联盟：这是什么？ - Al Jazeera",
-          "url": "https://news.google.com/read/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T13:50:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "cbf4f3f3c9e60661c9189b46bd082ed35e23db9c",
-          "title": "中国国家主席习近平发起新的AI联盟：这是什么？ - Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T16:26:02.976000Z"
-        },
-        {
-          "id": "4c85fb31010641e83fc7a1555fc4adf6728179ae",
-          "title": "中国国家主席习近平启动新的人工智能联盟：这是什么？ - Al Jazeera",
-          "url": "https://news.google.com/read/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T13:50:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5457,
-      "importance": 0.5457,
-      "importance_score": 0.5457,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9886,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T13:50:09Z",
-      "latest_at": "2026-07-17T16:26:02.976000Z",
-      "primary_item": {
-        "id": "cbf4f3f3c9e60661c9189b46bd082ed35e23db9c",
-        "title": "中国国家主席习近平发起新的AI联盟：这是什么？ - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
       }
     }
   ]
