@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T07:10:31.405527Z",
+  "generated_at": "2026-07-18T11:18:37.044903Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1711-04cc-8808-1747febeaf17&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-1711-04cc-8808-1747febeaf17&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2119-0734-8b8e-1985584aea79&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-2119-0734-8b8e-1985584aea79&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "6f4238779418a11438922fe4a653a236f96c0d5b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2119-0734-8b8e-1985584aea79&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "35a4fdc618a94bf81aaabb3c4bf02577cddc2b1e",
           "title": "点击这里进入 / Click here to enter",
@@ -51,15 +60,6 @@
           "id": "840e00bb86f73bc2bb9d1b32c99e9ca2b46b1eb3",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2203-3009-ac1c-029e0159607c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d1bba49813566a9bdac433d84d255b100da70735",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1746-2225-a37c-a23dcbaa3b46&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -72,6 +72,15 @@
       ],
       "items": [
         {
+          "id": "6f4238779418a11438922fe4a653a236f96c0d5b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2119-0734-8b8e-1985584aea79&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "35a4fdc618a94bf81aaabb3c4bf02577cddc2b1e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1711-04cc-8808-1747febeaf17&fp=-3",
@@ -111,15 +120,6 @@
           "id": "840e00bb86f73bc2bb9d1b32c99e9ca2b46b1eb3",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-2203-3009-ac1c-029e0159607c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d1bba49813566a9bdac433d84d255b100da70735",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-1746-2225-a37c-a23dcbaa3b46&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,12 +144,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T07:46:02.118540Z",
-      "latest_at": "2026-07-18T07:10:31.405527Z",
+      "earliest_at": "2026-07-17T12:03:06.212499Z",
+      "latest_at": "2026-07-18T11:18:37.044903Z",
       "primary_item": {
-        "id": "35a4fdc618a94bf81aaabb3c4bf02577cddc2b1e",
+        "id": "6f4238779418a11438922fe4a653a236f96c0d5b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1711-04cc-8808-1747febeaf17&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2119-0734-8b8e-1985584aea79&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -189,14 +189,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6213,
+        "recency": 0.449,
         "story_heat": 0.0
       },
       "category": "official",
@@ -250,14 +250,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9006,
+        "recency": 0.7283,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -310,14 +310,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6214,
+        "recency": 0.4491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -371,14 +371,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5819,
+        "recency": 0.4096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -432,14 +432,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.5259,
+        "recency": 0.3536,
         "story_heat": 0.0
       },
       "category": "official",
@@ -459,292 +459,55 @@
       }
     },
     {
-      "story_id": "story_2d7aa0a52310",
-      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-      "url": "https://www.aibase.com/news/29695",
-      "primary_url": "https://www.aibase.com/news/29695",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "url": "https://www.aibase.com/news/29695",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:03:06.212499Z"
-        },
-        {
-          "id": "46f6bf65ced8831637d191c6fb31283d582b40ab",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一",
-          "url": "https://aihot.virxact.com/items/cmronvv4105bdbitohe86a4un",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:53:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-          "url": "https://www.aibase.com/news/29695",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T12:03:06.212499Z"
-        },
-        {
-          "id": "46f6bf65ced8831637d191c6fb31283d582b40ab",
-          "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一",
-          "url": "https://aihot.virxact.com/items/cmronvv4105bdbitohe86a4un",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T07:53:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6776,
-      "importance": 0.6776,
-      "importance_score": 0.6776,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2032,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T07:53:02Z",
-      "latest_at": "2026-07-17T12:03:06.212499Z",
-      "primary_item": {
-        "id": "f183207c181cd941ef7ce235d39392087e42d27e",
-        "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
-        "url": "https://www.aibase.com/news/29695",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_599b6a56e0fb",
-      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-      "url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-      "primary_url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "32afefd26ad7601e98763403ed9f7c86d74afb78",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        },
-        {
-          "id": "27d094edfe6bdad1adb3eedebf138da0e49ecdc0",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "32afefd26ad7601e98763403ed9f7c86d74afb78",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T11:10:01Z"
-        },
-        {
-          "id": "27d094edfe6bdad1adb3eedebf138da0e49ecdc0",
-          "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-          "url": "https://www.ithome.com/0/978/277.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T11:10:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6703,
-      "importance": 0.6703,
-      "importance_score": 0.6703,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.1663,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T11:10:01Z",
-      "latest_at": "2026-07-17T11:10:01Z",
-      "primary_item": {
-        "id": "32afefd26ad7601e98763403ed9f7c86d74afb78",
-        "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-        "url": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0b8bb68df725",
-      "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-      "url": "https://www.aibase.com/news/29687",
-      "primary_url": "https://www.aibase.com/news/29687",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "04e0ceed95325c153c6073931b867c8815cfb27d",
-          "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-          "url": "https://www.aibase.com/news/29687",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T07:46:02.118540Z"
-        },
-        {
-          "id": "7533aa532ee5e5c561fabfa1f0a8c19e06b70ad8",
-          "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-          "url": "https://www.aibase.com/zh/news/29687",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "04e0ceed95325c153c6073931b867c8815cfb27d",
-          "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-          "url": "https://www.aibase.com/news/29687",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-17T07:46:02.118540Z"
-        },
-        {
-          "id": "7533aa532ee5e5c561fabfa1f0a8c19e06b70ad8",
-          "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-          "url": "https://www.aibase.com/zh/news/29687",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6419,
-      "importance": 0.6419,
-      "importance_score": 0.6419,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0247,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T07:46:02.118540Z",
-      "latest_at": "2026-07-17T07:46:02.118540Z",
-      "primary_item": {
-        "id": "04e0ceed95325c153c6073931b867c8815cfb27d",
-        "title": "文远知行发布物理AI认知基础大模型WIIT，构建真实世界理解框架",
-        "url": "https://www.aibase.com/news/29687",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eda333e69d05",
-      "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-      "primary_url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-      "source": "Readhub · AI",
+      "story_id": "story_1261f03c93da",
+      "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "primary_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub · Trending Today",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
-          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-          "source": "Readhub · AI",
+          "id": "92c287bceaa2847e205f847ad850224aac18b026",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
-          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
-          "url": "https://www.ithome.com/0/978/476.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:02:32Z"
+          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:07:48.056000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
-          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-          "source": "Readhub · AI",
+          "id": "92c287bceaa2847e205f847ad850224aac18b026",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
-          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
-          "url": "https://www.ithome.com/0/978/476.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:02:32Z"
+          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:07:48.056000Z"
         }
       ],
       "item_count": 2,
@@ -763,13 +526,247 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T07:02:32Z",
-      "latest_at": "2026-07-18T07:10:31.405527Z",
+      "earliest_at": "2026-07-18T11:07:48.056000Z",
+      "latest_at": "2026-07-18T11:18:37.044903Z",
       "primary_item": {
-        "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
-        "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-        "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+        "id": "92c287bceaa2847e205f847ad850224aac18b026",
+        "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_334727c4b329",
+      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T09:30:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T09:30:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T09:30:23Z",
+      "latest_at": "2026-07-18T11:18:37.044903Z",
+      "primary_item": {
+        "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+        "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+        "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
         "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_628b40994a12",
+      "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+      "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+      "primary_url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T09:29:57.791000Z"
+        },
+        {
+          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T09:17:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T09:29:57.791000Z"
+        },
+        {
+          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T09:17:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9245,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T09:17:01Z",
+      "latest_at": "2026-07-18T09:29:57.791000Z",
+      "primary_item": {
+        "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+        "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+        "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_26149269af1e",
+      "title": "利奥加文/airllm / lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:07:48.056000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:07:48.056000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:07:48.056000Z",
+      "latest_at": "2026-07-18T11:18:37.044903Z",
+      "primary_item": {
+        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+        "title": "利奥加文/airllm / lyogavin / airllm",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
     },
@@ -865,14 +862,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6857,
+        "recency": 0.5135,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -886,6 +883,200 @@
         "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
         "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
         "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b59aca9fee2b",
+      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "source": "localnewsmatters.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "203cce17e24319491719b480af600f291373ef87",
+          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://news.ycombinator.com/item?id=48952880",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T23:32:57.539000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "localnewsmatters.org"
+      ],
+      "items": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "203cce17e24319491719b480af600f291373ef87",
+          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://news.ycombinator.com/item?id=48952880",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T23:32:57.539000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5135,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T22:26:30Z",
+      "latest_at": "2026-07-17T23:38:00.200000Z",
+      "primary_item": {
+        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+        "source": "localnewsmatters.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7808576f556e",
+      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:57:49.615000Z"
+        },
+        {
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:57:49.615000Z"
+        },
+        {
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9022,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T08:41:01Z",
+      "latest_at": "2026-07-18T08:57:49.615000Z",
+      "primary_item": {
+        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -943,14 +1134,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
+      "score": 0.4888,
+      "importance": 0.4888,
+      "importance_score": 0.4888,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.3662,
+        "recency": 0.1939,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -968,205 +1159,108 @@
       }
     },
     {
-      "story_id": "story_b59aca9fee2b",
-      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-      "source": "localnewsmatters.org",
-      "source_name": "Buzzing",
+      "story_id": "story_eda333e69d05",
+      "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+      "primary_url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
+          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
+          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "203cce17e24319491719b480af600f291373ef87",
-          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T23:32:57.539000Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "localnewsmatters.org"
-      ],
-      "items": [
-        {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
-        },
-        {
-          "id": "203cce17e24319491719b480af600f291373ef87",
-          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T23:32:57.539000Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6857,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T22:26:30Z",
-      "latest_at": "2026-07-17T23:38:00.200000Z",
-      "primary_item": {
-        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-        "source": "localnewsmatters.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_76d953ff97c7",
-      "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
-      "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-      "primary_url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "a101fcbd53676427189bd54a38a7c84f732935aa",
-          "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
-          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T23:09:12Z"
-        },
-        {
-          "id": "30725d0aca6480e1eea50306a78413db62f84088",
-          "title": "“想出这个的人都是个大白痴”：LG 的游戏显示器和电视正面临用户的反抗，因为它们似乎在电脑上安装了广告软件，并告诉你警告客人他们可能会被人工智能功能记录下来，以遵守“窃听”法律 / 'Whoever came up with this is a massive idiot': LG's gaming monitors and TVs are facing a user revolt, due to seemingly installing adware on PCs — and telling you to warn guests they may be recorded by AI features, to comply with 'wiretapping' laws",
-          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:54:44Z"
+          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
+          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
+          "url": "https://www.ithome.com/0/978/476.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:02:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "TechRadar"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "a101fcbd53676427189bd54a38a7c84f732935aa",
-          "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
-          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T23:09:12Z"
+          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
+          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "30725d0aca6480e1eea50306a78413db62f84088",
-          "title": "“想出这个的人都是个大白痴”：LG 的游戏显示器和电视正面临用户的反抗，因为它们似乎在电脑上安装了广告软件，并告诉你警告客人他们可能会被人工智能功能记录下来，以遵守“窃听”法律 / 'Whoever came up with this is a massive idiot': LG's gaming monitors and TVs are facing a user revolt, due to seemingly installing adware on PCs — and telling you to warn guests they may be recorded by AI features, to comply with 'wiretapping' laws",
-          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:54:44Z"
+          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
+          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
+          "url": "https://www.ithome.com/0/978/476.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:02:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4811,
-      "importance": 0.4811,
-      "importance_score": 0.4811,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6657,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T16:54:44Z",
-      "latest_at": "2026-07-17T23:09:12Z",
+      "earliest_at": "2026-07-18T07:02:32Z",
+      "latest_at": "2026-07-18T07:10:31.405527Z",
       "primary_item": {
-        "id": "a101fcbd53676427189bd54a38a7c84f732935aa",
-        "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
-        "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
+        "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+        "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_df8556207aaf",
-      "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事",
-      "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
-      "primary_url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
+      "story_id": "story_5290513c27de",
+      "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
+      "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+      "primary_url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "63bc46d72b718ce70cf70c9b00345e7194fb0d66",
-          "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事",
-          "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
+          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
+          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
+          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T20:58:04.783000Z"
+          "published_at": "2026-07-18T08:57:49.611000Z"
         },
         {
-          "id": "2a28eeb107c628c7c4e04c1855d45fe25b251ff6",
-          "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事 / Anthropic reveals it will pay $600,000 for someone to shape its tricky IPO story",
-          "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
+          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
+          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
+          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T09:00:01Z"
+          "published_at": "2026-07-18T07:48:01Z"
         }
       ],
       "source_count": 2,
@@ -1176,46 +1270,201 @@
       ],
       "items": [
         {
-          "id": "63bc46d72b718ce70cf70c9b00345e7194fb0d66",
-          "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事",
-          "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
+          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
+          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
+          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T20:58:04.783000Z"
+          "published_at": "2026-07-18T08:57:49.611000Z"
         },
         {
-          "id": "2a28eeb107c628c7c4e04c1855d45fe25b251ff6",
-          "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事 / Anthropic reveals it will pay $600,000 for someone to shape its tricky IPO story",
-          "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
+          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
+          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
+          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T09:00:01Z"
+          "published_at": "2026-07-18T07:48:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4629,
-      "importance": 0.4629,
-      "importance_score": 0.4629,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5747,
+        "recency": 0.9022,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T09:00:01Z",
-      "latest_at": "2026-07-17T20:58:04.783000Z",
+      "earliest_at": "2026-07-18T07:48:01Z",
+      "latest_at": "2026-07-18T08:57:49.611000Z",
       "primary_item": {
-        "id": "63bc46d72b718ce70cf70c9b00345e7194fb0d66",
-        "title": "Anthropic宣布将支付60万美元，委托他人为其精心打造这段棘手的IPO故事",
-        "url": "https://www.businessinsider.com/anthropic-ipo-hiring-investor-relations-director-2026-7",
+        "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
+        "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
+        "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bda6929c1899",
+      "title": "我开始了一本“污垢笔记本” / I started a \"dirt notebook\"",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+      "primary_url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
+          "title": "我开始了一本“污垢笔记本” / I started a \"dirt notebook\"",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        },
+        {
+          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
+          "title": "我开始了一本“污垢笔记本” / I started a “dirt notebook”",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
+          "title": "我开始了一本“污垢笔记本” / I started a \"dirt notebook\"",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        },
+        {
+          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
+          "title": "我开始了一本“污垢笔记本” / I started a “dirt notebook”",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4638,
+      "importance": 0.4638,
+      "importance_score": 0.4638,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5789,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T01:12:13Z",
+      "latest_at": "2026-07-18T01:12:13Z",
+      "primary_item": {
+        "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
+        "title": "我开始了一本“污垢笔记本” / I started a \"dirt notebook\"",
+        "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_8821bf048534",
+      "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
+      "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+      "primary_url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
+          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
+          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:25:48.388000Z"
+        },
+        {
+          "id": "926194658c685e97c8a4f0dfd68d61e162142990",
+          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。 / A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.",
+          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
+          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
+          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:25:48.388000Z"
+        },
+        {
+          "id": "926194658c685e97c8a4f0dfd68d61e162142990",
+          "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。 / A data center bathhouse? Architects are rethinking what AI infrastructure owes its neighbors.",
+          "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.88,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T08:11:01Z",
+      "latest_at": "2026-07-18T08:25:48.388000Z",
+      "primary_item": {
+        "id": "b1124c08067480e3bb358d59f5e9599462b853cc",
+        "title": "数据中心里的澡堂？建筑师们正在重新思考人工智能基础设施应如何回馈周边社区。",
+        "url": "https://www.businessinsider.com/architects-rethink-ai-data-centers-communities-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1273,14 +1522,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4547,
-      "importance": 0.4547,
-      "importance_score": 0.4547,
+      "score": 0.4203,
+      "importance": 0.4203,
+      "importance_score": 0.4203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5337,
+        "recency": 0.3614,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1298,370 +1547,81 @@
       }
     },
     {
-      "story_id": "story_459273eee35f",
-      "title": "Mozilla：开源人工智能的发展现状",
-      "url": "https://stateofopensource.ai",
-      "primary_url": "https://stateofopensource.ai",
-      "source": "stateofopensource.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_76d953ff97c7",
+      "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
+      "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
+      "primary_url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
+          "id": "a101fcbd53676427189bd54a38a7c84f732935aa",
+          "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
+          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T23:09:12Z"
         },
         {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News",
+          "id": "30725d0aca6480e1eea50306a78413db62f84088",
+          "title": "“想出这个的人都是个大白痴”：LG 的游戏显示器和电视正面临用户的反抗，因为它们似乎在电脑上安装了广告软件，并告诉你警告客人他们可能会被人工智能功能记录下来，以遵守“窃听”法律 / 'Whoever came up with this is a massive idiot': LG's gaming monitors and TVs are facing a user revolt, due to seemingly installing adware on PCs — and telling you to warn guests they may be recorded by AI features, to comply with 'wiretapping' laws",
+          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
+          "source": "TechRadar",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T14:31:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "stateofopensource.ai"
-      ],
-      "items": [
-        {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
-        },
-        {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "dd5fc0c942e2cffe2c04481d4dc49e58c70728c8",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T14:31:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4457,
-      "importance": 0.4457,
-      "importance_score": 0.4457,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3634,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T14:31:10Z",
-      "latest_at": "2026-07-17T15:53:45.162000Z",
-      "primary_item": {
-        "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-        "title": "Mozilla：开源人工智能的发展现状",
-        "url": "https://stateofopensource.ai",
-        "source": "stateofopensource.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6e5f1797a7d7",
-      "title": "苹果向OpenAI员工发出法律信函",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "primary_url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "source": "www.ft.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-          "title": "苹果向OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:52.399000Z"
-        },
-        {
-          "id": "3781ff92b344981882b6a9bb0558d9721bf5c96d",
-          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T12:02:39Z"
-        },
-        {
-          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
-          "title": "苹果向数十名OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T10:33:49.155000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-          "title": "苹果向OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:01:52.399000Z"
-        },
-        {
-          "id": "3781ff92b344981882b6a9bb0558d9721bf5c96d",
-          "title": "苹果向OpenAI员工发出法律信函 / Apple targets dozens of OpenAI employees with legal letters",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T12:02:39Z"
-        },
-        {
-          "id": "9b28b9f6eadf76996bb5d7154c3693585530aea5",
-          "title": "苹果向数十名OpenAI员工发出法律信函",
-          "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T10:33:49.155000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4301,
-      "importance": 0.4301,
-      "importance_score": 0.4301,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2857,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T10:33:49.155000Z",
-      "latest_at": "2026-07-17T14:01:52.399000Z",
-      "primary_item": {
-        "id": "bde67ba37f283c001387fc45c73b6ff972793ca1",
-        "title": "苹果向OpenAI员工发出法律信函",
-        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-        "source": "www.ft.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fcaf0f3af85e",
-      "title": "中国国家主席习近平呼吁加强全球在人工智能领域的合作，而美国实施的限制措施正挤压中国获取科技资源的渠道 - NPR",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0RWV2dway1FVzliYldLTGVzNm1BdkEyNUxpRTd1M1E4V1VlN3NnMFhaRTZLU295Uy1ITmtYTTlod1VUUXZpYXZwUUUzUzA0TUpheE1laXlacWJVUjZiVVNVNkN4aUpUdHZEdkxubHJ1QU1HdzhWWGRCZ2xISFJNY25pcnlJOEluVndpNzFFX2dWMjRCSkNmRlJ2NHNMWFBnNkl2SnkyMl9SM1RKazgzWkJiZVpwSzdqTjdYM0ZlU2hNT2lUM1poY3VCMTUtQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0RWV2dway1FVzliYldLTGVzNm1BdkEyNUxpRTd1M1E4V1VlN3NnMFhaRTZLU295Uy1ITmtYTTlod1VUUXZpYXZwUUUzUzA0TUpheE1laXlacWJVUjZiVVNVNkN4aUpUdHZEdkxubHJ1QU1HdzhWWGRCZ2xISFJNY25pcnlJOEluVndpNzFFX2dWMjRCSkNmRlJ2NHNMWFBnNkl2SnkyMl9SM1RKazgzWkJiZVpwSzdqTjdYM0ZlU2hNT2lUM1poY3VCMTUtQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fb912026308e443755150480e287e7d6bf705434",
-          "title": "中国国家主席习近平呼吁加强全球在人工智能领域的合作，而美国实施的限制措施正挤压中国获取科技资源的渠道 - NPR",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0RWV2dway1FVzliYldLTGVzNm1BdkEyNUxpRTd1M1E4V1VlN3NnMFhaRTZLU295Uy1ITmtYTTlod1VUUXZpYXZwUUUzUzA0TUpheE1laXlacWJVUjZiVVNVNkN4aUpUdHZEdkxubHJ1QU1HdzhWWGRCZ2xISFJNY25pcnlJOEluVndpNzFFX2dWMjRCSkNmRlJ2NHNMWFBnNkl2SnkyMl9SM1RKazgzWkJiZVpwSzdqTjdYM0ZlU2hNT2lUM1poY3VCMTUtQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T16:57:55.489000Z"
-        },
-        {
-          "id": "c90560a929a76d4ed0152fea5c32bda6d50ed3ad",
-          "title": "中国国家主席习近平呼吁加强全球在人工智能领域的合作，而美国实施的限制措施正挤压中国获取技术渠道 - NPR",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0RWV2dway1FVzliYldLTGVzNm1BdkEyNUxpRTd1M1E4V1VlN3NnMFhaRTZLU295Uy1ITmtYTTlod1VUUXZpYXZwUUUzUzA0TUpheE1laXlacWJVUjZiVVNVNkN4aUpUdHZEdkxubHJ1QU1HdzhWWGRCZ2xISFJNY25pcnlJOEluVndpNzFFX2dWMjRCSkNmRlJ2NHNMWFBnNkl2SnkyMl9SM1RKazgzWkJiZVpwSzdqTjdYM0ZlU2hNT2lUM1poY3VCMTUtQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T16:57:55.398000Z"
+          "published_at": "2026-07-17T16:54:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "news.google.com"
+        "Hacker News · 24h最热",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "fb912026308e443755150480e287e7d6bf705434",
-          "title": "中国国家主席习近平呼吁加强全球在人工智能领域的合作，而美国实施的限制措施正挤压中国获取科技资源的渠道 - NPR",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0RWV2dway1FVzliYldLTGVzNm1BdkEyNUxpRTd1M1E4V1VlN3NnMFhaRTZLU295Uy1ITmtYTTlod1VUUXZpYXZwUUUzUzA0TUpheE1laXlacWJVUjZiVVNVNkN4aUpUdHZEdkxubHJ1QU1HdzhWWGRCZ2xISFJNY25pcnlJOEluVndpNzFFX2dWMjRCSkNmRlJ2NHNMWFBnNkl2SnkyMl9SM1RKazgzWkJiZVpwSzdqTjdYM0ZlU2hNT2lUM1poY3VCMTUtQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T16:57:55.489000Z"
+          "id": "a101fcbd53676427189bd54a38a7c84f732935aa",
+          "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
+          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T23:09:12Z"
         },
         {
-          "id": "c90560a929a76d4ed0152fea5c32bda6d50ed3ad",
-          "title": "中国国家主席习近平呼吁加强全球在人工智能领域的合作，而美国实施的限制措施正挤压中国获取技术渠道 - NPR",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0RWV2dway1FVzliYldLTGVzNm1BdkEyNUxpRTd1M1E4V1VlN3NnMFhaRTZLU295Uy1ITmtYTTlod1VUUXZpYXZwUUUzUzA0TUpheE1laXlacWJVUjZiVVNVNkN4aUpUdHZEdkxubHJ1QU1HdzhWWGRCZ2xISFJNY25pcnlJOEluVndpNzFFX2dWMjRCSkNmRlJ2NHNMWFBnNkl2SnkyMl9SM1RKazgzWkJiZVpwSzdqTjdYM0ZlU2hNT2lUM1poY3VCMTUtQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T16:57:55.398000Z"
+          "id": "30725d0aca6480e1eea50306a78413db62f84088",
+          "title": "“想出这个的人都是个大白痴”：LG 的游戏显示器和电视正面临用户的反抗，因为它们似乎在电脑上安装了广告软件，并告诉你警告客人他们可能会被人工智能功能记录下来，以遵守“窃听”法律 / 'Whoever came up with this is a massive idiot': LG's gaming monitors and TVs are facing a user revolt, due to seemingly installing adware on PCs — and telling you to warn guests they may be recorded by AI features, to comply with 'wiretapping' laws",
+          "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T16:54:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4296,
-      "importance": 0.4296,
-      "importance_score": 0.4296,
+      "score": 0.4467,
+      "importance": 0.4467,
+      "importance_score": 0.4467,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4079,
+        "recency": 0.4935,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T16:57:55.398000Z",
-      "latest_at": "2026-07-17T16:57:55.489000Z",
+      "earliest_at": "2026-07-17T16:54:44Z",
+      "latest_at": "2026-07-17T23:09:12Z",
       "primary_item": {
-        "id": "fb912026308e443755150480e287e7d6bf705434",
-        "title": "中国国家主席习近平呼吁加强全球在人工智能领域的合作，而美国实施的限制措施正挤压中国获取科技资源的渠道 - NPR",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0RWV2dway1FVzliYldLTGVzNm1BdkEyNUxpRTd1M1E4V1VlN3NnMFhaRTZLU295Uy1ITmtYTTlod1VUUXZpYXZwUUUzUzA0TUpheE1laXlacWJVUjZiVVNVNkN4aUpUdHZEdkxubHJ1QU1HdzhWWGRCZ2xISFJNY25pcnlJOEluVndpNzFFX2dWMjRCSkNmRlJ2NHNMWFBnNkl2SnkyMl9SM1RKazgzWkJiZVpwSzdqTjdYM0ZlU2hNT2lUM1poY3VCMTUtQWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_89bb8ead68de",
-      "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-      "url": "https://news.ycombinator.com/item?id=48947754",
-      "primary_url": "https://news.ycombinator.com/item?id=48947754",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
-          "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "url": "https://news.ycombinator.com/item?id=48947754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T16:28:19.506000Z"
-        },
-        {
-          "id": "1d68a8f9d37976d90ac46e338591f49615de6738",
-          "title": "Show HN: 发行方为人工智能代理的链上债券市场",
-          "url": "https://selbonds.now",
-          "source": "selbonds.now",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:33:52.909000Z"
-        },
-        {
-          "id": "dc9322c0d5c2d9b0cb9b53e67f0017a71592a24e",
-          "title": "Show HN: 发行方为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "url": "https://selbonds.now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T14:25:20Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "selbonds.now"
-      ],
-      "items": [
-        {
-          "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
-          "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "url": "https://news.ycombinator.com/item?id=48947754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T16:28:19.506000Z"
-        },
-        {
-          "id": "1d68a8f9d37976d90ac46e338591f49615de6738",
-          "title": "Show HN: 发行方为人工智能代理的链上债券市场",
-          "url": "https://selbonds.now",
-          "source": "selbonds.now",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T14:33:52.909000Z"
-        },
-        {
-          "id": "dc9322c0d5c2d9b0cb9b53e67f0017a71592a24e",
-          "title": "Show HN: 发行方为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-          "url": "https://selbonds.now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T14:25:20Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4505,
-      "importance": 0.4505,
-      "importance_score": 0.4505,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3874,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T14:25:20Z",
-      "latest_at": "2026-07-17T16:28:19.506000Z",
-      "primary_item": {
-        "id": "2a8587005713d48e30b1243b9268faa6e8d88fa7",
-        "title": "Show HN：发行人为人工智能代理的链上债券市场 / Show HN: On-chain bond market where the issuers are AI agents",
-        "url": "https://news.ycombinator.com/item?id=48947754",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "a101fcbd53676427189bd54a38a7c84f732935aa",
+        "title": "LG 监控在 Windows 电脑上安装广告软件 / LG monitors installing adware on Windows PCs",
+        "url": "https://www.techradar.com/televisions/lgs-gaming-monitors-and-tvs-are-facing-a-user-revolt",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
