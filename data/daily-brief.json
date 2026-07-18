@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T14:41:50.132216Z",
+  "generated_at": "2026-07-18T18:08:18.981895Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0042-096c-8469-81eb29bbb4ff&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0042-096c-8469-81eb29bbb4ff&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0408-4076-be56-def654e87c16&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0408-4076-be56-def654e87c16&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "cf744f1a34de56769e47057f3893b0edb1ca73da",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0408-4076-be56-def654e87c16&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b5070aaaa3b46ab83d9c69fc0fca10e897dd0900",
           "title": "点击这里进入 / Click here to enter",
@@ -51,15 +60,6 @@
           "id": "3d3ccca14fb3b092a58cf9a48be04e1d30295b29",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0616-34da-bc19-025c0e589dee&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a99057b7547306ca6ddfc13f8f6ef90b7fd520a5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0242-546d-8c45-557d9a91fe96&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -72,6 +72,15 @@
       ],
       "items": [
         {
+          "id": "cf744f1a34de56769e47057f3893b0edb1ca73da",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0408-4076-be56-def654e87c16&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b5070aaaa3b46ab83d9c69fc0fca10e897dd0900",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0042-096c-8469-81eb29bbb4ff&fp=-3",
@@ -111,15 +120,6 @@
           "id": "3d3ccca14fb3b092a58cf9a48be04e1d30295b29",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0616-34da-bc19-025c0e589dee&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a99057b7547306ca6ddfc13f8f6ef90b7fd520a5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0242-546d-8c45-557d9a91fe96&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,12 +144,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T16:42:23.887307Z",
-      "latest_at": "2026-07-18T14:41:50.132216Z",
+      "earliest_at": "2026-07-17T20:16:07.028786Z",
+      "latest_at": "2026-07-18T18:08:18.981895Z",
       "primary_item": {
-        "id": "b5070aaaa3b46ab83d9c69fc0fca10e897dd0900",
+        "id": "cf744f1a34de56769e47057f3893b0edb1ca73da",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0042-096c-8469-81eb29bbb4ff&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0408-4076-be56-def654e87c16&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -189,21 +189,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3876,
+        "recency": 0.2442,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-18T00:00:00Z",
       "latest_at": "2026-07-18T00:00:00Z",
@@ -212,305 +211,6 @@
         "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ed66fc264272",
-      "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-          "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-          "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3079,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:05:11Z",
-      "latest_at": "2026-07-17T22:05:11Z",
-      "primary_item": {
-        "id": "0d2abba6103a989c224babfd2100dee3fbab2ea2",
-        "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-        "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f671875c2dd8",
-      "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-      "url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-      "primary_url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bcab62df94a17d70ee3c0f292d7b026f51221909",
-          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-          "url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-18T04:47:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bcab62df94a17d70ee3c0f292d7b026f51221909",
-          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-          "url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-18T04:47:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5872,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-18T04:47:25Z",
-      "latest_at": "2026-07-18T04:47:25Z",
-      "primary_item": {
-        "id": "bcab62df94a17d70ee3c0f292d7b026f51221909",
-        "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-        "url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d7c9b0f9da4b",
-      "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-          "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-          "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T22:05:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.308,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:05:18Z",
-      "latest_at": "2026-07-17T22:05:18Z",
-      "primary_item": {
-        "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
-        "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
-        "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_25d5fb9bf484",
-      "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "primary_url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T21:08:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T21:08:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2685,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T21:08:30Z",
-      "latest_at": "2026-07-17T21:08:30Z",
-      "primary_item": {
-        "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-        "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-        "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c03164d67fef",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.2124,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T19:47:45Z",
-      "latest_at": "2026-07-17T19:47:45Z",
-      "primary_item": {
-        "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -606,14 +306,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5958,
-      "importance": 0.5958,
-      "importance_score": 0.5958,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9892,
+        "recency": 0.8458,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -628,6 +328,726 @@
         "url": "https://news.ycombinator.com/item?id=48956924",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_737581f31a19",
+      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "source": "charlesazam.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T14:26:13.687000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "charlesazam.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T14:26:13.687000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5476,
+      "importance": 0.5476,
+      "importance_score": 0.5476,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.873,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T15:05:23.818000Z",
+      "primary_item": {
+        "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+        "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+        "source": "charlesazam.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cdc22d7d874c",
+      "title": "“审查人工智能代码”并非一个站得住脚的论点",
+      "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+      "primary_url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+      "source": "softwaremaxims.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "softwaremaxims.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T16:41:31.812000Z"
+        },
+        {
+          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:25:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "softwaremaxims.com"
+      ],
+      "items": [
+        {
+          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "softwaremaxims.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T16:41:31.812000Z"
+        },
+        {
+          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:25:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9397,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:25:19Z",
+      "latest_at": "2026-07-18T16:41:31.812000Z",
+      "primary_item": {
+        "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+        "title": "“审查人工智能代码”并非一个站得住脚的论点",
+        "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+        "source": "softwaremaxims.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cbcd45422a3a",
+      "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://news.ycombinator.com/item?id=48959392",
+      "primary_url": "https://news.ycombinator.com/item?id=48959392",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T17:51:27.801000Z"
+        },
+        {
+          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T17:51:27.801000Z"
+        },
+        {
+          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9883,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T17:51:27.801000Z",
+      "primary_item": {
+        "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+        "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "url": "https://news.ycombinator.com/item?id=48959392",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_01582b84f950",
+      "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+      "primary_url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:13:21.473000Z"
+        },
+        {
+          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:18:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:13:21.473000Z"
+        },
+        {
+          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
+          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
+          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:18:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7952,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:18:25Z",
+      "latest_at": "2026-07-18T13:13:21.473000Z",
+      "primary_item": {
+        "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
+        "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
+        "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_84198372e5db",
+      "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "primary_url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+      "source": "www.axios.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:57:22.221000Z"
+        },
+        {
+          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
+          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:49:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:57:22.221000Z"
+        },
+        {
+          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
+          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
+          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T12:49:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7841,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T12:49:11Z",
+      "latest_at": "2026-07-18T12:57:22.221000Z",
+      "primary_item": {
+        "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
+        "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
+        "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
+        "source": "www.axios.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1261f03c93da",
+      "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "primary_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "92c287bceaa2847e205f847ad850224aac18b026",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:07:48.056000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "92c287bceaa2847e205f847ad850224aac18b026",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
+          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T11:07:48.056000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4911,
+      "importance": 0.4911,
+      "importance_score": 0.4911,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7155,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:07:48.056000Z",
+      "latest_at": "2026-07-18T11:18:37.044903Z",
+      "primary_item": {
+        "id": "92c287bceaa2847e205f847ad850224aac18b026",
+        "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_334727c4b329",
+      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T09:30:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
+          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T09:30:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4911,
+      "importance": 0.4911,
+      "importance_score": 0.4911,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7155,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T09:30:23Z",
+      "latest_at": "2026-07-18T11:18:37.044903Z",
+      "primary_item": {
+        "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
+        "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
+        "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e02649f4fa30",
+      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T10:33:45.979000Z"
+        },
+        {
+          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T10:21:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T10:33:45.979000Z"
+        },
+        {
+          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T10:21:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4849,
+      "importance": 0.4849,
+      "importance_score": 0.4849,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6843,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T10:21:01Z",
+      "latest_at": "2026-07-18T10:33:45.979000Z",
+      "primary_item": {
+        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e775946229ad",
+      "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+      "url": "https://www.v2ex.com/t/1228233",
+      "primary_url": "https://www.v2ex.com/t/1228233",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
+          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        },
+        {
+          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
+          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
+          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        },
+        {
+          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
+          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
+          "url": "https://www.v2ex.com/t/1228233",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T10:32:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4846,
+      "importance": 0.4846,
+      "importance_score": 0.4846,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6832,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T10:32:04Z",
+      "latest_at": "2026-07-18T10:32:04Z",
+      "primary_item": {
+        "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
+        "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
+        "url": "https://www.v2ex.com/t/1228233",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -703,14 +1123,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9892,
+        "recency": 0.8458,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -728,182 +1148,26 @@
       }
     },
     {
-      "story_id": "story_01582b84f950",
-      "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-      "primary_url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
-          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:13:21.473000Z"
-        },
-        {
-          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
-          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:18:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
-          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:13:21.473000Z"
-        },
-        {
-          "id": "f6fb36b412f366c03d17df45ecc785f645b56023",
-          "title": "人工智能会改善预授权流程，还是会让情况变得更糟？ / Will AI fix prior authorization—or make it worse?",
-          "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:18:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9386,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:18:25Z",
-      "latest_at": "2026-07-18T13:13:21.473000Z",
-      "primary_item": {
-        "id": "154748dd4ae8018939f1151d089f9d83cfda0261",
-        "title": "人工智能会改善预授权流程，还是会让情况变得更糟？",
-        "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_84198372e5db",
-      "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
-      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-      "primary_url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-      "source": "www.axios.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
-          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
-          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:57:22.221000Z"
-        },
-        {
-          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
-          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
-          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:49:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "www.axios.com"
-      ],
-      "items": [
-        {
-          "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
-          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
-          "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:57:22.221000Z"
-        },
-        {
-          "id": "6bda4b427a2a5646e36d3a37ba5dc0feda45941c",
-          "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化 - Axios",
-          "url": "https://news.google.com/read/CBMigAFBVV95cUxQTU1GSXFEb1NUS21rRXFCa2ZvaTh5dnhxUHpFRWpUakVzdW5ydmZKTVVSUF82VGJxX0Mzc01zQlc0alBBdGRYNnItSGhxR0RuRVp5TTI3ZnByMU5IenVNdWZ3OWY3Zk5QbW9MUVFzSnJwbmxYU1RXVXZoUU40NXBlNw?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T12:49:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9275,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T12:49:11Z",
-      "latest_at": "2026-07-18T12:57:22.221000Z",
-      "primary_item": {
-        "id": "44f229f471e7ec4867d8f1322a33faf5ef1e66dc",
-        "title": "随着中国发起“无重量限制”的挑战，人工智能竞赛呈现两极分化",
-        "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-        "source": "www.axios.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1261f03c93da",
-      "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "primary_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "story_id": "story_26149269af1e",
+      "title": "利奥加文/airllm / lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
       "source": "GitHub · Trending Today",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "92c287bceaa2847e205f847ad850224aac18b026",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -917,18 +1181,18 @@
       ],
       "items": [
         {
-          "id": "92c287bceaa2847e205f847ad850224aac18b026",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+          "title": "利奥加文/airllm / lyogavin / airllm",
+          "url": "https://github.com/lyogavin/airllm",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "2ea5730ea58a21f15c2bc5b4f7c80c43c8e69962",
-          "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 /      ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
+          "title": "利奥加文/airllm / lyogavin /      airllm",
+          "url": "https://github.com/lyogavin/airllm",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -937,14 +1201,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.4911,
+      "importance": 0.4911,
+      "importance_score": 0.4911,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8589,
+        "recency": 0.7155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -954,244 +1218,11 @@
       "earliest_at": "2026-07-18T11:07:48.056000Z",
       "latest_at": "2026-07-18T11:18:37.044903Z",
       "primary_item": {
-        "id": "92c287bceaa2847e205f847ad850224aac18b026",
-        "title": "rohitg00 / 从头开始​​的人工智能工程 / rohitg00 / ai-engineering-from-scratch",
-        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
+        "title": "利奥加文/airllm / lyogavin / airllm",
+        "url": "https://github.com/lyogavin/airllm",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_334727c4b329",
-      "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-      "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e54ee7cb73c6dd32f9cbb005ab32f76bbeaf4082",
-          "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
-          "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T09:30:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8589,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T09:30:23Z",
-      "latest_at": "2026-07-18T11:18:37.044903Z",
-      "primary_item": {
-        "id": "e63f4b985511617147fb3621fad1b6cee3b42de2",
-        "title": "腾讯升级发布具身智能全栈方案，ADP 4.0 海外版正式上线",
-        "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e02649f4fa30",
-      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8277,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:21:01Z",
-      "latest_at": "2026-07-18T10:33:45.979000Z",
-      "primary_item": {
-        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e775946229ad",
-      "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-      "url": "https://www.v2ex.com/t/1228233",
-      "primary_url": "https://www.v2ex.com/t/1228233",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
-          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        },
-        {
-          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
-          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
-          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        },
-        {
-          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
-          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8265,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:32:04Z",
-      "latest_at": "2026-07-18T10:32:04Z",
-      "primary_item": {
-        "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
-        "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-        "url": "https://www.v2ex.com/t/1228233",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1267,14 +1298,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9892,
+        "recency": 0.8458,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1289,84 +1320,6 @@
         "url": "https://news.ycombinator.com/item?id=48957779",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_26149269af1e",
-      "title": "利奥加文/airllm / lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "primary_url": "https://github.com/lyogavin/airllm",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8589,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:07:48.056000Z",
-      "latest_at": "2026-07-18T11:18:37.044903Z",
-      "primary_item": {
-        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-        "title": "利奥加文/airllm / lyogavin / airllm",
-        "url": "https://github.com/lyogavin/airllm",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1423,14 +1376,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.476,
+      "importance": 0.476,
+      "importance_score": 0.476,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7834,
+        "recency": 0.64,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1448,197 +1401,333 @@
       }
     },
     {
-      "story_id": "story_0fb4407ddf01",
-      "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-      "primary_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
+      "story_id": "story_eda333e69d05",
+      "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+      "primary_url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
-          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.204000Z"
-        },
-        {
-          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
-          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T17:33:00Z"
-        },
-        {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
-        },
-        {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times",
-        "Slashdot (科技资讯)",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
-          "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.204000Z"
-        },
-        {
-          "id": "c58c0af93ddd88a2737d8c2dfa69725431fe59bd",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta In Talks To Lease Computing Power To Anthropic In Potential $10 Billion Deal",
-          "url": "https://hardware.slashdot.org/story/26/07/17/1732212/meta-in-talks-to-lease-computing-power-to-anthropic-in-potential-10-billion-deal",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-17T17:33:00Z"
-        },
-        {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
-        },
-        {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4725,
-      "importance": 0.4725,
-      "importance_score": 0.4725,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3723,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T16:17:06Z",
-      "latest_at": "2026-07-17T23:38:00.204000Z",
-      "primary_item": {
-        "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
-        "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
-        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a0bbc2c6e6f2",
-      "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "primary_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "source": "Hugging Face Blog",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "7b8f1c44d7285545e18d8e0092e60d5aac29b683",
-          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Hugging Face Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-17T15:57:54Z"
-        },
-        {
-          "id": "a921b39c67cdcaff7e509e00b9b806013f93f55a",
-          "title": "使用 NVIDIA NeMo Automodel 和 Hugging Face Diffuser 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and Hugging Face Diffusers",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
+          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
+          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
+          "url": "https://www.ithome.com/0/978/476.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:02:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hugging Face Blog",
+        "IT之家 (ITHome)",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7b8f1c44d7285545e18d8e0092e60d5aac29b683",
-          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Hugging Face Blog",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-17T15:57:54Z"
-        },
-        {
-          "id": "a921b39c67cdcaff7e509e00b9b806013f93f55a",
-          "title": "使用 NVIDIA NeMo Automodel 和 Hugging Face Diffuser 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and Hugging Face Diffusers",
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
+          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
+          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
+          "url": "https://www.ithome.com/0/978/476.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:02:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4606,
-      "importance": 0.4606,
-      "importance_score": 0.4606,
+      "score": 0.4566,
+      "importance": 0.4566,
+      "importance_score": 0.4566,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.0528,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5432,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T15:57:54Z",
-      "latest_at": "2026-07-17T16:42:23.887307Z",
+      "earliest_at": "2026-07-18T07:02:32Z",
+      "latest_at": "2026-07-18T07:10:31.405527Z",
       "primary_item": {
-        "id": "7b8f1c44d7285545e18d8e0092e60d5aac29b683",
-        "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-        "source": "Hugging Face Blog",
-        "source_name": "OPML RSS"
+        "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
+        "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
+        "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b59aca9fee2b",
+      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "source": "localnewsmatters.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "localnewsmatters.org"
+      ],
+      "items": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4188,
+      "importance": 0.4188,
+      "importance_score": 0.4188,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2289,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T22:26:30Z",
+      "latest_at": "2026-07-17T23:38:00.200000Z",
+      "primary_item": {
+        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+        "source": "localnewsmatters.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7808576f556e",
+      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:57:49.615000Z"
+        },
+        {
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T08:57:49.615000Z"
+        },
+        {
+          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
+          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
+          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T08:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4715,
+      "importance": 0.4715,
+      "importance_score": 0.4715,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6177,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T08:41:01Z",
+      "latest_at": "2026-07-18T08:57:49.615000Z",
+      "primary_item": {
+        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
+        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
+        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bda6929c1899",
+      "title": "我开始了一本“污垢笔记本” / I started a \"dirt notebook\"",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+      "primary_url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
+          "title": "我开始了一本“污垢笔记本” / I started a \"dirt notebook\"",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        },
+        {
+          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
+          "title": "我开始了一本“污垢笔记本” / I started a “dirt notebook”",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
+          "title": "我开始了一本“污垢笔记本” / I started a \"dirt notebook\"",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        },
+        {
+          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
+          "title": "我开始了一本“污垢笔记本” / I started a “dirt notebook”",
+          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T01:12:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4069,
+      "importance": 0.4069,
+      "importance_score": 0.4069,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2944,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T01:12:13Z",
+      "latest_at": "2026-07-18T01:12:13Z",
+      "primary_item": {
+        "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
+        "title": "我开始了一本“污垢笔记本” / I started a \"dirt notebook\"",
+        "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
