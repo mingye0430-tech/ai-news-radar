@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T21:09:34.806816Z",
+  "generated_at": "2026-07-19T06:48:36.300164Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0709-558d-b0c4-1479983b782d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0709-558d-b0c4-1479983b782d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1649-085c-8d15-434db8f1075d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-1649-085c-8d15-434db8f1075d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "e900fc7c635ffd07a10827693f3b99f84a50eb3d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1649-085c-8d15-434db8f1075d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "23888e1ba41add3173f2526bfaae8c5fee5fe5a3",
           "title": "点击这里进入 / Click here to enter",
@@ -51,15 +60,6 @@
           "id": "35a4fdc618a94bf81aaabb3c4bf02577cddc2b1e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1711-04cc-8808-1747febeaf17&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c844967c6b462335b91fac3a2c514d9076bd919c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0932-5354-a7f1-823cf03cfb23&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -72,6 +72,15 @@
       ],
       "items": [
         {
+          "id": "e900fc7c635ffd07a10827693f3b99f84a50eb3d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1649-085c-8d15-434db8f1075d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "23888e1ba41add3173f2526bfaae8c5fee5fe5a3",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0709-558d-b0c4-1479983b782d&fp=-3",
@@ -111,15 +120,6 @@
           "id": "35a4fdc618a94bf81aaabb3c4bf02577cddc2b1e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-1711-04cc-8808-1747febeaf17&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c844967c6b462335b91fac3a2c514d9076bd919c",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0932-5354-a7f1-823cf03cfb23&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,14 +144,660 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T23:32:29.030394Z",
-      "latest_at": "2026-07-18T21:09:34.806816Z",
+      "earliest_at": "2026-07-18T07:10:31.405527Z",
+      "latest_at": "2026-07-19T06:48:36.300164Z",
       "primary_item": {
-        "id": "23888e1ba41add3173f2526bfaae8c5fee5fe5a3",
+        "id": "e900fc7c635ffd07a10827693f3b99f84a50eb3d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0709-558d-b0c4-1479983b782d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-1649-085c-8d15-434db8f1075d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_3afdb820f5d8",
+      "title": "AI 热潮正在瓦解全球决策机制",
+      "url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
+      "primary_url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1a60fc9e13ad38d2c04956204dd455ba9aac0b16",
+          "title": "AI 热潮正在瓦解全球决策机制",
+          "url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T05:13:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "1a60fc9e13ad38d2c04956204dd455ba9aac0b16",
+          "title": "AI 热潮正在瓦解全球决策机制",
+          "url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T05:13:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9339,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T05:13:24Z",
+      "latest_at": "2026-07-19T05:13:24Z",
+      "primary_item": {
+        "id": "1a60fc9e13ad38d2c04956204dd455ba9aac0b16",
+        "title": "AI 热潮正在瓦解全球决策机制",
+        "url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f1117bb0344",
+      "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+      "url": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
+      "primary_url": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ea05a0af8d6345c363d9c4b9f6be23332ea39e6",
+          "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+          "url": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T04:25:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "5ea05a0af8d6345c363d9c4b9f6be23332ea39e6",
+          "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+          "url": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T04:25:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9004,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T04:25:10Z",
+      "latest_at": "2026-07-19T04:25:10Z",
+      "primary_item": {
+        "id": "5ea05a0af8d6345c363d9c4b9f6be23332ea39e6",
+        "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+        "url": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ca02d6362e5e",
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+      "url": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
+      "primary_url": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a8b86bce702d0e6a5aae06aeffac754d0a5f2fee",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "a8b86bce702d0e6a5aae06aeffac754d0a5f2fee",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8338,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T02:49:15Z",
+      "latest_at": "2026-07-19T02:49:15Z",
+      "primary_item": {
+        "id": "a8b86bce702d0e6a5aae06aeffac754d0a5f2fee",
+        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+        "url": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f3d53932c98",
+      "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+      "primary_url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "d0ba5b5159bbf9387c371672a62b283c63b9e914",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-19T05:06:21Z"
+        },
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T06:23:16.659000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Simon Willison",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d0ba5b5159bbf9387c371672a62b283c63b9e914",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-19T05:06:21Z"
+        },
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T06:23:16.659000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6118,
+      "importance": 0.6118,
+      "importance_score": 0.6118,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.929,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T05:06:21Z",
+      "latest_at": "2026-07-19T06:23:16.659000Z",
+      "primary_item": {
+        "id": "d0ba5b5159bbf9387c371672a62b283c63b9e914",
+        "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+        "url": "https://simonwillison.net/2026/Jul/19/ai-mania",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_6c5556b77912",
+      "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "46f6df3995187ca8eb7aa7d9c408fb9b01158083",
+          "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.933000Z"
+        },
+        {
+          "id": "2bede32462e859f8445451032c258b29efa6ea8f",
+          "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNUHJpdWdDWWVvYkM4SEZjY0F5OUJoSFBqUi04VlRBVlJrTDFFaXNWY01fNEFzTkNKaFFwR2R6Um1QLVQ5QXR2UmViSzZRS0xBMVRvcDVwbUJIekRhRkJKUVc5dE1CNzlLenhCSTlsQWp2aTdCaVVVa2dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.126000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "46f6df3995187ca8eb7aa7d9c408fb9b01158083",
+          "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.933000Z"
+        },
+        {
+          "id": "2bede32462e859f8445451032c258b29efa6ea8f",
+          "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNUHJpdWdDWWVvYkM4SEZjY0F5OUJoSFBqUi04VlRBVlJrTDFFaXNWY01fNEFzTkNKaFFwR2R6Um1QLVQ5QXR2UmViSzZRS0xBMVRvcDVwbUJIekRhRkJKUVc5dE1CNzlLenhCSTlsQWp2aTdCaVVVa2dn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.126000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8783,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T00:25:26.126000Z",
+      "latest_at": "2026-07-19T03:53:18.933000Z",
+      "primary_item": {
+        "id": "46f6df3995187ca8eb7aa7d9c408fb9b01158083",
+        "title": "《Indeed》首席经济学家：老龄化的“婴儿潮”一代才是美国真正的劳动力问题，而非人工智能 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWp1ZzRjenBmNVI1My1xYnpZNHZ1eE9qMTZRWDM0RUlmQVFON0NfMnNQZUhLYjd5OVhwdURnZl9xblkxX3dPZlRTXzVGZDctN1lYdEtyMHRfVGpmUDJRM09YbmhWZ3oyREYzWDBCVWlubWliWmxqbW9CeF9CX1F4dUdlemExeVdiNG5wNHdKMHdBQjZBYmc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d856025fe14",
+      "title": "《法典》重置",
+      "url": "https://codex-resets.com",
+      "primary_url": "https://codex-resets.com",
+      "source": "codex-resets.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+          "title": "《法典》重置",
+          "url": "https://codex-resets.com",
+          "source": "codex-resets.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.442000Z"
+        },
+        {
+          "id": "4b18113d506ec5fc26241e133b481f43703e8e85",
+          "title": "《法典》重置 / Codex Resets",
+          "url": "https://codex-resets.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T23:24:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "codex-resets.com"
+      ],
+      "items": [
+        {
+          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+          "title": "《法典》重置",
+          "url": "https://codex-resets.com",
+          "source": "codex-resets.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.442000Z"
+        },
+        {
+          "id": "4b18113d506ec5fc26241e133b481f43703e8e85",
+          "title": "《法典》重置 / Codex Resets",
+          "url": "https://codex-resets.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T23:24:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8783,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T23:24:26Z",
+      "latest_at": "2026-07-19T03:53:18.442000Z",
+      "primary_item": {
+        "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+        "title": "《法典》重置",
+        "url": "https://codex-resets.com",
+        "source": "codex-resets.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_21e2edf6e749",
+      "title": "软件与人工智能——“预先规划”与“即兴创作”",
+      "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+      "primary_url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+      "source": "pyjarrett.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
+          "title": "软件与人工智能——“预先规划”与“即兴创作”",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "pyjarrett.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:17:42.006000Z"
+        },
+        {
+          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
+          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:14:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pyjarrett.github.io"
+      ],
+      "items": [
+        {
+          "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
+          "title": "软件与人工智能——“预先规划”与“即兴创作”",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "pyjarrett.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T02:17:42.006000Z"
+        },
+        {
+          "id": "5e8c7726c458ff15acfd16827c629cd0840e8fff",
+          "title": "软件与人工智能——“预先规划”与“即兴创作” / Software and AI - Plotting vs. Pantsing",
+          "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:14:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8119,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T02:14:13Z",
+      "latest_at": "2026-07-19T02:17:42.006000Z",
+      "primary_item": {
+        "id": "7f284505dcc2a3b356ed98bac9605f683ff98394",
+        "title": "软件与人工智能——“预先规划”与“即兴创作”",
+        "url": "https://pyjarrett.github.io/2026/07/18/software-and-ai-plotting-versus-pantsing.html",
+        "source": "pyjarrett.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d51ff48bcdd3",
+      "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+      "url": "https://www.v2ex.com/t/1228308",
+      "primary_url": "https://www.v2ex.com/t/1228308",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
+          "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+          "url": "https://www.v2ex.com/t/1228308",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T01:59:45Z"
+        },
+        {
+          "id": "cc981b55fd27067b1040e622a14705e8899ef75e",
+          "title": "[程序员] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark！",
+          "url": "https://www.v2ex.com/t/1228293",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:23:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
+          "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+          "url": "https://www.v2ex.com/t/1228308",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T01:59:45Z"
+        },
+        {
+          "id": "cc981b55fd27067b1040e622a14705e8899ef75e",
+          "title": "[程序员] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark！",
+          "url": "https://www.v2ex.com/t/1228293",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T22:23:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5079,
+      "importance": 0.5079,
+      "importance_score": 0.5079,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7994,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:23:33Z",
+      "latest_at": "2026-07-19T01:59:45Z",
+      "primary_item": {
+        "id": "4e47697ff715f1f71464020a811c7d1936158ae9",
+        "title": "[分享创造] 手搓了一个 agent 架构能减少 长 coding 任务的 llm 往返和 token 开销 80%左右。有 benchmark 和测试脚本以及数据集！",
+        "url": "https://www.v2ex.com/t/1228308",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_6d307adecd0d",
+      "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+      "primary_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+      "source": "petapixel.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "b7c4dbc5dc9c07270461dab53f23d1fd394da6b1",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "petapixel.com"
+      ],
+      "items": [
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "b7c4dbc5dc9c07270461dab53f23d1fd394da6b1",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4948,
+      "importance": 0.4948,
+      "importance_score": 0.4948,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7339,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:13:39Z",
+      "latest_at": "2026-07-19T00:25:26.091000Z",
+      "primary_item": {
+        "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+        "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+        "source": "petapixel.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -227,14 +873,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
+      "score": 0.4798,
+      "importance": 0.4798,
+      "importance_score": 0.4798,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.936,
+        "recency": 0.5339,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -248,6 +894,84 @@
         "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
         "url": "https://ykdojo.github.io/claude-controls-mac",
         "source": "ykdojo.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_31435a601668",
+      "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+      "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "primary_url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4637,
+      "importance": 0.4637,
+      "importance_score": 0.4637,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5783,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T20:31:37Z",
+      "latest_at": "2026-07-18T20:41:23.690000Z",
+      "primary_item": {
+        "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+        "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+        "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -343,14 +1067,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.4616,
+      "importance": 0.4616,
+      "importance_score": 0.4616,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7199,
+        "recency": 0.3178,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -440,14 +1164,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.442,
+      "importance": 0.442,
+      "importance_score": 0.442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7471,
+        "recency": 0.345,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -518,14 +1242,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5108,
-      "importance": 0.5108,
-      "importance_score": 0.5108,
+      "score": 0.4304,
+      "importance": 0.4304,
+      "importance_score": 0.4304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8139,
+        "recency": 0.4118,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -615,14 +1339,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.4366,
+      "importance": 0.4366,
+      "importance_score": 0.4366,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7199,
+        "recency": 0.3178,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -693,14 +1417,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4819,
-      "importance": 0.4819,
-      "importance_score": 0.4819,
+      "score": 0.4014,
+      "importance": 0.4014,
+      "importance_score": 0.4014,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6693,
+        "recency": 0.2672,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -771,14 +1495,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4796,
-      "importance": 0.4796,
-      "importance_score": 0.4796,
+      "score": 0.3992,
+      "importance": 0.3992,
+      "importance_score": 0.3992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6582,
+        "recency": 0.2561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -849,14 +1573,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4659,
-      "importance": 0.4659,
-      "importance_score": 0.4659,
+      "score": 0.3855,
+      "importance": 0.3855,
+      "importance_score": 0.3855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5896,
+        "recency": 0.1875,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -927,14 +1651,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4659,
-      "importance": 0.4659,
-      "importance_score": 0.4659,
+      "score": 0.3855,
+      "importance": 0.3855,
+      "importance_score": 0.3855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5896,
+        "recency": 0.1875,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -949,822 +1673,6 @@
         "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e02649f4fa30",
-      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4597,
-      "importance": 0.4597,
-      "importance_score": 0.4597,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5585,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:21:01Z",
-      "latest_at": "2026-07-18T10:33:45.979000Z",
-      "primary_item": {
-        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e775946229ad",
-      "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-      "url": "https://www.v2ex.com/t/1228233",
-      "primary_url": "https://www.v2ex.com/t/1228233",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
-          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        },
-        {
-          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
-          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
-          "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        },
-        {
-          "id": "27503ce1c08c17dc5837bf6332fe0509f67b1208",
-          "title": "[职场话题] ai 用得越多，越发现产品人才 > 技术人才 了",
-          "url": "https://www.v2ex.com/t/1228233",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T10:32:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4595,
-      "importance": 0.4595,
-      "importance_score": 0.4595,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5573,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:32:04Z",
-      "latest_at": "2026-07-18T10:32:04Z",
-      "primary_item": {
-        "id": "39b4e011267fc4a7147bf06d99520b86da1af605",
-        "title": "[程序员] ai 用得越多，越发现产品人才 > 技术人才 了",
-        "url": "https://www.v2ex.com/t/1228233",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_1c98b9c89e38",
-      "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://news.ycombinator.com/item?id=48957779",
-      "primary_url": "https://news.ycombinator.com/item?id=48957779",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T14:26:13.687000Z"
-        },
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "old.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T14:26:13.687000Z"
-        },
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7199,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T13:00:52Z",
-      "latest_at": "2026-07-18T14:26:13.687000Z",
-      "primary_item": {
-        "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-        "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-        "url": "https://news.ycombinator.com/item?id=48957779",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_26149269af1e",
-      "title": "利奥加文/airllm / lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "primary_url": "https://github.com/lyogavin/airllm",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-          "title": "利奥加文/airllm / lyogavin / airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "30870051053a0408ac43ee807dcdd3f1bb8e0b32",
-          "title": "利奥加文/airllm / lyogavin /      airllm",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T11:07:48.056000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4659,
-      "importance": 0.4659,
-      "importance_score": 0.4659,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5896,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:07:48.056000Z",
-      "latest_at": "2026-07-18T11:18:37.044903Z",
-      "primary_item": {
-        "id": "873efe30c3d07f8f1f9fdc970ea42e882b979ec6",
-        "title": "利奥加文/airllm / lyogavin / airllm",
-        "url": "https://github.com/lyogavin/airllm",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_628b40994a12",
-      "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-      "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
-      "primary_url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T09:29:57.791000Z"
-        },
-        {
-          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T09:17:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T09:29:57.791000Z"
-        },
-        {
-          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T09:17:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4508,
-      "importance": 0.4508,
-      "importance_score": 0.4508,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5142,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T09:17:01Z",
-      "latest_at": "2026-07-18T09:29:57.791000Z",
-      "primary_item": {
-        "id": "3097238dd04330abf47f8713f4813f46e21c9396",
-        "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-        "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_eda333e69d05",
-      "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-      "primary_url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
-          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
-          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
-          "url": "https://www.ithome.com/0/978/476.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:02:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
-          "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-          "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f7bc74edbdd2fbd9e02c12b1397bcaa2b2742558",
-          "title": "荣耀 CEO 李健：AI 的演进必将脱离冰冷的工具属性，全面迈向伙伴型类人生命体",
-          "url": "https://www.ithome.com/0/978/476.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:02:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4315,
-      "importance": 0.4315,
-      "importance_score": 0.4315,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4173,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T07:02:32Z",
-      "latest_at": "2026-07-18T07:10:31.405527Z",
-      "primary_item": {
-        "id": "3729eb2df179a452c7942ecffd36d49d808505bc",
-        "title": "荣耀CEO李健：AI的演进必将脱离冰冷的工具属性，全面迈向伙伴型的类人生命体",
-        "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-18/doc-iniifane1642431.shtml",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b59aca9fee2b",
-      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-      "source": "localnewsmatters.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
-        },
-        {
-          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T22:26:30Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "localnewsmatters.org"
-      ],
-      "items": [
-        {
-          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "localnewsmatters.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-17T23:38:00.200000Z"
-        },
-        {
-          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T22:26:30Z"
-        },
-        {
-          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
-          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T22:26:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.3936,
-      "importance": 0.3936,
-      "importance_score": 0.3936,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1031,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T22:26:30Z",
-      "latest_at": "2026-07-17T23:38:00.200000Z",
-      "primary_item": {
-        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
-        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
-        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
-        "source": "localnewsmatters.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7808576f556e",
-      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
-        },
-        {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
-        },
-        {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4464,
-      "importance": 0.4464,
-      "importance_score": 0.4464,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4918,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T08:41:01Z",
-      "latest_at": "2026-07-18T08:57:49.615000Z",
-      "primary_item": {
-        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bda6929c1899",
-      "title": "我开始写一本“泥土笔记本” / I started a \"dirt notebook\"",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-      "primary_url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
-          "title": "我开始写一本“泥土笔记本” / I started a \"dirt notebook\"",
-          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T01:12:13Z"
-        },
-        {
-          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
-          "title": "我开始写一本“泥土笔记本” / I started a “dirt notebook”",
-          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T01:12:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
-          "title": "我开始写一本“泥土笔记本” / I started a \"dirt notebook\"",
-          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T01:12:13Z"
-        },
-        {
-          "id": "4f7e8c09c49d66cfd936d942170ead511c93fe8d",
-          "title": "我开始写一本“泥土笔记本” / I started a “dirt notebook”",
-          "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T01:12:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3817,
-      "importance": 0.3817,
-      "importance_score": 0.3817,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1685,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T01:12:13Z",
-      "latest_at": "2026-07-18T01:12:13Z",
-      "primary_item": {
-        "id": "35ca4fca7265bb4e002492e6953f77733084e0c0",
-        "title": "我开始写一本“泥土笔记本” / I started a \"dirt notebook\"",
-        "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_5290513c27de",
-      "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-      "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
-      "primary_url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.611000Z"
-        },
-        {
-          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T07:48:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.611000Z"
-        },
-        {
-          "id": "b1e9d0851e7156607366a8c6c6c4e328ef5be3cd",
-          "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。 / I'm an enterprise consultant: Here's what you don't know about AI-related layoffs.",
-          "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T07:48:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4464,
-      "importance": 0.4464,
-      "importance_score": 0.4464,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4918,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T07:48:01Z",
-      "latest_at": "2026-07-18T08:57:49.611000Z",
-      "primary_item": {
-        "id": "cf868b97a2b15b9a504b082c92a4c02ff983d9e5",
-        "title": "我是一名企业顾问：关于人工智能相关的裁员，这些是你所不知道的。",
-        "url": "https://www.businessinsider.com/im-an-enterprise-consultant-heres-the-truth-about-ai-layoffs-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
