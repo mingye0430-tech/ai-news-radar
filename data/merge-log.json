@@ -1,40 +1,12 @@
 {
-  "generated_at": "2026-07-19T14:43:22.018721Z",
+  "generated_at": "2026-07-19T18:09:30.104720Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
   "total_events": 32,
   "events": [
     {
-      "story_id": "story_cdc22d7d874c",
-      "item_id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-      "merged_into": "story_cdc22d7d874c",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_cbcd45422a3a",
-      "item_id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-      "merged_into": "story_cbcd45422a3a",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_cbcd45422a3a",
-      "item_id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-      "merged_into": "story_cbcd45422a3a",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
       "story_id": "story_31435a601668",
       "item_id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
       "merged_into": "story_31435a601668",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_0c55289d534f",
-      "item_id": "23888e1ba41add3173f2526bfaae8c5fee5fe5a3",
-      "merged_into": "story_0c55289d534f",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -103,8 +75,15 @@
     },
     {
       "story_id": "story_893f89481dea",
-      "item_id": "7dcb381ecd758022cead59657d073c1283fe65ba",
+      "item_id": "6d9b30bcbfd290955c6897a7ac6acc8c25f54d05",
       "merged_into": "story_893f89481dea",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_ddebaf62488a",
+      "item_id": "3ae9ca0146762249b5511bd86305e8ad702f47de",
+      "merged_into": "story_ddebaf62488a",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -151,23 +130,9 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_dbd57b2637da",
-      "item_id": "f4463449a9dc88ef5c43b35764acedf19ea87b1e",
-      "merged_into": "story_dbd57b2637da",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
       "story_id": "story_87cd30f5b2eb",
       "item_id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
       "merged_into": "story_87cd30f5b2eb",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_025193bf4ac8",
-      "item_id": "06d63551e727dc494f1979de287abae694cb5cc3",
-      "merged_into": "story_025193bf4ac8",
       "reason": "title_similarity",
       "similarity": 1.0
     },
@@ -176,6 +141,20 @@
       "item_id": "74119b61675202f81605c75f19e49287ea04cb51",
       "merged_into": "story_3a847a301a52",
       "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_dbd57b2637da",
+      "item_id": "f4463449a9dc88ef5c43b35764acedf19ea87b1e",
+      "merged_into": "story_dbd57b2637da",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_025193bf4ac8",
+      "item_id": "06d63551e727dc494f1979de287abae694cb5cc3",
+      "merged_into": "story_025193bf4ac8",
+      "reason": "title_similarity",
       "similarity": 1.0
     },
     {
@@ -223,6 +202,27 @@
     {
       "story_id": "story_0c55289d534f",
       "item_id": "be543ab752732b44e413f260e0b51e02a5066bae",
+      "merged_into": "story_0c55289d534f",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_87cd30f5b2eb",
+      "item_id": "b2015cfec6ec0bd6105da3136d67ac7b547bcfb5",
+      "merged_into": "story_87cd30f5b2eb",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_3aec985379c8",
+      "item_id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
+      "merged_into": "story_3aec985379c8",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_0c55289d534f",
+      "item_id": "3051a367021763d3c250b29bb72928d8168b0175",
       "merged_into": "story_0c55289d534f",
       "reason": "canonical_url",
       "similarity": 1.0
