@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-20T11:21:48.023704Z",
+  "generated_at": "2026-07-20T13:23:40.526830Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260720-2122-1231-8e09-8da3ea8c5546&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260720-2122-1231-8e09-8da3ea8c5546&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260720-2324-0506-a2a0-9f25cfc1fe71&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260720-2324-0506-a2a0-9f25cfc1fe71&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "850631f5237ec23cc4821c83be32767fc0eaf6ab",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-2324-0506-a2a0-9f25cfc1fe71&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "8e04c0d02c89419668eb9c24b5ecd4b44f3fa048",
           "title": "点击这里进入 / Click here to enter",
@@ -57,12 +66,21 @@
           "published_at": null
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "850631f5237ec23cc4821c83be32767fc0eaf6ab",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-2324-0506-a2a0-9f25cfc1fe71&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "8e04c0d02c89419668eb9c24b5ecd4b44f3fa048",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-2122-1231-8e09-8da3ea8c5546&fp=-3",
@@ -108,8 +126,8 @@
           "published_at": null
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
+      "item_count": 6,
+      "duplicate_count": 6,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -127,17 +145,137 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-19T14:43:22.018721Z",
-      "latest_at": "2026-07-20T11:21:48.023704Z",
+      "latest_at": "2026-07-20T13:23:40.526830Z",
       "primary_item": {
-        "id": "8e04c0d02c89419668eb9c24b5ecd4b44f3fa048",
+        "id": "850631f5237ec23cc4821c83be32767fc0eaf6ab",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260720-2122-1231-8e09-8da3ea8c5546&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260720-2324-0506-a2a0-9f25cfc1fe71&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_81e45a9b19c6",
+      "story_id": "story_fb3c7336bc65",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+      "primary_url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9566,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T12:21:09Z",
+      "latest_at": "2026-07-20T12:21:09Z",
+      "primary_item": {
+        "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
+        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_65e33d28b369",
+      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+      "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+      "primary_url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9445da31105d20eaacb123c88dadb79b9029744f",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9445da31105d20eaacb123c88dadb79b9029744f",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:12:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9508,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T12:12:47Z",
+      "latest_at": "2026-07-20T12:12:47Z",
+      "primary_item": {
+        "id": "9445da31105d20eaacb123c88dadb79b9029744f",
+        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+        "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7fe35170d27a",
       "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
       "url": "https://www.aibase.com/news/29716",
       "primary_url": "https://www.aibase.com/news/29716",
@@ -190,14 +328,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.7939,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -251,14 +389,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8968,
+        "recency": 0.8122,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -311,14 +449,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8604,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -371,14 +509,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9154,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -431,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8184,
+        "recency": 0.7337,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,14 +629,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9154,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -551,14 +689,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6891,
+        "recency": 0.6045,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,65 +710,6 @@
         "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
         "url": "https://aihot.virxact.com/items/cmrsp4xym0bb4biwm2ex85cp2",
         "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_33868138d321",
-      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-      "url": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc",
-      "primary_url": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8e384fbea597ccbed031e553a3b29c06c4f49728",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "url": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "8e384fbea597ccbed031e553a3b29c06c4f49728",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "url": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5995,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T01:45:09Z",
-      "latest_at": "2026-07-20T01:45:09Z",
-      "primary_item": {
-        "id": "8e384fbea597ccbed031e553a3b29c06c4f49728",
-        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "url": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -669,14 +748,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -729,14 +808,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -789,14 +868,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,14 +928,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,14 +988,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1007,14 +1086,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9159,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1029,6 +1108,240 @@
         "url": "https://news.ycombinator.com/item?id=48975665",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_3cfe1cc6d4f0",
+      "title": "威刚陈立白：现阶段讨论AI泡沫言之过早，未来十年最短缺的资源是内存和电力",
+      "url": "https://www.ithome.com/0/979/223.htm",
+      "primary_url": "https://www.ithome.com/0/979/223.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fd60525f343439550f96d73f9703b7225367e63f",
+          "title": "威刚陈立白：现阶段讨论AI泡沫言之过早，未来十年最短缺的资源是内存和电力",
+          "url": "https://www.ithome.com/0/979/223.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "71c0b0404aeae71be04b7636c9c63a05877f5717",
+          "title": "威刚陈立白：现阶段讨论 AI 泡沫言之过早，未来十年最短缺的资源是内存和电力",
+          "url": "https://www.ithome.com/0/979/223.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T12:31:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fd60525f343439550f96d73f9703b7225367e63f",
+          "title": "威刚陈立白：现阶段讨论AI泡沫言之过早，未来十年最短缺的资源是内存和电力",
+          "url": "https://www.ithome.com/0/979/223.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "71c0b0404aeae71be04b7636c9c63a05877f5717",
+          "title": "威刚陈立白：现阶段讨论 AI 泡沫言之过早，未来十年最短缺的资源是内存和电力",
+          "url": "https://www.ithome.com/0/979/223.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T12:31:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T12:31:55Z",
+      "latest_at": "2026-07-20T13:23:40.526830Z",
+      "primary_item": {
+        "id": "fd60525f343439550f96d73f9703b7225367e63f",
+        "title": "威刚陈立白：现阶段讨论AI泡沫言之过早，未来十年最短缺的资源是内存和电力",
+        "url": "https://www.ithome.com/0/979/223.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_157f79bd67e3",
+      "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "primary_url": "https://github.com/Saivineeth147/lora-speedrun",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "631742f38960d2e7cb3c0fd4df9f93be7ccbcd19",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜 / LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T04:24:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "631742f38960d2e7cb3c0fd4df9f93be7ccbcd19",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜 / LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T04:24:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9566,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T04:24:48Z",
+      "latest_at": "2026-07-20T12:21:09.021000Z",
+      "primary_item": {
+        "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+        "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ee53b2e14da2",
+      "title": "超越 grep：构建一个语境丰富的 AI 编码框架的理由",
+      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness",
+      "primary_url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3655a502c0c0913803f37fb4be7aed8dd69cfb93",
+          "title": "超越 grep：构建一个语境丰富的 AI 编码框架的理由",
+          "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T11:50:12.489000Z"
+        },
+        {
+          "id": "149dc146716f077b2b1a4fcbcd48d13ff10d3edc",
+          "title": "超越 grep：构建一个语境丰富的 AI 编码框架的理由 / Beyond grep: The case for a context-rich AI coding harness",
+          "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T11:20:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "3655a502c0c0913803f37fb4be7aed8dd69cfb93",
+          "title": "超越 grep：构建一个语境丰富的 AI 编码框架的理由",
+          "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T11:50:12.489000Z"
+        },
+        {
+          "id": "149dc146716f077b2b1a4fcbcd48d13ff10d3edc",
+          "title": "超越 grep：构建一个语境丰富的 AI 编码框架的理由 / Beyond grep: The case for a context-rich AI coding harness",
+          "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T11:20:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9351,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T11:20:10Z",
+      "latest_at": "2026-07-20T11:50:12.489000Z",
+      "primary_item": {
+        "id": "3655a502c0c0913803f37fb4be7aed8dd69cfb93",
+        "title": "超越 grep：构建一个语境丰富的 AI 编码框架的理由",
+        "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1085,14 +1398,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1107,282 +1420,6 @@
         "url": "https://github.com/PrefectHQ/fastmcp",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ca83112e2431",
-      "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-      "url": "https://www.aibase.com/news/29719",
-      "primary_url": "https://www.aibase.com/news/29719",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "51594d86f3b6390206895dd62809ffa74f137623",
-          "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-          "url": "https://www.aibase.com/news/29719",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:26:56.263305Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "51594d86f3b6390206895dd62809ffa74f137623",
-          "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-          "url": "https://www.aibase.com/news/29719",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:26:56.263305Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8786,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T08:26:56.263305Z",
-      "latest_at": "2026-07-20T08:26:56.263305Z",
-      "primary_item": {
-        "id": "51594d86f3b6390206895dd62809ffa74f137623",
-        "title": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-        "url": "https://www.aibase.com/news/29719",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7320f7e5e5d8",
-      "title": "小米-机器人-1",
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "primary_url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "source": "robotics.xiaomi.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4b77cd8b0f3f4a6193c6301d9019be586527c5c6",
-          "title": "小米-机器人-1",
-          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "source": "robotics.xiaomi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T07:52:12.469000Z"
-        },
-        {
-          "id": "f96b798db08b1eeef08342b8d394c51e487539af",
-          "title": "小米-机器人-1 / Xiaomi-Robotics-1",
-          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T04:45:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "robotics.xiaomi.com"
-      ],
-      "items": [
-        {
-          "id": "4b77cd8b0f3f4a6193c6301d9019be586527c5c6",
-          "title": "小米-机器人-1",
-          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "source": "robotics.xiaomi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T07:52:12.469000Z"
-        },
-        {
-          "id": "f96b798db08b1eeef08342b8d394c51e487539af",
-          "title": "小米-机器人-1 / Xiaomi-Robotics-1",
-          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-20T04:45:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5189,
-      "importance": 0.5189,
-      "importance_score": 0.5189,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8544,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T04:45:15Z",
-      "latest_at": "2026-07-20T07:52:12.469000Z",
-      "primary_item": {
-        "id": "4b77cd8b0f3f4a6193c6301d9019be586527c5c6",
-        "title": "小米-机器人-1",
-        "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-        "source": "robotics.xiaomi.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_346e5b02f427",
-      "title": "月光-ai / 月光 / moonshine-ai / moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "primary_url": "https://github.com/moonshine-ai/moonshine",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "262e81e32d59e5b66de97a9c7741d39cb93d7563",
-          "title": "月光-ai / 月光 / moonshine-ai / moonshine",
-          "url": "https://github.com/moonshine-ai/moonshine",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0242c609c6ec0c08204cb2a735907e6016cb18e",
-          "title": "月光-ai / 月光 / moonshine-ai /      moonshine",
-          "url": "https://github.com/moonshine-ai/moonshine",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T10:52:40.922000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "262e81e32d59e5b66de97a9c7741d39cb93d7563",
-          "title": "月光-ai / 月光 / moonshine-ai / moonshine",
-          "url": "https://github.com/moonshine-ai/moonshine",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f0242c609c6ec0c08204cb2a735907e6016cb18e",
-          "title": "月光-ai / 月光 / moonshine-ai /      moonshine",
-          "url": "https://github.com/moonshine-ai/moonshine",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T10:52:40.922000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-20T10:52:40.922000Z",
-      "latest_at": "2026-07-20T11:21:48.023704Z",
-      "primary_item": {
-        "id": "262e81e32d59e5b66de97a9c7741d39cb93d7563",
-        "title": "月光-ai / 月光 / moonshine-ai / moonshine",
-        "url": "https://github.com/moonshine-ai/moonshine",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d29a6c3c6768",
-      "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-      "url": "https://www.aibase.com/news/29722",
-      "primary_url": "https://www.aibase.com/news/29722",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "url": "https://www.aibase.com/news/29722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:26:56.263305Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "url": "https://www.aibase.com/news/29722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T08:26:56.263305Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8786,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T08:26:56.263305Z",
-      "latest_at": "2026-07-20T08:26:56.263305Z",
-      "primary_item": {
-        "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-        "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-        "url": "https://www.aibase.com/news/29722",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
