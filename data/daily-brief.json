@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-23T22:50:44.578600Z",
+  "generated_at": "2026-07-23T23:54:43.378883Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-04c5-937a-a4f7d70f9399&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-04c5-937a-a4f7d70f9399&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-1083-9b9a-d97a089ee97e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-1083-9b9a-d97a089ee97e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "65c0a5907c7ed1fd6aeb68e0b4d43b291c1566b3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-1083-9b9a-d97a089ee97e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4b9ddea95cd46700962a574bf063af50f84fd64c",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "649ee00b0a82d30d95c6a1868f2f46bc5076cc6a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1101-3521-b6ba-cfdf1d14ef9f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "86102471d49d430822412e3bace1b25bd9be9e18",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0928-15c9-a044-cae98ad2757d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "65c0a5907c7ed1fd6aeb68e0b4d43b291c1566b3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-1083-9b9a-d97a089ee97e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4b9ddea95cd46700962a574bf063af50f84fd64c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-04c5-937a-a4f7d70f9399&fp=-3",
@@ -237,15 +246,6 @@
           "id": "649ee00b0a82d30d95c6a1868f2f46bc5076cc6a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1101-3521-b6ba-cfdf1d14ef9f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "86102471d49d430822412e3bace1b25bd9be9e18",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0928-15c9-a044-cae98ad2757d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,14 +270,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T23:27:53.797275Z",
-      "latest_at": "2026-07-23T22:50:44.578600Z",
+      "earliest_at": "2026-07-23T01:01:04.032137Z",
+      "latest_at": "2026-07-23T23:54:43.378883Z",
       "primary_item": {
-        "id": "4b9ddea95cd46700962a574bf063af50f84fd64c",
+        "id": "65c0a5907c7ed1fd6aeb68e0b4d43b291c1566b3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-04c5-937a-a4f7d70f9399&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0955-1083-9b9a-d97a089ee97e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_d1636ce0d6d1",
+      "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T22:32:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+          "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T22:32:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8706,
+      "importance": 0.8706,
+      "importance_score": 0.8706,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9428,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T22:32:23Z",
+      "latest_at": "2026-07-23T22:32:23Z",
+      "primary_item": {
+        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
+        "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
+        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -315,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8731,
+        "recency": 0.8286,
         "story_heat": 0.0
       },
       "category": "official",
@@ -376,14 +437,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8546,
-      "importance": 0.8546,
-      "importance_score": 0.8546,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9081,
+        "recency": 0.8636,
         "story_heat": 0.0
       },
       "category": "official",
@@ -437,14 +498,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,14 +558,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8783,
+        "recency": 0.8339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,14 +618,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.777,
+      "importance": 0.777,
+      "importance_score": 0.777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8697,
+        "recency": 0.8252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -617,14 +678,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8398,
+        "recency": 0.7953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,14 +738,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7951,
+        "recency": 0.7507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -737,14 +798,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7575,
+        "recency": 0.713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -760,67 +821,6 @@
         "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1c806736e9c9",
-      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8115,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T18:19:14Z",
-      "latest_at": "2026-07-23T18:19:14Z",
-      "primary_item": {
-        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -858,14 +858,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7363,
+        "recency": 0.6919,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,14 +918,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8227,
+        "recency": 0.7783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -978,14 +978,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.668,
+        "recency": 0.6236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1000,6 +1000,67 @@
         "url": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1c806736e9c9",
+      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.767,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T18:19:14Z",
+      "latest_at": "2026-07-23T18:19:14Z",
+      "primary_item": {
+        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1056,14 +1117,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4641,
+        "recency": 0.4196,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1082,61 +1143,61 @@
       }
     },
     {
-      "story_id": "story_41c35581d3e9",
-      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-      "url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-      "primary_url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "story_id": "story_5a27bee3a57d",
+      "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
+      "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
+      "primary_url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
+      "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2662fb0091f6757ee04fe0196d3f49ce35602e74",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "1c5e511f19dd52f5cf671b364c80d24452ac6f6d",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
+          "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
+          "published_at": "2026-07-23T14:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "2662fb0091f6757ee04fe0196d3f49ce35602e74",
-          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-          "url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "1c5e511f19dd52f5cf671b364c80d24452ac6f6d",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
+          "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
+          "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T12:33:27Z"
+          "published_at": "2026-07-23T14:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5713,
+        "recency": 0.587,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T12:33:27Z",
-      "latest_at": "2026-07-23T12:33:27Z",
+      "earliest_at": "2026-07-23T14:00:00Z",
+      "latest_at": "2026-07-23T14:00:00Z",
       "primary_item": {
-        "id": "2662fb0091f6757ee04fe0196d3f49ce35602e74",
-        "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-        "url": "https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "id": "1c5e511f19dd52f5cf671b364c80d24452ac6f6d",
+        "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
+        "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1175,14 +1236,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6943,
+        "recency": 0.6498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1202,119 +1263,80 @@
       }
     },
     {
-      "story_id": "story_5a27bee3a57d",
-      "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-      "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-      "primary_url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1c5e511f19dd52f5cf671b364c80d24452ac6f6d",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1c5e511f19dd52f5cf671b364c80d24452ac6f6d",
-          "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-          "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6314,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T14:00:00Z",
-      "latest_at": "2026-07-23T14:00:00Z",
-      "primary_item": {
-        "id": "1c5e511f19dd52f5cf671b364c80d24452ac6f6d",
-        "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-        "url": "https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_53f6b71a0c79",
-      "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-      "url": "https://www.aibase.com/news/29844",
-      "primary_url": "https://www.aibase.com/news/29844",
+      "story_id": "story_31d1d471a9ff",
+      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+      "url": "https://www.aibase.com/news/29834",
+      "primary_url": "https://www.aibase.com/news/29834",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
-          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "url": "https://www.aibase.com/news/29844",
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "url": "https://www.aibase.com/news/29834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T11:53:00.679729Z"
+          "published_at": "2026-07-23T07:28:15.530753Z"
+        },
+        {
+          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
+          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
+          "url": "https://www.aibase.com/zh/news/29834",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
-          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "url": "https://www.aibase.com/news/29844",
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "url": "https://www.aibase.com/news/29834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T11:53:00.679729Z"
+          "published_at": "2026-07-23T07:28:15.530753Z"
+        },
+        {
+          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
+          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
+          "url": "https://www.aibase.com/zh/news/29834",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7,
+      "importance": 0.7,
+      "importance_score": 0.7,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5432,
-        "story_heat": 0.0
+        "recency": 0.315,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T11:53:00.679729Z",
-      "latest_at": "2026-07-23T11:53:00.679729Z",
+      "earliest_at": "2026-07-23T07:28:15.530753Z",
+      "latest_at": "2026-07-23T07:28:15.530753Z",
       "primary_item": {
-        "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
-        "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-        "url": "https://www.aibase.com/news/29844",
+        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+        "url": "https://www.aibase.com/news/29834",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1373,14 +1395,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6705,
-      "importance": 0.6705,
-      "importance_score": 0.6705,
+      "score": 0.6616,
+      "importance": 0.6616,
+      "importance_score": 0.6616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1675,
+        "recency": 0.1231,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1399,26 +1421,26 @@
       }
     },
     {
-      "story_id": "story_31d1d471a9ff",
-      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-      "url": "https://www.aibase.com/news/29834",
-      "primary_url": "https://www.aibase.com/news/29834",
+      "story_id": "story_5d45548b0002",
+      "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+      "url": "https://www.aibase.com/news/29816",
+      "primary_url": "https://www.aibase.com/news/29816",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T07:28:15.530753Z"
+          "published_at": "2026-07-23T04:47:09.773997Z"
         },
         {
-          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
-          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
-          "url": "https://www.aibase.com/zh/news/29834",
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1432,18 +1454,18 @@
       ],
       "items": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T07:28:15.530753Z"
+          "published_at": "2026-07-23T04:47:09.773997Z"
         },
         {
-          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
-          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
-          "url": "https://www.aibase.com/zh/news/29834",
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1452,14 +1474,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7089,
-      "importance": 0.7089,
-      "importance_score": 0.7089,
+      "score": 0.6776,
+      "importance": 0.6776,
+      "importance_score": 0.6776,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3594,
+        "recency": 0.2031,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1467,12 +1489,12 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T07:28:15.530753Z",
-      "latest_at": "2026-07-23T07:28:15.530753Z",
+      "earliest_at": "2026-07-23T04:47:09.773997Z",
+      "latest_at": "2026-07-23T04:47:09.773997Z",
       "primary_item": {
-        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-        "url": "https://www.aibase.com/news/29834",
+        "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+        "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+        "url": "https://www.aibase.com/news/29816",
         "source": "AIbase",
         "source_name": "AIbase"
       }
