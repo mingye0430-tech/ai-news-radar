@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T20:14:57.302810Z",
+  "generated_at": "2026-07-24T21:35:05.822638Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0615-1968-959b-8cd9243afa49&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0615-1968-959b-8cd9243afa49&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-30d1-9a6c-fc5eba769e1a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-30d1-9a6c-fc5eba769e1a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d323488fc45667f7313194cfae80d808054dea2a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-30d1-9a6c-fc5eba769e1a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "0b8d88eed7aacef78453abc43a95774cea50f9ff",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "4b9ddea95cd46700962a574bf063af50f84fd64c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-04c5-937a-a4f7d70f9399&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a2a49f771998df8c0fe7c16364429ff47ce1f121",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0734-2233-a807-ca528b0565a3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "d323488fc45667f7313194cfae80d808054dea2a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-30d1-9a6c-fc5eba769e1a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "0b8d88eed7aacef78453abc43a95774cea50f9ff",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0615-1968-959b-8cd9243afa49&fp=-3",
@@ -237,15 +246,6 @@
           "id": "4b9ddea95cd46700962a574bf063af50f84fd64c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0851-04c5-937a-a4f7d70f9399&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a2a49f771998df8c0fe7c16364429ff47ce1f121",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0734-2233-a807-ca528b0565a3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T21:34:00.281493Z",
-      "latest_at": "2026-07-24T20:14:57.302810Z",
+      "earliest_at": "2026-07-23T22:50:44.578600Z",
+      "latest_at": "2026-07-24T21:35:05.822638Z",
       "primary_item": {
-        "id": "0b8d88eed7aacef78453abc43a95774cea50f9ff",
+        "id": "d323488fc45667f7313194cfae80d808054dea2a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0615-1968-959b-8cd9243afa49&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-30d1-9a6c-fc5eba769e1a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8508,
+        "recency": 0.7951,
         "story_heat": 0.0
       },
       "category": "official",
@@ -376,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9534,
+        "recency": 0.8978,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -436,14 +436,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8826,
+        "recency": 0.8269,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,14 +496,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8259,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,14 +556,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7992,
+        "recency": 0.7435,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,66 +578,6 @@
         "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
         "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
         "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_377317381525",
-      "title": "Runway Agent 推出自然语言工作流功能",
-      "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-      "primary_url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-      "source": "X：Runway (@runwayml)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Runway (@runwayml)"
-      ],
-      "items": [
-        {
-          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
-          "title": "Runway Agent 推出自然语言工作流功能",
-          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-          "source": "X：Runway (@runwayml)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7258,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T13:40:08Z",
-      "latest_at": "2026-07-24T13:40:08Z",
-      "primary_item": {
-        "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
-        "title": "Runway Agent 推出自然语言工作流功能",
-        "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -676,20 +616,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7261,
+        "recency": 0.6704,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:40:30Z",
       "latest_at": "2026-07-24T13:40:30Z",
@@ -698,6 +637,65 @@
         "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
         "url": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
         "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_377317381525",
+      "title": "Runway Agent 推出自然语言工作流功能",
+      "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+      "primary_url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
+          "title": "Runway Agent 推出自然语言工作流功能",
+          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
+          "title": "Runway Agent 推出自然语言工作流功能",
+          "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6702,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T13:40:08Z",
+      "latest_at": "2026-07-24T13:40:08Z",
+      "primary_item": {
+        "id": "df85a4225fa92e0e65fb9f9f0b7b1e718c144a28",
+        "title": "Runway Agent 推出自然语言工作流功能",
+        "url": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -755,21 +753,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5952,
+        "recency": 0.5396,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T10:32:06.789911Z",
       "latest_at": "2026-07-24T10:32:06.789911Z",
@@ -816,20 +813,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7173,
+        "recency": 0.6617,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:27:56Z",
       "latest_at": "2026-07-24T13:27:56Z",
@@ -876,14 +872,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.676,
+        "recency": 0.6203,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -954,14 +950,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.1563,
+        "recency": 0.1006,
         "story_heat": 0.25
       },
       "category": "official",
@@ -978,65 +974,6 @@
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "source": "Anthropic News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4f172e408c0f",
-      "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-      "url": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8",
-      "primary_url": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "756c9489ff7b2e12856a8bc27df0aab0ea8a3fea",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "url": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:48:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "756c9489ff7b2e12856a8bc27df0aab0ea8a3fea",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "url": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:48:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.565,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T09:48:32Z",
-      "latest_at": "2026-07-24T09:48:32Z",
-      "primary_item": {
-        "id": "756c9489ff7b2e12856a8bc27df0aab0ea8a3fea",
-        "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-        "url": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1074,14 +1011,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6533,
+        "recency": 0.5977,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1152,14 +1089,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4997,
+        "recency": 0.444,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1231,14 +1168,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4997,
+        "recency": 0.444,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1254,65 +1191,6 @@
         "url": "https://www.aibase.com/news/29875",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e7b94d54d6e4",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-      "primary_url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "222a02bb534048c87c9d3a0a39d31d3a7d85f4e9",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "222a02bb534048c87c9d3a0a39d31d3a7d85f4e9",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5643,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T09:47:29Z",
-      "latest_at": "2026-07-24T09:47:29Z",
-      "primary_item": {
-        "id": "222a02bb534048c87c9d3a0a39d31d3a7d85f4e9",
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1369,14 +1247,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6642,
-      "importance": 0.6642,
-      "importance_score": 0.6642,
+      "score": 0.6531,
+      "importance": 0.6531,
+      "importance_score": 0.6531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1359,
+        "recency": 0.0803,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1448,14 +1326,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4997,
+        "recency": 0.444,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1474,62 +1352,275 @@
       }
     },
     {
-      "story_id": "story_0b0a0e69a075",
-      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-      "url": "https://www.aibase.com/news/29881",
-      "primary_url": "https://www.aibase.com/news/29881",
+      "story_id": "story_311dd728adbe",
+      "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+      "url": "https://www.aibase.com/news/29856",
+      "primary_url": "https://www.aibase.com/news/29856",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "url": "https://www.aibase.com/news/29881",
+          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/news/29856",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T10:32:06.789911Z"
+          "published_at": "2026-07-24T05:34:13.492770Z"
+        },
+        {
+          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
+          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/zh/news/29856",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "url": "https://www.aibase.com/news/29881",
+          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/news/29856",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T10:32:06.789911Z"
+          "published_at": "2026-07-24T05:34:13.492770Z"
+        },
+        {
+          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
+          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/zh/news/29856",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7035,
+      "importance": 0.7035,
+      "importance_score": 0.7035,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5952,
-        "story_heat": 0.0
+        "recency": 0.3327,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T10:32:06.789911Z",
-      "latest_at": "2026-07-24T10:32:06.789911Z",
+      "earliest_at": "2026-07-24T05:34:13.492770Z",
+      "latest_at": "2026-07-24T05:34:13.492770Z",
       "primary_item": {
-        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "url": "https://www.aibase.com/news/29881",
+        "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+        "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+        "url": "https://www.aibase.com/news/29856",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3ecc7db58a46",
+      "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "primary_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T18:03:38.315000Z"
+        },
+        {
+          "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:33:31Z"
+        },
+        {
+          "id": "ab81b1f75584c63440810504587934f1b70153a7",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T13:15:35.524000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T18:03:38.315000Z"
+        },
+        {
+          "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T16:33:31Z"
+        },
+        {
+          "id": "ab81b1f75584c63440810504587934f1b70153a7",
+          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
+          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T13:15:35.524000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8532,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T13:15:35.524000Z",
+      "latest_at": "2026-07-24T18:03:38.315000Z",
+      "primary_item": {
+        "id": "b7cee266358674bbfa115907e1fa668565616cbb",
+        "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
+        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_890207b2b481",
+      "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
+      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "primary_url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "source": "images.nvidia.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
+          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
+          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+          "source": "images.nvidia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T17:15:36.535000Z"
+        },
+        {
+          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
+          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49035751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T15:36:12.432000Z"
+        },
+        {
+          "id": "7003ff364585d732dafe425b2f9416d534c7806a",
+          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
+          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T13:58:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "images.nvidia.com"
+      ],
+      "items": [
+        {
+          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
+          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
+          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+          "source": "images.nvidia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T17:15:36.535000Z"
+        },
+        {
+          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
+          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49035751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T15:36:12.432000Z"
+        },
+        {
+          "id": "7003ff364585d732dafe425b2f9416d534c7806a",
+          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
+          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T13:58:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8198,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T13:58:12Z",
+      "latest_at": "2026-07-24T17:15:36.535000Z",
+      "primary_item": {
+        "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
+        "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
+        "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+        "source": "images.nvidia.com",
+        "source_name": "Buzzing"
       }
     }
   ]
