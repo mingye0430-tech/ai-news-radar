@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-25T13:10:51.392672Z",
+  "generated_at": "2026-07-25T14:45:04.720351Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2311-136b-9c10-e14bf7326a90&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-2311-136b-9c10-e14bf7326a90&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0045-2541-a2a0-a36dc87f3c59&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0045-2541-a2a0-a36dc87f3c59&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "2abbccf61bfd21da6736171999d5e08e3522524d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0045-2541-a2a0-a36dc87f3c59&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "45e75dd458793f1445794ef1f6b4a41f90bdef74",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "6a8d917fcabaf45240f47a7b1322ef799df02c96",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0152-4860-bf8d-fe04e033b4b9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "134ad7ec40a520ec48173de4e6c83fad1f466ad4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0019-43ff-8df1-6d803c53a2d5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "2abbccf61bfd21da6736171999d5e08e3522524d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0045-2541-a2a0-a36dc87f3c59&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "45e75dd458793f1445794ef1f6b4a41f90bdef74",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2311-136b-9c10-e14bf7326a90&fp=-3",
@@ -255,15 +264,6 @@
           "id": "6a8d917fcabaf45240f47a7b1322ef799df02c96",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0152-4860-bf8d-fe04e033b4b9&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "134ad7ec40a520ec48173de4e6c83fad1f466ad4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0019-43ff-8df1-6d803c53a2d5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,14 +288,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T14:19:10.383612Z",
-      "latest_at": "2026-07-25T13:10:51.392672Z",
+      "earliest_at": "2026-07-24T15:52:24.178612Z",
+      "latest_at": "2026-07-25T14:45:04.720351Z",
       "primary_item": {
-        "id": "45e75dd458793f1445794ef1f6b4a41f90bdef74",
+        "id": "2abbccf61bfd21da6736171999d5e08e3522524d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-2311-136b-9c10-e14bf7326a90&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0045-2541-a2a0-a36dc87f3c59&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_3a7049903389",
+      "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+      "url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+      "primary_url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "48833ca639b6c3331ad5af84fb52dbba46bce3f0",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+          "url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-25T13:45:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "48833ca639b6c3331ad5af84fb52dbba46bce3f0",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+          "url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-25T13:45:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9589,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-25T13:45:50Z",
+      "latest_at": "2026-07-25T13:45:50Z",
+      "primary_item": {
+        "id": "48833ca639b6c3331ad5af84fb52dbba46bce3f0",
+        "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+        "url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -352,14 +412,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4985,
+        "recency": 0.4331,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -378,30 +438,108 @@
       }
     },
     {
-      "story_id": "story_2b75b6719305",
-      "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-      "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
-      "primary_url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+      "story_id": "story_4de03213f8f7",
+      "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "url": "https://news.ycombinator.com/item?id=49047448",
+      "primary_url": "https://news.ycombinator.com/item?id=49047448",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://news.ycombinator.com/item?id=49047448",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T14:21:50.881000Z"
+        },
+        {
+          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T13:33:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://news.ycombinator.com/item?id=49047448",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T14:21:50.881000Z"
+        },
+        {
+          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
+          "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T13:33:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9839,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T13:33:03Z",
+      "latest_at": "2026-07-25T14:21:50.881000Z",
+      "primary_item": {
+        "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+        "title": "美国企业界突然决定停止在人工智能上投入巨资 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+        "url": "https://news.ycombinator.com/item?id=49047448",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7991fa3ce865",
+      "title": "AI的新“北极星”：每美元智能值",
+      "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+          "title": "AI的新“北极星”：每美元智能值",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:07.024000Z"
+          "published_at": "2026-07-25T13:14:51.939000Z"
         },
         {
-          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
+          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T10:02:01Z"
+          "published_at": "2026-07-25T13:02:01Z"
         }
       ],
       "source_count": 2,
@@ -411,46 +549,46 @@
       ],
       "items": [
         {
-          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+          "title": "AI的新“北极星”：每美元智能值",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T10:35:07.024000Z"
+          "published_at": "2026-07-25T13:14:51.939000Z"
         },
         {
-          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
-          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
-          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
+          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T10:02:01Z"
+          "published_at": "2026-07-25T13:02:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8918,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T10:02:01Z",
-      "latest_at": "2026-07-25T10:35:07.024000Z",
+      "earliest_at": "2026-07-25T13:02:01Z",
+      "latest_at": "2026-07-25T13:14:51.939000Z",
       "primary_item": {
-        "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
-        "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
-        "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+        "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+        "title": "AI的新“北极星”：每美元智能值",
+        "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -508,14 +646,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
+      "score": 0.4889,
+      "importance": 0.4889,
+      "importance_score": 0.4889,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7699,
+        "recency": 0.7045,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -533,30 +671,30 @@
       }
     },
     {
-      "story_id": "story_2f0d90351d09",
-      "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
-      "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
-      "primary_url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+      "story_id": "story_2b75b6719305",
+      "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+      "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
+      "primary_url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e9c54e533e57906b7f9dc65ad135431a985c6152",
-          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
-          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T10:18:52.834000Z"
+          "published_at": "2026-07-25T10:35:07.024000Z"
         },
         {
-          "id": "1c3259612b7ca7f95ff710eb8f2295ad81e586cc",
-          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。 / I've worked as a software engineer for 14 years. AI could cut junior jobs — but not the need for experienced engineers.",
-          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T09:15:02Z"
+          "published_at": "2026-07-25T10:02:01Z"
         }
       ],
       "source_count": 2,
@@ -566,46 +704,46 @@
       ],
       "items": [
         {
-          "id": "e9c54e533e57906b7f9dc65ad135431a985c6152",
-          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
-          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T10:18:52.834000Z"
+          "published_at": "2026-07-25T10:35:07.024000Z"
         },
         {
-          "id": "1c3259612b7ca7f95ff710eb8f2295ad81e586cc",
-          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。 / I've worked as a software engineer for 14 years. AI could cut junior jobs — but not the need for experienced engineers.",
-          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "id": "10f6b1bfd771afc7cb58c6786f978e5992d0d68a",
+          "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元 / I dreamt of building rockets until my aunt's illness inspired me to build an AI startup that's raised nearly $10 million",
+          "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T09:15:02Z"
+          "published_at": "2026-07-25T10:02:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.5133,
+      "importance": 0.5133,
+      "importance_score": 0.5133,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8806,
+        "recency": 0.8264,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T09:15:02Z",
-      "latest_at": "2026-07-25T10:18:52.834000Z",
+      "earliest_at": "2026-07-25T10:02:01Z",
+      "latest_at": "2026-07-25T10:35:07.024000Z",
       "primary_item": {
-        "id": "e9c54e533e57906b7f9dc65ad135431a985c6152",
-        "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
-        "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+        "id": "7ce5968c55e53d2732c9ea078ff0c489adb2a1a0",
+        "title": "我曾梦想制造火箭，直到姑姑患病后，这激发了我创办一家人工智能初创公司的想法，该公司已筹集了近1000万美元",
+        "url": "https://www.businessinsider.com/aerospace-engineer-turned-ai-founder-waterlily-healthcare-long-term-care-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -663,14 +801,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4892,
-      "importance": 0.4892,
-      "importance_score": 0.4892,
+      "score": 0.4761,
+      "importance": 0.4761,
+      "importance_score": 0.4761,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.1959,
+        "recency": 0.1305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -741,14 +879,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4798,
-      "importance": 0.4798,
-      "importance_score": 0.4798,
+      "score": 0.4667,
+      "importance": 0.4667,
+      "importance_score": 0.4667,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.659,
+        "recency": 0.5935,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -819,14 +957,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4565,
+      "importance": 0.4565,
+      "importance_score": 0.4565,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6079,
+        "recency": 0.5425,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -897,14 +1035,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4565,
+      "importance": 0.4565,
+      "importance_score": 0.4565,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6079,
+        "recency": 0.5425,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -994,14 +1132,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4652,
-      "importance": 0.4652,
-      "importance_score": 0.4652,
+      "score": 0.4521,
+      "importance": 0.4521,
+      "importance_score": 0.4521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.461,
+        "recency": 0.3956,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1016,6 +1154,84 @@
         "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_2f0d90351d09",
+      "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
+      "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+      "primary_url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e9c54e533e57906b7f9dc65ad135431a985c6152",
+          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
+          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:18:52.834000Z"
+        },
+        {
+          "id": "1c3259612b7ca7f95ff710eb8f2295ad81e586cc",
+          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。 / I've worked as a software engineer for 14 years. AI could cut junior jobs — but not the need for experienced engineers.",
+          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T09:15:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e9c54e533e57906b7f9dc65ad135431a985c6152",
+          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
+          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:18:52.834000Z"
+        },
+        {
+          "id": "1c3259612b7ca7f95ff710eb8f2295ad81e586cc",
+          "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。 / I've worked as a software engineer for 14 years. AI could cut junior jobs — but not the need for experienced engineers.",
+          "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T09:15:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8151,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T09:15:02Z",
+      "latest_at": "2026-07-25T10:18:52.834000Z",
+      "primary_item": {
+        "id": "e9c54e533e57906b7f9dc65ad135431a985c6152",
+        "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
+        "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1091,14 +1307,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4559,
-      "importance": 0.4559,
-      "importance_score": 0.4559,
+      "score": 0.4428,
+      "importance": 0.4428,
+      "importance_score": 0.4428,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4145,
+        "recency": 0.3491,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1112,84 +1328,6 @@
         "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
         "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
         "source": "unsung.aresluna.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cbed4f8a8384",
-      "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-      "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-      "primary_url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T09:15:25.633000Z"
-        },
-        {
-          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T08:19:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T09:15:25.633000Z"
-        },
-        {
-          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
-          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
-          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T08:19:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8365,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T08:19:01Z",
-      "latest_at": "2026-07-25T09:15:25.633000Z",
-      "primary_item": {
-        "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
-        "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
-        "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1247,14 +1385,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4443,
-      "importance": 0.4443,
-      "importance_score": 0.4443,
+      "score": 0.4312,
+      "importance": 0.4312,
+      "importance_score": 0.4312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4813,
+        "recency": 0.4159,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1325,14 +1463,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4565,
+      "importance": 0.4565,
+      "importance_score": 0.4565,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6079,
+        "recency": 0.5425,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1403,14 +1541,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4354,
-      "importance": 0.4354,
-      "importance_score": 0.4354,
+      "score": 0.4223,
+      "importance": 0.4223,
+      "importance_score": 0.4223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4368,
+        "recency": 0.3713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1480,14 +1618,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4621,
-      "importance": 0.4621,
-      "importance_score": 0.4621,
+      "score": 0.449,
+      "importance": 0.449,
+      "importance_score": 0.449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5704,
+        "recency": 0.505,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1502,6 +1640,84 @@
         "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_cbed4f8a8384",
+      "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+      "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7711,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T08:19:01Z",
+      "latest_at": "2026-07-25T09:15:25.633000Z",
+      "primary_item": {
+        "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+        "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+        "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1558,14 +1774,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4198,
-      "importance": 0.4198,
-      "importance_score": 0.4198,
+      "score": 0.4067,
+      "importance": 0.4067,
+      "importance_score": 0.4067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3589,
+        "recency": 0.2935,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1580,276 +1796,6 @@
         "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3ecc7db58a46",
-      "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T18:03:38.315000Z"
-        },
-        {
-          "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T18:03:38.315000Z"
-        },
-        {
-          "id": "f1c3f0eeb49f0645c34cbc53d1b6422b770f7e70",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿 / Be skeptical of OpenAI's rogue hacker agent story",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:33:31Z"
-        },
-        {
-          "id": "ab81b1f75584c63440810504587934f1b70153a7",
-          "title": "对OpenAI关于“叛变黑客代理”的说法持怀疑态度 约翰·西克斯顿",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T13:15:35.524000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4137,
-      "importance": 0.4137,
-      "importance_score": 0.4137,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2033,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T13:15:35.524000Z",
-      "latest_at": "2026-07-24T18:03:38.315000Z",
-      "primary_item": {
-        "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-        "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_890207b2b481",
-      "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "primary_url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "source": "images.nvidia.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
-          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49035751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T15:36:12.432000Z"
-        },
-        {
-          "id": "7003ff364585d732dafe425b2f9416d534c7806a",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "images.nvidia.com"
-      ],
-      "items": [
-        {
-          "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "images.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.535000Z"
-        },
-        {
-          "id": "e272d3d08b263a12dcd2d9e26277abfa6134ffb3",
-          "title": "开放权重和美国人工智能领导力 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49035751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T15:36:12.432000Z"
-        },
-        {
-          "id": "7003ff364585d732dafe425b2f9416d534c7806a",
-          "title": "开放权重与美国在人工智能领域的领导地位 [pdf] / Open Weights and American AI Leadership [pdf]",
-          "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T13:58:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.407,
-      "importance": 0.407,
-      "importance_score": 0.407,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.17,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T13:58:12Z",
-      "latest_at": "2026-07-24T17:15:36.535000Z",
-      "primary_item": {
-        "id": "f3e8b48288a59c23a853693f7be48e61e47d3e25",
-        "title": "开放权重与美国在人工智能领域的领导地位 [pdf]",
-        "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-        "source": "images.nvidia.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-      "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-      "primary_url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
-          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T02:36:51Z"
-        },
-        {
-          "id": "277ba6e601b7b56ddfa99e9a7bab20a100809faf",
-          "title": "别吞下那颗“黑色药丸” / Don't Take the Black Pill [video]",
-          "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T16:48:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
-          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T02:36:51Z"
-        },
-        {
-          "id": "277ba6e601b7b56ddfa99e9a7bab20a100809faf",
-          "title": "别吞下那颗“黑色药丸” / Don't Take the Black Pill [video]",
-          "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T16:48:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4599,
-      "importance": 0.4599,
-      "importance_score": 0.4599,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5597,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T16:48:57Z",
-      "latest_at": "2026-07-25T02:36:51Z",
-      "primary_item": {
-        "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
-        "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-        "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
