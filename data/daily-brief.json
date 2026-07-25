@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-25T19:41:09.143693Z",
+  "generated_at": "2026-07-25T20:42:28.679667Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0541-3055-8d94-ee7a22fc5533&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0541-3055-8d94-ee7a22fc5533&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0642-49bb-a784-2e790c05cc13&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0642-49bb-a784-2e790c05cc13&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "2723d74e122a28790527916edf405abf55e8eca2",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0642-49bb-a784-2e790c05cc13&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "15323a5318e6e009fbb33ec6fa97ddaccb8e1f45",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "d323488fc45667f7313194cfae80d808054dea2a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-30d1-9a6c-fc5eba769e1a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "0b8d88eed7aacef78453abc43a95774cea50f9ff",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0615-1968-959b-8cd9243afa49&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "2723d74e122a28790527916edf405abf55e8eca2",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0642-49bb-a784-2e790c05cc13&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "15323a5318e6e009fbb33ec6fa97ddaccb8e1f45",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0541-3055-8d94-ee7a22fc5533&fp=-3",
@@ -273,15 +282,6 @@
           "id": "d323488fc45667f7313194cfae80d808054dea2a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0735-30d1-9a6c-fc5eba769e1a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "0b8d88eed7aacef78453abc43a95774cea50f9ff",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0615-1968-959b-8cd9243afa49&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T20:14:57.302810Z",
-      "latest_at": "2026-07-25T19:41:09.143693Z",
+      "earliest_at": "2026-07-24T21:35:05.822638Z",
+      "latest_at": "2026-07-25T20:42:28.679667Z",
       "primary_item": {
-        "id": "15323a5318e6e009fbb33ec6fa97ddaccb8e1f45",
+        "id": "2723d74e122a28790527916edf405abf55e8eca2",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0541-3055-8d94-ee7a22fc5533&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0642-49bb-a784-2e790c05cc13&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -351,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7533,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -430,14 +430,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6825,
-      "importance": 0.6825,
-      "importance_score": 0.6825,
+      "score": 0.674,
+      "importance": 0.674,
+      "importance_score": 0.674,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2275,
+        "recency": 0.1849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -565,14 +565,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6204,
-      "importance": 0.6204,
-      "importance_score": 0.6204,
+      "score": 0.6119,
+      "importance": 0.6119,
+      "importance_score": 0.6119,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9872,
+        "recency": 0.9446,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -643,14 +643,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8681,
+        "recency": 0.8255,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,14 +721,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8654,
+        "recency": 0.8228,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -799,14 +799,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
+      "score": 0.4978,
+      "importance": 0.4978,
+      "importance_score": 0.4978,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7916,
+        "recency": 0.749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -877,14 +877,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4943,
-      "importance": 0.4943,
-      "importance_score": 0.4943,
+      "score": 0.4858,
+      "importance": 0.4858,
+      "importance_score": 0.4858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7317,
+        "recency": 0.6892,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -955,14 +955,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5037,
-      "importance": 0.5037,
-      "importance_score": 0.5037,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7783,
+        "recency": 0.7357,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1032,14 +1032,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4478,
-      "importance": 0.4478,
-      "importance_score": 0.4478,
+      "score": 0.4393,
+      "importance": 0.4393,
+      "importance_score": 0.4393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4989,
+        "recency": 0.4563,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1110,14 +1110,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4722,
-      "importance": 0.4722,
-      "importance_score": 0.4722,
+      "score": 0.4636,
+      "importance": 0.4636,
+      "importance_score": 0.4636,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6208,
+        "recency": 0.5782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1188,14 +1188,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4256,
-      "importance": 0.4256,
-      "importance_score": 0.4256,
+      "score": 0.4171,
+      "importance": 0.4171,
+      "importance_score": 0.4171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3879,
+        "recency": 0.3453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1266,14 +1266,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4154,
-      "importance": 0.4154,
-      "importance_score": 0.4154,
+      "score": 0.4069,
+      "importance": 0.4069,
+      "importance_score": 0.4069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3368,
+        "recency": 0.2943,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,14 +1344,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4154,
-      "importance": 0.4154,
-      "importance_score": 0.4154,
+      "score": 0.4069,
+      "importance": 0.4069,
+      "importance_score": 0.4069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3368,
+        "recency": 0.2943,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1422,14 +1422,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4699,
-      "importance": 0.4699,
-      "importance_score": 0.4699,
+      "score": 0.4614,
+      "importance": 0.4614,
+      "importance_score": 0.4614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6095,
+        "recency": 0.5669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1443,181 +1443,6 @@
         "title": "我从事软件工程师工作已有14年。人工智能可能会减少初级岗位——但并不会减少对经验丰富工程师的需求。",
         "url": "https://www.businessinsider.com/software-engineer-ai-tools-could-reduce-junior-engineering-tech-jobs-2026-7",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b2e8ce2bc9a2",
-      "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-      "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-      "primary_url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-      "source": "unsung.aresluna.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "unsung.aresluna.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.216000Z"
-        },
-        {
-          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:04:57Z"
-        },
-        {
-          "id": "f076be8f1ba4ddf534ef17d508b42143d2d678ff",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome's Breaking and Entering",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T19:51:50Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "unsung.aresluna.org"
-      ],
-      "items": [
-        {
-          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "unsung.aresluna.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.216000Z"
-        },
-        {
-          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:04:57Z"
-        },
-        {
-          "id": "f076be8f1ba4ddf534ef17d508b42143d2d678ff",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome's Breaking and Entering",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T19:51:50Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4017,
-      "importance": 0.4017,
-      "importance_score": 0.4017,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1435,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T19:51:50Z",
-      "latest_at": "2026-07-24T23:07:45.216000Z",
-      "primary_item": {
-        "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-        "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-        "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-        "source": "unsung.aresluna.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e616440e259b",
-      "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-      "url": "https://artificialanalysis.ai/models",
-      "primary_url": "https://artificialanalysis.ai/models",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "url": "https://artificialanalysis.ai/models",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T00:43:56.309000Z"
-        },
-        {
-          "id": "f20451c1356dfba53bf83bedcce072baff3eb01f",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首 / Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "url": "https://artificialanalysis.ai/models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T19:45:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "artificialanalysis.ai"
-      ],
-      "items": [
-        {
-          "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-          "url": "https://artificialanalysis.ai/models",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T00:43:56.309000Z"
-        },
-        {
-          "id": "f20451c1356dfba53bf83bedcce072baff3eb01f",
-          "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首 / Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "url": "https://artificialanalysis.ai/models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T19:45:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3901,
-      "importance": 0.3901,
-      "importance_score": 0.3901,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2103,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T19:45:10Z",
-      "latest_at": "2026-07-25T00:43:56.309000Z",
-      "primary_item": {
-        "id": "78990e7317fc8e606d2991350d8f49291b5c0e5a",
-        "title": "Opus 5 目前在“人工智能分析排行榜”上高居榜首",
-        "url": "https://artificialanalysis.ai/models",
-        "source": "artificialanalysis.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1675,14 +1500,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4154,
-      "importance": 0.4154,
-      "importance_score": 0.4154,
+      "score": 0.4069,
+      "importance": 0.4069,
+      "importance_score": 0.4069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3368,
+        "recency": 0.2943,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1753,14 +1578,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3811,
-      "importance": 0.3811,
-      "importance_score": 0.3811,
+      "score": 0.3726,
+      "importance": 0.3726,
+      "importance_score": 0.3726,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1657,
+        "recency": 0.1231,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1850,14 +1675,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.411,
-      "importance": 0.411,
-      "importance_score": 0.411,
+      "score": 0.4025,
+      "importance": 0.4025,
+      "importance_score": 0.4025,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.19,
+        "recency": 0.1474,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1872,6 +1697,162 @@
         "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b2e8ce2bc9a2",
+      "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
+      "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+      "primary_url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+      "source": "unsung.aresluna.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "unsung.aresluna.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T23:07:45.216000Z"
+        },
+        {
+          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T23:04:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "unsung.aresluna.org"
+      ],
+      "items": [
+        {
+          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "unsung.aresluna.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T23:07:45.216000Z"
+        },
+        {
+          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
+          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
+          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T23:04:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3682,
+      "importance": 0.3682,
+      "importance_score": 0.3682,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1009,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T23:04:57Z",
+      "latest_at": "2026-07-24T23:07:45.216000Z",
+      "primary_item": {
+        "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
+        "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
+        "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
+        "source": "unsung.aresluna.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cbed4f8a8384",
+      "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+      "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T09:15:25.633000Z"
+        },
+        {
+          "id": "02442d5bb45ba1a82681c3cfbb792a1f0f2605e6",
+          "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？ / AI is good, we swear! Trust us!",
+          "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T08:19:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4526,
+      "importance": 0.4526,
+      "importance_score": 0.4526,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5229,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T08:19:01Z",
+      "latest_at": "2026-07-25T09:15:25.633000Z",
+      "primary_item": {
+        "id": "373f63e0ae1af7be66703e8bc183eb92c728c797",
+        "title": "Anthropic 和 Meta 目前处于守势。它们能赢回用户的信任吗？",
+        "url": "https://www.businessinsider.com/meta-anthropic-ads-trust-us-defensive-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
