@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-28T17:50:31.807368Z",
+  "generated_at": "2026-07-28T19:14:23.160267Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0350-527d-8075-e6e3a4fb5801&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-0350-527d-8075-e6e3a4fb5801&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "70a7ff59692381946a47e938a70315e458e49dcb",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "311be9b30320613c9c9d492ddc4a97066330e19f",
           "title": "点击这里进入 / Click here to enter",
@@ -120,12 +129,21 @@
           "published_at": null
         }
       ],
-      "source_count": 12,
+      "source_count": 13,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "70a7ff59692381946a47e938a70315e458e49dcb",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "311be9b30320613c9c9d492ddc4a97066330e19f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0350-527d-8075-e6e3a4fb5801&fp=-3",
@@ -234,8 +252,8 @@
           "published_at": null
         }
       ],
-      "item_count": 12,
-      "duplicate_count": 12,
+      "item_count": 13,
+      "duplicate_count": 13,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -253,11 +271,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-27T19:18:02.325211Z",
-      "latest_at": "2026-07-28T17:50:31.807368Z",
+      "latest_at": "2026-07-28T19:14:23.160267Z",
       "primary_item": {
-        "id": "311be9b30320613c9c9d492ddc4a97066330e19f",
+        "id": "70a7ff59692381946a47e938a70315e458e49dcb",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0350-527d-8075-e6e3a4fb5801&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9232,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8785,
+        "recency": 0.8202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,14 +475,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7379,
+        "recency": 0.6796,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -518,14 +536,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,14 +596,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9232,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,14 +656,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8965,
+        "recency": 0.8383,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -698,14 +716,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7547,
+        "recency": 0.6965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -759,14 +777,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8402,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,14 +856,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7379,
+        "recency": 0.6796,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -899,14 +917,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7982,
+        "recency": 0.74,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -978,14 +996,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5212,
+        "recency": 0.463,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1038,14 +1056,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6132,
+        "recency": 0.5549,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1116,14 +1134,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.642,
+        "recency": 0.5838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1177,14 +1195,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3143,
+        "recency": 0.2561,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1256,14 +1274,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.642,
+        "recency": 0.5838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1336,14 +1354,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.642,
+        "recency": 0.5838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1397,20 +1415,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7379,
+        "recency": 0.6796,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T11:33:04.687508Z",
       "latest_at": "2026-07-28T11:33:04.687508Z",
@@ -1457,20 +1474,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7379,
+        "recency": 0.6796,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T11:33:04.687508Z",
       "latest_at": "2026-07-28T11:33:04.687508Z",
@@ -1483,99 +1499,99 @@
       }
     },
     {
-      "story_id": "story_4cc82f0ed3f8",
-      "title": "谷歌的“超越零”：人工智能时代的企业安全",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "primary_url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "source": "spawn-queue.acm.org",
+      "story_id": "story_843c54c2254e",
+      "title": "你本可以想出“基米·德尔塔”这个噱头的",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "primary_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "source": "blog.doubleword.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "81f513282096a412b8c41fca1c67c73a4d64adda",
-          "title": "谷歌的“超越零”：人工智能时代的企业安全",
-          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-          "source": "spawn-queue.acm.org",
+          "id": "273b516a647c4961d8cf43f43bda41d2e65cd746",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "blog.doubleword.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-28T16:25:32.895000Z"
+          "published_at": "2026-07-28T17:13:19.754000Z"
         },
         {
-          "id": "70ef8a261cf3700d4bc7b4a6d20f65b4fb4dcaef",
-          "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-          "url": "https://news.ycombinator.com/item?id=49081644",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T11:21:14.183000Z"
+          "id": "d9f5fc52265b7d004e2d394403806c90c22a8ac8",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的 / A walk through of the DeltaNet family of linear attention variants",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T16:02:07Z"
         },
         {
-          "id": "dad082a02ebba69f917ead3dfc5e39798b87183e",
-          "title": "谷歌的“超越零”：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-28T09:59:13Z"
+          "id": "cd82a2a524433efe7d696191bace7910c39d292a",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的 / You Could Have Come Up with Kimi Delta Attention",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T16:02:07Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "hackernews",
-        "spawn-queue.acm.org"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "blog.doubleword.ai"
       ],
       "items": [
         {
-          "id": "81f513282096a412b8c41fca1c67c73a4d64adda",
-          "title": "谷歌的“超越零”：人工智能时代的企业安全",
-          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-          "source": "spawn-queue.acm.org",
+          "id": "273b516a647c4961d8cf43f43bda41d2e65cd746",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "blog.doubleword.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-28T16:25:32.895000Z"
+          "published_at": "2026-07-28T17:13:19.754000Z"
         },
         {
-          "id": "70ef8a261cf3700d4bc7b4a6d20f65b4fb4dcaef",
-          "title": "谷歌的超越零：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-          "url": "https://news.ycombinator.com/item?id=49081644",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T11:21:14.183000Z"
+          "id": "d9f5fc52265b7d004e2d394403806c90c22a8ac8",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的 / A walk through of the DeltaNet family of linear attention variants",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T16:02:07Z"
         },
         {
-          "id": "dad082a02ebba69f917ead3dfc5e39798b87183e",
-          "title": "谷歌的“超越零”：人工智能时代的企业安全 / Google's Beyond Zero: Enterprise Security for the AI Era",
-          "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-28T09:59:13Z"
+          "id": "cd82a2a524433efe7d696191bace7910c39d292a",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的 / You Could Have Come Up with Kimi Delta Attention",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T16:02:07Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5612,
-      "importance": 0.5612,
-      "importance_score": 0.5612,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.941,
+        "recency": 0.9159,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-28T09:59:13Z",
-      "latest_at": "2026-07-28T16:25:32.895000Z",
+      "earliest_at": "2026-07-28T16:02:07Z",
+      "latest_at": "2026-07-28T17:13:19.754000Z",
       "primary_item": {
-        "id": "81f513282096a412b8c41fca1c67c73a4d64adda",
-        "title": "谷歌的“超越零”：人工智能时代的企业安全",
-        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-        "source": "spawn-queue.acm.org",
+        "id": "273b516a647c4961d8cf43f43bda41d2e65cd746",
+        "title": "你本可以想出“基米·德尔塔”这个噱头的",
+        "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+        "source": "blog.doubleword.ai",
         "source_name": "Buzzing"
       }
     }
