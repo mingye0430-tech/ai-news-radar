@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-28T11:33:04.687508Z",
+  "generated_at": "2026-07-28T13:49:45.609226Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2133-29e1-91b3-4726db19370c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-2133-29e1-91b3-4726db19370c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5926544db6c28158a5e11798a42aa56de6674948",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "2caf4589c77ad820f79c2502bf3601d6afd8e28d",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "20cdcd6336018d784c653fb857a2a87a166f36b4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0157-4007-be06-73a4b7ebde08&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cc62a32f24588810058c255a93c016bf43bf82c8",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2324-25e9-8f02-00b9843346f7&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "5926544db6c28158a5e11798a42aa56de6674948",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "2caf4589c77ad820f79c2502bf3601d6afd8e28d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2133-29e1-91b3-4726db19370c&fp=-3",
@@ -219,15 +228,6 @@
           "id": "20cdcd6336018d784c653fb857a2a87a166f36b4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0157-4007-be06-73a4b7ebde08&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cc62a32f24588810058c255a93c016bf43bf82c8",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2324-25e9-8f02-00b9843346f7&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,14 +252,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T13:23:56.528500Z",
-      "latest_at": "2026-07-28T11:33:04.687508Z",
+      "earliest_at": "2026-07-27T15:57:14.910567Z",
+      "latest_at": "2026-07-28T13:49:45.609226Z",
       "primary_item": {
-        "id": "2caf4589c77ad820f79c2502bf3601d6afd8e28d",
+        "id": "5926544db6c28158a5e11798a42aa56de6674948",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2133-29e1-91b3-4726db19370c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_6b5816a238e8",
+      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8454,
+      "importance": 0.8454,
+      "importance_score": 0.8454,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9219,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T11:57:19Z",
+      "latest_at": "2026-07-28T11:57:19Z",
+      "primary_item": {
+        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -335,14 +396,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9051,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -415,14 +476,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9051,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -495,14 +556,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7834,
+        "recency": 0.6884,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -518,6 +579,66 @@
         "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
         "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e85d5777eba9",
+      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+      "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+      "primary_url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7804,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T08:33:30Z",
+      "latest_at": "2026-07-28T08:33:30Z",
+      "primary_item": {
+        "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
+        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+        "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -556,14 +677,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5765,
+        "recency": 0.4815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -583,67 +704,7 @@
       }
     },
     {
-      "story_id": "story_e85d5777eba9",
-      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-      "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-      "primary_url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8753,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T08:33:30Z",
-      "latest_at": "2026-07-28T08:33:30Z",
-      "primary_item": {
-        "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-        "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c1701bfce0ec",
+      "story_id": "story_f8207de20d1f",
       "title": "北大才女翁荔再次转身：因身体严重透支辞别AI创业，一句\"以人为本\"戳中行业痛点",
       "url": "https://www.aibase.com/news/29944",
       "primary_url": "https://www.aibase.com/news/29944",
@@ -696,14 +757,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8093,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -757,20 +818,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7251,
+        "recency": 0.6302,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T04:57:13Z",
       "latest_at": "2026-07-28T04:57:13Z",
@@ -783,7 +843,7 @@
       }
     },
     {
-      "story_id": "story_4db4effec70d",
+      "story_id": "story_ba2e6d7c0264",
       "title": "宇树G1人形机器人首次完成活体动物手术，远程操控切除猪胆囊",
       "url": "https://www.aibase.com/news/29948",
       "primary_url": "https://www.aibase.com/news/29948",
@@ -836,14 +896,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8093,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -863,67 +923,7 @@
       }
     },
     {
-      "story_id": "story_1fe7f694c616",
-      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3823,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T20:43:37Z",
-      "latest_at": "2026-07-27T20:43:37Z",
-      "primary_item": {
-        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bb59d3cc2a6a",
+      "story_id": "story_0c8588291aff",
       "title": "我国启动大模型 IPv6 专项行动：生成式 AI 应用将被要求全面拥抱下一代网络",
       "url": "https://www.aibase.com/news/29943",
       "primary_url": "https://www.aibase.com/news/29943",
@@ -976,14 +976,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8093,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1000,6 +1000,66 @@
         "url": "https://www.aibase.com/news/29943",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1fe7f694c616",
+      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.2874,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
+      "primary_item": {
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1056,14 +1116,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6706,
-      "importance": 0.6706,
-      "importance_score": 0.6706,
+      "score": 0.6516,
+      "importance": 0.6516,
+      "importance_score": 0.6516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.168,
+        "recency": 0.0731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,66 +1139,6 @@
         "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
         "source": "公众号：月之暗面（Kimi）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_58d617805c7f",
-      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.2274,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T17:00:35Z",
-      "latest_at": "2026-07-27T17:00:35Z",
-      "primary_item": {
-        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1176,14 +1176,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,14 +1236,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1259,6 +1259,103 @@
         "url": "https://www.aibase.com/news/29950",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f23589cd7e6b",
+      "title": "Show HN: Segue – 在一个 AI 中保存上下文，通过短句柄将其加载到另一个 AI 中 / Show HN: Segue – Save context in one AI, load it in another by a short handle",
+      "url": "https://news.ycombinator.com/item?id=49082779",
+      "primary_url": "https://news.ycombinator.com/item?id=49082779",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c1c6f829770259b30576d0f6b728a0a73eef426d",
+          "title": "Show HN: Segue – 在一个 AI 中保存上下文，通过短句柄将其加载到另一个 AI 中 / Show HN: Segue – Save context in one AI, load it in another by a short handle",
+          "url": "https://news.ycombinator.com/item?id=49082779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-28T13:39:46.344000Z"
+        },
+        {
+          "id": "bfa4f29e365d1ea9d8c563e1fab308ca6445916b",
+          "title": "Show HN: Segue – 在一个 AI 中保存上下文，并通过一个简短的标识符在另一个 AI 中加载该上下文",
+          "url": "https://segue.ai",
+          "source": "segue.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T12:41:33.023000Z"
+        },
+        {
+          "id": "8043936b4e152ca394892db3951adb44a11a2d4f",
+          "title": "Show HN: Segue – 在一个 AI 中保存上下文，并通过一个简短的标识符在另一个 AI 中加载该上下文 / Show HN: Segue – Save context in one AI, load it in another by a short handle",
+          "url": "https://segue.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-28T12:27:05Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "segue.ai"
+      ],
+      "items": [
+        {
+          "id": "c1c6f829770259b30576d0f6b728a0a73eef426d",
+          "title": "Show HN: Segue – 在一个 AI 中保存上下文，通过短句柄将其加载到另一个 AI 中 / Show HN: Segue – Save context in one AI, load it in another by a short handle",
+          "url": "https://news.ycombinator.com/item?id=49082779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-28T13:39:46.344000Z"
+        },
+        {
+          "id": "bfa4f29e365d1ea9d8c563e1fab308ca6445916b",
+          "title": "Show HN: Segue – 在一个 AI 中保存上下文，并通过一个简短的标识符在另一个 AI 中加载该上下文",
+          "url": "https://segue.ai",
+          "source": "segue.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T12:41:33.023000Z"
+        },
+        {
+          "id": "8043936b4e152ca394892db3951adb44a11a2d4f",
+          "title": "Show HN: Segue – 在一个 AI 中保存上下文，并通过一个简短的标识符在另一个 AI 中加载该上下文 / Show HN: Segue – Save context in one AI, load it in another by a short handle",
+          "url": "https://segue.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-28T12:27:05Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5716,
+      "importance": 0.5716,
+      "importance_score": 0.5716,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9931,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-28T12:27:05Z",
+      "latest_at": "2026-07-28T13:39:46.344000Z",
+      "primary_item": {
+        "id": "c1c6f829770259b30576d0f6b728a0a73eef426d",
+        "title": "Show HN: Segue – 在一个 AI 中保存上下文，通过短句柄将其加载到另一个 AI 中 / Show HN: Segue – Save context in one AI, load it in another by a short handle",
+        "url": "https://news.ycombinator.com/item?id=49082779",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1296,14 +1393,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1322,297 +1419,275 @@
       }
     },
     {
-      "story_id": "story_1abafd9198b3",
-      "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-      "url": "https://www.aibase.com/news/29941",
-      "primary_url": "https://www.aibase.com/news/29941",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_b812cea1bb1d",
+      "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊",
+      "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+      "primary_url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+      "source": "www.techspot.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
-          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-          "url": "https://www.aibase.com/news/29941",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T09:15:04.812001Z"
+          "id": "90a1a21d7b4a12ad9e4944e73894bd153fe9818b",
+          "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊",
+          "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T11:37:33.989000Z"
+        },
+        {
+          "id": "cd001daa7b47091eebaae2dcbd74ed2d5d094925",
+          "title": "教授隐形提示陷阱，抓住32/35学生用AI作弊 / Professor's invisible prompt trap catches 32/35 students cheating with AI",
+          "url": "https://news.ycombinator.com/item?id=49074680",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T20:49:48.754000Z"
+        },
+        {
+          "id": "c69b821b65c5b2a045aa814adcc2f94dda579031",
+          "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊 / Professor's invisible prompt trap catches 32/35 students cheating with AI",
+          "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-27T19:46:05Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.techspot.com"
       ],
       "items": [
         {
-          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
-          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-          "url": "https://www.aibase.com/news/29941",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T09:15:04.812001Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9042,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T09:15:04.812001Z",
-      "latest_at": "2026-07-28T09:15:04.812001Z",
-      "primary_item": {
-        "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
-        "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
-        "url": "https://www.aibase.com/news/29941",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3e5eebb5cae4",
-      "title": "拥抱脸/语音到语音 / huggingface / speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "primary_url": "https://github.com/huggingface/speech-to-speech",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1efbd7fadf8275ccdb1fb40e0f1c24d51b8a836b",
-          "title": "拥抱脸/语音到语音 / huggingface / speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "90a1a21d7b4a12ad9e4944e73894bd153fe9818b",
+          "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊",
+          "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T11:37:33.989000Z"
         },
         {
-          "id": "f51e771b66ee946a35d28f9b2e0025d78ee389a3",
-          "title": "拥抱脸/语音到语音 / huggingface /      speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "source": "github",
+          "id": "cd001daa7b47091eebaae2dcbd74ed2d5d094925",
+          "title": "教授隐形提示陷阱，抓住32/35学生用AI作弊 / Professor's invisible prompt trap catches 32/35 students cheating with AI",
+          "url": "https://news.ycombinator.com/item?id=49074680",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-28T11:18:37.062000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "1efbd7fadf8275ccdb1fb40e0f1c24d51b8a836b",
-          "title": "拥抱脸/语音到语音 / huggingface / speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-27T20:49:48.754000Z"
         },
         {
-          "id": "f51e771b66ee946a35d28f9b2e0025d78ee389a3",
-          "title": "拥抱脸/语音到语音 / huggingface /      speech-to-speech",
-          "url": "https://github.com/huggingface/speech-to-speech",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T11:18:37.062000Z"
+          "id": "c69b821b65c5b2a045aa814adcc2f94dda579031",
+          "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊 / Professor's invisible prompt trap catches 32/35 students cheating with AI",
+          "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-27T19:46:05Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5546,
+      "importance": 0.5546,
+      "importance_score": 0.5546,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9082,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-28T11:18:37.062000Z",
-      "latest_at": "2026-07-28T11:33:04.687508Z",
+      "earliest_at": "2026-07-27T19:46:05Z",
+      "latest_at": "2026-07-28T11:37:33.989000Z",
       "primary_item": {
-        "id": "1efbd7fadf8275ccdb1fb40e0f1c24d51b8a836b",
-        "title": "拥抱脸/语音到语音 / huggingface / speech-to-speech",
-        "url": "https://github.com/huggingface/speech-to-speech",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
+        "id": "90a1a21d7b4a12ad9e4944e73894bd153fe9818b",
+        "title": "教授设下的“隐形提示陷阱”抓住了35名作弊学生中的32名，他们利用了AI作弊",
+        "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+        "source": "www.techspot.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_3ca2ed5845e3",
-      "title": "Tell HN: 我们付费订阅的Claude AI已无法使用超过1周，且未收到任何支持响应 / Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
-      "url": "https://news.ycombinator.com/item?id=49080775",
-      "primary_url": "https://news.ycombinator.com/item?id=49080775",
+      "story_id": "story_fe8b5b1f4202",
+      "title": "显示 HN：Ctrlb-分解：在发送到 LLM 之前从日志中去除噪音 / Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+      "url": "https://news.ycombinator.com/item?id=49083336",
+      "primary_url": "https://news.ycombinator.com/item?id=49083336",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f16d046b506f77c80199260d3204c58a0f336081",
-          "title": "Tell HN: 我们付费订阅的Claude AI已无法使用超过1周，且未收到任何支持响应 / Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
-          "url": "https://news.ycombinator.com/item?id=49080775",
+          "id": "dea362049fddbd5218a4dfd2b5ca96c81bdc01f8",
+          "title": "显示 HN：Ctrlb-分解：在发送到 LLM 之前从日志中去除噪音 / Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+          "url": "https://news.ycombinator.com/item?id=49083336",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-28T11:21:14.183000Z"
+          "published_at": "2026-07-28T13:39:46.344000Z"
         },
         {
-          "id": "14f1440ad7e54712007c3ab7e773ca5085102207",
-          "title": "Tell HN: 我们付费订阅的Claude AI已无法使用超过1周，且未收到任何支持响应",
-          "url": "https://news.ycombinator.com/item?id=49080775",
-          "source": "news.ycombinator.com",
+          "id": "84c035995243ded971ee8e80a4cd251d4aea03bc",
+          "title": "Show HN: Ctrlb-decompose：在将日志发送给大型语言模型（LLMs）之前，先去除其中的噪声",
+          "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-28T08:09:38.749000Z"
+          "published_at": "2026-07-28T13:30:09.715000Z"
+        },
+        {
+          "id": "c8de9b92325b9eb11d2ca92a9f7e7bab203e01fe",
+          "title": "Show HN: Ctrlb-decompose：在将日志发送给大型语言模型（LLMs）之前，先去除其中的噪声 / Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+          "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T13:13:35Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "hackernews",
-        "news.ycombinator.com"
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "f16d046b506f77c80199260d3204c58a0f336081",
-          "title": "Tell HN: 我们付费订阅的Claude AI已无法使用超过1周，且未收到任何支持响应 / Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
-          "url": "https://news.ycombinator.com/item?id=49080775",
+          "id": "dea362049fddbd5218a4dfd2b5ca96c81bdc01f8",
+          "title": "显示 HN：Ctrlb-分解：在发送到 LLM 之前从日志中去除噪音 / Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+          "url": "https://news.ycombinator.com/item?id=49083336",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-28T11:21:14.183000Z"
+          "published_at": "2026-07-28T13:39:46.344000Z"
         },
         {
-          "id": "14f1440ad7e54712007c3ab7e773ca5085102207",
-          "title": "Tell HN: 我们付费订阅的Claude AI已无法使用超过1周，且未收到任何支持响应",
-          "url": "https://news.ycombinator.com/item?id=49080775",
-          "source": "news.ycombinator.com",
+          "id": "84c035995243ded971ee8e80a4cd251d4aea03bc",
+          "title": "Show HN: Ctrlb-decompose：在将日志发送给大型语言模型（LLMs）之前，先去除其中的噪声",
+          "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-28T08:09:38.749000Z"
+          "published_at": "2026-07-28T13:30:09.715000Z"
+        },
+        {
+          "id": "c8de9b92325b9eb11d2ca92a9f7e7bab203e01fe",
+          "title": "Show HN: Ctrlb-decompose：在将日志发送给大型语言模型（LLMs）之前，先去除其中的噪声 / Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+          "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T13:13:35Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5716,
+      "importance": 0.5716,
+      "importance_score": 0.5716,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9918,
-        "story_heat": 0.25
+        "recency": 0.9931,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-28T08:09:38.749000Z",
-      "latest_at": "2026-07-28T11:21:14.183000Z",
+      "earliest_at": "2026-07-28T13:13:35Z",
+      "latest_at": "2026-07-28T13:39:46.344000Z",
       "primary_item": {
-        "id": "f16d046b506f77c80199260d3204c58a0f336081",
-        "title": "Tell HN: 我们付费订阅的Claude AI已无法使用超过1周，且未收到任何支持响应 / Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
-        "url": "https://news.ycombinator.com/item?id=49080775",
+        "id": "dea362049fddbd5218a4dfd2b5ca96c81bdc01f8",
+        "title": "显示 HN：Ctrlb-分解：在发送到 LLM 之前从日志中去除噪音 / Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+        "url": "https://news.ycombinator.com/item?id=49083336",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_0ac1c3a62d3b",
-      "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题",
-      "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-      "primary_url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_582791904084",
+      "title": "人工智能领域的收入正在快速增长，但增速仍显不足 / AI revenues are growing fast, but not fast enough",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+      "primary_url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "47e232b75e338ad23ede60d7261e9ff721f0e40b",
-          "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题",
-          "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T10:17:33.225000Z"
+          "id": "b432e0dd0e776a6f00739ee6940f588192ed5f4c",
+          "title": "人工智能领域的收入正在快速增长，但增速仍显不足 / AI revenues are growing fast, but not fast enough",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T12:19:54Z"
         },
         {
-          "id": "f9f8574f5530df8689c487e20bf44b77ce116755",
-          "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题 / Nvidia's growing web of AI deals has investors asking an uncomfortable question",
-          "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-28T09:50:01Z"
+          "id": "4ddf061cacb86d65b434f832d59a7717b13cb57f",
+          "title": "人工智能领域的收入正在快速增长，但增速仍显不足",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T11:05:19.980000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热",
+        "www.economist.com"
       ],
       "items": [
         {
-          "id": "47e232b75e338ad23ede60d7261e9ff721f0e40b",
-          "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题",
-          "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T10:17:33.225000Z"
+          "id": "b432e0dd0e776a6f00739ee6940f588192ed5f4c",
+          "title": "人工智能领域的收入正在快速增长，但增速仍显不足 / AI revenues are growing fast, but not fast enough",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T12:19:54Z"
         },
         {
-          "id": "f9f8574f5530df8689c487e20bf44b77ce116755",
-          "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题 / Nvidia's growing web of AI deals has investors asking an uncomfortable question",
-          "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-28T09:50:01Z"
+          "id": "4ddf061cacb86d65b434f832d59a7717b13cb57f",
+          "title": "人工智能领域的收入正在快速增长，但增速仍显不足",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T11:05:19.980000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9476,
+        "recency": 0.9376,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-28T09:50:01Z",
-      "latest_at": "2026-07-28T10:17:33.225000Z",
+      "earliest_at": "2026-07-28T11:05:19.980000Z",
+      "latest_at": "2026-07-28T12:19:54Z",
       "primary_item": {
-        "id": "47e232b75e338ad23ede60d7261e9ff721f0e40b",
-        "title": "英伟达错综复杂的人工智能交易网络让投资者提出了一个令人不安的问题",
-        "url": "https://www.businessinsider.com/nvidias-circular-ai-deals-investor-stock-cds-price-jensen-huang-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "b432e0dd0e776a6f00739ee6940f588192ed5f4c",
+        "title": "人工智能领域的收入正在快速增长，但增速仍显不足 / AI revenues are growing fast, but not fast enough",
+        "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
