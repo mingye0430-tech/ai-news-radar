@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-28T13:49:45.609226Z",
+  "generated_at": "2026-07-28T16:01:40.266104Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0202-1643-8f17-4947b1d36bea&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-0202-1643-8f17-4947b1d36bea&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "cdc3a1ce4d95cca816548d705f01806ff3cc42b2",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0202-1643-8f17-4947b1d36bea&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5926544db6c28158a5e11798a42aa56de6674948",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "98dcca7c0e9fc10df953605633164f8a90c3d7a9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0342-15df-98c9-2c2c44c34d9a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "20cdcd6336018d784c653fb857a2a87a166f36b4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0157-4007-be06-73a4b7ebde08&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "cdc3a1ce4d95cca816548d705f01806ff3cc42b2",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0202-1643-8f17-4947b1d36bea&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5926544db6c28158a5e11798a42aa56de6674948",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
@@ -219,15 +228,6 @@
           "id": "98dcca7c0e9fc10df953605633164f8a90c3d7a9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0342-15df-98c9-2c2c44c34d9a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "20cdcd6336018d784c653fb857a2a87a166f36b4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0157-4007-be06-73a4b7ebde08&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,32 +252,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T15:57:14.910567Z",
-      "latest_at": "2026-07-28T13:49:45.609226Z",
+      "earliest_at": "2026-07-27T17:41:55.696639Z",
+      "latest_at": "2026-07-28T16:01:40.266104Z",
       "primary_item": {
-        "id": "5926544db6c28158a5e11798a42aa56de6674948",
+        "id": "cdc3a1ce4d95cca816548d705f01806ff3cc42b2",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0202-1643-8f17-4947b1d36bea&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_6b5816a238e8",
-      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "story_id": "story_51a1d6122d7c",
+      "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+      "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+      "primary_url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
+          "published_at": "2026-07-28T14:55:31Z"
         }
       ],
       "source_count": 1,
@@ -286,25 +286,25 @@
       ],
       "items": [
         {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
+          "published_at": "2026-07-28T14:55:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.8518,
+      "importance": 0.8518,
+      "importance_score": 0.8518,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9219,
+        "recency": 0.9541,
         "story_heat": 0.0
       },
       "category": "official",
@@ -313,12 +313,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T11:57:19Z",
-      "latest_at": "2026-07-28T11:57:19Z",
+      "earliest_at": "2026-07-28T14:55:31Z",
+      "latest_at": "2026-07-28T14:55:31Z",
       "primary_item": {
-        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+        "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -396,14 +396,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8135,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,6 +420,247 @@
         "url": "https://www.aibase.com/news/29952",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a0369549e938",
+      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+      "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+      "primary_url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "879aa755e3b6ea7aafcceba22e102a53ef428cf5",
+          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T15:21:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "879aa755e3b6ea7aafcceba22e102a53ef428cf5",
+          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+          "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T15:21:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9721,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T15:21:28Z",
+      "latest_at": "2026-07-28T15:21:28Z",
+      "primary_item": {
+        "id": "879aa755e3b6ea7aafcceba22e102a53ef428cf5",
+        "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+        "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6b5816a238e8",
+      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8303,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T11:57:19Z",
+      "latest_at": "2026-07-28T11:57:19Z",
+      "primary_item": {
+        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
+        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3aeb789086e8",
+      "title": "Perplexity 推出 Windows 版个人电脑智能体",
+      "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+      "primary_url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "470341c583e506ce6548ef2fdbd22cf2be4f954d",
+          "title": "Perplexity 推出 Windows 版个人电脑智能体",
+          "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T14:00:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Perplexity (@perplexity_ai)"
+      ],
+      "items": [
+        {
+          "id": "470341c583e506ce6548ef2fdbd22cf2be4f954d",
+          "title": "Perplexity 推出 Windows 版个人电脑智能体",
+          "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T14:00:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9158,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T14:00:23Z",
+      "latest_at": "2026-07-28T14:00:23Z",
+      "primary_item": {
+        "id": "470341c583e506ce6548ef2fdbd22cf2be4f954d",
+        "title": "Perplexity 推出 Windows 版个人电脑智能体",
+        "url": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fa0838f1622f",
+      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+      "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "primary_url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "source": "Google Blog：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
+          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
+          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+          "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7868,
+      "importance": 0.7868,
+      "importance_score": 0.7868,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8738,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T13:00:00Z",
+      "latest_at": "2026-07-28T13:00:00Z",
+      "primary_item": {
+        "id": "8a2346e43bfe557fb53fac6ac90103a27463d72b",
+        "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+        "url": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+        "source": "Google Blog：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -476,14 +717,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8135,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -556,14 +797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6884,
+        "recency": 0.5968,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -617,20 +858,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7804,
+        "recency": 0.6888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T08:33:30Z",
       "latest_at": "2026-07-28T08:33:30Z",
@@ -640,67 +880,6 @@
         "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4464a24ffd5f",
-      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4815,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T01:23:10Z",
-      "latest_at": "2026-07-28T01:23:10Z",
-      "primary_item": {
-        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -757,14 +936,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7176,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -784,62 +963,64 @@
       }
     },
     {
-      "story_id": "story_524972d29ee3",
-      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-      "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-      "primary_url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_4464a24ffd5f",
+      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
-          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T04:57:13Z"
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
-          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T04:57:13Z"
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6302,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.3899,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-28T04:57:13Z",
-      "latest_at": "2026-07-28T04:57:13Z",
+      "earliest_at": "2026-07-28T01:23:10Z",
+      "latest_at": "2026-07-28T01:23:10Z",
       "primary_item": {
-        "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
-        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-        "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -896,14 +1077,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7176,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -976,14 +1157,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7176,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1000,145 +1181,6 @@
         "url": "https://www.aibase.com/news/29943",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1fe7f694c616",
-      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2874,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T20:43:37Z",
-      "latest_at": "2026-07-27T20:43:37Z",
-      "primary_item": {
-        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d1a4495b2679",
-      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-      "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-      "primary_url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-      "source": "公众号：月之暗面（Kimi）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd39db3055ff2343dadc2d0ae0e889c988deec77",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:34:59Z"
-        },
-        {
-          "id": "7b9bd561c7939980c4b2e85699101d90480396dc",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "url": "https://wallstreetcn.com/livenews/3140420",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "公众号：月之暗面（Kimi）"
-      ],
-      "items": [
-        {
-          "id": "cd39db3055ff2343dadc2d0ae0e889c988deec77",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:34:59Z"
-        },
-        {
-          "id": "7b9bd561c7939980c4b2e85699101d90480396dc",
-          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-          "url": "https://wallstreetcn.com/livenews/3140420",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6516,
-      "importance": 0.6516,
-      "importance_score": 0.6516,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0731,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T15:34:59Z",
-      "latest_at": "2026-07-27T17:41:55.696639Z",
-      "primary_item": {
-        "id": "cd39db3055ff2343dadc2d0ae0e889c988deec77",
-        "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-        "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-        "source": "公众号：月之暗面（Kimi）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1176,14 +1218,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,14 +1278,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1334,14 +1376,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5716,
-      "importance": 0.5716,
-      "importance_score": 0.5716,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9931,
+        "recency": 0.9015,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1393,14 +1435,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7176,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1491,14 +1533,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5546,
-      "importance": 0.5546,
-      "importance_score": 0.5546,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9082,
+        "recency": 0.8166,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1588,14 +1630,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5716,
-      "importance": 0.5716,
-      "importance_score": 0.5716,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9931,
+        "recency": 0.9015,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1610,84 +1652,6 @@
         "url": "https://news.ycombinator.com/item?id=49083336",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_582791904084",
-      "title": "人工智能领域的收入正在快速增长，但增速仍显不足 / AI revenues are growing fast, but not fast enough",
-      "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-      "primary_url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "b432e0dd0e776a6f00739ee6940f588192ed5f4c",
-          "title": "人工智能领域的收入正在快速增长，但增速仍显不足 / AI revenues are growing fast, but not fast enough",
-          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-28T12:19:54Z"
-        },
-        {
-          "id": "4ddf061cacb86d65b434f832d59a7717b13cb57f",
-          "title": "人工智能领域的收入正在快速增长，但增速仍显不足",
-          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T11:05:19.980000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "b432e0dd0e776a6f00739ee6940f588192ed5f4c",
-          "title": "人工智能领域的收入正在快速增长，但增速仍显不足 / AI revenues are growing fast, but not fast enough",
-          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-28T12:19:54Z"
-        },
-        {
-          "id": "4ddf061cacb86d65b434f832d59a7717b13cb57f",
-          "title": "人工智能领域的收入正在快速增长，但增速仍显不足",
-          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T11:05:19.980000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9376,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-28T11:05:19.980000Z",
-      "latest_at": "2026-07-28T12:19:54Z",
-      "primary_item": {
-        "id": "b432e0dd0e776a6f00739ee6940f588192ed5f4c",
-        "title": "人工智能领域的收入正在快速增长，但增速仍显不足 / AI revenues are growing fast, but not fast enough",
-        "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
