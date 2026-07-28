@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-28T19:14:23.160267Z",
+  "generated_at": "2026-07-28T20:40:42.149102Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0641-0247-8d93-98f428fadd32&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-0641-0247-8d93-98f428fadd32&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7054e6180781803d20909a83d66836a9f4a3d756",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0641-0247-8d93-98f428fadd32&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "70a7ff59692381946a47e938a70315e458e49dcb",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "941c358a6cfd05d639ad762065023384d294880b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-45a9-9056-4c04a5cb98af&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6002dc91081f4678c7040f2220c443af19ad4e44",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0518-52fb-9de7-c501db920118&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "7054e6180781803d20909a83d66836a9f4a3d756",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0641-0247-8d93-98f428fadd32&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "70a7ff59692381946a47e938a70315e458e49dcb",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
@@ -237,15 +246,6 @@
           "id": "941c358a6cfd05d639ad762065023384d294880b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0649-45a9-9056-4c04a5cb98af&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6002dc91081f4678c7040f2220c443af19ad4e44",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-0518-52fb-9de7-c501db920118&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,14 +270,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T19:18:02.325211Z",
-      "latest_at": "2026-07-28T19:14:23.160267Z",
+      "earliest_at": "2026-07-27T20:49:22.092859Z",
+      "latest_at": "2026-07-28T20:40:42.149102Z",
       "primary_item": {
-        "id": "70a7ff59692381946a47e938a70315e458e49dcb",
+        "id": "7054e6180781803d20909a83d66836a9f4a3d756",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0641-0247-8d93-98f428fadd32&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_20a45b93c590",
+      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8605,
+      "importance": 0.8605,
+      "importance_score": 0.8605,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9375,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T19:10:45Z",
+      "latest_at": "2026-07-28T19:10:45Z",
+      "primary_item": {
+        "id": "de1bf241fb515307bdd91a342754207be883cea2",
+        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -315,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.865,
+        "recency": 0.8051,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,64 +403,123 @@
       }
     },
     {
-      "story_id": "story_51a1d6122d7c",
-      "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
-      "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-      "primary_url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_a99b6258cb3f",
+      "title": "Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备",
+      "url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
+      "primary_url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
-          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
-          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T14:55:31Z"
+          "id": "ab3f0c487b4f3e01171db7b56084ea76986a8483",
+          "title": "Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备",
+          "url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T20:17:08Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
-          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
-          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T14:55:31Z"
+          "id": "ab3f0c487b4f3e01171db7b56084ea76986a8483",
+          "title": "Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备",
+          "url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T20:17:08Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
-      "importance_label": "官方更新",
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8202,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9836,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T14:55:31Z",
-      "latest_at": "2026-07-28T14:55:31Z",
+      "earliest_at": "2026-07-28T20:17:08Z",
+      "latest_at": "2026-07-28T20:17:08Z",
       "primary_item": {
-        "id": "972287feac69fb34c1b538474103f64cc23f3e69",
-        "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
-        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "ab3f0c487b4f3e01171db7b56084ea76986a8483",
+        "title": "Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备",
+        "url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf8de9feb6b3",
+      "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
+      "url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
+      "primary_url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cf194ffe9c403853810d9560c887463679eeda64",
+          "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
+          "url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T19:12:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cf194ffe9c403853810d9560c887463679eeda64",
+          "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
+          "url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T19:12:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9387,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T19:12:27Z",
+      "latest_at": "2026-07-28T19:12:27Z",
+      "primary_item": {
+        "id": "cf194ffe9c403853810d9560c887463679eeda64",
+        "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
+        "url": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -475,14 +595,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6796,
+        "recency": 0.6197,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -536,14 +656,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9183,
+        "recency": 0.8584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -559,6 +679,67 @@
         "url": "https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm",
         "source": "X：Anthropic (@AnthropicAI)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_51a1d6122d7c",
+      "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+      "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+      "primary_url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T14:55:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+          "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T14:55:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7603,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T14:55:31Z",
+      "latest_at": "2026-07-28T14:55:31Z",
+      "primary_item": {
+        "id": "972287feac69fb34c1b538474103f64cc23f3e69",
+        "title": "Dependabot 针对更多生态系统中的恶意软件包发出警报 / Dependabot alerts on malicious packages across more ecosystems",
+        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -596,14 +777,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.865,
+        "recency": 0.8051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,14 +837,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8383,
+        "recency": 0.7783,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -679,67 +860,6 @@
         "url": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6b5816a238e8",
-      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6965,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T11:57:19Z",
-      "latest_at": "2026-07-28T11:57:19Z",
-      "primary_item": {
-        "id": "dd0651fd87786bb2a30cdd4268d7c99d6e01a648",
-        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -777,14 +897,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7819,
+        "recency": 0.722,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,14 +976,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6796,
+        "recency": 0.6197,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -880,6 +1000,67 @@
         "url": "https://www.aibase.com/news/29953",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a02fa7f8e129",
+      "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a378b9cf8a8b5b0b243e470c96b48fa080934df2",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a378b9cf8a8b5b0b243e470c96b48fa080934df2",
+          "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T11:57:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6365,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T11:57:19Z",
+      "latest_at": "2026-07-28T11:57:19Z",
+      "primary_item": {
+        "id": "a378b9cf8a8b5b0b243e470c96b48fa080934df2",
+        "title": "GitHub Actions 保留潜在的恶意工作流程以供批准 / GitHub Actions holds potentially malicious workflows for approval",
+        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -917,20 +1098,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.74,
+        "recency": 0.6801,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T13:00:00Z",
       "latest_at": "2026-07-28T13:00:00Z",
@@ -996,17 +1176,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
-      "importance_label": "行业动态",
+      "score": 0.7176,
+      "importance": 0.7176,
+      "importance_score": 0.7176,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.463,
+        "recency": 0.4031,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1018,65 +1198,6 @@
         "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
         "url": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e85d5777eba9",
-      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-      "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-      "primary_url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5549,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T08:33:30Z",
-      "latest_at": "2026-07-28T08:33:30Z",
-      "primary_item": {
-        "id": "e7f77c3222f28409fda46a6dec84d3c5f3d7a6d9",
-        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-        "url": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1134,21 +1255,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5838,
+        "recency": 0.5239,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T09:15:04.812001Z",
       "latest_at": "2026-07-28T09:15:04.812001Z",
@@ -1158,66 +1278,6 @@
         "url": "https://www.aibase.com/news/29944",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4464a24ffd5f",
-      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T01:23:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2561,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T01:23:10Z",
-      "latest_at": "2026-07-28T01:23:10Z",
-      "primary_item": {
-        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
-        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
-        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1274,21 +1334,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5838,
+        "recency": 0.5239,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T09:15:04.812001Z",
       "latest_at": "2026-07-28T09:15:04.812001Z",
@@ -1354,21 +1413,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5838,
+        "recency": 0.5239,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T09:15:04.812001Z",
       "latest_at": "2026-07-28T09:15:04.812001Z",
@@ -1378,6 +1436,121 @@
         "url": "https://www.aibase.com/news/29943",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_843c54c2254e",
+      "title": "你本可以想出“基米·德尔塔”这个点子",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "primary_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "source": "blog.doubleword.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7794aadd44110de4f9c777117416493657cd6eb6",
+          "title": "你本可以想出“基米·德尔塔”这个点子",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T19:37:27.878000Z"
+        },
+        {
+          "id": "273b516a647c4961d8cf43f43bda41d2e65cd746",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T17:13:19.754000Z"
+        },
+        {
+          "id": "e263ad43f5f97b35bb2e1b66ee3ecef85efb58e6",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的 / You Could Have Come Up With Kimi Delta Attention",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T17:01:39Z"
+        },
+        {
+          "id": "d9f5fc52265b7d004e2d394403806c90c22a8ac8",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的 / A walk through of the DeltaNet family of linear attention variants",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T16:02:07Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Lobsters (技术社区)",
+        "blog.doubleword.ai"
+      ],
+      "items": [
+        {
+          "id": "7794aadd44110de4f9c777117416493657cd6eb6",
+          "title": "你本可以想出“基米·德尔塔”这个点子",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T19:37:27.878000Z"
+        },
+        {
+          "id": "273b516a647c4961d8cf43f43bda41d2e65cd746",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T17:13:19.754000Z"
+        },
+        {
+          "id": "e263ad43f5f97b35bb2e1b66ee3ecef85efb58e6",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的 / You Could Have Come Up With Kimi Delta Attention",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T17:01:39Z"
+        },
+        {
+          "id": "d9f5fc52265b7d004e2d394403806c90c22a8ac8",
+          "title": "你本可以想出“基米·德尔塔”这个噱头的 / A walk through of the DeltaNet family of linear attention variants",
+          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T16:02:07Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5892,
+      "importance": 0.5892,
+      "importance_score": 0.5892,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9561,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-28T16:02:07Z",
+      "latest_at": "2026-07-28T19:37:27.878000Z",
+      "primary_item": {
+        "id": "7794aadd44110de4f9c777117416493657cd6eb6",
+        "title": "你本可以想出“基米·德尔塔”这个点子",
+        "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+        "source": "blog.doubleword.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1415,14 +1588,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6796,
+        "recency": 0.6197,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1437,162 +1610,6 @@
         "url": "https://www.aibase.com/news/29951",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_423b5355c65b",
-      "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-      "url": "https://www.aibase.com/news/29950",
-      "primary_url": "https://www.aibase.com/news/29950",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7811907a25ad2bfe9190eeed12f7df8596aceae5",
-          "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "url": "https://www.aibase.com/news/29950",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T11:33:04.687508Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7811907a25ad2bfe9190eeed12f7df8596aceae5",
-          "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-          "url": "https://www.aibase.com/news/29950",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T11:33:04.687508Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6796,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T11:33:04.687508Z",
-      "latest_at": "2026-07-28T11:33:04.687508Z",
-      "primary_item": {
-        "id": "7811907a25ad2bfe9190eeed12f7df8596aceae5",
-        "title": "阿里Qoder上线实时语音智能体Qoder Voice，支持语音驱动AI编程",
-        "url": "https://www.aibase.com/news/29950",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_843c54c2254e",
-      "title": "你本可以想出“基米·德尔塔”这个噱头的",
-      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-      "primary_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-      "source": "blog.doubleword.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "273b516a647c4961d8cf43f43bda41d2e65cd746",
-          "title": "你本可以想出“基米·德尔塔”这个噱头的",
-          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T17:13:19.754000Z"
-        },
-        {
-          "id": "d9f5fc52265b7d004e2d394403806c90c22a8ac8",
-          "title": "你本可以想出“基米·德尔塔”这个噱头的 / A walk through of the DeltaNet family of linear attention variants",
-          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-28T16:02:07Z"
-        },
-        {
-          "id": "cd82a2a524433efe7d696191bace7910c39d292a",
-          "title": "你本可以想出“基米·德尔塔”这个噱头的 / You Could Have Come Up with Kimi Delta Attention",
-          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-28T16:02:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "blog.doubleword.ai"
-      ],
-      "items": [
-        {
-          "id": "273b516a647c4961d8cf43f43bda41d2e65cd746",
-          "title": "你本可以想出“基米·德尔塔”这个噱头的",
-          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T17:13:19.754000Z"
-        },
-        {
-          "id": "d9f5fc52265b7d004e2d394403806c90c22a8ac8",
-          "title": "你本可以想出“基米·德尔塔”这个噱头的 / A walk through of the DeltaNet family of linear attention variants",
-          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-28T16:02:07Z"
-        },
-        {
-          "id": "cd82a2a524433efe7d696191bace7910c39d292a",
-          "title": "你本可以想出“基米·德尔塔”这个噱头的 / You Could Have Come Up with Kimi Delta Attention",
-          "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-28T16:02:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5562,
-      "importance": 0.5562,
-      "importance_score": 0.5562,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9159,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-28T16:02:07Z",
-      "latest_at": "2026-07-28T17:13:19.754000Z",
-      "primary_item": {
-        "id": "273b516a647c4961d8cf43f43bda41d2e65cd746",
-        "title": "你本可以想出“基米·德尔塔”这个噱头的",
-        "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-        "source": "blog.doubleword.ai",
-        "source_name": "Buzzing"
       }
     }
   ]
