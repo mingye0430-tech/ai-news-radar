@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-28T03:56:29.891707Z",
+  "generated_at": "2026-07-28T06:24:04.155286Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1356-5192-b2ab-145ee6fb4423&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-1356-5192-b2ab-145ee6fb4423&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1624-272b-b34e-96df8cecbee3&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260728-1624-272b-b34e-96df8cecbee3&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b737d2577b3fd3fd764d524262aae5dc491b26ea",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1624-272b-b34e-96df8cecbee3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "081ba7a7f8257b0dbdcf0bf88d2e7ea5f4435665",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "c36c742b9a32018a6acf2bab93e39fec76411cb8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2014-5484-b0f0-23c7ca78929b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "57eada2a2dddeb3ec2aa4463753503a962856123",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1603-4885-ad4a-a7eee80830e3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "b737d2577b3fd3fd764d524262aae5dc491b26ea",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1624-272b-b34e-96df8cecbee3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "081ba7a7f8257b0dbdcf0bf88d2e7ea5f4435665",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1356-5192-b2ab-145ee6fb4423&fp=-3",
@@ -201,15 +210,6 @@
           "id": "c36c742b9a32018a6acf2bab93e39fec76411cb8",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-2014-5484-b0f0-23c7ca78929b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "57eada2a2dddeb3ec2aa4463753503a962856123",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-1603-4885-ad4a-a7eee80830e3&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T06:03:24.218843Z",
-      "latest_at": "2026-07-28T03:56:29.891707Z",
+      "earliest_at": "2026-07-27T10:14:26.224724Z",
+      "latest_at": "2026-07-28T06:24:04.155286Z",
       "primary_item": {
-        "id": "081ba7a7f8257b0dbdcf0bf88d2e7ea5f4435665",
+        "id": "b737d2577b3fd3fd764d524262aae5dc491b26ea",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1356-5192-b2ab-145ee6fb4423&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1624-272b-b34e-96df8cecbee3&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.8517,
-      "importance_score": 0.8517,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8935,
+        "recency": 0.791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -359,14 +359,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8975,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -383,6 +383,66 @@
         "url": "https://www.aibase.com/news/29920",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_524972d29ee3",
+      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+      "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+      "primary_url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9397,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T04:57:13Z",
+      "latest_at": "2026-07-28T04:57:13Z",
+      "primary_item": {
+        "id": "0a077f94cb03936200ce3c15b6cf45503945c47b",
+        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "url": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -439,14 +499,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8975,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -500,14 +560,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6994,
+        "recency": 0.5969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -561,14 +621,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8358,
+        "recency": 0.7333,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -621,14 +681,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5858,
+        "recency": 0.4833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,6 +705,66 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c9a7dbabfc21",
+      "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+      "url": "https://www.aibase.com/news/29940",
+      "primary_url": "https://www.aibase.com/news/29940",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
+          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+          "url": "https://www.aibase.com/news/29940",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T06:24:04.155286Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
+          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+          "url": "https://www.aibase.com/news/29940",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T06:24:04.155286Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T06:24:04.155286Z",
+      "latest_at": "2026-07-28T06:24:04.155286Z",
+      "primary_item": {
+        "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
+        "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+        "url": "https://www.aibase.com/news/29940",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -682,20 +802,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7705,
+        "recency": 0.668,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T22:26:00Z",
       "latest_at": "2026-07-27T22:26:00Z",
@@ -705,66 +824,6 @@
         "url": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a200dd372db6",
-      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-      "url": "https://www.aibase.com/news/29934",
-      "primary_url": "https://www.aibase.com/news/29934",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "497017980a6f12ca52c184fb969c297cea804980",
-          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "url": "https://www.aibase.com/news/29934",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T03:56:29.891707Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "497017980a6f12ca52c184fb969c297cea804980",
-          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "url": "https://www.aibase.com/news/29934",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T03:56:29.891707Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T03:56:29.891707Z",
-      "latest_at": "2026-07-28T03:56:29.891707Z",
-      "primary_item": {
-        "id": "497017980a6f12ca52c184fb969c297cea804980",
-        "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-        "url": "https://www.aibase.com/news/29934",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -802,14 +861,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5024,
+        "recency": 0.4,
         "story_heat": 0.0
       },
       "category": "official",
@@ -829,120 +888,141 @@
       }
     },
     {
-      "story_id": "story_0f38d4167132",
-      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-      "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-      "primary_url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_18a06c36d615",
+      "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
+      "url": "https://www.aibase.com/news/29939",
+      "primary_url": "https://www.aibase.com/news/29939",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "394282424a2f71e638a8a558bff87c45c2cd2e25",
-          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-          "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T19:08:51Z"
+          "id": "49610f2b6dbfb452934e713d2476ca4becb1c1db",
+          "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
+          "url": "https://www.aibase.com/news/29939",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T06:24:04.155286Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "394282424a2f71e638a8a558bff87c45c2cd2e25",
-          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-          "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T19:08:51Z"
+          "id": "49610f2b6dbfb452934e713d2476ca4becb1c1db",
+          "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
+          "url": "https://www.aibase.com/news/29939",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T06:24:04.155286Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6336,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T19:08:51Z",
-      "latest_at": "2026-07-27T19:08:51Z",
+      "earliest_at": "2026-07-28T06:24:04.155286Z",
+      "latest_at": "2026-07-28T06:24:04.155286Z",
       "primary_item": {
-        "id": "394282424a2f71e638a8a558bff87c45c2cd2e25",
-        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-        "url": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "49610f2b6dbfb452934e713d2476ca4becb1c1db",
+        "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
+        "url": "https://www.aibase.com/news/29939",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1d548210b78a",
-      "title": "Kimi 发布视觉感知基准 PerceptionBench",
-      "url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-      "primary_url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "story_id": "story_d1a4495b2679",
+      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+      "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
+      "primary_url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
+      "source": "公众号：月之暗面（Kimi）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6741d797278bdc06aa4eb776e0d069852b3a30b1",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench",
-          "url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "id": "cd39db3055ff2343dadc2d0ae0e889c988deec77",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
+          "source": "公众号：月之暗面（Kimi）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
+          "published_at": "2026-07-27T15:34:59Z"
+        },
+        {
+          "id": "7b9bd561c7939980c4b2e85699101d90480396dc",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "url": "https://wallstreetcn.com/livenews/3140420",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
+        "Readhub · AI",
+        "公众号：月之暗面（Kimi）"
       ],
       "items": [
         {
-          "id": "6741d797278bdc06aa4eb776e0d069852b3a30b1",
-          "title": "Kimi 发布视觉感知基准 PerceptionBench",
-          "url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "id": "cd39db3055ff2343dadc2d0ae0e889c988deec77",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
+          "source": "公众号：月之暗面（Kimi）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T18:45:20Z"
+          "published_at": "2026-07-27T15:34:59Z"
+        },
+        {
+          "id": "7b9bd561c7939980c4b2e85699101d90480396dc",
+          "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+          "url": "https://wallstreetcn.com/livenews/3140420",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7135,
+      "importance": 0.7135,
+      "importance_score": 0.7135,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6172,
-        "story_heat": 0.0
+        "recency": 0.3826,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-27T18:45:20Z",
-      "latest_at": "2026-07-27T18:45:20Z",
+      "earliest_at": "2026-07-27T15:34:59Z",
+      "latest_at": "2026-07-27T17:41:55.696639Z",
       "primary_item": {
-        "id": "6741d797278bdc06aa4eb776e0d069852b3a30b1",
-        "title": "Kimi 发布视觉感知基准 PerceptionBench",
-        "url": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "id": "cd39db3055ff2343dadc2d0ae0e889c988deec77",
+        "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+        "url": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
+        "source": "公众号：月之暗面（Kimi）",
         "source_name": "AI HOT"
       }
     },
@@ -981,14 +1061,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.5445,
+        "recency": 0.442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1008,180 +1088,123 @@
       }
     },
     {
-      "story_id": "story_ceb4e1675454",
-      "title": "用Claude和Python构建技能驱动的金融分析智能体",
-      "url": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7",
-      "primary_url": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_fa5d3f532a11",
+      "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
+      "url": "https://www.aibase.com/news/29938",
+      "primary_url": "https://www.aibase.com/news/29938",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "dd0aa553a0a3a6884c84134af50aea7d607001cc",
-          "title": "用Claude和Python构建技能驱动的金融分析智能体",
-          "url": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:08:24Z"
+          "id": "5a7b9e8962065a5bf9e847f20df3655d0349843d",
+          "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
+          "url": "https://www.aibase.com/news/29938",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T06:24:04.155286Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "dd0aa553a0a3a6884c84134af50aea7d607001cc",
-          "title": "用Claude和Python构建技能驱动的金融分析智能体",
-          "url": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:08:24Z"
+          "id": "5a7b9e8962065a5bf9e847f20df3655d0349843d",
+          "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
+          "url": "https://www.aibase.com/news/29938",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T06:24:04.155286Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5916,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T18:08:24Z",
-      "latest_at": "2026-07-27T18:08:24Z",
+      "earliest_at": "2026-07-28T06:24:04.155286Z",
+      "latest_at": "2026-07-28T06:24:04.155286Z",
       "primary_item": {
-        "id": "dd0aa553a0a3a6884c84134af50aea7d607001cc",
-        "title": "用Claude和Python构建技能驱动的金融分析智能体",
-        "url": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
+        "id": "5a7b9e8962065a5bf9e847f20df3655d0349843d",
+        "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
+        "url": "https://www.aibase.com/news/29938",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9ed44996f7ba",
-      "title": "GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查",
-      "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
-      "primary_url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
+      "story_id": "story_a200dd372db6",
+      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+      "url": "https://www.aibase.com/news/29934",
+      "primary_url": "https://www.aibase.com/news/29934",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "bfb9f551a228bb25739193e50bdee9d17394460f",
-          "title": "GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查",
-          "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:00:00Z"
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "url": "https://www.aibase.com/news/29934",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:56:29.891707Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "bfb9f551a228bb25739193e50bdee9d17394460f",
-          "title": "GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查",
-          "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T18:00:00Z"
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "url": "https://www.aibase.com/news/29934",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:56:29.891707Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5858,
+        "recency": 0.8975,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T18:00:00Z",
-      "latest_at": "2026-07-27T18:00:00Z",
+      "earliest_at": "2026-07-28T03:56:29.891707Z",
+      "latest_at": "2026-07-28T03:56:29.891707Z",
       "primary_item": {
-        "id": "bfb9f551a228bb25739193e50bdee9d17394460f",
-        "title": "GitHub Copilot 发布&quot;Harness&quot;工作流：用单一工具完成原型、规划、实现与代码审查",
-        "url": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f2066f207628",
-      "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-      "url": "https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9",
-      "primary_url": "https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "50a2743939f3ddc35494a1449a21b3c9d081f2af",
-          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-          "url": "https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T17:50:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "50a2743939f3ddc35494a1449a21b3c9d081f2af",
-          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-          "url": "https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T17:50:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.579,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T17:50:17Z",
-      "latest_at": "2026-07-27T17:50:17Z",
-      "primary_item": {
-        "id": "50a2743939f3ddc35494a1449a21b3c9d081f2af",
-        "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-        "url": "https://aihot.virxact.com/items/cms3ivlee000oroiy8dntgvq9",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
+        "id": "497017980a6f12ca52c184fb969c297cea804980",
+        "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "url": "https://www.aibase.com/news/29934",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1219,14 +1242,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8975,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1279,14 +1302,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8975,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1339,14 +1362,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8975,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1365,63 +1388,81 @@
       }
     },
     {
-      "story_id": "story_a2df7a4bc08c",
-      "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
-      "url": "https://www.aibase.com/news/29935",
-      "primary_url": "https://www.aibase.com/news/29935",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_40cae4fbe9ba",
+      "title": "对9B开放模型进行价值500美元的RL微调，在目录审查中表现优于前沿模型",
+      "url": "https://fermisense.com/when-machines-take-the-wheel",
+      "primary_url": "https://fermisense.com/when-machines-take-the-wheel",
+      "source": "fermisense.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
-          "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
-          "url": "https://www.aibase.com/news/29935",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T03:56:29.891707Z"
+          "id": "6b3345f31583c5a0eeae9cf0fbf97663fb43f216",
+          "title": "对9B开放模型进行价值500美元的RL微调，在目录审查中表现优于前沿模型",
+          "url": "https://fermisense.com/when-machines-take-the-wheel",
+          "source": "fermisense.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T06:17:14.089000Z"
+        },
+        {
+          "id": "1f256977b2a44649e0994513f4b4ecb822f42219",
+          "title": "对9B开放模型进行价值500美元的RL微调，在目录审查中表现优于前沿模型 / A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+          "url": "https://fermisense.com/when-machines-take-the-wheel",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T02:18:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "fermisense.com"
       ],
       "items": [
         {
-          "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
-          "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
-          "url": "https://www.aibase.com/news/29935",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T03:56:29.891707Z"
+          "id": "6b3345f31583c5a0eeae9cf0fbf97663fb43f216",
+          "title": "对9B开放模型进行价值500美元的RL微调，在目录审查中表现优于前沿模型",
+          "url": "https://fermisense.com/when-machines-take-the-wheel",
+          "source": "fermisense.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T06:17:14.089000Z"
+        },
+        {
+          "id": "1f256977b2a44649e0994513f4b4ecb822f42219",
+          "title": "对9B开放模型进行价值500美元的RL微调，在目录审查中表现优于前沿模型 / A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+          "url": "https://fermisense.com/when-machines-take-the-wheel",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-28T02:18:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9953,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-28T03:56:29.891707Z",
-      "latest_at": "2026-07-28T03:56:29.891707Z",
+      "earliest_at": "2026-07-28T02:18:53Z",
+      "latest_at": "2026-07-28T06:17:14.089000Z",
       "primary_item": {
-        "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
-        "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
-        "url": "https://www.aibase.com/news/29935",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "6b3345f31583c5a0eeae9cf0fbf97663fb43f216",
+        "title": "对9B开放模型进行价值500美元的RL微调，在目录审查中表现优于前沿模型",
+        "url": "https://fermisense.com/when-machines-take-the-wheel",
+        "source": "fermisense.com",
+        "source_name": "Buzzing"
       }
     }
   ]
