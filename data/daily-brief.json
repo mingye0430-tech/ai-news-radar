@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T17:08:35.479556Z",
+  "generated_at": "2026-07-29T18:30:32.149764Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0308-589d-bed5-14a768d2b72c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0308-589d-bed5-14a768d2b72c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0430-5581-bd75-32da25690538&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0430-5581-bd75-32da25690538&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "9918262bb7b50b5db1c189ce98e789afdb914345",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0430-5581-bd75-32da25690538&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "866663bcea3ab871daf8ddf4dbc548de5d0f9537",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "70a7ff59692381946a47e938a70315e458e49dcb",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "311be9b30320613c9c9d492ddc4a97066330e19f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0350-527d-8075-e6e3a4fb5801&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "9918262bb7b50b5db1c189ce98e789afdb914345",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0430-5581-bd75-32da25690538&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "866663bcea3ab871daf8ddf4dbc548de5d0f9537",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0308-589d-bed5-14a768d2b72c&fp=-3",
@@ -219,15 +228,6 @@
           "id": "70a7ff59692381946a47e938a70315e458e49dcb",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "311be9b30320613c9c9d492ddc4a97066330e19f",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0350-527d-8075-e6e3a4fb5801&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T17:50:31.807368Z",
-      "latest_at": "2026-07-29T17:08:35.479556Z",
+      "earliest_at": "2026-07-28T19:14:23.160267Z",
+      "latest_at": "2026-07-29T18:30:32.149764Z",
       "primary_item": {
-        "id": "866663bcea3ab871daf8ddf4dbc548de5d0f9537",
+        "id": "9918262bb7b50b5db1c189ce98e789afdb914345",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0308-589d-bed5-14a768d2b72c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0430-5581-bd75-32da25690538&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8698,
+        "recency": 0.8129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -321,6 +321,246 @@
         "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b6ed8b9da7d5",
+      "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
+      "url": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7",
+      "primary_url": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ddabe76f61eec66df4a6ae9c91c6f9353b4fffea",
+          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
+          "url": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:50:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "ddabe76f61eec66df4a6ae9c91c6f9353b4fffea",
+          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
+          "url": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:50:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9722,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T17:50:30Z",
+      "latest_at": "2026-07-29T17:50:30Z",
+      "primary_item": {
+        "id": "ddabe76f61eec66df4a6ae9c91c6f9353b4fffea",
+        "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
+        "url": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_984cff605560",
+      "title": "OpenAI 为学术研究者免费提供前沿模型",
+      "url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+      "primary_url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0eca8f1ef373990ceb4f797455b9abd510815aff",
+          "title": "OpenAI 为学术研究者免费提供前沿模型",
+          "url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:22:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sherwin Wu（@sherwinwu）"
+      ],
+      "items": [
+        {
+          "id": "0eca8f1ef373990ceb4f797455b9abd510815aff",
+          "title": "OpenAI 为学术研究者免费提供前沿模型",
+          "url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+          "source": "X：Sherwin Wu（@sherwinwu）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:22:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9524,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T17:22:02Z",
+      "latest_at": "2026-07-29T17:22:02Z",
+      "primary_item": {
+        "id": "0eca8f1ef373990ceb4f797455b9abd510815aff",
+        "title": "OpenAI 为学术研究者免费提供前沿模型",
+        "url": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+        "source": "X：Sherwin Wu（@sherwinwu）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9123aaf6ca51",
+      "title": "Perplexity 开源智能体检测层 Numbat",
+      "url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+      "primary_url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9f8d217079f4a21c9ba962390933d9c2b575e4df",
+          "title": "Perplexity 开源智能体检测层 Numbat",
+          "url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:01:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Perplexity (@perplexity_ai)"
+      ],
+      "items": [
+        {
+          "id": "9f8d217079f4a21c9ba962390933d9c2b575e4df",
+          "title": "Perplexity 开源智能体检测层 Numbat",
+          "url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+          "source": "X：Perplexity (@perplexity_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T17:01:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9383,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T17:01:42Z",
+      "latest_at": "2026-07-29T17:01:42Z",
+      "primary_item": {
+        "id": "9f8d217079f4a21c9ba962390933d9c2b575e4df",
+        "title": "Perplexity 开源智能体检测层 Numbat",
+        "url": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2aa7558d6e08",
+      "title": "Replit 用环境智能重塑 AI 设计体验",
+      "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+      "primary_url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb14e68dce272148d582f3223167f2327d4a9136",
+          "title": "Replit 用环境智能重塑 AI 设计体验",
+          "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "bb14e68dce272148d582f3223167f2327d4a9136",
+          "title": "Replit 用环境智能重塑 AI 设计体验",
+          "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9168,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T16:30:42Z",
+      "latest_at": "2026-07-29T16:30:42Z",
+      "primary_item": {
+        "id": "bb14e68dce272148d582f3223167f2327d4a9136",
+        "title": "Replit 用环境智能重塑 AI 设计体验",
+        "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -358,14 +598,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9589,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -380,6 +620,66 @@
         "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
         "url": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4c0c812e129b",
+      "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+      "url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+      "primary_url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+      "source": "Google DeepMind：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9aa1f4aa59f3c68c1ebaa699ce6ccb15f9487d89",
+          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+          "url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:02:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9aa1f4aa59f3c68c1ebaa699ce6ccb15f9487d89",
+          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+          "url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:02:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.897,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T16:02:10Z",
+      "latest_at": "2026-07-29T16:02:10Z",
+      "primary_item": {
+        "id": "9aa1f4aa59f3c68c1ebaa699ce6ccb15f9487d89",
+        "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+        "url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
+        "source": "Google DeepMind：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -418,14 +718,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9351,
+        "recency": 0.8782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -478,14 +778,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9118,
+        "recency": 0.8549,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,14 +857,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7141,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -636,14 +936,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.2857,
+        "recency": 0.2288,
         "story_heat": 0.25
       },
       "category": "official",
@@ -698,14 +998,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8162,
+        "recency": 0.7593,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -758,14 +1058,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7943,
+        "recency": 0.7374,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,14 +1118,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6921,
+        "recency": 0.6352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -879,14 +1179,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7819,
+        "recency": 0.725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -958,14 +1258,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6752,
+        "recency": 0.6183,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1038,14 +1338,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6752,
+        "recency": 0.6183,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1118,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6752,
+        "recency": 0.6183,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1142,66 +1442,6 @@
         "url": "https://www.aibase.com/news/29983",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a6ec8a388aad",
-      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2684,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T23:35:01Z",
-      "latest_at": "2026-07-28T23:35:01Z",
-      "primary_item": {
-        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1258,14 +1498,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6752,
+        "recency": 0.6183,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1282,393 +1522,6 @@
         "url": "https://www.aibase.com/news/29981",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a0ffa3eef543",
-      "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
-      "url": "https://www.aibase.com/news/29980",
-      "primary_url": "https://www.aibase.com/news/29980",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
-          "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
-          "url": "https://www.aibase.com/news/29980",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        },
-        {
-          "id": "9e76c8d0735df156c8c57ae8ce3d50d9b3a6d867",
-          "title": "谷歌解散 AI 系统 AlphaFold 团队，将重心放在 Gemini 上",
-          "url": "https://www.aibase.com/zh/news/29980",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
-          "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
-          "url": "https://www.aibase.com/news/29980",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        },
-        {
-          "id": "9e76c8d0735df156c8c57ae8ce3d50d9b3a6d867",
-          "title": "谷歌解散 AI 系统 AlphaFold 团队，将重心放在 Gemini 上",
-          "url": "https://www.aibase.com/zh/news/29980",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6752,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:20:54.820566Z",
-      "latest_at": "2026-07-29T09:20:54.820566Z",
-      "primary_item": {
-        "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
-        "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
-        "url": "https://www.aibase.com/news/29980",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2823386c5716",
-      "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
-      "url": "https://news.ycombinator.com/item?id=49096188",
-      "primary_url": "https://news.ycombinator.com/item?id=49096188",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "28488c928afc9c7580f77280de6940b8d1d61026",
-          "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
-          "url": "https://news.ycombinator.com/item?id=49096188",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-29T13:29:29.826000Z"
-        },
-        {
-          "id": "e8987391203dc1b3c3ff9a21f692a6b8d083a5b5",
-          "title": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "enklypesalt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T13:29:13.089000Z"
-        },
-        {
-          "id": "99d12ec2c767a81b132fe396235666bcdb8ae735",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "enklypesalt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T12:25:13.325000Z"
-        },
-        {
-          "id": "35c7b098b19b0cec6bfdf85047fd643a6c80ca62",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中 / Copilot will propagate a malicious worm from one Word document to another",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T12:20:10Z"
-        },
-        {
-          "id": "9e4f05e8bcd1abc87dbf58b605888862317047fc",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中 / Document-borne AI worms can self-propagate through Copilot for Word",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T11:44:33Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "enklypesalt.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "28488c928afc9c7580f77280de6940b8d1d61026",
-          "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
-          "url": "https://news.ycombinator.com/item?id=49096188",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-29T13:29:29.826000Z"
-        },
-        {
-          "id": "e8987391203dc1b3c3ff9a21f692a6b8d083a5b5",
-          "title": "通过Word的Copilot，文档携带的AI蠕虫能够自行传播",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "enklypesalt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T13:29:13.089000Z"
-        },
-        {
-          "id": "99d12ec2c767a81b132fe396235666bcdb8ae735",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "enklypesalt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T12:25:13.325000Z"
-        },
-        {
-          "id": "35c7b098b19b0cec6bfdf85047fd643a6c80ca62",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中 / Copilot will propagate a malicious worm from one Word document to another",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T12:20:10Z"
-        },
-        {
-          "id": "9e4f05e8bcd1abc87dbf58b605888862317047fc",
-          "title": "Copilot 会将一种恶意蠕虫从一个 Word 文档传播到另一个 Word 文档中 / Document-borne AI worms can self-propagate through Copilot for Word",
-          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T11:44:33Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5926,
-      "importance": 0.5926,
-      "importance_score": 0.5926,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8479,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T11:44:33Z",
-      "latest_at": "2026-07-29T13:29:29.826000Z",
-      "primary_item": {
-        "id": "28488c928afc9c7580f77280de6940b8d1d61026",
-        "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
-        "url": "https://news.ycombinator.com/item?id=49096188",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8b3387f5a968",
-      "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-      "url": "https://www.aibase.com/news/29985",
-      "primary_url": "https://www.aibase.com/news/29985",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
-          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-          "url": "https://www.aibase.com/news/29985",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T11:38:54.651624Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
-          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-          "url": "https://www.aibase.com/news/29985",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T11:38:54.651624Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7711,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T11:38:54.651624Z",
-      "latest_at": "2026-07-29T11:38:54.651624Z",
-      "primary_item": {
-        "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
-        "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-        "url": "https://www.aibase.com/news/29985",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5e9421b7be60",
-      "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f620aa5e102e1d8bc76044bc44d9971dd6ff9b4c",
-          "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:21:25.897000Z"
-        },
-        {
-          "id": "d6c6c65cafd5d4e8093eb9f1df9caaaf5b01af27",
-          "title": "美联储会议和AI企业财报公布前股市震荡，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T13:45:28.529000Z"
-        },
-        {
-          "id": "1ddde40ef9607a448b6d1c3be43bc6dff69f2b9b",
-          "title": "美联储会议及AI企业财报将至，美股上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T07:37:19.855000Z"
-        },
-        {
-          "id": "fa61a189c8408c51593f75bcb6d9be4a087859d8",
-          "title": "受人工智能利空影响，亚洲股市延续跌势，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T02:49:21.247000Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "f620aa5e102e1d8bc76044bc44d9971dd6ff9b4c",
-          "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:21:25.897000Z"
-        },
-        {
-          "id": "d6c6c65cafd5d4e8093eb9f1df9caaaf5b01af27",
-          "title": "美联储会议和AI企业财报公布前股市震荡，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T13:45:28.529000Z"
-        },
-        {
-          "id": "1ddde40ef9607a448b6d1c3be43bc6dff69f2b9b",
-          "title": "美联储会议及AI企业财报将至，美股上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T07:37:19.855000Z"
-        },
-        {
-          "id": "fa61a189c8408c51593f75bcb6d9be4a087859d8",
-          "title": "受人工智能利空影响，亚洲股市延续跌势，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T02:49:21.247000Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5831,
-      "importance": 0.5831,
-      "importance_score": 0.5831,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9256,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T02:49:21.247000Z",
-      "latest_at": "2026-07-29T15:21:25.897000Z",
-      "primary_item": {
-        "id": "f620aa5e102e1d8bc76044bc44d9971dd6ff9b4c",
-        "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
       }
     }
   ]
