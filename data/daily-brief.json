@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T15:46:53.739150Z",
+  "generated_at": "2026-07-29T17:08:35.479556Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0147-361c-b963-bab6faa05094&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0147-361c-b963-bab6faa05094&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0308-589d-bed5-14a768d2b72c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0308-589d-bed5-14a768d2b72c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "866663bcea3ab871daf8ddf4dbc548de5d0f9537",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0308-589d-bed5-14a768d2b72c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "df6605ddcdc184e99e26fb09dad2b9581176f7c9",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "311be9b30320613c9c9d492ddc4a97066330e19f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0350-527d-8075-e6e3a4fb5801&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cdc3a1ce4d95cca816548d705f01806ff3cc42b2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0202-1643-8f17-4947b1d36bea&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "866663bcea3ab871daf8ddf4dbc548de5d0f9537",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0308-589d-bed5-14a768d2b72c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "df6605ddcdc184e99e26fb09dad2b9581176f7c9",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0147-361c-b963-bab6faa05094&fp=-3",
@@ -219,15 +228,6 @@
           "id": "311be9b30320613c9c9d492ddc4a97066330e19f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0350-527d-8075-e6e3a4fb5801&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cdc3a1ce4d95cca816548d705f01806ff3cc42b2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0202-1643-8f17-4947b1d36bea&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,32 +252,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T16:01:40.266104Z",
-      "latest_at": "2026-07-29T15:46:53.739150Z",
+      "earliest_at": "2026-07-28T17:50:31.807368Z",
+      "latest_at": "2026-07-29T17:08:35.479556Z",
       "primary_item": {
-        "id": "df6605ddcdc184e99e26fb09dad2b9581176f7c9",
+        "id": "866663bcea3ab871daf8ddf4dbc548de5d0f9537",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0147-361c-b963-bab6faa05094&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0308-589d-bed5-14a768d2b72c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_ee3da82e3a26",
-      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "story_id": "story_65e0a5db5254",
+      "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
+          "published_at": "2026-07-29T14:01:07Z"
         }
       ],
       "source_count": 1,
@@ -286,25 +286,25 @@
       ],
       "items": [
         {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
+          "published_at": "2026-07-29T14:01:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7488,
+        "ai_relevance": 0.91,
+        "recency": 0.8698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -313,18 +313,198 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T09:45:11Z",
-      "latest_at": "2026-07-29T09:45:11Z",
+      "earliest_at": "2026-07-29T14:01:07Z",
+      "latest_at": "2026-07-29T14:01:07Z",
       "primary_item": {
-        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+        "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_50b1c91f9999",
+      "story_id": "story_6eabbf29392b",
+      "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+      "url": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3",
+      "primary_url": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2d38dc6c8abded6fd27f5a4adf138e0437e4604c",
+          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+          "url": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:09:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "2d38dc6c8abded6fd27f5a4adf138e0437e4604c",
+          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+          "url": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:09:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9589,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T16:09:22Z",
+      "latest_at": "2026-07-29T16:09:22Z",
+      "primary_item": {
+        "id": "2d38dc6c8abded6fd27f5a4adf138e0437e4604c",
+        "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+        "url": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_548735e5a35f",
+      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+      "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+      "primary_url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "03028f10a91caa575511fa38456fa74058a915da",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:35:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "03028f10a91caa575511fa38456fa74058a915da",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:35:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9351,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T15:35:09Z",
+      "latest_at": "2026-07-29T15:35:09Z",
+      "primary_item": {
+        "id": "03028f10a91caa575511fa38456fa74058a915da",
+        "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+        "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5ace2a992239",
+      "title": "算力价格未来可能上涨 10 倍以上",
+      "url": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
+      "primary_url": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "153c2816f4b0425eca3cd4d8b164ab6c0e55cbb8",
+          "title": "算力价格未来可能上涨 10 倍以上",
+          "url": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:01:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "153c2816f4b0425eca3cd4d8b164ab6c0e55cbb8",
+          "title": "算力价格未来可能上涨 10 倍以上",
+          "url": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:01:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9118,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T15:01:35Z",
+      "latest_at": "2026-07-29T15:01:35Z",
+      "primary_item": {
+        "id": "153c2816f4b0425eca3cd4d8b164ab6c0e55cbb8",
+        "title": "算力价格未来可能上涨 10 倍以上",
+        "url": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f1c958a670a3",
       "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
       "url": "https://www.aibase.com/news/29984",
       "primary_url": "https://www.aibase.com/news/29984",
@@ -377,14 +557,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8278,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -401,6 +581,86 @@
         "url": "https://www.aibase.com/news/29984",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        },
+        {
+          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
+          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        },
+        {
+          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
+          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.2857,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-29T00:00:00Z",
+      "primary_item": {
+        "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
+        "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -438,14 +698,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8729,
+        "recency": 0.8162,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -498,14 +758,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.851,
+        "recency": 0.7943,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,6 +781,67 @@
         "url": "https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ee3da82e3a26",
+      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6921,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:45:11Z",
+      "latest_at": "2026-07-29T09:45:11Z",
+      "primary_item": {
+        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -558,14 +879,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8386,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -581,67 +902,6 @@
         "url": "https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.3424,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-        "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -698,14 +958,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.732,
+        "recency": 0.6752,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -778,14 +1038,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.732,
+        "recency": 0.6752,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -802,66 +1062,6 @@
         "url": "https://www.aibase.com/news/29979",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a6ec8a388aad",
-      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3251,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T23:35:01Z",
-      "latest_at": "2026-07-28T23:35:01Z",
-      "primary_item": {
-        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -918,14 +1118,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.732,
+        "recency": 0.6752,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -942,6 +1142,66 @@
         "url": "https://www.aibase.com/news/29983",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a6ec8a388aad",
+      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T23:35:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T23:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.2684,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T23:35:01Z",
+      "latest_at": "2026-07-28T23:35:01Z",
+      "primary_item": {
+        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -998,14 +1258,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.732,
+        "recency": 0.6752,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1078,14 +1338,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.732,
+        "recency": 0.6752,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1214,14 +1474,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6039,
-      "importance": 0.6039,
-      "importance_score": 0.6039,
+      "score": 0.5926,
+      "importance": 0.5926,
+      "importance_score": 0.5926,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9046,
+        "recency": 0.8479,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1273,14 +1533,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8278,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1387,14 +1647,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5945,
-      "importance": 0.5945,
-      "importance_score": 0.5945,
+      "score": 0.5831,
+      "importance": 0.5831,
+      "importance_score": 0.5831,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "recency": 0.9256,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1409,300 +1669,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5ebca1cd1ca8",
-      "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
-      "url": "https://www.aibase.com/news/29973",
-      "primary_url": "https://www.aibase.com/news/29973",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d359c93b3f9f0c28a4fb6a825c459cb7534f479b",
-          "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
-          "url": "https://www.aibase.com/news/29973",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d359c93b3f9f0c28a4fb6a825c459cb7534f479b",
-          "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
-          "url": "https://www.aibase.com/news/29973",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.732,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:20:54.820566Z",
-      "latest_at": "2026-07-29T09:20:54.820566Z",
-      "primary_item": {
-        "id": "d359c93b3f9f0c28a4fb6a825c459cb7534f479b",
-        "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
-        "url": "https://www.aibase.com/news/29973",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_828eef60c5c3",
-      "title": "如果利用人工智能来破译失传语言，会发生什么？",
-      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
-      "primary_url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "de77ffdce22f80efaa5c935e1b356b2634257576",
-          "title": "如果利用人工智能来破译失传语言，会发生什么？",
-          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:21:26.104000Z"
-        },
-        {
-          "id": "6f1813e9453897b80fa0cc6a66050ba636c5d9ed",
-          "title": "如果利用人工智能来破译失传语言，会发生什么？ / What happens when you put AI to work deciphering lost languages?",
-          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T13:23:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "de77ffdce22f80efaa5c935e1b356b2634257576",
-          "title": "如果利用人工智能来破译失传语言，会发生什么？",
-          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:21:26.104000Z"
-        },
-        {
-          "id": "6f1813e9453897b80fa0cc6a66050ba636c5d9ed",
-          "title": "如果利用人工智能来破译失传语言，会发生什么？ / What happens when you put AI to work deciphering lost languages?",
-          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T13:23:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9823,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T13:23:31Z",
-      "latest_at": "2026-07-29T15:21:26.104000Z",
-      "primary_item": {
-        "id": "de77ffdce22f80efaa5c935e1b356b2634257576",
-        "title": "如果利用人工智能来破译失传语言，会发生什么？",
-        "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5b942aafad8b",
-      "title": "关于Anthropic最新研究成果的一些说明",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-      "primary_url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-      "source": "blog.cryptographyengineering.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5ea013bf2e91ace9c814aaf07a5c4b4756cb4c90",
-          "title": "关于Anthropic最新研究成果的一些说明",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "blog.cryptographyengineering.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:05:23.691000Z"
-        },
-        {
-          "id": "f8914030b546d82e0ea3a54357138d1cd957f430",
-          "title": "关于Anthropic最新研究成果的一些说明 / Some notes about Anthropic’s new results",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T14:28:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "blog.cryptographyengineering.com"
-      ],
-      "items": [
-        {
-          "id": "5ea013bf2e91ace9c814aaf07a5c4b4756cb4c90",
-          "title": "关于Anthropic最新研究成果的一些说明",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "blog.cryptographyengineering.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:05:23.691000Z"
-        },
-        {
-          "id": "f8914030b546d82e0ea3a54357138d1cd957f430",
-          "title": "关于Anthropic最新研究成果的一些说明 / Some notes about Anthropic’s new results",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T14:28:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9712,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T14:28:50Z",
-      "latest_at": "2026-07-29T15:05:23.691000Z",
-      "primary_item": {
-        "id": "5ea013bf2e91ace9c814aaf07a5c4b4756cb4c90",
-        "title": "关于Anthropic最新研究成果的一些说明",
-        "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-        "source": "blog.cryptographyengineering.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6ec9b72d5592",
-      "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。 / Meta Q2 earnings: AI spending in focus for Wall Street, with the stock down 10% in 2026",
-      "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
-      "primary_url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
-      "source": "Business Insider",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "bc150fb59b96dd8b24d6673462f53ac855f6471e",
-          "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。 / Meta Q2 earnings: AI spending in focus for Wall Street, with the stock down 10% in 2026",
-          "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T14:12:25Z"
-        },
-        {
-          "id": "dbcb174d67cfbef7620755dbd3f5b2219e4151c4",
-          "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。",
-          "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T13:45:28.504000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "bc150fb59b96dd8b24d6673462f53ac855f6471e",
-          "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。 / Meta Q2 earnings: AI spending in focus for Wall Street, with the stock down 10% in 2026",
-          "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T14:12:25Z"
-        },
-        {
-          "id": "dbcb174d67cfbef7620755dbd3f5b2219e4151c4",
-          "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。",
-          "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T13:45:28.504000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9344,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T13:45:28.504000Z",
-      "latest_at": "2026-07-29T14:12:25Z",
-      "primary_item": {
-        "id": "bc150fb59b96dd8b24d6673462f53ac855f6471e",
-        "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。 / Meta Q2 earnings: AI spending in focus for Wall Street, with the stock down 10% in 2026",
-        "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
-        "source": "Business Insider",
-        "source_name": "TechURLs"
       }
     }
   ]
