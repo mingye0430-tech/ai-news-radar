@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T03:48:14.390504Z",
+  "generated_at": "2026-07-29T09:20:54.820566Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1348-36a7-bd7f-b129877cce9a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-1348-36a7-bd7f-b129877cce9a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1921-1628-b16a-2c4450b82d1a&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-1921-1628-b16a-2c4450b82d1a&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "dc4392bc3685373dbe3f2a583872a8f2712e9036",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1921-1628-b16a-2c4450b82d1a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b4ba0335671a731eafaa20c50ccedd4a82581d27",
           "title": "点击这里进入 / Click here to enter",
@@ -100,41 +109,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "28fd53543e190655616a18bb69218bed0525f47d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1915-3103-a4b1-256b61437d2a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b737d2577b3fd3fd764d524262aae5dc491b26ea",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1624-272b-b34e-96df8cecbee3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "081ba7a7f8257b0dbdcf0bf88d2e7ea5f4435665",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1356-5192-b2ab-145ee6fb4423&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 11,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "dc4392bc3685373dbe3f2a583872a8f2712e9036",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1921-1628-b16a-2c4450b82d1a&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b4ba0335671a731eafaa20c50ccedd4a82581d27",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1348-36a7-bd7f-b129877cce9a&fp=-3",
@@ -223,37 +214,10 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "28fd53543e190655616a18bb69218bed0525f47d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1915-3103-a4b1-256b61437d2a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "b737d2577b3fd3fd764d524262aae5dc491b26ea",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1624-272b-b34e-96df8cecbee3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "081ba7a7f8257b0dbdcf0bf88d2e7ea5f4435665",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-1356-5192-b2ab-145ee6fb4423&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
+      "item_count": 11,
+      "duplicate_count": 11,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -270,14 +234,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T03:56:29.891707Z",
-      "latest_at": "2026-07-29T03:48:14.390504Z",
+      "earliest_at": "2026-07-28T11:33:04.687508Z",
+      "latest_at": "2026-07-29T09:20:54.820566Z",
       "primary_item": {
-        "id": "b4ba0335671a731eafaa20c50ccedd4a82581d27",
+        "id": "dc4392bc3685373dbe3f2a583872a8f2712e9036",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1348-36a7-bd7f-b129877cce9a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1921-1628-b16a-2c4450b82d1a&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_b7a8023c3791",
+      "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+      "url": "https://www.aibase.com/news/29972",
+      "primary_url": "https://www.aibase.com/news/29972",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "034e53df47a51f30706c341f422edefe2833d210",
+          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+          "url": "https://www.aibase.com/news/29972",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        },
+        {
+          "id": "7823578edbe07d5d11af2038dc96843ad02c4da3",
+          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+          "url": "https://www.aibase.com/zh/news/29972",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "034e53df47a51f30706c341f422edefe2833d210",
+          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+          "url": "https://www.aibase.com/news/29972",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        },
+        {
+          "id": "7823578edbe07d5d11af2038dc96843ad02c4da3",
+          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+          "url": "https://www.aibase.com/zh/news/29972",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:20:54.820566Z",
+      "latest_at": "2026-07-29T09:20:54.820566Z",
+      "primary_item": {
+        "id": "034e53df47a51f30706c341f422edefe2833d210",
+        "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
+        "url": "https://www.aibase.com/news/29972",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -315,14 +359,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.8623,
-      "importance_score": 0.8623,
+      "score": 0.8161,
+      "importance": 0.8161,
+      "importance_score": 0.8161,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8415,
+        "recency": 0.6105,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,6 +383,86 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c090c5a43dcb",
+      "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+      "url": "https://www.aibase.com/news/29979",
+      "primary_url": "https://www.aibase.com/news/29979",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
+          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/news/29979",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        },
+        {
+          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
+          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/zh/news/29979",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
+          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/news/29979",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        },
+        {
+          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
+          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/zh/news/29979",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:20:54.820566Z",
+      "latest_at": "2026-07-29T09:20:54.820566Z",
+      "primary_item": {
+        "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
+        "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+        "url": "https://www.aibase.com/news/29979",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -376,14 +500,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8242,
+        "recency": 0.5931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -403,26 +527,26 @@
       }
     },
     {
-      "story_id": "story_78a87e17424f",
-      "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
-      "url": "https://www.aibase.com/news/29960",
-      "primary_url": "https://www.aibase.com/news/29960",
+      "story_id": "story_2ea5e72314ec",
+      "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+      "url": "https://www.aibase.com/news/29981",
+      "primary_url": "https://www.aibase.com/news/29981",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
-          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
-          "url": "https://www.aibase.com/news/29960",
+          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/news/29981",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T03:48:14.390504Z"
+          "published_at": "2026-07-29T09:20:54.820566Z"
         },
         {
-          "id": "636afb9bbdf49c0d0b97e14ebef66e2fe59b1902",
-          "title": "1100 名 AI 员工联名上书华盛顿：是时候给 AI 开发踩刹车了",
-          "url": "https://www.aibase.com/zh/news/29960",
+          "id": "9cb1f176a81c77c4856ec78c869f5f7f182c9c4a",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/zh/news/29981",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -436,18 +560,18 @@
       ],
       "items": [
         {
-          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
-          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
-          "url": "https://www.aibase.com/news/29960",
+          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/news/29981",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T03:48:14.390504Z"
+          "published_at": "2026-07-29T09:20:54.820566Z"
         },
         {
-          "id": "636afb9bbdf49c0d0b97e14ebef66e2fe59b1902",
-          "title": "1100 名 AI 员工联名上书华盛顿：是时候给 AI 开发踩刹车了",
-          "url": "https://www.aibase.com/zh/news/29960",
+          "id": "9cb1f176a81c77c4856ec78c869f5f7f182c9c4a",
+          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+          "url": "https://www.aibase.com/zh/news/29981",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -472,92 +596,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T03:48:14.390504Z",
-      "latest_at": "2026-07-29T03:48:14.390504Z",
+      "earliest_at": "2026-07-29T09:20:54.820566Z",
+      "latest_at": "2026-07-29T09:20:54.820566Z",
       "primary_item": {
-        "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
-        "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
-        "url": "https://www.aibase.com/news/29960",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e6213cb095f0",
-      "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
-      "url": "https://www.aibase.com/news/29968",
-      "primary_url": "https://www.aibase.com/news/29968",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
-          "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
-          "url": "https://www.aibase.com/news/29968",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T03:48:14.390504Z"
-        },
-        {
-          "id": "eda03f69d71b13701e90ab5c8c1031ba92d642da",
-          "title": "AI 让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
-          "url": "https://www.aibase.com/zh/news/29968",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
-          "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
-          "url": "https://www.aibase.com/news/29968",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T03:48:14.390504Z"
-        },
-        {
-          "id": "eda03f69d71b13701e90ab5c8c1031ba92d642da",
-          "title": "AI 让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
-          "url": "https://www.aibase.com/zh/news/29968",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T03:48:14.390504Z",
-      "latest_at": "2026-07-29T03:48:14.390504Z",
-      "primary_item": {
-        "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
-        "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
-        "url": "https://www.aibase.com/news/29968",
+        "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
+        "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
+        "url": "https://www.aibase.com/news/29981",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -597,14 +641,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9591,
+        "recency": 0.7281,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -620,6 +664,86 @@
         "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a7765be265f6",
+      "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+      "url": "https://www.aibase.com/news/29980",
+      "primary_url": "https://www.aibase.com/news/29980",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
+          "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+          "url": "https://www.aibase.com/news/29980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        },
+        {
+          "id": "9e76c8d0735df156c8c57ae8ce3d50d9b3a6d867",
+          "title": "谷歌解散 AI 系统 AlphaFold 团队，将重心放在 Gemini 上",
+          "url": "https://www.aibase.com/zh/news/29980",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
+          "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+          "url": "https://www.aibase.com/news/29980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        },
+        {
+          "id": "9e76c8d0735df156c8c57ae8ce3d50d9b3a6d867",
+          "title": "谷歌解散 AI 系统 AlphaFold 团队，将重心放在 Gemini 上",
+          "url": "https://www.aibase.com/zh/news/29980",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:20:54.820566Z",
+      "latest_at": "2026-07-29T09:20:54.820566Z",
+      "primary_item": {
+        "id": "012e604e41dde5be4fb0aadddc96a2504b195169",
+        "title": "谷歌解散AI系统AlphaFold团队 将重心放在Gemini上",
+        "url": "https://www.aibase.com/news/29980",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -657,14 +781,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7929,
+        "recency": 0.5619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -718,20 +842,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8558,
+        "recency": 0.6247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T00:20:32Z",
       "latest_at": "2026-07-29T00:20:32Z",
@@ -740,6 +863,65 @@
         "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
         "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_270b36f5d48d",
+      "title": "我的Claude账号被封了",
+      "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+      "primary_url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
+          "title": "我的Claude账号被封了",
+          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:06:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
+          "title": "我的Claude账号被封了",
+          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:06:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6146,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T00:06:00Z",
+      "latest_at": "2026-07-29T00:06:00Z",
+      "primary_item": {
+        "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
+        "title": "我的Claude账号被封了",
+        "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -778,20 +960,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8415,
+        "recency": 0.6105,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T00:00:00Z",
       "latest_at": "2026-07-29T00:00:00Z",
@@ -801,86 +982,6 @@
         "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
         "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_de49b49c573f",
-      "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-      "url": "https://www.aibase.com/news/29955",
-      "primary_url": "https://www.aibase.com/news/29955",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "64ab4a91f2aee7a0f7e155d0a32cad149442cbbd",
-          "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/news/29955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T03:48:14.390504Z"
-        },
-        {
-          "id": "7f2ac1cac858a9e504b6d29cba4971d23f522220",
-          "title": "OpenAI 开源 Codex 安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/zh/news/29955",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "64ab4a91f2aee7a0f7e155d0a32cad149442cbbd",
-          "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/news/29955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T03:48:14.390504Z"
-        },
-        {
-          "id": "7f2ac1cac858a9e504b6d29cba4971d23f522220",
-          "title": "OpenAI 开源 Codex 安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/zh/news/29955",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T03:48:14.390504Z",
-      "latest_at": "2026-07-29T03:48:14.390504Z",
-      "primary_item": {
-        "id": "64ab4a91f2aee7a0f7e155d0a32cad149442cbbd",
-        "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-        "url": "https://www.aibase.com/news/29955",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -918,21 +1019,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5082,
+        "recency": 0.2771,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T16:00:00Z",
       "latest_at": "2026-07-28T16:00:00Z",
@@ -979,20 +1079,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8039,
+        "recency": 0.5729,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T23:05:54Z",
       "latest_at": "2026-07-28T23:05:54Z",
@@ -1005,216 +1104,36 @@
       }
     },
     {
-      "story_id": "story_d4c7154373ba",
-      "title": "Anthropic 支持 AI 发展节奏请愿",
-      "url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-      "primary_url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_20a45b93c590",
+      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2870593fb5e994d3ce872a61220e9d8af39b4a36",
-          "title": "Anthropic 支持 AI 发展节奏请愿",
-          "url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:17:32Z"
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Anthropic (@AnthropicAI)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "2870593fb5e994d3ce872a61220e9d8af39b4a36",
-          "title": "Anthropic 支持 AI 发展节奏请愿",
-          "url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:17:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7703,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T22:17:32Z",
-      "latest_at": "2026-07-28T22:17:32Z",
-      "primary_item": {
-        "id": "2870593fb5e994d3ce872a61220e9d8af39b4a36",
-        "title": "Anthropic 支持 AI 发展节奏请愿",
-        "url": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_76268ed1c5dc",
-      "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
-      "url": "https://aihot.virxact.com/items/cms584so60012ro7cjzrf0wsn",
-      "primary_url": "https://aihot.virxact.com/items/cms584so60012ro7cjzrf0wsn",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96e419c8d74f695370d98ebb06a2f74a41fdf62a",
-          "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
-          "url": "https://aihot.virxact.com/items/cms584so60012ro7cjzrf0wsn",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:10:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "96e419c8d74f695370d98ebb06a2f74a41fdf62a",
-          "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
-          "url": "https://aihot.virxact.com/items/cms584so60012ro7cjzrf0wsn",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:10:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7656,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T22:10:39Z",
-      "latest_at": "2026-07-28T22:10:39Z",
-      "primary_item": {
-        "id": "96e419c8d74f695370d98ebb06a2f74a41fdf62a",
-        "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
-        "url": "https://aihot.virxact.com/items/cms584so60012ro7cjzrf0wsn",
-        "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7c685389daa3",
-      "title": "OpenAI 失控模型二次入侵 Modal 客户",
-      "url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-      "primary_url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0603d54bb3870961a9bf16554f5e3d61a3bc625a",
-          "title": "OpenAI 失控模型二次入侵 Modal 客户",
-          "url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T21:55:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
-      ],
-      "items": [
-        {
-          "id": "0603d54bb3870961a9bf16554f5e3d61a3bc625a",
-          "title": "OpenAI 失控模型二次入侵 Modal 客户",
-          "url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T21:55:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7548,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T21:55:12Z",
-      "latest_at": "2026-07-28T21:55:12Z",
-      "primary_item": {
-        "id": "0603d54bb3870961a9bf16554f5e3d61a3bc625a",
-        "title": "OpenAI 失控模型二次入侵 Modal 客户",
-        "url": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c4fd025a12c4",
-      "title": "OpenAI 呼吁为前沿AI发展设定节奏",
-      "url": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
-      "primary_url": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "737a21b8aa8a6923e888264e38fa3b988364bab8",
-          "title": "OpenAI 呼吁为前沿AI发展设定节奏",
-          "url": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:56:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "737a21b8aa8a6923e888264e38fa3b988364bab8",
-          "title": "OpenAI 呼吁为前沿AI发展设定节奏",
-          "url": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:56:52Z"
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
         }
       ],
       "item_count": 1,
@@ -1222,11 +1141,72 @@
       "score": 0.7549,
       "importance": 0.7549,
       "importance_score": 0.7549,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.4096,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T19:10:45Z",
+      "latest_at": "2026-07-28T19:10:45Z",
+      "primary_item": {
+        "id": "de1bf241fb515307bdd91a342754207be883cea2",
+        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5ebca1cd1ca8",
+      "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
+      "url": "https://www.aibase.com/news/29973",
+      "primary_url": "https://www.aibase.com/news/29973",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d359c93b3f9f0c28a4fb6a825c459cb7534f479b",
+          "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
+          "url": "https://www.aibase.com/news/29973",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d359c93b3f9f0c28a4fb6a825c459cb7534f479b",
+          "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
+          "url": "https://www.aibase.com/news/29973",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7143,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,59 +1214,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T20:56:52Z",
-      "latest_at": "2026-07-28T20:56:52Z",
+      "earliest_at": "2026-07-29T09:20:54.820566Z",
+      "latest_at": "2026-07-29T09:20:54.820566Z",
       "primary_item": {
-        "id": "737a21b8aa8a6923e888264e38fa3b988364bab8",
-        "title": "OpenAI 呼吁为前沿AI发展设定节奏",
-        "url": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
+        "id": "d359c93b3f9f0c28a4fb6a825c459cb7534f479b",
+        "title": "ChatGPT 悄悄给文笔设了道墙：不再模仿在世作家文笔",
+        "url": "https://www.aibase.com/news/29973",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1cb3baa30018",
-      "title": "Hugging Face 公开自主智能体网络攻击详情",
-      "url": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z",
-      "primary_url": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "source_name": "AI HOT",
+      "story_id": "story_aee53df4f287",
+      "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+      "url": "https://www.aibase.com/news/29977",
+      "primary_url": "https://www.aibase.com/news/29977",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "eb3e3ac2cc625d510547b05a8571220e0975198b",
-          "title": "Hugging Face 公开自主智能体网络攻击详情",
-          "url": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:27:17Z"
+          "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
+          "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+          "url": "https://www.aibase.com/news/29977",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "eb3e3ac2cc625d510547b05a8571220e0975198b",
-          "title": "Hugging Face 公开自主智能体网络攻击详情",
-          "url": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:27:17Z"
+          "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
+          "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+          "url": "https://www.aibase.com/news/29977",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6938,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,59 +1274,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T20:27:17Z",
-      "latest_at": "2026-07-28T20:27:17Z",
+      "earliest_at": "2026-07-29T09:20:54.820566Z",
+      "latest_at": "2026-07-29T09:20:54.820566Z",
       "primary_item": {
-        "id": "eb3e3ac2cc625d510547b05a8571220e0975198b",
-        "title": "Hugging Face 公开自主智能体网络攻击详情",
-        "url": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT"
+        "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
+        "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
+        "url": "https://www.aibase.com/news/29977",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_97a2efbd616b",
-      "title": "OpenAI 推出两款新转录模型 API",
-      "url": "https://aihot.virxact.com/items/cms54yoqa0090roehc2530rwk",
-      "primary_url": "https://aihot.virxact.com/items/cms54yoqa0090roehc2530rwk",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
+      "story_id": "story_13327f6db245",
+      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+      "url": "https://www.aibase.com/news/29983",
+      "primary_url": "https://www.aibase.com/news/29983",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "96f9df98d9a84eed855cdd4bf018c6d0c3c6305d",
-          "title": "OpenAI 推出两款新转录模型 API",
-          "url": "https://aihot.virxact.com/items/cms54yoqa0090roehc2530rwk",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:26:58Z"
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "96f9df98d9a84eed855cdd4bf018c6d0c3c6305d",
-          "title": "OpenAI 推出两款新转录模型 API",
-          "url": "https://aihot.virxact.com/items/cms54yoqa0090roehc2530rwk",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:26:58Z"
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6936,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1354,132 +1334,207 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T20:26:58Z",
-      "latest_at": "2026-07-28T20:26:58Z",
+      "earliest_at": "2026-07-29T09:20:54.820566Z",
+      "latest_at": "2026-07-29T09:20:54.820566Z",
       "primary_item": {
-        "id": "96f9df98d9a84eed855cdd4bf018c6d0c3c6305d",
-        "title": "OpenAI 推出两款新转录模型 API",
-        "url": "https://aihot.virxact.com/items/cms54yoqa0090roehc2530rwk",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
+        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+        "url": "https://www.aibase.com/news/29983",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_bc1b33b1f0fb",
-      "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-      "url": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
-      "primary_url": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
-      "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-      "source_name": "AI HOT",
+      "story_id": "story_afeb7d1f0677",
+      "title": "​ChatGPT 周活逼近 10 亿：迟到七个月的里程碑，与三股分流的暗流",
+      "url": "https://www.aibase.com/news/29975",
+      "primary_url": "https://www.aibase.com/news/29975",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4378248b6724d603b5e47c2de19c6433b8d2c277",
-          "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-          "url": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
-          "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:19:41Z"
+          "id": "2319cb8cbe5d756cd65847caa8f3809bc47d6623",
+          "title": "​ChatGPT 周活逼近 10 亿：迟到七个月的里程碑，与三股分流的暗流",
+          "url": "https://www.aibase.com/news/29975",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4378248b6724d603b5e47c2de19c6433b8d2c277",
-          "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-          "url": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
-          "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:19:41Z"
+          "id": "2319cb8cbe5d756cd65847caa8f3809bc47d6623",
+          "title": "​ChatGPT 周活逼近 10 亿：迟到七个月的里程碑，与三股分流的暗流",
+          "url": "https://www.aibase.com/news/29975",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6885,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-28T20:19:41Z",
-      "latest_at": "2026-07-28T20:19:41Z",
+      "earliest_at": "2026-07-29T09:20:54.820566Z",
+      "latest_at": "2026-07-29T09:20:54.820566Z",
       "primary_item": {
-        "id": "4378248b6724d603b5e47c2de19c6433b8d2c277",
-        "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-        "url": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
-        "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-        "source_name": "AI HOT"
+        "id": "2319cb8cbe5d756cd65847caa8f3809bc47d6623",
+        "title": "​ChatGPT 周活逼近 10 亿：迟到七个月的里程碑，与三股分流的暗流",
+        "url": "https://www.aibase.com/news/29975",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a99b6258cb3f",
-      "title": "Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备",
-      "url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
-      "primary_url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_65f8a2e3eddb",
+      "title": "法典安全 / Codex Security",
+      "url": "https://news.ycombinator.com/item?id=49089755",
+      "primary_url": "https://news.ycombinator.com/item?id=49089755",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "ab3f0c487b4f3e01171db7b56084ea76986a8483",
-          "title": "Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备",
-          "url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:17:08Z"
+          "id": "85f5fb5b28001d6e8e9140f63156d74738644704",
+          "title": "法典安全 / Codex Security",
+          "url": "https://news.ycombinator.com/item?id=49089755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T03:21:33.146000Z"
+        },
+        {
+          "id": "b6e6c71c9a9cbded76d793e6c2bf882ac6972f34",
+          "title": "OpenAI 刚刚开源 Codex Security / OpenAI just open-sourced Codex Security",
+          "url": "https://news.ycombinator.com/item?id=49089755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-28T21:58:19.584000Z"
+        },
+        {
+          "id": "29d5bd65207aa47d8e709941b65f74f6f7a577cb",
+          "title": "OpenAI 刚刚将 Codex Security 开源",
+          "url": "https://github.com/openai/codex-security",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T21:45:19.368000Z"
+        },
+        {
+          "id": "50d8d981146fb06e5f4e7b552901d16e9073c8f1",
+          "title": "OpenAI 刚刚将 Codex Security 开源 / Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T20:52:55Z"
+        },
+        {
+          "id": "9c6efbf0731e3ef60d7dddfa88928680ed5acd71",
+          "title": "OpenAI 刚刚将 Codex Security 开源 / OpenAI just open-sourced Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T20:52:55Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 5,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "ab3f0c487b4f3e01171db7b56084ea76986a8483",
-          "title": "Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备",
-          "url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:17:08Z"
+          "id": "85f5fb5b28001d6e8e9140f63156d74738644704",
+          "title": "法典安全 / Codex Security",
+          "url": "https://news.ycombinator.com/item?id=49089755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T03:21:33.146000Z"
+        },
+        {
+          "id": "b6e6c71c9a9cbded76d793e6c2bf882ac6972f34",
+          "title": "OpenAI 刚刚开源 Codex Security / OpenAI just open-sourced Codex Security",
+          "url": "https://news.ycombinator.com/item?id=49089755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-28T21:58:19.584000Z"
+        },
+        {
+          "id": "29d5bd65207aa47d8e709941b65f74f6f7a577cb",
+          "title": "OpenAI 刚刚将 Codex Security 开源",
+          "url": "https://github.com/openai/codex-security",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-28T21:45:19.368000Z"
+        },
+        {
+          "id": "50d8d981146fb06e5f4e7b552901d16e9073c8f1",
+          "title": "OpenAI 刚刚将 Codex Security 开源 / Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T20:52:55Z"
+        },
+        {
+          "id": "9c6efbf0731e3ef60d7dddfa88928680ed5acd71",
+          "title": "OpenAI 刚刚将 Codex Security 开源 / OpenAI just open-sourced Codex Security",
+          "url": "https://github.com/openai/codex-security",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-28T20:52:55Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
-      "importance_label": "行业动态",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5731,
+      "importance": 0.5731,
+      "importance_score": 0.5731,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6867,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7504,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-28T20:17:08Z",
-      "latest_at": "2026-07-28T20:17:08Z",
+      "earliest_at": "2026-07-28T20:52:55Z",
+      "latest_at": "2026-07-29T03:21:33.146000Z",
       "primary_item": {
-        "id": "ab3f0c487b4f3e01171db7b56084ea76986a8483",
-        "title": "Sam Altman 态度转变：AI 发展或需&quot;减速&quot;以让社会做好准备",
-        "url": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "85f5fb5b28001d6e8e9140f63156d74738644704",
+        "title": "法典安全 / Codex Security",
+        "url": "https://news.ycombinator.com/item?id=49089755",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
