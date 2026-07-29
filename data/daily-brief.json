@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T09:20:54.820566Z",
+  "generated_at": "2026-07-29T11:38:54.651624Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1921-1628-b16a-2c4450b82d1a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-1921-1628-b16a-2c4450b82d1a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2139-1729-8fb8-ab215079c1f5&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-2139-1729-8fb8-ab215079c1f5&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "eafe81464341e01a09c2006a39bdd6f2a95c8b4e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2139-1729-8fb8-ab215079c1f5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "dc4392bc3685373dbe3f2a583872a8f2712e9036",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "5926544db6c28158a5e11798a42aa56de6674948",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "2caf4589c77ad820f79c2502bf3601d6afd8e28d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2133-29e1-91b3-4726db19370c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "eafe81464341e01a09c2006a39bdd6f2a95c8b4e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2139-1729-8fb8-ab215079c1f5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "dc4392bc3685373dbe3f2a583872a8f2712e9036",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1921-1628-b16a-2c4450b82d1a&fp=-3",
@@ -201,15 +210,6 @@
           "id": "5926544db6c28158a5e11798a42aa56de6674948",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2350-0911-8fe9-973b369cdb3c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "2caf4589c77ad820f79c2502bf3601d6afd8e28d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2133-29e1-91b3-4726db19370c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,14 +234,216 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T11:33:04.687508Z",
-      "latest_at": "2026-07-29T09:20:54.820566Z",
+      "earliest_at": "2026-07-28T13:49:45.609226Z",
+      "latest_at": "2026-07-29T11:38:54.651624Z",
       "primary_item": {
-        "id": "dc4392bc3685373dbe3f2a583872a8f2712e9036",
+        "id": "eafe81464341e01a09c2006a39bdd6f2a95c8b4e",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1921-1628-b16a-2c4450b82d1a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2139-1729-8fb8-ab215079c1f5&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_ee3da82e3a26",
+      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.921,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:45:11Z",
+      "latest_at": "2026-07-29T09:45:11Z",
+      "primary_item": {
+        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_50b1c91f9999",
+      "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+      "url": "https://www.aibase.com/news/29984",
+      "primary_url": "https://www.aibase.com/news/29984",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:38:54.651624Z"
+        },
+        {
+          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
+          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
+          "url": "https://www.aibase.com/zh/news/29984",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:38:54.651624Z"
+        },
+        {
+          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
+          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
+          "url": "https://www.aibase.com/zh/news/29984",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T11:38:54.651624Z",
+      "latest_at": "2026-07-29T11:38:54.651624Z",
+      "primary_item": {
+        "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+        "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+        "url": "https://www.aibase.com/news/29984",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.5146,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-29T00:00:00Z",
+      "primary_item": {
+        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+        "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -298,14 +500,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9042,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -322,67 +524,6 @@
         "url": "https://www.aibase.com/news/29972",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.6105,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-        "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -439,14 +580,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9042,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -500,14 +641,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5931,
+        "recency": 0.4973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -524,6 +665,145 @@
         "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_01981b6f25e0",
+      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+      "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+      "primary_url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6322,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T02:49:20Z",
+      "latest_at": "2026-07-29T02:49:20Z",
+      "primary_item": {
+        "id": "63d2a850af8e88d42af7283369445546207d8f5b",
+        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_13327f6db245",
+      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+      "url": "https://www.aibase.com/news/29983",
+      "primary_url": "https://www.aibase.com/news/29983",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        },
+        {
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T09:20:54.820566Z"
+        },
+        {
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9042,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:20:54.820566Z",
+      "latest_at": "2026-07-29T11:38:54.651624Z",
+      "primary_item": {
+        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+        "url": "https://www.aibase.com/news/29983",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -580,14 +860,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9042,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -607,63 +887,64 @@
       }
     },
     {
-      "story_id": "story_01981b6f25e0",
-      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-      "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-      "primary_url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_575a114743a2",
+      "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+      "primary_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
-          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T02:49:20Z"
+          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T22:50:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "63d2a850af8e88d42af7283369445546207d8f5b",
-          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-          "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T02:49:20Z"
+          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T22:50:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
-      "importance_label": "行业动态",
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7281,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.4661,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T02:49:20Z",
-      "latest_at": "2026-07-29T02:49:20Z",
+      "earliest_at": "2026-07-28T22:50:05Z",
+      "latest_at": "2026-07-28T22:50:05Z",
       "primary_item": {
-        "id": "63d2a850af8e88d42af7283369445546207d8f5b",
-        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-        "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+        "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -720,14 +1001,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9042,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -744,363 +1025,6 @@
         "url": "https://www.aibase.com/news/29980",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_575a114743a2",
-      "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "primary_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5619,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T22:50:05Z",
-      "latest_at": "2026-07-28T22:50:05Z",
-      "primary_item": {
-        "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-        "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_02f1defa53b1",
-      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-      "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-      "primary_url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
-          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-          "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:20:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
-          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-          "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:20:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6247,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T00:20:32Z",
-      "latest_at": "2026-07-29T00:20:32Z",
-      "primary_item": {
-        "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
-        "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-        "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_270b36f5d48d",
-      "title": "我的Claude账号被封了",
-      "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-      "primary_url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
-          "title": "我的Claude账号被封了",
-          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:06:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
-          "title": "我的Claude账号被封了",
-          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:06:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6146,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T00:06:00Z",
-      "latest_at": "2026-07-29T00:06:00Z",
-      "primary_item": {
-        "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
-        "title": "我的Claude账号被封了",
-        "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_262ccbd9ae4e",
-      "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-      "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-      "primary_url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0510f2fe923bf266e88d7b715167e242ad554902",
-          "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-          "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0510f2fe923bf266e88d7b715167e242ad554902",
-          "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-          "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6105,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "0510f2fe923bf266e88d7b715167e242ad554902",
-        "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-        "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d81cfe08f75c",
-      "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2771,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T16:00:00Z",
-      "latest_at": "2026-07-28T16:00:00Z",
-      "primary_item": {
-        "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-        "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1e141fc09d34",
-      "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-      "url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-      "primary_url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c44adb03555807d891b4605e719319dcc75982fb",
-          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-          "url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T23:05:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "c44adb03555807d891b4605e719319dcc75982fb",
-          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-          "url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T23:05:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5729,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T23:05:54Z",
-      "latest_at": "2026-07-28T23:05:54Z",
-      "primary_item": {
-        "id": "c44adb03555807d891b4605e719319dcc75982fb",
-        "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-        "url": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1138,21 +1062,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4096,
+        "recency": 0.3138,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T19:10:45Z",
       "latest_at": "2026-07-28T19:10:45Z",
@@ -1162,6 +1085,66 @@
         "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8b3387f5a968",
+      "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+      "url": "https://www.aibase.com/news/29985",
+      "primary_url": "https://www.aibase.com/news/29985",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
+          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+          "url": "https://www.aibase.com/news/29985",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:38:54.651624Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
+          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+          "url": "https://www.aibase.com/news/29985",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T11:38:54.651624Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T11:38:54.651624Z",
+      "latest_at": "2026-07-29T11:38:54.651624Z",
+      "primary_item": {
+        "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
+        "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+        "url": "https://www.aibase.com/news/29985",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1199,14 +1182,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1222,6 +1205,103 @@
         "url": "https://www.aibase.com/news/29973",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0ad5b94bb775",
+      "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+      "url": "https://news.ycombinator.com/item?id=49095143",
+      "primary_url": "https://news.ycombinator.com/item?id=49095143",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b72108c43fba5e8041c9d569c0b88ec96c7520fc",
+          "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://news.ycombinator.com/item?id=49095143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T11:29:02.111000Z"
+        },
+        {
+          "id": "49d5200aa2b707bb64f2d1c37112bf220dc500d9",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim",
+          "url": "https://vimgolf.ai",
+          "source": "vimgolf.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T09:29:15.109000Z"
+        },
+        {
+          "id": "f7d196484bb37849e0d71a837e52d207d47e53de",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://vimgolf.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-29T09:26:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "vimgolf.ai"
+      ],
+      "items": [
+        {
+          "id": "b72108c43fba5e8041c9d569c0b88ec96c7520fc",
+          "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://news.ycombinator.com/item?id=49095143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T11:29:02.111000Z"
+        },
+        {
+          "id": "49d5200aa2b707bb64f2d1c37112bf220dc500d9",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim",
+          "url": "https://vimgolf.ai",
+          "source": "vimgolf.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T09:29:15.109000Z"
+        },
+        {
+          "id": "f7d196484bb37849e0d71a837e52d207d47e53de",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://vimgolf.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-29T09:26:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5716,
+      "importance": 0.5716,
+      "importance_score": 0.5716,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9931,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T09:26:52Z",
+      "latest_at": "2026-07-29T11:29:02.111000Z",
+      "primary_item": {
+        "id": "b72108c43fba5e8041c9d569c0b88ec96c7520fc",
+        "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+        "url": "https://news.ycombinator.com/item?id=49095143",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1259,14 +1339,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1285,256 +1365,236 @@
       }
     },
     {
-      "story_id": "story_13327f6db245",
-      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-      "url": "https://www.aibase.com/news/29983",
-      "primary_url": "https://www.aibase.com/news/29983",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a7aeb4c8ba49",
+      "title": "不同的人工智能/镂空 / different-ai / openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "primary_url": "https://github.com/different-ai/openwork",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
-          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-          "url": "https://www.aibase.com/news/29983",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
+          "id": "e2802fe878316feea0e6b1d6a9defb2ab4753dac",
+          "title": "不同的人工智能/镂空 / different-ai / openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "79bf01336d53f795c988f3cfe9945fe1c182acd5",
+          "title": "不同的人工智能/镂空 / different-ai /      openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T11:26:33.372000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
-          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-          "url": "https://www.aibase.com/news/29983",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:20:54.820566Z",
-      "latest_at": "2026-07-29T09:20:54.820566Z",
-      "primary_item": {
-        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
-        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-        "url": "https://www.aibase.com/news/29983",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_afeb7d1f0677",
-      "title": "​ChatGPT 周活逼近 10 亿：迟到七个月的里程碑，与三股分流的暗流",
-      "url": "https://www.aibase.com/news/29975",
-      "primary_url": "https://www.aibase.com/news/29975",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
+          "id": "e2802fe878316feea0e6b1d6a9defb2ab4753dac",
+          "title": "不同的人工智能/镂空 / different-ai / openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
         {
-          "id": "2319cb8cbe5d756cd65847caa8f3809bc47d6623",
-          "title": "​ChatGPT 周活逼近 10 亿：迟到七个月的里程碑，与三股分流的暗流",
-          "url": "https://www.aibase.com/news/29975",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2319cb8cbe5d756cd65847caa8f3809bc47d6623",
-          "title": "​ChatGPT 周活逼近 10 亿：迟到七个月的里程碑，与三股分流的暗流",
-          "url": "https://www.aibase.com/news/29975",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:20:54.820566Z",
-      "latest_at": "2026-07-29T09:20:54.820566Z",
-      "primary_item": {
-        "id": "2319cb8cbe5d756cd65847caa8f3809bc47d6623",
-        "title": "​ChatGPT 周活逼近 10 亿：迟到七个月的里程碑，与三股分流的暗流",
-        "url": "https://www.aibase.com/news/29975",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_65f8a2e3eddb",
-      "title": "法典安全 / Codex Security",
-      "url": "https://news.ycombinator.com/item?id=49089755",
-      "primary_url": "https://news.ycombinator.com/item?id=49089755",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "85f5fb5b28001d6e8e9140f63156d74738644704",
-          "title": "法典安全 / Codex Security",
-          "url": "https://news.ycombinator.com/item?id=49089755",
-          "source": "hackernews",
+          "id": "79bf01336d53f795c988f3cfe9945fe1c182acd5",
+          "title": "不同的人工智能/镂空 / different-ai /      openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-29T03:21:33.146000Z"
-        },
-        {
-          "id": "b6e6c71c9a9cbded76d793e6c2bf882ac6972f34",
-          "title": "OpenAI 刚刚开源 Codex Security / OpenAI just open-sourced Codex Security",
-          "url": "https://news.ycombinator.com/item?id=49089755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T21:58:19.584000Z"
-        },
-        {
-          "id": "29d5bd65207aa47d8e709941b65f74f6f7a577cb",
-          "title": "OpenAI 刚刚将 Codex Security 开源",
-          "url": "https://github.com/openai/codex-security",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T21:45:19.368000Z"
-        },
-        {
-          "id": "50d8d981146fb06e5f4e7b552901d16e9073c8f1",
-          "title": "OpenAI 刚刚将 Codex Security 开源 / Codex Security",
-          "url": "https://github.com/openai/codex-security",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-28T20:52:55Z"
-        },
-        {
-          "id": "9c6efbf0731e3ef60d7dddfa88928680ed5acd71",
-          "title": "OpenAI 刚刚将 Codex Security 开源 / OpenAI just open-sourced Codex Security",
-          "url": "https://github.com/openai/codex-security",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-28T20:52:55Z"
+          "published_at": "2026-07-29T11:26:33.372000Z"
         }
       ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "85f5fb5b28001d6e8e9140f63156d74738644704",
-          "title": "法典安全 / Codex Security",
-          "url": "https://news.ycombinator.com/item?id=49089755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-29T03:21:33.146000Z"
-        },
-        {
-          "id": "b6e6c71c9a9cbded76d793e6c2bf882ac6972f34",
-          "title": "OpenAI 刚刚开源 Codex Security / OpenAI just open-sourced Codex Security",
-          "url": "https://news.ycombinator.com/item?id=49089755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-28T21:58:19.584000Z"
-        },
-        {
-          "id": "29d5bd65207aa47d8e709941b65f74f6f7a577cb",
-          "title": "OpenAI 刚刚将 Codex Security 开源",
-          "url": "https://github.com/openai/codex-security",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-28T21:45:19.368000Z"
-        },
-        {
-          "id": "50d8d981146fb06e5f4e7b552901d16e9073c8f1",
-          "title": "OpenAI 刚刚将 Codex Security 开源 / Codex Security",
-          "url": "https://github.com/openai/codex-security",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-28T20:52:55Z"
-        },
-        {
-          "id": "9c6efbf0731e3ef60d7dddfa88928680ed5acd71",
-          "title": "OpenAI 刚刚将 Codex Security 开源 / OpenAI just open-sourced Codex Security",
-          "url": "https://github.com/openai/codex-security",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-28T20:52:55Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5731,
-      "importance": 0.5731,
-      "importance_score": 0.5731,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7504,
-        "story_heat": 1.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-28T20:52:55Z",
-      "latest_at": "2026-07-29T03:21:33.146000Z",
+      "earliest_at": "2026-07-29T11:26:33.372000Z",
+      "latest_at": "2026-07-29T11:38:54.651624Z",
       "primary_item": {
-        "id": "85f5fb5b28001d6e8e9140f63156d74738644704",
-        "title": "法典安全 / Codex Security",
-        "url": "https://news.ycombinator.com/item?id=49089755",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "e2802fe878316feea0e6b1d6a9defb2ab4753dac",
+        "title": "不同的人工智能/镂空 / different-ai / openwork",
+        "url": "https://github.com/different-ai/openwork",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6cc9999f1d8a",
+      "title": "人工智能热潮正在瓦解全球决策机制",
+      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+      "primary_url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+      "source": "hermit-tech.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f111f4a01f2abe5cf8317ba0e29787ac352807bc",
+          "title": "人工智能热潮正在瓦解全球决策机制",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "hermit-tech.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T11:05:29.666000Z"
+        },
+        {
+          "id": "6c4c55e5af0d940aa991f1843e3d7184ecaa1532",
+          "title": "人工智能热潮正在瓦解全球决策机制 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T10:42:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "hermit-tech.com"
+      ],
+      "items": [
+        {
+          "id": "f111f4a01f2abe5cf8317ba0e29787ac352807bc",
+          "title": "人工智能热潮正在瓦解全球决策机制",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "hermit-tech.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T11:05:29.666000Z"
+        },
+        {
+          "id": "6c4c55e5af0d940aa991f1843e3d7184ecaa1532",
+          "title": "人工智能热潮正在瓦解全球决策机制 / AI Mania Is Eviscerating Global Decision-Making",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T10:42:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9768,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T10:42:50Z",
+      "latest_at": "2026-07-29T11:05:29.666000Z",
+      "primary_item": {
+        "id": "f111f4a01f2abe5cf8317ba0e29787ac352807bc",
+        "title": "人工智能热潮正在瓦解全球决策机制",
+        "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+        "source": "hermit-tech.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_55a47ab47b27",
+      "title": "Moonshot AI 融资额超额完成，估值达350亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d32acbe960cd439803bb42c64055480145ac5e8d",
+          "title": "Moonshot AI 融资额超额完成，估值达350亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T10:33:21.682000Z"
+        },
+        {
+          "id": "3f3ab7b72f3afdcaa4315a1b1b43686f37feb898",
+          "title": "中国人工智能公司Moonshot AI融资额超预期，估值达350亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T08:44:12.139000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "d32acbe960cd439803bb42c64055480145ac5e8d",
+          "title": "Moonshot AI 融资额超额完成，估值达350亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T10:33:21.682000Z"
+        },
+        {
+          "id": "3f3ab7b72f3afdcaa4315a1b1b43686f37feb898",
+          "title": "中国人工智能公司Moonshot AI融资额超预期，估值达350亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T08:44:12.139000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9545,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T08:44:12.139000Z",
+      "latest_at": "2026-07-29T10:33:21.682000Z",
+      "primary_item": {
+        "id": "d32acbe960cd439803bb42c64055480145ac5e8d",
+        "title": "Moonshot AI 融资额超额完成，估值达350亿美元",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     }
   ]
