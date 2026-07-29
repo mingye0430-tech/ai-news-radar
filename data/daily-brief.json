@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T18:30:32.149764Z",
+  "generated_at": "2026-07-29T20:08:34.056225Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0430-5581-bd75-32da25690538&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0430-5581-bd75-32da25690538&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0608-55ac-9f6e-b8333ea399eb&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0608-55ac-9f6e-b8333ea399eb&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "0b3c97b5668980f19ceb6a9f1669df2a9e06fe20",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0608-55ac-9f6e-b8333ea399eb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "9918262bb7b50b5db1c189ce98e789afdb914345",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "7054e6180781803d20909a83d66836a9f4a3d756",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0641-0247-8d93-98f428fadd32&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "70a7ff59692381946a47e938a70315e458e49dcb",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "0b3c97b5668980f19ceb6a9f1669df2a9e06fe20",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0608-55ac-9f6e-b8333ea399eb&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "9918262bb7b50b5db1c189ce98e789afdb914345",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0430-5581-bd75-32da25690538&fp=-3",
@@ -219,15 +228,6 @@
           "id": "7054e6180781803d20909a83d66836a9f4a3d756",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0641-0247-8d93-98f428fadd32&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "70a7ff59692381946a47e938a70315e458e49dcb",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0514-45cb-a69d-bd309d1b49ac&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T19:14:23.160267Z",
-      "latest_at": "2026-07-29T18:30:32.149764Z",
+      "earliest_at": "2026-07-28T20:40:42.149102Z",
+      "latest_at": "2026-07-29T20:08:34.056225Z",
       "primary_item": {
-        "id": "9918262bb7b50b5db1c189ce98e789afdb914345",
+        "id": "0b3c97b5668980f19ceb6a9f1669df2a9e06fe20",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0430-5581-bd75-32da25690538&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0608-55ac-9f6e-b8333ea399eb&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8129,
+        "recency": 0.7448,
         "story_heat": 0.0
       },
       "category": "official",
@@ -321,6 +321,66 @@
         "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_26129461f26c",
+      "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
+      "url": "https://aihot.virxact.com/items/cms6g4nn502errohzoxo9al2o",
+      "primary_url": "https://aihot.virxact.com/items/cms6g4nn502errohzoxo9al2o",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6819c323a39e4e3fc4bdb9506ae983b4b2dac201",
+          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
+          "url": "https://aihot.virxact.com/items/cms6g4nn502errohzoxo9al2o",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T18:45:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6819c323a39e4e3fc4bdb9506ae983b4b2dac201",
+          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
+          "url": "https://aihot.virxact.com/items/cms6g4nn502errohzoxo9al2o",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T18:45:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9423,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T18:45:27Z",
+      "latest_at": "2026-07-29T18:45:27Z",
+      "primary_item": {
+        "id": "6819c323a39e4e3fc4bdb9506ae983b4b2dac201",
+        "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
+        "url": "https://aihot.virxact.com/items/cms6g4nn502errohzoxo9al2o",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -358,14 +418,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9722,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -418,14 +478,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9524,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -478,14 +538,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9383,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -538,14 +598,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8487,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -598,14 +658,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.902,
+        "recency": 0.8339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -658,14 +718,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.897,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -680,66 +740,6 @@
         "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
         "url": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
         "source": "Google DeepMind：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_548735e5a35f",
-      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-      "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
-      "primary_url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "03028f10a91caa575511fa38456fa74058a915da",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-          "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:35:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "03028f10a91caa575511fa38456fa74058a915da",
-          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-          "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:35:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8782,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T15:35:09Z",
-      "latest_at": "2026-07-29T15:35:09Z",
-      "primary_item": {
-        "id": "03028f10a91caa575511fa38456fa74058a915da",
-        "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-        "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -778,14 +778,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8549,
+        "recency": 0.7868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -857,14 +857,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7141,
+        "recency": 0.6461,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -936,14 +936,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.2288,
+        "recency": 0.1607,
         "story_heat": 0.25
       },
       "category": "official",
@@ -998,14 +998,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7593,
+        "recency": 0.6912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1058,20 +1058,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7374,
+        "recency": 0.6693,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T12:12:21Z",
       "latest_at": "2026-07-29T12:12:21Z",
@@ -1118,14 +1117,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6352,
+        "recency": 0.5671,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1142,6 +1141,66 @@
         "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_548735e5a35f",
+      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+      "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+      "primary_url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "03028f10a91caa575511fa38456fa74058a915da",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:35:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "03028f10a91caa575511fa38456fa74058a915da",
+          "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+          "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T15:35:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8101,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T15:35:09Z",
+      "latest_at": "2026-07-29T15:35:09Z",
+      "primary_item": {
+        "id": "03028f10a91caa575511fa38456fa74058a915da",
+        "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+        "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1179,20 +1238,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.725,
+        "recency": 0.6569,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T11:54:29Z",
       "latest_at": "2026-07-29T11:54:29Z",
@@ -1258,21 +1316,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6183,
+        "recency": 0.5502,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T09:20:54.820566Z",
       "latest_at": "2026-07-29T09:20:54.820566Z",
@@ -1338,21 +1395,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6183,
+        "recency": 0.5502,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T09:20:54.820566Z",
       "latest_at": "2026-07-29T09:20:54.820566Z",
@@ -1418,21 +1474,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6183,
+        "recency": 0.5502,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T09:20:54.820566Z",
       "latest_at": "2026-07-29T11:38:54.651624Z",
@@ -1440,86 +1495,6 @@
         "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
         "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
         "url": "https://www.aibase.com/news/29983",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5d0c5c0b946d",
-      "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-      "url": "https://www.aibase.com/news/29981",
-      "primary_url": "https://www.aibase.com/news/29981",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
-          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-          "url": "https://www.aibase.com/news/29981",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        },
-        {
-          "id": "9cb1f176a81c77c4856ec78c869f5f7f182c9c4a",
-          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-          "url": "https://www.aibase.com/zh/news/29981",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
-          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-          "url": "https://www.aibase.com/news/29981",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        },
-        {
-          "id": "9cb1f176a81c77c4856ec78c869f5f7f182c9c4a",
-          "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-          "url": "https://www.aibase.com/zh/news/29981",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6183,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:20:54.820566Z",
-      "latest_at": "2026-07-29T09:20:54.820566Z",
-      "primary_item": {
-        "id": "50cea8af1011426b0f5a31cdbdee9cf08cccbf91",
-        "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
-        "url": "https://www.aibase.com/news/29981",
         "source": "AIbase",
         "source_name": "AIbase"
       }
