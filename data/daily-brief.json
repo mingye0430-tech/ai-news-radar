@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T13:54:38.254793Z",
+  "generated_at": "2026-07-29T15:46:53.739150Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2355-018b-af69-e3e652bc1c1b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-2355-018b-af69-e3e652bc1c1b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0147-361c-b963-bab6faa05094&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0147-361c-b963-bab6faa05094&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "df6605ddcdc184e99e26fb09dad2b9581176f7c9",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0147-361c-b963-bab6faa05094&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4be2ac7a2267fae46dbc19c234bc63e476e8f66a",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "df6605ddcdc184e99e26fb09dad2b9581176f7c9",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0147-361c-b963-bab6faa05094&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4be2ac7a2267fae46dbc19c234bc63e476e8f66a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2355-018b-af69-e3e652bc1c1b&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,11 +253,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-28T16:01:40.266104Z",
-      "latest_at": "2026-07-29T13:54:38.254793Z",
+      "latest_at": "2026-07-29T15:46:53.739150Z",
       "primary_item": {
-        "id": "4be2ac7a2267fae46dbc19c234bc63e476e8f66a",
+        "id": "df6605ddcdc184e99e26fb09dad2b9581176f7c9",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2355-018b-af69-e3e652bc1c1b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0147-361c-b963-bab6faa05094&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8268,
+        "recency": 0.7488,
         "story_heat": 0.0
       },
       "category": "official",
@@ -359,14 +377,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.8278,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -420,14 +438,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.8729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -480,14 +498,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.929,
+        "recency": 0.851,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -540,14 +558,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9166,
+        "recency": 0.8386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -600,14 +618,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.4204,
+        "recency": 0.3424,
         "story_heat": 0.0
       },
       "category": "official",
@@ -680,14 +698,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.732,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -707,7 +725,7 @@
       }
     },
     {
-      "story_id": "story_c090c5a43dcb",
+      "story_id": "story_9e9ac0b74498",
       "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
       "url": "https://www.aibase.com/news/29979",
       "primary_url": "https://www.aibase.com/news/29979",
@@ -760,14 +778,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.732,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -821,21 +839,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.403,
+        "recency": 0.3251,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T23:35:01Z",
       "latest_at": "2026-07-28T23:35:01Z",
@@ -901,14 +918,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.732,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -928,7 +945,7 @@
       }
     },
     {
-      "story_id": "story_2ea5e72314ec",
+      "story_id": "story_5d0c5c0b946d",
       "title": "从分布式数据库到 AI 数据平台：OceanBase 寻求独立融资并加速全球化布局",
       "url": "https://www.aibase.com/news/29981",
       "primary_url": "https://www.aibase.com/news/29981",
@@ -981,14 +998,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.732,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1005,66 +1022,6 @@
         "url": "https://www.aibase.com/news/29981",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_575a114743a2",
-      "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "primary_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3718,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T22:50:05Z",
-      "latest_at": "2026-07-28T22:50:05Z",
-      "primary_item": {
-        "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-        "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1121,14 +1078,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.732,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1257,14 +1214,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6195,
-      "importance": 0.6195,
-      "importance_score": 0.6195,
+      "score": 0.6039,
+      "importance": 0.6039,
+      "importance_score": 0.6039,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9825,
+        "recency": 0.9046,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1316,14 +1273,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.8278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1343,13 +1300,22 @@
     },
     {
       "story_id": "story_5e9421b7be60",
-      "title": "美联储会议和AI企业财报公布前股市震荡，油价上涨：市场综述",
+      "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
       "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
       "primary_url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
       "source": "www.bloomberg.com",
       "source_name": "Buzzing",
       "sources": [
         {
+          "id": "f620aa5e102e1d8bc76044bc44d9971dd6ff9b4c",
+          "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T15:21:25.897000Z"
+        },
+        {
           "id": "d6c6c65cafd5d4e8093eb9f1df9caaaf5b01af27",
           "title": "美联储会议和AI企业财报公布前股市震荡，油价上涨：市场综述",
           "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
@@ -1377,12 +1343,21 @@
           "published_at": "2026-07-29T02:49:21.247000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "www.bloomberg.com"
       ],
       "items": [
         {
+          "id": "f620aa5e102e1d8bc76044bc44d9971dd6ff9b4c",
+          "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T15:21:25.897000Z"
+        },
+        {
           "id": "d6c6c65cafd5d4e8093eb9f1df9caaaf5b01af27",
           "title": "美联储会议和AI企业财报公布前股市震荡，油价上涨：市场综述",
           "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
@@ -1410,27 +1385,27 @@
           "published_at": "2026-07-29T02:49:21.247000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5717,
-      "importance": 0.5717,
-      "importance_score": 0.5717,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5945,
+      "importance": 0.5945,
+      "importance_score": 0.5945,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9936,
-        "story_heat": 0.5
+        "recency": 0.9823,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-29T02:49:21.247000Z",
-      "latest_at": "2026-07-29T13:45:28.529000Z",
+      "latest_at": "2026-07-29T15:21:25.897000Z",
       "primary_item": {
-        "id": "d6c6c65cafd5d4e8093eb9f1df9caaaf5b01af27",
-        "title": "美联储会议和AI企业财报公布前股市震荡，油价上涨：市场综述",
+        "id": "f620aa5e102e1d8bc76044bc44d9971dd6ff9b4c",
+        "title": "美联储决议前，受人工智能及战争担忧影响，股市下跌：市场综述",
         "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
@@ -1471,14 +1446,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1497,90 +1472,30 @@
       }
     },
     {
-      "story_id": "story_aee53df4f287",
-      "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-      "url": "https://www.aibase.com/news/29977",
-      "primary_url": "https://www.aibase.com/news/29977",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
-          "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-          "url": "https://www.aibase.com/news/29977",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
-          "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-          "url": "https://www.aibase.com/news/29977",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8099,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:20:54.820566Z",
-      "latest_at": "2026-07-29T09:20:54.820566Z",
-      "primary_item": {
-        "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
-        "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-        "url": "https://www.aibase.com/news/29977",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6f131e8af638",
-      "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题",
-      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
-      "primary_url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+      "story_id": "story_828eef60c5c3",
+      "title": "如果利用人工智能来破译失传语言，会发生什么？",
+      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
+      "primary_url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
       "source": "arstechnica.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "4b654267a659c03cb43ddbbc17b8b4575a4f311c",
-          "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题",
-          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+          "id": "de77ffdce22f80efaa5c935e1b356b2634257576",
+          "title": "如果利用人工智能来破译失传语言，会发生什么？",
+          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
           "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-29T11:53:20.831000Z"
+          "published_at": "2026-07-29T15:21:26.104000Z"
         },
         {
-          "id": "ddca9b17425e33689960cd28705d89c72f9ab9cc",
-          "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题 / Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
-          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+          "id": "6f1813e9453897b80fa0cc6a66050ba636c5d9ed",
+          "title": "如果利用人工智能来破译失传语言，会发生什么？ / What happens when you put AI to work deciphering lost languages?",
+          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
           "source": "Ars Technica (科技媒体)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-29T11:00:39Z"
+          "published_at": "2026-07-29T13:23:31Z"
         }
       ],
       "source_count": 2,
@@ -1590,48 +1505,204 @@
       ],
       "items": [
         {
-          "id": "4b654267a659c03cb43ddbbc17b8b4575a4f311c",
-          "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题",
-          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+          "id": "de77ffdce22f80efaa5c935e1b356b2634257576",
+          "title": "如果利用人工智能来破译失传语言，会发生什么？",
+          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
           "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-29T11:53:20.831000Z"
+          "published_at": "2026-07-29T15:21:26.104000Z"
         },
         {
-          "id": "ddca9b17425e33689960cd28705d89c72f9ab9cc",
-          "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题 / Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
-          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+          "id": "6f1813e9453897b80fa0cc6a66050ba636c5d9ed",
+          "title": "如果利用人工智能来破译失传语言，会发生什么？ / What happens when you put AI to work deciphering lost languages?",
+          "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
           "source": "Ars Technica (科技媒体)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-29T11:00:39Z"
+          "published_at": "2026-07-29T13:23:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9158,
+        "recency": 0.9823,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-29T11:00:39Z",
-      "latest_at": "2026-07-29T11:53:20.831000Z",
+      "earliest_at": "2026-07-29T13:23:31Z",
+      "latest_at": "2026-07-29T15:21:26.104000Z",
       "primary_item": {
-        "id": "4b654267a659c03cb43ddbbc17b8b4575a4f311c",
-        "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题",
-        "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+        "id": "de77ffdce22f80efaa5c935e1b356b2634257576",
+        "title": "如果利用人工智能来破译失传语言，会发生什么？",
+        "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5b942aafad8b",
+      "title": "关于Anthropic最新研究成果的一些说明",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
+      "primary_url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
+      "source": "blog.cryptographyengineering.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5ea013bf2e91ace9c814aaf07a5c4b4756cb4c90",
+          "title": "关于Anthropic最新研究成果的一些说明",
+          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
+          "source": "blog.cryptographyengineering.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T15:05:23.691000Z"
+        },
+        {
+          "id": "f8914030b546d82e0ea3a54357138d1cd957f430",
+          "title": "关于Anthropic最新研究成果的一些说明 / Some notes about Anthropic’s new results",
+          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T14:28:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "blog.cryptographyengineering.com"
+      ],
+      "items": [
+        {
+          "id": "5ea013bf2e91ace9c814aaf07a5c4b4756cb4c90",
+          "title": "关于Anthropic最新研究成果的一些说明",
+          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
+          "source": "blog.cryptographyengineering.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T15:05:23.691000Z"
+        },
+        {
+          "id": "f8914030b546d82e0ea3a54357138d1cd957f430",
+          "title": "关于Anthropic最新研究成果的一些说明 / Some notes about Anthropic’s new results",
+          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T14:28:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9712,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T14:28:50Z",
+      "latest_at": "2026-07-29T15:05:23.691000Z",
+      "primary_item": {
+        "id": "5ea013bf2e91ace9c814aaf07a5c4b4756cb4c90",
+        "title": "关于Anthropic最新研究成果的一些说明",
+        "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
+        "source": "blog.cryptographyengineering.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6ec9b72d5592",
+      "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。 / Meta Q2 earnings: AI spending in focus for Wall Street, with the stock down 10% in 2026",
+      "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
+      "source": "Business Insider",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "bc150fb59b96dd8b24d6673462f53ac855f6471e",
+          "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。 / Meta Q2 earnings: AI spending in focus for Wall Street, with the stock down 10% in 2026",
+          "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-29T14:12:25Z"
+        },
+        {
+          "id": "dbcb174d67cfbef7620755dbd3f5b2219e4151c4",
+          "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。",
+          "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T13:45:28.504000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "bc150fb59b96dd8b24d6673462f53ac855f6471e",
+          "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。 / Meta Q2 earnings: AI spending in focus for Wall Street, with the stock down 10% in 2026",
+          "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-29T14:12:25Z"
+        },
+        {
+          "id": "dbcb174d67cfbef7620755dbd3f5b2219e4151c4",
+          "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。",
+          "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T13:45:28.504000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9344,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T13:45:28.504000Z",
+      "latest_at": "2026-07-29T14:12:25Z",
+      "primary_item": {
+        "id": "bc150fb59b96dd8b24d6673462f53ac855f6471e",
+        "title": "Meta的第二季度财报电话会议将于今天举行。投资者希望看到一些迹象，证明在人工智能领域的大笔投入开始取得回报。 / Meta Q2 earnings: AI spending in focus for Wall Street, with the stock down 10% in 2026",
+        "url": "https://www.businessinsider.com/meta-q2-earnings-report-ai-capex-spending-stock-2026-7",
+        "source": "Business Insider",
+        "source_name": "TechURLs"
       }
     }
   ]
