@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-30T10:18:09.592456Z",
+  "generated_at": "2026-07-30T12:10:35.385318Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2018-38cf-b921-ffda67371bdc&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-2018-38cf-b921-ffda67371bdc&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2210-57d8-918d-8c196cb61ded&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-2210-57d8-918d-8c196cb61ded&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4dd36cfa3b8669f24c96884476d13b3f5121b018",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2210-57d8-918d-8c196cb61ded&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4a300a3bd91b6e037a9ab8510d34a3de1adb6707",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "4be2ac7a2267fae46dbc19c234bc63e476e8f66a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2355-018b-af69-e3e652bc1c1b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "eafe81464341e01a09c2006a39bdd6f2a95c8b4e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2139-1729-8fb8-ab215079c1f5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "4dd36cfa3b8669f24c96884476d13b3f5121b018",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2210-57d8-918d-8c196cb61ded&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4a300a3bd91b6e037a9ab8510d34a3de1adb6707",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2018-38cf-b921-ffda67371bdc&fp=-3",
@@ -237,15 +246,6 @@
           "id": "4be2ac7a2267fae46dbc19c234bc63e476e8f66a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2355-018b-af69-e3e652bc1c1b&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "eafe81464341e01a09c2006a39bdd6f2a95c8b4e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2139-1729-8fb8-ab215079c1f5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T11:38:54.651624Z",
-      "latest_at": "2026-07-30T10:18:09.592456Z",
+      "earliest_at": "2026-07-29T13:54:38.254793Z",
+      "latest_at": "2026-07-30T12:10:35.385318Z",
       "primary_item": {
-        "id": "4a300a3bd91b6e037a9ab8510d34a3de1adb6707",
+        "id": "4dd36cfa3b8669f24c96884476d13b3f5121b018",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2018-38cf-b921-ffda67371bdc&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-2210-57d8-918d-8c196cb61ded&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -334,14 +334,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9219,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -395,14 +395,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8926,
+        "recency": 0.8145,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -455,14 +455,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.464,
+        "recency": 0.3859,
         "story_heat": 0.0
       },
       "category": "official",
@@ -535,14 +535,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8057,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -596,14 +596,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,14 +656,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6886,
+        "recency": 0.6106,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -715,14 +715,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6772,
+        "recency": 0.5991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -774,14 +774,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -853,14 +853,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5496,
+        "recency": 0.4715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -932,14 +932,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7747,
+        "recency": 0.6966,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1012,14 +1012,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7747,
+        "recency": 0.6966,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1092,14 +1092,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7747,
+        "recency": 0.6966,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1172,14 +1172,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7747,
+        "recency": 0.6966,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1196,6 +1196,240 @@
         "url": "https://www.aibase.com/news/30001",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4d1d0e2bfaff",
+      "title": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://news.ycombinator.com/item?id=49107749",
+      "primary_url": "https://news.ycombinator.com/item?id=49107749",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7c4bef308ff2b8f6c44a3fe4f788f740a8d754bb",
+          "title": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+          "url": "https://news.ycombinator.com/item?id=49107749",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T12:11:02.059000Z"
+        },
+        {
+          "id": "ec8ff12d18618bbb2bc31f531fd215ff6b5349de",
+          "title": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+          "url": "https://github.com/YoanWai/agent-manager",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-30T09:34:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7c4bef308ff2b8f6c44a3fe4f788f740a8d754bb",
+          "title": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+          "url": "https://news.ycombinator.com/item?id=49107749",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T12:11:02.059000Z"
+        },
+        {
+          "id": "ec8ff12d18618bbb2bc31f531fd215ff6b5349de",
+          "title": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+          "url": "https://github.com/YoanWai/agent-manager",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-30T09:34:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-30T09:34:27Z",
+      "latest_at": "2026-07-30T12:11:02.059000Z",
+      "primary_item": {
+        "id": "7c4bef308ff2b8f6c44a3fe4f788f740a8d754bb",
+        "title": "Agent-Manager：用于运行 Claude Code、Codex 和 OpenCode 的 Tmux TUI / Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+        "url": "https://news.ycombinator.com/item?id=49107749",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_a67bb8d2a6b4",
+      "title": "ChromeDevTools /      chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
+          "title": "ChromeDevTools /      chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T12:11:02.059000Z"
+        },
+        {
+          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
+          "title": "ChromeDevTools / chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
+          "title": "ChromeDevTools /      chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T12:11:02.059000Z"
+        },
+        {
+          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
+          "title": "ChromeDevTools / chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-30T12:10:35.385318Z",
+      "latest_at": "2026-07-30T12:11:02.059000Z",
+      "primary_item": {
+        "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
+        "title": "ChromeDevTools /      chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_ddefdd525242",
+      "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4edca6c8925271a632eff78e502c99c4f10c93a2",
+          "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T11:30:34Z"
+        },
+        {
+          "id": "a078495961b71b5f6a711b4126af03895e13e35e",
+          "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T00:18:07.675000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "4edca6c8925271a632eff78e502c99c4f10c93a2",
+          "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T11:30:34Z"
+        },
+        {
+          "id": "a078495961b71b5f6a711b4126af03895e13e35e",
+          "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T00:18:07.675000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9722,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-30T00:18:07.675000Z",
+      "latest_at": "2026-07-30T11:30:34Z",
+      "primary_item": {
+        "id": "4edca6c8925271a632eff78e502c99c4f10c93a2",
+        "title": "ChatGPT 和 Roblox 将受欧盟最严格的平台监管规则约束 / ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1233,14 +1467,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1259,448 +1493,159 @@
       }
     },
     {
-      "story_id": "story_33264e6bfb81",
-      "title": "字节跳动 To B 战略升级：豆包、飞书、火山引擎组织调整，聚焦 AI 企业服务",
-      "url": "https://www.leiphone.com/category/industrynews/xyLgZqICAgWW69M0.html",
-      "primary_url": "https://www.leiphone.com/category/industrynews/xyLgZqICAgWW69M0.html",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_a820987200b3",
+      "title": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://news.ycombinator.com/item?id=49108840",
+      "primary_url": "https://news.ycombinator.com/item?id=49108840",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f112d955986ddea660ab85f67f94f11ef9558643",
-          "title": "字节跳动 To B 战略升级：豆包、飞书、火山引擎组织调整，聚焦 AI 企业服务",
-          "url": "https://www.leiphone.com/category/industrynews/xyLgZqICAgWW69M0.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "6f7949be980425589308239cf45db815f295bb1a",
+          "title": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+          "url": "https://news.ycombinator.com/item?id=49108840",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T12:11:02.059000Z"
         },
         {
-          "id": "77461557fcf55f4b91b4f021acb7206633637aa7",
-          "title": "字节跳动 To B 战略升级：豆包、飞书、火山引擎组织调整，聚焦 AI 企业服务",
-          "url": "https://www.ithome.com/0/983/410.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "2370cdac3112d45a0179aa2548b18d8a29cacc64",
+          "title": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+          "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-30T01:38:20Z"
+          "published_at": "2026-07-30T12:01:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "f112d955986ddea660ab85f67f94f11ef9558643",
-          "title": "字节跳动 To B 战略升级：豆包、飞书、火山引擎组织调整，聚焦 AI 企业服务",
-          "url": "https://www.leiphone.com/category/industrynews/xyLgZqICAgWW69M0.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "6f7949be980425589308239cf45db815f295bb1a",
+          "title": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+          "url": "https://news.ycombinator.com/item?id=49108840",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T12:11:02.059000Z"
         },
         {
-          "id": "77461557fcf55f4b91b4f021acb7206633637aa7",
-          "title": "字节跳动 To B 战略升级：豆包、飞书、火山引擎组织调整，聚焦 AI 企业服务",
-          "url": "https://www.ithome.com/0/983/410.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "2370cdac3112d45a0179aa2548b18d8a29cacc64",
+          "title": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+          "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-30T01:38:20Z"
+          "published_at": "2026-07-30T12:01:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8838,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-30T01:38:20Z",
-      "latest_at": "2026-07-30T07:30:45.888524Z",
+      "earliest_at": "2026-07-30T12:01:05Z",
+      "latest_at": "2026-07-30T12:11:02.059000Z",
       "primary_item": {
-        "id": "f112d955986ddea660ab85f67f94f11ef9558643",
-        "title": "字节跳动 To B 战略升级：豆包、飞书、火山引擎组织调整，聚焦 AI 企业服务",
-        "url": "https://www.leiphone.com/category/industrynews/xyLgZqICAgWW69M0.html",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "6f7949be980425589308239cf45db815f295bb1a",
+        "title": "Mbodi AI (YC P25) 正在招聘机器人/研究工程师 / Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+        "url": "https://news.ycombinator.com/item?id=49108840",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_5b942aafad8b",
-      "title": "关于Anthropic最新密码分析结果的一些思考",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-      "primary_url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-      "source": "blog.cryptographyengineering.com",
-      "source_name": "Buzzing",
+      "story_id": "story_3eadfa87ae8c",
+      "title": "微软 / AI 初学者 / microsoft /      AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "primary_url": "https://github.com/microsoft/AI-For-Beginners",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b0d890c9ff4ea4708e644588a58aaeba06aaa830",
-          "title": "关于Anthropic最新密码分析结果的一些思考",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "blog.cryptographyengineering.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T00:57:24.006000Z"
+          "id": "e15615daf21097de5778ddcb191d2bb5c681fa74",
+          "title": "微软 / AI 初学者 / microsoft /      AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T12:11:02.059000Z"
         },
         {
-          "id": "a1449fdb3a7bde2e7532f1ddaf69daa458f8a62f",
-          "title": "关于Anthropic最新研究成果的一些说明 / Some thoughts about Anthropic's new cryptanalysis results",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T16:42:20Z"
-        },
-        {
-          "id": "5ea013bf2e91ace9c814aaf07a5c4b4756cb4c90",
-          "title": "关于Anthropic最新研究成果的一些说明",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "blog.cryptographyengineering.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:05:23.691000Z"
-        },
-        {
-          "id": "f8914030b546d82e0ea3a54357138d1cd957f430",
-          "title": "关于Anthropic最新研究成果的一些说明 / Some notes about Anthropic’s new results",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T14:28:50Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Lobsters (技术社区)",
-        "blog.cryptographyengineering.com"
-      ],
-      "items": [
-        {
-          "id": "b0d890c9ff4ea4708e644588a58aaeba06aaa830",
-          "title": "关于Anthropic最新密码分析结果的一些思考",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "blog.cryptographyengineering.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T00:57:24.006000Z"
-        },
-        {
-          "id": "a1449fdb3a7bde2e7532f1ddaf69daa458f8a62f",
-          "title": "关于Anthropic最新研究成果的一些说明 / Some thoughts about Anthropic's new cryptanalysis results",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T16:42:20Z"
-        },
-        {
-          "id": "5ea013bf2e91ace9c814aaf07a5c4b4756cb4c90",
-          "title": "关于Anthropic最新研究成果的一些说明",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "blog.cryptographyengineering.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T15:05:23.691000Z"
-        },
-        {
-          "id": "f8914030b546d82e0ea3a54357138d1cd957f430",
-          "title": "关于Anthropic最新研究成果的一些说明 / Some notes about Anthropic’s new results",
-          "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T14:28:50Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6106,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T14:28:50Z",
-      "latest_at": "2026-07-30T00:57:24.006000Z",
-      "primary_item": {
-        "id": "b0d890c9ff4ea4708e644588a58aaeba06aaa830",
-        "title": "关于Anthropic最新密码分析结果的一些思考",
-        "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results",
-        "source": "blog.cryptographyengineering.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8d5823e59e2f",
-      "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
-      "url": "https://www.aibase.com/news/30006",
-      "primary_url": "https://www.aibase.com/news/30006",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee906d71243424a03f6a354e35f8cd47dc12ba4b",
-          "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
-          "url": "https://www.aibase.com/news/30006",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T07:30:45.888524Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ee906d71243424a03f6a354e35f8cd47dc12ba4b",
-          "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
-          "url": "https://www.aibase.com/news/30006",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T07:30:45.888524Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8838,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T07:30:45.888524Z",
-      "latest_at": "2026-07-30T07:30:45.888524Z",
-      "primary_item": {
-        "id": "ee906d71243424a03f6a354e35f8cd47dc12ba4b",
-        "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
-        "url": "https://www.aibase.com/news/30006",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ce380da70fd5",
-      "title": "克劳德：所有模型中错误率上升——已解决",
-      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-      "primary_url": "https://status.claude.com/incidents/q2kg8n613kr3",
-      "source": "status.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7754a12542d1a46bb9162a812e79786e2f1b9e22",
-          "title": "克劳德：所有模型中错误率上升——已解决",
-          "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-          "source": "status.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T00:17:54.400000Z"
-        },
-        {
-          "id": "e18cc0acc4c552a95f4e3563eb75e586be2bcb3b",
-          "title": "克劳德：所有模型中错误率上升——已解决 / Claude Is Down",
-          "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T19:50:42Z"
-        },
-        {
-          "id": "ffbd5900b41cfad1ef3eb325a158c5f7c8b137c4",
-          "title": "克劳德：所有模型中错误率上升——已解决 / Claude: Elevated errors across all models",
-          "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T19:50:42Z"
-        },
-        {
-          "id": "15ae1e973722f386407bf7eb19c720355cd4721f",
-          "title": "克劳德：所有模型中错误率上升——已解决 / Claude: Elevated errors across all models – Resolved",
-          "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T19:50:42Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "status.claude.com"
-      ],
-      "items": [
-        {
-          "id": "7754a12542d1a46bb9162a812e79786e2f1b9e22",
-          "title": "克劳德：所有模型中错误率上升——已解决",
-          "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-          "source": "status.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T00:17:54.400000Z"
-        },
-        {
-          "id": "e18cc0acc4c552a95f4e3563eb75e586be2bcb3b",
-          "title": "克劳德：所有模型中错误率上升——已解决 / Claude Is Down",
-          "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T19:50:42Z"
-        },
-        {
-          "id": "ffbd5900b41cfad1ef3eb325a158c5f7c8b137c4",
-          "title": "克劳德：所有模型中错误率上升——已解决 / Claude: Elevated errors across all models",
-          "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T19:50:42Z"
-        },
-        {
-          "id": "15ae1e973722f386407bf7eb19c720355cd4721f",
-          "title": "克劳德：所有模型中错误率上升——已解决 / Claude: Elevated errors across all models – Resolved",
-          "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T19:50:42Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5832,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-29T19:50:42Z",
-      "latest_at": "2026-07-30T00:17:54.400000Z",
-      "primary_item": {
-        "id": "7754a12542d1a46bb9162a812e79786e2f1b9e22",
-        "title": "克劳德：所有模型中错误率上升——已解决",
-        "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-        "source": "status.claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_28a9e018cd9a",
-      "title": "在持续推进人工智能布局的过程中，三星芯片业务利润飙升250倍",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0f57e65eb095300c8b868be3a5ede049c7e4a23a",
-          "title": "在持续推进人工智能布局的过程中，三星芯片业务利润飙升250倍",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T04:25:24.436000Z"
-        },
-        {
-          "id": "379a9d7fe0bd6faf0771b46a6d856d03eb7e5ab8",
-          "title": "受人工智能内存短缺影响，三星芯片利润飙升250倍",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T00:57:26.214000Z"
+          "id": "e1bfb9f1ab0c6df581bb6b4253ba368d2bc800cc",
+          "title": "微软 / AI 初学者 / microsoft / AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.bloomberg.com"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "0f57e65eb095300c8b868be3a5ede049c7e4a23a",
-          "title": "在持续推进人工智能布局的过程中，三星芯片业务利润飙升250倍",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T04:25:24.436000Z"
+          "id": "e15615daf21097de5778ddcb191d2bb5c681fa74",
+          "title": "微软 / AI 初学者 / microsoft /      AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T12:11:02.059000Z"
         },
         {
-          "id": "379a9d7fe0bd6faf0771b46a6d856d03eb7e5ab8",
-          "title": "受人工智能内存短缺影响，三星芯片利润飙升250倍",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T00:57:26.214000Z"
+          "id": "e1bfb9f1ab0c6df581bb6b4253ba368d2bc800cc",
+          "title": "微软 / AI 初学者 / microsoft / AI-For-Beginners",
+          "url": "https://github.com/microsoft/AI-For-Beginners",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.499,
-      "importance": 0.499,
-      "importance_score": 0.499,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.755,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-30T00:57:26.214000Z",
-      "latest_at": "2026-07-30T04:25:24.436000Z",
+      "earliest_at": "2026-07-30T12:10:35.385318Z",
+      "latest_at": "2026-07-30T12:11:02.059000Z",
       "primary_item": {
-        "id": "0f57e65eb095300c8b868be3a5ede049c7e4a23a",
-        "title": "在持续推进人工智能布局的过程中，三星芯片业务利润飙升250倍",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-30/samsung-s-chip-profit-soars-over-250-fold-on-ai-memory-shortages",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
+        "id": "e15615daf21097de5778ddcb191d2bb5c681fa74",
+        "title": "微软 / AI 初学者 / microsoft /      AI-For-Beginners",
+        "url": "https://github.com/microsoft/AI-For-Beginners",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     }
   ]
