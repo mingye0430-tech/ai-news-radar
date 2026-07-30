@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T23:30:27.446665Z",
+  "generated_at": "2026-07-30T01:51:35.058758Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0930-48eb-af87-bf609b64dde1&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-0930-48eb-af87-bf609b64dde1&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1151-561c-9fa9-2348fbf95383&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260730-1151-561c-9fa9-2348fbf95383&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5dead5b17f67810f8ecaaf1a5b68183011b7f5ab",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1151-561c-9fa9-2348fbf95383&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "d39daf464aec88318a84aaba02eec3de6ca8a634",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "b4ba0335671a731eafaa20c50ccedd4a82581d27",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1348-36a7-bd7f-b129877cce9a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "171ecde4193a5f29238af0274a8b3264bdd076c4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1003-34d4-a85c-88dceba87b49&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "5dead5b17f67810f8ecaaf1a5b68183011b7f5ab",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1151-561c-9fa9-2348fbf95383&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "d39daf464aec88318a84aaba02eec3de6ca8a634",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0930-48eb-af87-bf609b64dde1&fp=-3",
@@ -219,15 +228,6 @@
           "id": "b4ba0335671a731eafaa20c50ccedd4a82581d27",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1348-36a7-bd7f-b129877cce9a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "171ecde4193a5f29238af0274a8b3264bdd076c4",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-1003-34d4-a85c-88dceba87b49&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T00:03:09.784642Z",
-      "latest_at": "2026-07-29T23:30:27.446665Z",
+      "earliest_at": "2026-07-29T03:48:14.390504Z",
+      "latest_at": "2026-07-30T01:51:35.058758Z",
       "primary_item": {
-        "id": "d39daf464aec88318a84aaba02eec3de6ca8a634",
+        "id": "5dead5b17f67810f8ecaaf1a5b68183011b7f5ab",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0930-48eb-af87-bf609b64dde1&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260730-1151-561c-9fa9-2348fbf95383&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8798,
-      "importance": 0.8798,
-      "importance_score": 0.8798,
+      "score": 0.8602,
+      "importance": 0.8602,
+      "importance_score": 0.8602,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9138,
+        "recency": 0.8158,
         "story_heat": 0.0
       },
       "category": "official",
@@ -321,6 +321,326 @@
         "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_299dcbf99fc1",
+      "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+      "url": "https://www.aibase.com/news/29994",
+      "primary_url": "https://www.aibase.com/news/29994",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
+          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "url": "https://www.aibase.com/news/29994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T01:51:35.058758Z"
+        },
+        {
+          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
+          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "url": "https://www.aibase.com/zh/news/29994",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
+          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "url": "https://www.aibase.com/news/29994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T01:51:35.058758Z"
+        },
+        {
+          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
+          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "url": "https://www.aibase.com/zh/news/29994",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T01:51:35.058758Z",
+      "latest_at": "2026-07-30T01:51:35.058758Z",
+      "primary_item": {
+        "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
+        "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+        "url": "https://www.aibase.com/news/29994",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4efa01255061",
+      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+      "url": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f",
+      "primary_url": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1d4bf536d0248ba77a89482f523cd71ff042bcb7",
+          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "url": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T23:29:34Z"
+        },
+        {
+          "id": "0a9c50d2339410ff0134c03647425301d50a0e4b",
+          "title": "揭秘 AI 入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T23:29:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1d4bf536d0248ba77a89482f523cd71ff042bcb7",
+          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "url": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T23:29:34Z"
+        },
+        {
+          "id": "0a9c50d2339410ff0134c03647425301d50a0e4b",
+          "title": "揭秘 AI 入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T23:29:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9014,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T23:29:34Z",
+      "latest_at": "2026-07-29T23:29:34Z",
+      "primary_item": {
+        "id": "1d4bf536d0248ba77a89482f523cd71ff042bcb7",
+        "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+        "url": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eafb803cfa13",
+      "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+      "url": "https://www.aibase.com/news/29992",
+      "primary_url": "https://www.aibase.com/news/29992",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
+          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "url": "https://www.aibase.com/news/29992",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T01:51:35.058758Z"
+        },
+        {
+          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
+          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "url": "https://www.aibase.com/zh/news/29992",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
+          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "url": "https://www.aibase.com/news/29992",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T01:51:35.058758Z"
+        },
+        {
+          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
+          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "url": "https://www.aibase.com/zh/news/29992",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T01:51:35.058758Z",
+      "latest_at": "2026-07-30T01:51:35.058758Z",
+      "primary_item": {
+        "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
+        "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+        "url": "https://www.aibase.com/news/29992",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_70b1df7b0c34",
+      "title": "​OpenAI放大招，将向 10 万名科学家免费开放GPT-5. 6 系列！",
+      "url": "https://www.aibase.com/news/29986",
+      "primary_url": "https://www.aibase.com/news/29986",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f575a320b487176d9488ada1935ada3bfb42a129",
+          "title": "​OpenAI放大招，将向 10 万名科学家免费开放GPT-5. 6 系列！",
+          "url": "https://www.aibase.com/news/29986",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T01:51:35.058758Z"
+        },
+        {
+          "id": "4bf3e800f0458a7f3c26c2c3bc000876f11d64aa",
+          "title": "OpenAI 将向 10 万名科学家免费开放 GPT-5.6 系列",
+          "url": "https://www.aibase.com/zh/news/29986",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f575a320b487176d9488ada1935ada3bfb42a129",
+          "title": "​OpenAI放大招，将向 10 万名科学家免费开放GPT-5. 6 系列！",
+          "url": "https://www.aibase.com/news/29986",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T01:51:35.058758Z"
+        },
+        {
+          "id": "4bf3e800f0458a7f3c26c2c3bc000876f11d64aa",
+          "title": "OpenAI 将向 10 万名科学家免费开放 GPT-5.6 系列",
+          "url": "https://www.aibase.com/zh/news/29986",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T01:51:35.058758Z",
+      "latest_at": "2026-07-30T01:51:35.058758Z",
+      "primary_item": {
+        "id": "f575a320b487176d9488ada1935ada3bfb42a129",
+        "title": "​OpenAI放大招，将向 10 万名科学家免费开放GPT-5. 6 系列！",
+        "url": "https://www.aibase.com/news/29986",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -358,14 +678,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8856,
+        "recency": 0.7876,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -418,14 +738,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8021,
+        "recency": 0.7041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -441,6 +761,86 @@
         "url": "https://aihot.virxact.com/items/cms6g4nn502errohzoxo9al2o",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f4397e178c3",
+      "title": "微软 AI 投资账单出炉：押注 Anthropic 单季大赚 32 亿美元，OpenAI 反成拖累",
+      "url": "https://www.aibase.com/news/29990",
+      "primary_url": "https://www.aibase.com/news/29990",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1c457ee99a81271cf3212cebe440e567d7aab6b1",
+          "title": "微软 AI 投资账单出炉：押注 Anthropic 单季大赚 32 亿美元，OpenAI 反成拖累",
+          "url": "https://www.aibase.com/news/29990",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T01:51:35.058758Z"
+        },
+        {
+          "id": "b4fe1d1a508124cb6721c0eceb917946610ff312",
+          "title": "微软 AI 投资账单出炉：押注 Anthropic 单季大赚 32 亿美元，OpenAI 反成拖累",
+          "url": "https://www.aibase.com/zh/news/29990",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1c457ee99a81271cf3212cebe440e567d7aab6b1",
+          "title": "微软 AI 投资账单出炉：押注 Anthropic 单季大赚 32 亿美元，OpenAI 反成拖累",
+          "url": "https://www.aibase.com/news/29990",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T01:51:35.058758Z"
+        },
+        {
+          "id": "b4fe1d1a508124cb6721c0eceb917946610ff312",
+          "title": "微软 AI 投资账单出炉：押注 Anthropic 单季大赚 32 亿美元，OpenAI 反成拖累",
+          "url": "https://www.aibase.com/zh/news/29990",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T01:51:35.058758Z",
+      "latest_at": "2026-07-30T01:51:35.058758Z",
+      "primary_item": {
+        "id": "1c457ee99a81271cf3212cebe440e567d7aab6b1",
+        "title": "微软 AI 投资账单出炉：押注 Anthropic 单季大赚 32 亿美元，OpenAI 反成拖累",
+        "url": "https://www.aibase.com/news/29990",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -478,20 +878,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7639,
+        "recency": 0.6659,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T17:50:30Z",
       "latest_at": "2026-07-29T17:50:30Z",
@@ -538,14 +937,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6046,
+        "recency": 0.5066,
         "story_heat": 0.0
       },
       "category": "official",
@@ -599,20 +998,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7441,
+        "recency": 0.6461,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T17:22:02Z",
       "latest_at": "2026-07-29T17:22:02Z",
@@ -659,20 +1057,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.73,
+        "recency": 0.632,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T17:01:42Z",
       "latest_at": "2026-07-29T17:01:42Z",
@@ -719,20 +1116,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6937,
+        "recency": 0.5957,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T16:09:22Z",
       "latest_at": "2026-07-29T16:09:22Z",
@@ -779,14 +1175,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6887,
+        "recency": 0.5907,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,14 +1234,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6466,
+        "recency": 0.5486,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -897,14 +1293,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6455,
+        "recency": 0.5475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -922,26 +1318,26 @@
       }
     },
     {
-      "story_id": "story_f1c958a670a3",
-      "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-      "url": "https://www.aibase.com/news/29984",
-      "primary_url": "https://www.aibase.com/news/29984",
+      "story_id": "story_ba68f398200b",
+      "title": "扎克伯格押注个人AI代理:Meta计划推动数十亿用户进入智能体时代",
+      "url": "https://www.aibase.com/news/29993",
+      "primary_url": "https://www.aibase.com/news/29993",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
-          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-          "url": "https://www.aibase.com/news/29984",
+          "id": "661da06a56ccc035c79dc7a4ae8db0bd44fd71ea",
+          "title": "扎克伯格押注个人AI代理:Meta计划推动数十亿用户进入智能体时代",
+          "url": "https://www.aibase.com/news/29993",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T11:38:54.651624Z"
+          "published_at": "2026-07-30T01:51:35.058758Z"
         },
         {
-          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
-          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
-          "url": "https://www.aibase.com/zh/news/29984",
+          "id": "ae8fc994a805b5ade757f25e21c3adcec330c161",
+          "title": "扎克伯格押注个人 AI 代理：Meta 计划推动数十亿用户进入智能体时代",
+          "url": "https://www.aibase.com/zh/news/29993",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -955,18 +1351,18 @@
       ],
       "items": [
         {
-          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
-          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-          "url": "https://www.aibase.com/news/29984",
+          "id": "661da06a56ccc035c79dc7a4ae8db0bd44fd71ea",
+          "title": "扎克伯格押注个人AI代理:Meta计划推动数十亿用户进入智能体时代",
+          "url": "https://www.aibase.com/news/29993",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T11:38:54.651624Z"
+          "published_at": "2026-07-30T01:51:35.058758Z"
         },
         {
-          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
-          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
-          "url": "https://www.aibase.com/zh/news/29984",
+          "id": "ae8fc994a805b5ade757f25e21c3adcec330c161",
+          "title": "扎克伯格押注个人 AI 代理：Meta 计划推动数十亿用户进入智能体时代",
+          "url": "https://www.aibase.com/zh/news/29993",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -975,108 +1371,30 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5059,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-29T11:38:54.651624Z",
-      "latest_at": "2026-07-29T11:38:54.651624Z",
+      "earliest_at": "2026-07-30T01:51:35.058758Z",
+      "latest_at": "2026-07-30T01:51:35.058758Z",
       "primary_item": {
-        "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
-        "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
-        "url": "https://www.aibase.com/news/29984",
+        "id": "661da06a56ccc035c79dc7a4ae8db0bd44fd71ea",
+        "title": "扎克伯格押注个人AI代理:Meta计划推动数十亿用户进入智能体时代",
+        "url": "https://www.aibase.com/news/29993",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-          "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.0205,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-        "title": "使用 ChatGPT（测试版）登录 / Sign in with ChatGPT (beta)",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1114,20 +1432,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7085,
+        "recency": 0.6105,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T16:30:42Z",
       "latest_at": "2026-07-29T16:30:42Z",
@@ -1136,65 +1453,6 @@
         "title": "Replit 用环境智能重塑 AI 设计体验",
         "url": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
         "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3ae30f26c073",
-      "title": "腾讯混元开源 AngelSpec 投机解码框架",
-      "url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
-      "primary_url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b38293c5742430cafe944df64a029ab6fca9dbdd",
-          "title": "腾讯混元开源 AngelSpec 投机解码框架",
-          "url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:43:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：腾讯混元 (@TencentHunyuan)"
-      ],
-      "items": [
-        {
-          "id": "b38293c5742430cafe944df64a029ab6fca9dbdd",
-          "title": "腾讯混元开源 AngelSpec 投机解码框架",
-          "url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:43:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.551,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T12:43:55Z",
-      "latest_at": "2026-07-29T12:43:55Z",
-      "primary_item": {
-        "id": "b38293c5742430cafe944df64a029ab6fca9dbdd",
-        "title": "腾讯混元开源 AngelSpec 投机解码框架",
-        "url": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
-        "source": "X：腾讯混元 (@TencentHunyuan)",
         "source_name": "AI HOT"
       }
     },
@@ -1233,14 +1491,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6699,
+        "recency": 0.5719,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1255,224 +1513,6 @@
         "url": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_42a640510980",
-      "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-      "url": "https://www.aibase.com/news/29972",
-      "primary_url": "https://www.aibase.com/news/29972",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "034e53df47a51f30706c341f422edefe2833d210",
-          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-          "url": "https://www.aibase.com/news/29972",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        },
-        {
-          "id": "7823578edbe07d5d11af2038dc96843ad02c4da3",
-          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-          "url": "https://www.aibase.com/zh/news/29972",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "034e53df47a51f30706c341f422edefe2833d210",
-          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-          "url": "https://www.aibase.com/news/29972",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        },
-        {
-          "id": "7823578edbe07d5d11af2038dc96843ad02c4da3",
-          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-          "url": "https://www.aibase.com/zh/news/29972",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.719,
-      "importance": 0.719,
-      "importance_score": 0.719,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.41,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T09:20:54.820566Z",
-      "latest_at": "2026-07-29T09:20:54.820566Z",
-      "primary_item": {
-        "id": "034e53df47a51f30706c341f422edefe2833d210",
-        "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-        "url": "https://www.aibase.com/news/29972",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ee3da82e3a26",
-      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4269,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T09:45:11Z",
-      "latest_at": "2026-07-29T09:45:11Z",
-      "primary_item": {
-        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9e9ac0b74498",
-      "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-      "url": "https://www.aibase.com/news/29979",
-      "primary_url": "https://www.aibase.com/news/29979",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/news/29979",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        },
-        {
-          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
-          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/zh/news/29979",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/news/29979",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T09:20:54.820566Z"
-        },
-        {
-          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
-          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/zh/news/29979",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.719,
-      "importance": 0.719,
-      "importance_score": 0.719,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.41,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T09:20:54.820566Z",
-      "latest_at": "2026-07-29T09:20:54.820566Z",
-      "primary_item": {
-        "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-        "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-        "url": "https://www.aibase.com/news/29979",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
