@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T16:55:09.031206Z",
+  "generated_at": "2026-08-01T17:56:34.283421Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7401,
+        "recency": 0.6974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,14 +159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6138,
+        "recency": 0.5712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -236,14 +236,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5882,
-      "importance": 0.5882,
-      "importance_score": 0.5882,
+      "score": 0.5796,
+      "importance": 0.5796,
+      "importance_score": 0.5796,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.6909,
+        "recency": 0.6482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -262,12 +262,21 @@
     },
     {
       "story_id": "story_4d5fae192487",
-      "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-      "url": "https://news.ycombinator.com/item?id=49135257",
-      "primary_url": "https://news.ycombinator.com/item?id=49135257",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "primary_url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "source": "forum.cursor.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "forum.cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T17:29:19.514000Z"
+        },
         {
           "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
           "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
@@ -278,62 +287,228 @@
           "published_at": "2026-08-01T16:55:37.003000Z"
         },
         {
-          "id": "de573c10b33e0a6db03369843a6dd7ee7a027e5c",
-          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
           "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T15:25:21Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "forum.cursor.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "forum.cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T17:29:19.514000Z"
+        },
+        {
+          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
+          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "url": "https://news.ycombinator.com/item?id=49135257",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T16:55:37.003000Z"
+        },
+        {
+          "id": "f6b7e33694d28407978eecc77a104a45c3ba21d2",
+          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
+          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T15:25:21Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5692,
+      "importance": 0.5692,
+      "importance_score": 0.5692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9811,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T15:25:21Z",
+      "latest_at": "2026-08-01T17:29:19.514000Z",
+      "primary_item": {
+        "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
+        "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
+        "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+        "source": "forum.cursor.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4d68a5c042f1",
+      "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
+      "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+      "primary_url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "38367609b583d48947cecfaec4395791e51136bc",
+          "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T15:25:21Z"
+          "published_at": "2026-08-01T16:38:28Z"
+        },
+        {
+          "id": "40b716b431d38234ddaa8c7c6a5e068b9c0efce8",
+          "title": "我解雇了我的AI助手",
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "source": "chreke.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:25:11.079000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews"
+        "chreke.com"
       ],
       "items": [
         {
-          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
-          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-          "url": "https://news.ycombinator.com/item?id=49135257",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:55:37.003000Z"
-        },
-        {
-          "id": "de573c10b33e0a6db03369843a6dd7ee7a027e5c",
-          "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+          "id": "38367609b583d48947cecfaec4395791e51136bc",
+          "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-01T15:25:21Z"
+          "published_at": "2026-08-01T16:38:28Z"
+        },
+        {
+          "id": "40b716b431d38234ddaa8c7c6a5e068b9c0efce8",
+          "title": "我解雇了我的AI助手",
+          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+          "source": "chreke.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:25:11.079000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9458,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T15:25:21Z",
-      "latest_at": "2026-08-01T16:55:37.003000Z",
+      "earliest_at": "2026-08-01T08:25:11.079000Z",
+      "latest_at": "2026-08-01T16:38:28Z",
       "primary_item": {
-        "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
-        "title": "光标从使用页面和 CSV 导出中删除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-        "url": "https://news.ycombinator.com/item?id=49135257",
+        "id": "38367609b583d48947cecfaec4395791e51136bc",
+        "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
+        "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_f5fb55945fb6",
+      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+      "url": "https://news.ycombinator.com/item?id=49134038",
+      "primary_url": "https://news.ycombinator.com/item?id=49134038",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "url": "https://news.ycombinator.com/item?id=49134038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T15:56:38.605000Z"
+        },
+        {
+          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "url": "https://news.ycombinator.com/item?id=49134038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T15:56:38.605000Z"
+        },
+        {
+          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9167,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T12:56:54Z",
+      "latest_at": "2026-08-01T15:56:38.605000Z",
+      "primary_item": {
+        "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+        "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+        "url": "https://news.ycombinator.com/item?id=49134038",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -411,14 +586,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5159,
+      "importance": 0.5159,
+      "importance_score": 0.5159,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7571,
+        "recency": 0.7145,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -489,14 +664,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8795,
+        "recency": 0.8368,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -567,14 +742,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.5045,
+      "importance": 0.5045,
+      "importance_score": 0.5045,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8252,
+        "recency": 0.7826,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -588,84 +763,6 @@
         "title": "微软 / 初学者生成人工智能 / microsoft /      generative-ai-for-beginners",
         "url": "https://github.com/microsoft/generative-ai-for-beginners",
         "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_f5fb55945fb6",
-      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-      "url": "https://news.ycombinator.com/item?id=49134038",
-      "primary_url": "https://news.ycombinator.com/item?id=49134038",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:56:38.605000Z"
-        },
-        {
-          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:56:38.605000Z"
-        },
-        {
-          "id": "e56b4b6c24d29b3abecbdde7dc615fa6de5ecce4",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9594,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T12:56:54Z",
-      "latest_at": "2026-08-01T15:56:38.605000Z",
-      "primary_item": {
-        "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-        "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-        "url": "https://news.ycombinator.com/item?id=49134038",
-        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -742,14 +839,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6571,
+        "recency": 0.6145,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -820,14 +917,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
+      "score": 0.4909,
+      "importance": 0.4909,
+      "importance_score": 0.4909,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7571,
+        "recency": 0.7145,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -898,14 +995,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
+      "score": 0.4909,
+      "importance": 0.4909,
+      "importance_score": 0.4909,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7572,
+        "recency": 0.7145,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -976,14 +1073,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4928,
-      "importance": 0.4928,
-      "importance_score": 0.4928,
+      "score": 0.4842,
+      "importance": 0.4842,
+      "importance_score": 0.4842,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7239,
+        "recency": 0.6812,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -997,84 +1094,6 @@
         "title": "数学与理论计算机科学领域的十大进展",
         "url": "https://openai.com/index/ten-advances-in-mathematics",
         "source": "openai.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4d68a5c042f1",
-      "title": "我解雇了我的AI助手",
-      "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-      "primary_url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-      "source": "chreke.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "40b716b431d38234ddaa8c7c6a5e068b9c0efce8",
-          "title": "我解雇了我的AI助手",
-          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-          "source": "chreke.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:25:11.079000Z"
-        },
-        {
-          "id": "fceb969c3e2ba719b4aceb4c1f53ed6b6e290f58",
-          "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
-          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T08:22:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "chreke.com"
-      ],
-      "items": [
-        {
-          "id": "40b716b431d38234ddaa8c7c6a5e068b9c0efce8",
-          "title": "我解雇了我的AI助手",
-          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-          "source": "chreke.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T08:25:11.079000Z"
-        },
-        {
-          "id": "fceb969c3e2ba719b4aceb4c1f53ed6b6e290f58",
-          "title": "我解雇了我的AI助手 / I Fired My AI Assitant",
-          "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T08:22:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4772,
-      "importance": 0.4772,
-      "importance_score": 0.4772,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6459,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T08:22:15Z",
-      "latest_at": "2026-08-01T08:25:11.079000Z",
-      "primary_item": {
-        "id": "40b716b431d38234ddaa8c7c6a5e068b9c0efce8",
-        "title": "我解雇了我的AI助手",
-        "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-        "source": "chreke.com",
         "source_name": "Buzzing"
       }
     },
@@ -1131,14 +1150,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4769,
-      "importance": 0.4769,
-      "importance_score": 0.4769,
+      "score": 0.4684,
+      "importance": 0.4684,
+      "importance_score": 0.4684,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6446,
+        "recency": 0.602,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1228,14 +1247,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.46,
-      "importance": 0.46,
-      "importance_score": 0.46,
+      "score": 0.4515,
+      "importance": 0.4515,
+      "importance_score": 0.4515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.435,
+        "recency": 0.3924,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1306,14 +1325,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4794,
-      "importance": 0.4794,
-      "importance_score": 0.4794,
+      "score": 0.4709,
+      "importance": 0.4709,
+      "importance_score": 0.4709,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6571,
+        "recency": 0.6145,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1384,14 +1403,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.475,
-      "importance": 0.475,
-      "importance_score": 0.475,
+      "score": 0.4664,
+      "importance": 0.4664,
+      "importance_score": 0.4664,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6349,
+        "recency": 0.5922,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1481,14 +1500,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4022,
-      "importance": 0.4022,
-      "importance_score": 0.4022,
+      "score": 0.3937,
+      "importance": 0.3937,
+      "importance_score": 0.3937,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.146,
+        "recency": 0.1033,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1559,14 +1578,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3994,
-      "importance": 0.3994,
-      "importance_score": 0.3994,
+      "score": 0.3909,
+      "importance": 0.3909,
+      "importance_score": 0.3909,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.257,
+        "recency": 0.2144,
         "story_heat": 0.25
       },
       "category": "watch",
