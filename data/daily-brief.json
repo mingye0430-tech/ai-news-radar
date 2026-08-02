@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:27:03.966883Z",
+  "generated_at": "2026-08-02T21:24:20.383678Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5975,
+        "recency": 0.5577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -196,14 +196,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.5558,
+      "importance": 0.5558,
+      "importance_score": 0.5558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.954,
+        "recency": 0.9142,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -238,18 +238,18 @@
           "published_at": "2026-08-02T20:27:34.701000Z"
         },
         {
-          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
           "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
           "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -263,25 +263,25 @@
           "published_at": "2026-08-02T20:27:34.701000Z"
         },
         {
-          "id": "9cdb16941baa8ae1980e1cc4ee81f9dfaf77b800",
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
           "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
           "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9606,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -352,14 +352,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9435,
+        "recency": 0.9037,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -394,18 +394,18 @@
           "published_at": "2026-08-02T20:27:34.701000Z"
         },
         {
-          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
+          "id": "859a449233c42d51f2a1075630e46469a0d426b0",
           "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
           "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T19:40:19Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -419,25 +419,25 @@
           "published_at": "2026-08-02T20:27:34.701000Z"
         },
         {
-          "id": "68c67fdf4543d06152afbfe4079bb1dfbdabf901",
+          "id": "859a449233c42d51f2a1075630e46469a0d426b0",
           "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
           "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T19:40:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9606,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -508,14 +508,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5086,
+      "importance": 0.5086,
+      "importance_score": 0.5086,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8429,
+        "recency": 0.8031,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -585,14 +585,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5014,
-      "importance": 0.5014,
-      "importance_score": 0.5014,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7668,
+        "recency": 0.7271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -663,14 +663,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4908,
+      "importance": 0.4908,
+      "importance_score": 0.4908,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.754,
+        "recency": 0.7142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -741,14 +741,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4913,
-      "importance": 0.4913,
-      "importance_score": 0.4913,
+      "score": 0.4833,
+      "importance": 0.4833,
+      "importance_score": 0.4833,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.3263,
+        "recency": 0.2865,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -819,14 +819,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.5103,
+      "importance": 0.5103,
+      "importance_score": 0.5103,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8512,
+        "recency": 0.8114,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -897,14 +897,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.471,
-      "importance": 0.471,
-      "importance_score": 0.471,
+      "score": 0.463,
+      "importance": 0.463,
+      "importance_score": 0.463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6149,
+        "recency": 0.5752,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -975,14 +975,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4677,
-      "importance": 0.4677,
-      "importance_score": 0.4677,
+      "score": 0.4597,
+      "importance": 0.4597,
+      "importance_score": 0.4597,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5984,
+        "recency": 0.5586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1053,14 +1053,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.5103,
+      "importance": 0.5103,
+      "importance_score": 0.5103,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8512,
+        "recency": 0.8114,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1131,14 +1131,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4389,
-      "importance": 0.4389,
-      "importance_score": 0.4389,
+      "score": 0.4309,
+      "importance": 0.4309,
+      "importance_score": 0.4309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4543,
+        "recency": 0.4146,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1246,14 +1246,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4333,
-      "importance": 0.4333,
-      "importance_score": 0.4333,
+      "score": 0.4254,
+      "importance": 0.4254,
+      "importance_score": 0.4254,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1765,
+        "recency": 0.1368,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1324,14 +1324,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4809,
-      "importance": 0.4809,
-      "importance_score": 0.4809,
+      "score": 0.4729,
+      "importance": 0.4729,
+      "importance_score": 0.4729,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6643,
+        "recency": 0.6245,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1401,14 +1401,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7984,
+        "recency": 0.7586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,14 +1479,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4477,
-      "importance": 0.4477,
-      "importance_score": 0.4477,
+      "score": 0.4397,
+      "importance": 0.4397,
+      "importance_score": 0.4397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4984,
+        "recency": 0.4586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1504,81 +1504,100 @@
       }
     },
     {
-      "story_id": "story_cc743031491e",
-      "title": "大型语言模型无法破解对称加密",
-      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-      "primary_url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-      "source": "www.bfswa.blog",
-      "source_name": "Buzzing",
+      "story_id": "story_aebc4b890a8b",
+      "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://news.ycombinator.com/item?id=49140340",
+      "primary_url": "https://news.ycombinator.com/item?id=49140340",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "45692bd20840387a7095ecc6a151f32f35bc84a2",
-          "title": "大型语言模型无法破解对称加密",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "www.bfswa.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T21:13:20.467000Z"
+          "id": "206af265b950be5f12e82285bf43bfc57041e321",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "url": "https://news.ycombinator.com/item?id=49140340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T04:52:32.987000Z"
         },
         {
-          "id": "dc2a3b683639a09c89f47e843ece8714dee5fb04",
-          "title": "大型语言模型无法破解对称加密 / LLMs won't break symmetric crypto",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T21:11:22Z"
+          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
+          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
+          "url": "https://costperprompt.com",
+          "source": "costperprompt.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T02:01:09.958000Z"
+        },
+        {
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
+          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "url": "https://costperprompt.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T01:56:44Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.bfswa.blog"
+        "Hacker News · 24h最热",
+        "costperprompt.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "45692bd20840387a7095ecc6a151f32f35bc84a2",
-          "title": "大型语言模型无法破解对称加密",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "www.bfswa.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T21:13:20.467000Z"
+          "id": "206af265b950be5f12e82285bf43bfc57041e321",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "url": "https://news.ycombinator.com/item?id=49140340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T04:52:32.987000Z"
         },
         {
-          "id": "dc2a3b683639a09c89f47e843ece8714dee5fb04",
-          "title": "大型语言模型无法破解对称加密 / LLMs won't break symmetric crypto",
-          "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-01T21:11:22Z"
+          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
+          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
+          "url": "https://costperprompt.com",
+          "source": "costperprompt.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T02:01:09.958000Z"
+        },
+        {
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
+          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "url": "https://costperprompt.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T01:56:44Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3544,
-      "importance": 0.3544,
-      "importance_score": 0.3544,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4353,
+      "importance": 0.4353,
+      "importance_score": 0.4353,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0321,
-        "story_heat": 0.25
+        "recency": 0.3113,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T21:11:22Z",
-      "latest_at": "2026-08-01T21:13:20.467000Z",
+      "earliest_at": "2026-08-02T01:56:44Z",
+      "latest_at": "2026-08-02T04:52:32.987000Z",
       "primary_item": {
-        "id": "45692bd20840387a7095ecc6a151f32f35bc84a2",
-        "title": "大型语言模型无法破解对称加密",
-        "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-        "source": "www.bfswa.blog",
-        "source_name": "Buzzing"
+        "id": "206af265b950be5f12e82285bf43bfc57041e321",
+        "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "url": "https://news.ycombinator.com/item?id=49140340",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
