@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T01:55:29.911934Z",
+  "generated_at": "2026-08-05T05:10:22.422699Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,126 @@
         "url": "https://www.aibase.com/news/30113",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_535e3447c44b",
+      "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+      "url": "https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad",
+      "primary_url": "https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aebeb51ebc68c05e25f52a12f63f9ce9e9fe849e",
+          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+          "url": "https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T04:21:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "aebeb51ebc68c05e25f52a12f63f9ce9e9fe849e",
+          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+          "url": "https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T04:21:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9663,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T04:21:47Z",
+      "latest_at": "2026-08-05T04:21:47Z",
+      "primary_item": {
+        "id": "aebeb51ebc68c05e25f52a12f63f9ce9e9fe849e",
+        "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+        "url": "https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0ab0dc692570",
+      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+      "url": "https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx",
+      "primary_url": "https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c1a08b732e35955558fed12be87b095e0bf69e00",
+          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+          "url": "https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T02:40:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "c1a08b732e35955558fed12be87b095e0bf69e00",
+          "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+          "url": "https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T02:40:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8959,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T02:40:31Z",
+      "latest_at": "2026-08-05T02:40:31Z",
+      "primary_item": {
+        "id": "c1a08b732e35955558fed12be87b095e0bf69e00",
+        "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+        "url": "https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -118,14 +238,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7181,
+        "recency": 0.5827,
         "story_heat": 0.0
       },
       "category": "official",
@@ -179,14 +299,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7132,
+        "recency": 0.5779,
         "story_heat": 0.0
       },
       "category": "official",
@@ -203,6 +323,66 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7cbfa15de102",
+      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+      "url": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj",
+      "primary_url": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a82f40c6ed26a2964f4cfc030544d19cbc8aa34a",
+          "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+          "url": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T01:35:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "a82f40c6ed26a2964f4cfc030544d19cbc8aa34a",
+          "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+          "url": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T01:35:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8509,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T01:35:42Z",
+      "latest_at": "2026-08-05T01:35:42Z",
+      "primary_item": {
+        "id": "a82f40c6ed26a2964f4cfc030544d19cbc8aa34a",
+        "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+        "url": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -259,14 +439,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -320,14 +500,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.7834,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -380,14 +560,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8366,
+        "recency": 0.7012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -459,14 +639,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -520,14 +700,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7221,
+        "recency": 0.5868,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,20 +761,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8104,
+        "recency": 0.6751,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T21:22:30Z",
       "latest_at": "2026-08-04T21:22:30Z",
@@ -641,21 +820,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4615,
+        "recency": 0.3261,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T13:00:00Z",
       "latest_at": "2026-08-04T13:00:00Z",
@@ -702,14 +880,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6819,
+        "recency": 0.5466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -723,360 +901,6 @@
         "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
         "url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2c66473919b3",
-      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-      "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-      "primary_url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "385fd25f5c38bb9bf94112b44355580a87a91603",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "385fd25f5c38bb9bf94112b44355580a87a91603",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6657,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T17:54:06Z",
-      "latest_at": "2026-08-04T17:54:06Z",
-      "primary_item": {
-        "id": "385fd25f5c38bb9bf94112b44355580a87a91603",
-        "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-        "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d811da7ba846",
-      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-      "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-      "primary_url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4b989d8ac8bca2aac185e7faabe1079b5d9f0574",
-          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-          "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:51:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "4b989d8ac8bca2aac185e7faabe1079b5d9f0574",
-          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-          "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T17:51:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6636,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T17:51:09Z",
-      "latest_at": "2026-08-04T17:51:09Z",
-      "primary_item": {
-        "id": "4b989d8ac8bca2aac185e7faabe1079b5d9f0574",
-        "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-        "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5c12b7304d75",
-      "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-      "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-      "primary_url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eedc4ec4075f3daaeaa12c17a5d71a4813bce1f0",
-          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-          "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:47:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "eedc4ec4075f3daaeaa12c17a5d71a4813bce1f0",
-          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-          "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:47:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6193,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T16:47:18Z",
-      "latest_at": "2026-08-04T16:47:18Z",
-      "primary_item": {
-        "id": "eedc4ec4075f3daaeaa12c17a5d71a4813bce1f0",
-        "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-        "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0f6716b459c8",
-      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-      "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-      "primary_url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "32731d1d02a428e2ceb4bbba0167a0ca77b4e71a",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "32731d1d02a428e2ceb4bbba0167a0ca77b4e71a",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6177,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T16:45:02Z",
-      "latest_at": "2026-08-04T16:45:02Z",
-      "primary_item": {
-        "id": "32731d1d02a428e2ceb4bbba0167a0ca77b4e71a",
-        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-        "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9d9d46cda538",
-      "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
-      "url": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
-      "primary_url": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
-      "source": "Google Cloud：Databases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "89993f89312793646c59b8057d57c2bd692a93c5",
-          "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
-          "url": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Cloud：Databases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "89993f89312793646c59b8057d57c2bd692a93c5",
-          "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
-          "url": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5865,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T16:00:00Z",
-      "latest_at": "2026-08-04T16:00:00Z",
-      "primary_item": {
-        "id": "89993f89312793646c59b8057d57c2bd692a93c5",
-        "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
-        "url": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
-        "source": "Google Cloud：Databases（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0804c1b3da8d",
-      "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
-      "url": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi",
-      "primary_url": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0d61a589d2a2fa5a814303b7814bde85b10833f",
-          "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
-          "url": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T15:46:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：商汤 SenseTime (@SenseTime_AI)"
-      ],
-      "items": [
-        {
-          "id": "f0d61a589d2a2fa5a814303b7814bde85b10833f",
-          "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
-          "url": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T15:46:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5768,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T15:46:03Z",
-      "latest_at": "2026-08-04T15:46:03Z",
-      "primary_item": {
-        "id": "f0d61a589d2a2fa5a814303b7814bde85b10833f",
-        "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
-        "url": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi",
-        "source": "X：商汤 SenseTime (@SenseTime_AI)",
         "source_name": "AI HOT"
       }
     },
@@ -1115,20 +939,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7185,
+        "recency": 0.5832,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T19:10:09Z",
       "latest_at": "2026-08-04T19:10:09Z",
@@ -1175,14 +998,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8647,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1201,62 +1024,244 @@
       }
     },
     {
-      "story_id": "story_dd7e6ea6ccb2",
-      "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-      "url": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u",
-      "primary_url": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "source_name": "AI HOT",
+      "story_id": "story_6ac81b78de9d",
+      "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+      "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+      "primary_url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8a641a1c09628a63e2fe72b4bcc3f9659c9b813c",
-          "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-          "url": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u",
-          "source": "X：蚂蚁百灵 (@AntLingAGI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T15:03:43Z"
+          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T15:54:47Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：蚂蚁百灵 (@AntLingAGI)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "8a641a1c09628a63e2fe72b4bcc3f9659c9b813c",
-          "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-          "url": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u",
-          "source": "X：蚂蚁百灵 (@AntLingAGI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T15:03:43Z"
+          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+          "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T15:54:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.4475,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T15:54:47Z",
+      "latest_at": "2026-08-04T15:54:47Z",
+      "primary_item": {
+        "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+        "title": "github.com 上的 GitHub Spark 即将弃用 / Upcoming deprecation of GitHub Spark on github.com",
+        "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b01b971cd449",
+      "title": "影石 AI 硬件牵手阿里千问：Go Ultra 口袋相机率先装上语音助手 Kira",
+      "url": "https://www.aibase.com/news/30118",
+      "primary_url": "https://www.aibase.com/news/30118",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b4792ea78ea1dc3f047d977addd4b21a81a6c65c",
+          "title": "影石 AI 硬件牵手阿里千问：Go Ultra 口袋相机率先装上语音助手 Kira",
+          "url": "https://www.aibase.com/news/30118",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T01:55:29.911934Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b4792ea78ea1dc3f047d977addd4b21a81a6c65c",
+          "title": "影石 AI 硬件牵手阿里千问：Go Ultra 口袋相机率先装上语音助手 Kira",
+          "url": "https://www.aibase.com/news/30118",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T01:55:29.911934Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5474,
+        "recency": 0.8647,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T01:55:29.911934Z",
+      "latest_at": "2026-08-05T01:55:29.911934Z",
+      "primary_item": {
+        "id": "b4792ea78ea1dc3f047d977addd4b21a81a6c65c",
+        "title": "影石 AI 硬件牵手阿里千问：Go Ultra 口袋相机率先装上语音助手 Kira",
+        "url": "https://www.aibase.com/news/30118",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1964f5d9b9fc",
+      "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
+      "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+      "primary_url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
+          "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
+          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T12:57:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
+          "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
+          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T12:57:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.3243,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T15:03:43Z",
-      "latest_at": "2026-08-04T15:03:43Z",
+      "earliest_at": "2026-08-04T12:57:18Z",
+      "latest_at": "2026-08-04T12:57:18Z",
       "primary_item": {
-        "id": "8a641a1c09628a63e2fe72b4bcc3f9659c9b813c",
-        "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-        "url": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u",
-        "source": "X：蚂蚁百灵 (@AntLingAGI)",
-        "source_name": "AI HOT"
+        "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
+        "title": "自定义 Dependabot 拉取请求分支名称 / Customize Dependabot pull request branch names",
+        "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_aae48b7067b1",
+      "title": "白宫 AI 评估框架完成却秘而不宣：连企业都看不到全文，开源议题再成焦点",
+      "url": "https://www.aibase.com/news/30114",
+      "primary_url": "https://www.aibase.com/news/30114",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d5deac44d8c5820b3754ff504909e01cb0b2ad52",
+          "title": "白宫 AI 评估框架完成却秘而不宣：连企业都看不到全文，开源议题再成焦点",
+          "url": "https://www.aibase.com/news/30114",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T01:55:29.911934Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d5deac44d8c5820b3754ff504909e01cb0b2ad52",
+          "title": "白宫 AI 评估框架完成却秘而不宣：连企业都看不到全文，开源议题再成焦点",
+          "url": "https://www.aibase.com/news/30114",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T01:55:29.911934Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8647,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T01:55:29.911934Z",
+      "latest_at": "2026-08-05T01:55:29.911934Z",
+      "primary_item": {
+        "id": "d5deac44d8c5820b3754ff504909e01cb0b2ad52",
+        "title": "白宫 AI 评估框架完成却秘而不宣：连企业都看不到全文，开源议题再成焦点",
+        "url": "https://www.aibase.com/news/30114",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
