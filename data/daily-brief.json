@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:45:49.232703Z",
+  "generated_at": "2026-08-07T11:39:52.177531Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9102,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,66 @@
         "url": "https://www.aibase.com/news/30199",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_16ebcdfd40af",
+      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+      "url": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
+      "primary_url": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "65d37a85bf3281a15c9ca3edac2c5c52ef6c9770",
+          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+          "url": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T11:08:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "65d37a85bf3281a15c9ca3edac2c5c52ef6c9770",
+          "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+          "url": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T11:08:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9782,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T11:08:25Z",
+      "latest_at": "2026-08-07T11:08:25Z",
+      "primary_item": {
+        "id": "65d37a85bf3281a15c9ca3edac2c5c52ef6c9770",
+        "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+        "url": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -118,14 +178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9675,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -178,14 +238,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5515,
+        "recency": 0.514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -205,7 +265,7 @@
       }
     },
     {
-      "story_id": "story_10b1abf33832",
+      "story_id": "story_0a12fe8d5719",
       "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
       "url": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi",
       "primary_url": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi",
@@ -258,14 +318,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8215,
+        "recency": 0.784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,14 +398,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.8542,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -399,14 +459,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8641,
+        "recency": 0.8265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -459,14 +519,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8302,
+        "recency": 0.7927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -519,14 +579,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8027,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -545,7 +605,7 @@
       }
     },
     {
-      "story_id": "story_71849d7aefd8",
+      "story_id": "story_caa70bc56fdb",
       "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
       "url": "https://aihot.virxact.com/items/cmsilvone1jf1ronk6fs8o4d4",
       "primary_url": "https://aihot.virxact.com/items/cmsilvone1jf1ronk6fs8o4d4",
@@ -598,14 +658,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8092,
+        "recency": 0.7716,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -659,14 +719,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3776,
+        "recency": 0.3401,
         "story_heat": 0.0
       },
       "category": "official",
@@ -719,14 +779,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6639,
+        "recency": 0.6263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -797,14 +857,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.7985,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -858,14 +918,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6382,
+        "recency": 0.6007,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,14 +977,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.2789,
+        "recency": 0.2414,
         "story_heat": 0.0
       },
       "category": "official",
@@ -996,14 +1056,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.7985,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1057,14 +1117,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.8542,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,14 +1195,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6406,
-      "importance": 0.6406,
-      "importance_score": 0.6406,
+      "score": 0.6331,
+      "importance": 0.6331,
+      "importance_score": 0.6331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.9682,
+        "recency": 0.9306,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1194,14 +1254,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.8542,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1254,14 +1314,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.7985,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1277,122 +1337,6 @@
         "url": "https://www.aibase.com/news/30193",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d8863932dcdd",
-      "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025）",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "primary_url": "https://www.aleksagordic.com/blog/vllm",
-      "source": "www.aleksagordic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c3c08f2a701a95bdba5dea5cf9ca8cff6d21ccc4",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025）",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "www.aleksagordic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T08:47:19.454000Z"
-        },
-        {
-          "id": "d253261d73a4658ccf3fba5698e02dcb4b7a060b",
-          "title": "vLLM 内部：高通量 LLM 推理系统剖析 (2025) / Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-          "url": "https://news.ycombinator.com/item?id=49202852",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T00:27:19.546000Z"
-        },
-        {
-          "id": "eab770089e012125733bd3ced98892627684c234",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025） / Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-06T21:30:21Z"
-        },
-        {
-          "id": "6dea45ebf090828099dbf31060c5d061a0178462",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025） / vLLM: Anatomy of a High-Throughput LLM Inference System",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T21:30:21Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.aleksagordic.com"
-      ],
-      "items": [
-        {
-          "id": "c3c08f2a701a95bdba5dea5cf9ca8cff6d21ccc4",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025）",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "www.aleksagordic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T08:47:19.454000Z"
-        },
-        {
-          "id": "d253261d73a4658ccf3fba5698e02dcb4b7a060b",
-          "title": "vLLM 内部：高通量 LLM 推理系统剖析 (2025) / Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-          "url": "https://news.ycombinator.com/item?id=49202852",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T00:27:19.546000Z"
-        },
-        {
-          "id": "eab770089e012125733bd3ced98892627684c234",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025） / Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-06T21:30:21Z"
-        },
-        {
-          "id": "6dea45ebf090828099dbf31060c5d061a0178462",
-          "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025） / vLLM: Anatomy of a High-Throughput LLM Inference System",
-          "url": "https://www.aleksagordic.com/blog/vllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-06T21:30:21Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5815,
-      "importance": 0.5815,
-      "importance_score": 0.5815,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9177,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-06T21:30:21Z",
-      "latest_at": "2026-08-07T08:47:19.454000Z",
-      "primary_item": {
-        "id": "c3c08f2a701a95bdba5dea5cf9ca8cff6d21ccc4",
-        "title": "vLLM 内部解析：高吞吐量大型语言模型推理系统的架构（2025）",
-        "url": "https://www.aleksagordic.com/blog/vllm",
-        "source": "www.aleksagordic.com",
-        "source_name": "Buzzing"
       }
     }
   ]
