@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:27:51.645565Z",
+  "generated_at": "2026-08-08T15:56:18.222202Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9242,
+        "recency": 0.9044,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -118,14 +118,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9799,
+        "recency": 0.9602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -178,14 +178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9658,
+        "recency": 0.9461,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -238,14 +238,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.818,
+        "recency": 0.7983,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -298,14 +298,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3251,
+        "recency": 0.3054,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,20 +358,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7065,
+        "recency": 0.6867,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-08T08:25:11Z",
       "latest_at": "2026-08-08T08:25:11Z",
@@ -437,14 +436,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.701,
-      "importance": 0.701,
-      "importance_score": 0.701,
+      "score": 0.6971,
+      "importance": 0.6971,
+      "importance_score": 0.6971,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3202,
+        "recency": 0.3004,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -554,14 +553,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5912,
-      "importance": 0.5912,
-      "importance_score": 0.5912,
+      "score": 0.5872,
+      "importance": 0.5872,
+      "importance_score": 0.5872,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9658,
+        "recency": 0.9461,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -650,14 +649,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5688,
-      "importance": 0.5688,
-      "importance_score": 0.5688,
+      "score": 0.5649,
+      "importance": 0.5649,
+      "importance_score": 0.5649,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9792,
+        "recency": 0.9595,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -672,6 +671,83 @@
         "url": "https://news.ycombinator.com/item?id=49220609",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_d5ffa69b0bf6",
+      "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
+      "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+      "primary_url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "57bc710270b70788cb181d54e69e55d0067b988c",
+          "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
+          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T15:26:37.111000Z"
+        },
+        {
+          "id": "6368c719b8d0c676413f52d2abbcb368b48937e9",
+          "title": "与特朗普有关联的金融科技公司AI Financial将旗下业务部门出售给Prime Delta",
+          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T02:06:38.775000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "57bc710270b70788cb181d54e69e55d0067b988c",
+          "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
+          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T15:26:37.111000Z"
+        },
+        {
+          "id": "6368c719b8d0c676413f52d2abbcb368b48937e9",
+          "title": "与特朗普有关联的金融科技公司AI Financial将旗下业务部门出售给Prime Delta",
+          "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T02:06:38.775000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9794,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T02:06:38.775000Z",
+      "latest_at": "2026-08-08T15:26:37.111000Z",
+      "primary_item": {
+        "id": "57bc710270b70788cb181d54e69e55d0067b988c",
+        "title": "与特朗普有关联的金融科技公司AI Financial将其旗下业务部门出售给PrimeDelta",
+        "url": "https://www.reuters.com/legal/transactional/trump-linked-fintech-ai-financial-sells-unit-prime-delta-2026-08-08",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -728,14 +804,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8658,
+        "recency": 0.846,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -806,14 +882,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9572,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -884,14 +960,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5056,
-      "importance": 0.5056,
-      "importance_score": 0.5056,
+      "score": 0.5017,
+      "importance": 0.5017,
+      "importance_score": 0.5017,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7882,
+        "recency": 0.7684,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -962,14 +1038,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9116,
+        "recency": 0.8918,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1039,14 +1115,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4662,
-      "importance": 0.4662,
-      "importance_score": 0.4662,
+      "score": 0.4623,
+      "importance": 0.4623,
+      "importance_score": 0.4623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.591,
+        "recency": 0.5713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1117,14 +1193,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4571,
-      "importance": 0.4571,
-      "importance_score": 0.4571,
+      "score": 0.4532,
+      "importance": 0.4532,
+      "importance_score": 0.4532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5457,
+        "recency": 0.526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1195,14 +1271,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4571,
-      "importance": 0.4571,
-      "importance_score": 0.4571,
+      "score": 0.4532,
+      "importance": 0.4532,
+      "importance_score": 0.4532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5457,
+        "recency": 0.526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,14 +1349,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5012,
-      "importance": 0.5012,
-      "importance_score": 0.5012,
+      "score": 0.4972,
+      "importance": 0.4972,
+      "importance_score": 0.4972,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7659,
+        "recency": 0.7462,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1350,14 +1426,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4343,
-      "importance": 0.4343,
-      "importance_score": 0.4343,
+      "score": 0.4303,
+      "importance": 0.4303,
+      "importance_score": 0.4303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4315,
+        "recency": 0.4117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1447,14 +1523,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4195,
-      "importance": 0.4195,
-      "importance_score": 0.4195,
+      "score": 0.4156,
+      "importance": 0.4156,
+      "importance_score": 0.4156,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2325,
+        "recency": 0.2128,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1468,103 +1544,6 @@
         "title": "Databricks 将人工智能编码支出降低了 70%",
         "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
         "source": "www.databricks.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_82b10fb0542c",
-      "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "primary_url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "source": "app.dealroom.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "245e1489906e00027a5c0cc106e451ff1be2522d",
-          "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "source": "app.dealroom.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T18:38:41.025000Z"
-        },
-        {
-          "id": "40682e45a2c15289b4d1e5e28a15eb98cac8e9bb",
-          "title": "Oracle 禁止 OpenJDK 中人工智能生成的代码 / Oracle bans AI-generated code from OpenJDK",
-          "url": "https://news.ycombinator.com/item?id=49213754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T17:59:17.116000Z"
-        },
-        {
-          "id": "ff09546fd3e590eb379499b04112092d7cbbaf24",
-          "title": "甲骨文禁止在OpenJDK中使用AI生成的代码 / Oracle bans AI-generated code from OpenJDK",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T17:36:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "app.dealroom.co",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "245e1489906e00027a5c0cc106e451ff1be2522d",
-          "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "source": "app.dealroom.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T18:38:41.025000Z"
-        },
-        {
-          "id": "40682e45a2c15289b4d1e5e28a15eb98cac8e9bb",
-          "title": "Oracle 禁止 OpenJDK 中人工智能生成的代码 / Oracle bans AI-generated code from OpenJDK",
-          "url": "https://news.ycombinator.com/item?id=49213754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T17:59:17.116000Z"
-        },
-        {
-          "id": "ff09546fd3e590eb379499b04112092d7cbbaf24",
-          "title": "甲骨文禁止在OpenJDK中使用AI生成的代码 / Oracle bans AI-generated code from OpenJDK",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T17:36:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.3995,
-      "importance": 0.3995,
-      "importance_score": 0.3995,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1325,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T17:36:30Z",
-      "latest_at": "2026-08-07T18:38:41.025000Z",
-      "primary_item": {
-        "id": "245e1489906e00027a5c0cc106e451ff1be2522d",
-        "title": "甲骨文禁止在OpenJDK中使用AI生成的代码",
-        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "source": "app.dealroom.co",
         "source_name": "Buzzing"
       }
     }
