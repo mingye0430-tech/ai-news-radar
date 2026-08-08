@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:33:42.572341Z",
+  "generated_at": "2026-08-08T05:37:16.979433Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7794,
+        "recency": 0.7352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -118,14 +118,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7745,
+        "recency": 0.7303,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -179,14 +179,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6888,
+        "recency": 0.6447,
         "story_heat": 0.0
       },
       "category": "official",
@@ -240,14 +240,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8071,
+        "recency": 0.763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -300,14 +300,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6776,
+        "recency": 0.6334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,14 +361,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.64,
+        "recency": 0.5958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -420,14 +420,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5978,
+        "recency": 0.5537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -479,14 +479,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5966,
+        "recency": 0.5524,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,65 +500,6 @@
         "title": "OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型",
         "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
         "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_15d42117f4eb",
-      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-      "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-      "primary_url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2692486c3353b85d969b9776a33adb5c80827850",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "2692486c3353b85d969b9776a33adb5c80827850",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.554,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T17:51:24Z",
-      "latest_at": "2026-08-07T17:51:24Z",
-      "primary_item": {
-        "id": "2692486c3353b85d969b9776a33adb5c80827850",
-        "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-        "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -597,14 +538,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7127,
+        "recency": 0.6686,
         "story_heat": 0.0
       },
       "category": "official",
@@ -677,14 +618,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6782,
-      "importance": 0.6782,
-      "importance_score": 0.6782,
+      "score": 0.6694,
+      "importance": 0.6694,
+      "importance_score": 0.6694,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2061,
+        "recency": 0.162,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -737,14 +678,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5744,
+        "recency": 0.5302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -817,14 +758,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.667,
-      "importance": 0.667,
-      "importance_score": 0.667,
+      "score": 0.6582,
+      "importance": 0.6582,
+      "importance_score": 0.6582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1501,
+        "recency": 0.106,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -896,14 +837,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.653,
-      "importance": 0.653,
-      "importance_score": 0.653,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.08,
+        "recency": 0.0358,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -956,14 +897,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5413,
+        "recency": 0.4972,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1036,14 +977,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6114,
-      "importance": 0.6114,
-      "importance_score": 0.6114,
+      "score": 0.6026,
+      "importance": 0.6026,
+      "importance_score": 0.6026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8071,
+        "recency": 0.763,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1114,14 +1055,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6559,
-      "importance": 0.6559,
-      "importance_score": 0.6559,
+      "score": 0.6471,
+      "importance": 0.6471,
+      "importance_score": 0.6471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0945,
+        "recency": 0.0503,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1249,14 +1190,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5932,
-      "importance": 0.5932,
-      "importance_score": 0.5932,
+      "score": 0.5844,
+      "importance": 0.5844,
+      "importance_score": 0.5844,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.851,
+        "recency": 0.8068,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1327,14 +1268,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6505,
-      "importance": 0.6505,
-      "importance_score": 0.6505,
+      "score": 0.6417,
+      "importance": 0.6417,
+      "importance_score": 0.6417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0676,
+        "recency": 0.0234,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,14 +1328,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5146,
+        "recency": 0.4705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1411,6 +1352,85 @@
         "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_514162b004ef",
+      "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+      "url": "https://www.aibase.com/news/30194",
+      "primary_url": "https://www.aibase.com/news/30194",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+          "url": "https://www.aibase.com/news/30194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T06:49:46.058946Z"
+        },
+        {
+          "id": "1fd7e11d5dbefc44b1cc3639daa38d6750f9375b",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本仅百分之一",
+          "url": "https://www.aibase.com/zh/news/30194",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+          "url": "https://www.aibase.com/news/30194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T06:49:46.058946Z"
+        },
+        {
+          "id": "1fd7e11d5dbefc44b1cc3639daa38d6750f9375b",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本仅百分之一",
+          "url": "https://www.aibase.com/zh/news/30194",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6471,
+      "importance": 0.6471,
+      "importance_score": 0.6471,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.0503,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T06:49:46.058946Z",
+      "latest_at": "2026-08-07T08:09:54.691689Z",
+      "primary_item": {
+        "id": "98608447a616cc19373034f3ef86c4e5f0966422",
+        "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+        "url": "https://www.aibase.com/news/30194",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
