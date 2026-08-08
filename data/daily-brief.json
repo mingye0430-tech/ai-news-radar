@@ -1,8 +1,266 @@
 {
-  "generated_at": "2026-08-08T23:23:24.652159Z",
+  "generated_at": "2026-08-08T23:53:05.778810Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f5f4233a6e75",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
+      "primary_url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "415c8fda121711d3b1f059aadae9aae71242bf83",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
+        },
+        {
+          "id": "e3762adbecfc92d514b72ebb63ccc721b34a25aa",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T22:46:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "415c8fda121711d3b1f059aadae9aae71242bf83",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
+        },
+        {
+          "id": "e3762adbecfc92d514b72ebb63ccc721b34a25aa",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T22:46:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9536,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T22:46:14Z",
+      "latest_at": "2026-08-08T22:46:14Z",
+      "primary_item": {
+        "id": "415c8fda121711d3b1f059aadae9aae71242bf83",
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1a52d1798e0",
+      "title": "Grok Imagine 图像编辑迎来重大升级",
+      "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+      "primary_url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8b87069b47b8d925d0f2d76b76a8f72225e56c88",
+          "title": "Grok Imagine 图像编辑迎来重大升级",
+          "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T16:27:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "8b87069b47b8d925d0f2d76b76a8f72225e56c88",
+          "title": "Grok Imagine 图像编辑迎来重大升级",
+          "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T16:27:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6908,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T16:27:48Z",
+      "latest_at": "2026-08-08T16:27:48Z",
+      "primary_item": {
+        "id": "8b87069b47b8d925d0f2d76b76a8f72225e56c88",
+        "title": "Grok Imagine 图像编辑迎来重大升级",
+        "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_49f2e00a185b",
+      "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
+      "url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
+      "primary_url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf17797c5d143a800beab57336d32c4db5350317",
+          "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
+          "url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:58:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bf17797c5d143a800beab57336d32c4db5350317",
+          "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
+          "url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:58:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6291,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T14:58:57Z",
+      "latest_at": "2026-08-08T14:58:57Z",
+      "primary_item": {
+        "id": "bf17797c5d143a800beab57336d32c4db5350317",
+        "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
+        "url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9ea9b47d3f75",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
+      "primary_url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c628e9d6ba369bfb65a8eb2a4690f64dfaccbf4c",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:38:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c628e9d6ba369bfb65a8eb2a4690f64dfaccbf4c",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T14:38:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.615,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T14:38:40Z",
+      "latest_at": "2026-08-08T14:38:40Z",
+      "primary_item": {
+        "id": "c628e9d6ba369bfb65a8eb2a4690f64dfaccbf4c",
+        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_2a9020742ec6",
       "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
@@ -57,14 +315,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5939,
+        "recency": 0.5733,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -80,184 +338,6 @@
         "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
         "url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b1a52d1798e0",
-      "title": "Grok Imagine 图像编辑迎来重大升级",
-      "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
-      "primary_url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8b87069b47b8d925d0f2d76b76a8f72225e56c88",
-          "title": "Grok Imagine 图像编辑迎来重大升级",
-          "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T16:27:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "8b87069b47b8d925d0f2d76b76a8f72225e56c88",
-          "title": "Grok Imagine 图像编辑迎来重大升级",
-          "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T16:27:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7114,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-08T16:27:48Z",
-      "latest_at": "2026-08-08T16:27:48Z",
-      "primary_item": {
-        "id": "8b87069b47b8d925d0f2d76b76a8f72225e56c88",
-        "title": "Grok Imagine 图像编辑迎来重大升级",
-        "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_49f2e00a185b",
-      "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
-      "url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
-      "primary_url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf17797c5d143a800beab57336d32c4db5350317",
-          "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
-          "url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T14:58:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bf17797c5d143a800beab57336d32c4db5350317",
-          "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
-          "url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T14:58:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6497,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T14:58:57Z",
-      "latest_at": "2026-08-08T14:58:57Z",
-      "primary_item": {
-        "id": "bf17797c5d143a800beab57336d32c4db5350317",
-        "title": "Anthropic 将 Claude Code 默认设为 Auto Mode，以防开发者误批准危险操作",
-        "url": "https://aihot.virxact.com/items/cmskiiu8u0714ro5evnwtqckh",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9ea9b47d3f75",
-      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-      "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
-      "primary_url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c628e9d6ba369bfb65a8eb2a4690f64dfaccbf4c",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c628e9d6ba369bfb65a8eb2a4690f64dfaccbf4c",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-          "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T14:38:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6356,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T14:38:40Z",
-      "latest_at": "2026-08-08T14:38:40Z",
-      "primary_item": {
-        "id": "c628e9d6ba369bfb65a8eb2a4690f64dfaccbf4c",
-        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-        "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -315,14 +395,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6314,
-      "importance": 0.6314,
-      "importance_score": 0.6314,
+      "score": 0.6273,
+      "importance": 0.6273,
+      "importance_score": 0.6273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9671,
+        "recency": 0.9465,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -341,13 +421,22 @@
     },
     {
       "story_id": "story_7356e5d63521",
-      "title": "faaah（文件系统作为人工智能处理器）",
+      "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
       "url": "https://github.com/sebastiancarlos/faaah",
       "primary_url": "https://github.com/sebastiancarlos/faaah",
       "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
+          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:26:37.332000Z"
+        },
+        {
           "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
           "title": "faaah（文件系统作为人工智能处理器）",
           "url": "https://github.com/sebastiancarlos/faaah",
@@ -366,13 +455,22 @@
           "published_at": "2026-08-08T23:07:20Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Lobsters (技术社区)",
         "github.com"
       ],
       "items": [
         {
+          "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+          "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:26:37.332000Z"
+        },
+        {
           "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
           "title": "faaah（文件系统作为人工智能处理器）",
           "url": "https://github.com/sebastiancarlos/faaah",
@@ -391,27 +489,27 @@
           "published_at": "2026-08-08T23:07:20Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5462,
-      "importance": 0.5462,
-      "importance_score": 0.5462,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5693,
+      "importance": 0.5693,
+      "importance_score": 0.5693,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9911,
-        "story_heat": 0.25
+        "recency": 0.9816,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-08-08T23:07:20Z",
-      "latest_at": "2026-08-08T23:10:34.737000Z",
+      "latest_at": "2026-08-08T23:26:37.332000Z",
       "primary_item": {
-        "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
-        "title": "faaah（文件系统作为人工智能处理器）",
+        "id": "444136b5cecf9595b9c8054951bc9b831776d228",
+        "title": "Show HN: Faaah——将文件系统作为人工智能处理器",
         "url": "https://github.com/sebastiancarlos/faaah",
         "source": "github.com",
         "source_name": "Buzzing"
@@ -490,14 +588,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8357,
+        "recency": 0.8151,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -568,14 +666,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.67,
-        "recency": 0.88,
+        "recency": 0.8594,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -665,14 +763,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7801,
+        "recency": 0.7595,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -781,14 +879,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6356,
+        "recency": 0.615,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -859,14 +957,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8736,
+        "recency": 0.8529,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -937,14 +1035,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
+      "score": 0.5021,
+      "importance": 0.5021,
+      "importance_score": 0.5021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7912,
+        "recency": 0.7706,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1014,14 +1112,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4818,
-      "importance": 0.4818,
-      "importance_score": 0.4818,
+      "score": 0.4777,
+      "importance": 0.4777,
+      "importance_score": 0.4777,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6689,
+        "recency": 0.6483,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1110,14 +1208,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5028,
-      "importance": 0.5028,
-      "importance_score": 0.5028,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.649,
+        "recency": 0.6284,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1188,14 +1286,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4551,
-      "importance": 0.4551,
-      "importance_score": 0.4551,
+      "score": 0.451,
+      "importance": 0.451,
+      "importance_score": 0.451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5355,
+        "recency": 0.5149,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1266,14 +1364,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4396,
-      "importance": 0.4396,
-      "importance_score": 0.4396,
+      "score": 0.4355,
+      "importance": 0.4355,
+      "importance_score": 0.4355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4579,
+        "recency": 0.4373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,14 +1442,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4643,
-      "importance": 0.4643,
-      "importance_score": 0.4643,
+      "score": 0.4601,
+      "importance": 0.4601,
+      "importance_score": 0.4601,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5813,
+        "recency": 0.5607,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1421,14 +1519,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4002,
-      "importance": 0.4002,
-      "importance_score": 0.4002,
+      "score": 0.396,
+      "importance": 0.396,
+      "importance_score": 0.396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2608,
+        "recency": 0.2402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1499,14 +1597,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3911,
-      "importance": 0.3911,
-      "importance_score": 0.3911,
+      "score": 0.387,
+      "importance": 0.387,
+      "importance_score": 0.387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2155,
+        "recency": 0.1949,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1520,84 +1618,6 @@
         "title": "价值 350 万的「提示词」开源了，揭秘全球首部全 AI 生成的电影长片",
         "url": "https://www.huxiu.com/article/4881638.html?f=rss",
         "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_34626deb79fb",
-      "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-      "url": "https://www.36kr.com/p/3930193006837125",
-      "primary_url": "https://www.36kr.com/p/3930193006837125",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7ddf51724f1612fbd15fbf8809ae0127cf698900",
-          "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-          "url": "https://www.36kr.com/p/3930193006837125",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec96918d48aa175fc93aeecee9747dd37e696756",
-          "title": "ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-          "url": "https://www.huxiu.com/article/4881637.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T03:37:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "7ddf51724f1612fbd15fbf8809ae0127cf698900",
-          "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-          "url": "https://www.36kr.com/p/3930193006837125",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec96918d48aa175fc93aeecee9747dd37e696756",
-          "title": "ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-          "url": "https://www.huxiu.com/article/4881637.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T03:37:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3911,
-      "importance": 0.3911,
-      "importance_score": 0.3911,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2155,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T03:37:53Z",
-      "latest_at": "2026-08-08T04:33:42.572341Z",
-      "primary_item": {
-        "id": "7ddf51724f1612fbd15fbf8809ae0127cf698900",
-        "title": "突发 | ChatGPT最强模型紧急踩刹车，奥特曼：你（Astra）吓到我了",
-        "url": "https://www.36kr.com/p/3930193006837125",
-        "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
       }
     }
