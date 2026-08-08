@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:43:01.467188Z",
+  "generated_at": "2026-08-08T08:32:58.576149Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6479,
+        "recency": 0.6132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -118,14 +118,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.643,
+        "recency": 0.6083,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -179,14 +179,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5574,
+        "recency": 0.5227,
         "story_heat": 0.0
       },
       "category": "official",
@@ -240,14 +240,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6757,
+        "recency": 0.641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -299,14 +299,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5461,
+        "recency": 0.5114,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,14 +360,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5813,
+        "recency": 0.5466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -440,14 +440,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6519,
-      "importance": 0.6519,
-      "importance_score": 0.6519,
+      "score": 0.645,
+      "importance": 0.645,
+      "importance_score": 0.645,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0747,
+        "recency": 0.04,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -500,14 +500,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4429,
+        "recency": 0.4082,
         "story_heat": 0.0
       },
       "category": "official",
@@ -524,85 +524,6 @@
         "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d2df922b8b97",
-      "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-      "url": "https://www.aibase.com/news/30196",
-      "primary_url": "https://www.aibase.com/news/30196",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/news/30196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T08:09:54.691689Z"
-        },
-        {
-          "id": "16a7a122803bc7de297327e45d203c3ee58db528",
-          "title": "火山引擎上线 Seedance2.5 API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/zh/news/30196",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/news/30196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T08:09:54.691689Z"
-        },
-        {
-          "id": "16a7a122803bc7de297327e45d203c3ee58db528",
-          "title": "火山引擎上线 Seedance2.5 API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/zh/news/30196",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6407,
-      "importance": 0.6407,
-      "importance_score": 0.6407,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0187,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T08:09:54.691689Z",
-      "latest_at": "2026-08-07T08:09:54.691689Z",
-      "primary_item": {
-        "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-        "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-        "url": "https://www.aibase.com/news/30196",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -640,14 +561,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4099,
+        "recency": 0.3752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -719,14 +640,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5851,
-      "importance": 0.5851,
-      "importance_score": 0.5851,
+      "score": 0.5782,
+      "importance": 0.5782,
+      "importance_score": 0.5782,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.6757,
+        "recency": 0.641,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -853,14 +774,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
+      "score": 0.56,
+      "importance": 0.56,
+      "importance_score": 0.56,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7195,
+        "recency": 0.6848,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -912,14 +833,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3832,
+        "recency": 0.3485,
         "story_heat": 0.0
       },
       "category": "official",
@@ -972,14 +893,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3086,
+        "recency": 0.2739,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1051,14 +972,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.8338,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,14 +1050,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.8338,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1206,14 +1127,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4989,
-      "importance": 0.4989,
-      "importance_score": 0.4989,
+      "score": 0.4919,
+      "importance": 0.4919,
+      "importance_score": 0.4919,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7543,
+        "recency": 0.7196,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1284,14 +1205,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4879,
-      "importance": 0.4879,
-      "importance_score": 0.4879,
+      "score": 0.481,
+      "importance": 0.481,
+      "importance_score": 0.481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6997,
+        "recency": 0.665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1361,14 +1282,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.466,
-      "importance": 0.466,
-      "importance_score": 0.466,
+      "score": 0.4591,
+      "importance": 0.4591,
+      "importance_score": 0.4591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.0951,
+        "recency": 0.0604,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,14 +1379,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4641,
-      "importance": 0.4641,
-      "importance_score": 0.4641,
+      "score": 0.4571,
+      "importance": 0.4571,
+      "importance_score": 0.4571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4553,
+        "recency": 0.4206,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1480,6 +1401,84 @@
         "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
         "source": "app.dealroom.co",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_682035b82e13",
+      "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+      "url": "https://news.ycombinator.com/item?id=49217629",
+      "primary_url": "https://news.ycombinator.com/item?id=49217629",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "29857904b535ab3154c5c84933dd4a2b65b9af3d",
+          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+          "url": "https://news.ycombinator.com/item?id=49217629",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T00:59:08.340000Z"
+        },
+        {
+          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
+          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T00:03:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "29857904b535ab3154c5c84933dd4a2b65b9af3d",
+          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+          "url": "https://news.ycombinator.com/item?id=49217629",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T00:59:08.340000Z"
+        },
+        {
+          "id": "f5232d9ab55795034430d9f09426f5ff8559c23e",
+          "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T00:03:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.485,
+      "importance": 0.485,
+      "importance_score": 0.485,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6848,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T00:03:31Z",
+      "latest_at": "2026-08-08T00:59:08.340000Z",
+      "primary_item": {
+        "id": "29857904b535ab3154c5c84933dd4a2b65b9af3d",
+        "title": "人工智能实验室是否应该像危险动物的主人一样对待？ / Should AI labs be treated like the owners of dangerous animals?",
+        "url": "https://news.ycombinator.com/item?id=49217629",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
