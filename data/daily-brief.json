@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:02:58.123363Z",
+  "generated_at": "2026-08-08T17:54:49.177645Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8581,
+        "recency": 0.8221,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -118,14 +118,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.9396,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -178,14 +178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9139,
+        "recency": 0.8779,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -238,14 +238,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8998,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -298,14 +298,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.752,
+        "recency": 0.716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -321,66 +321,6 @@
         "url": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_413964f479f7",
-      "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-      "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-          "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-          "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T23:16:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-          "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-          "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T23:16:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7248,
-      "importance": 0.7248,
-      "importance_score": 0.7248,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2591,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T23:16:02Z",
-      "latest_at": "2026-08-07T23:16:02Z",
-      "primary_item": {
-        "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-        "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-        "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -418,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6404,
+        "recency": 0.6044,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,14 +436,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6878,
-      "importance": 0.6878,
-      "importance_score": 0.6878,
+      "score": 0.6806,
+      "importance": 0.6806,
+      "importance_score": 0.6806,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2541,
+        "recency": 0.2181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -613,14 +553,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.578,
-      "importance": 0.578,
-      "importance_score": 0.578,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8998,
+        "recency": 0.8638,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -709,14 +649,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5556,
-      "importance": 0.5556,
-      "importance_score": 0.5556,
+      "score": 0.5484,
+      "importance": 0.5484,
+      "importance_score": 0.5484,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9132,
+        "recency": 0.8772,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -786,14 +726,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9331,
+        "recency": 0.8971,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -864,14 +804,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7997,
+        "recency": 0.7637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -942,14 +882,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.8551,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,14 +960,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4924,
-      "importance": 0.4924,
-      "importance_score": 0.4924,
+      "score": 0.4852,
+      "importance": 0.4852,
+      "importance_score": 0.4852,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7221,
+        "recency": 0.6861,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1098,14 +1038,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5099,
+      "importance": 0.5099,
+      "importance_score": 0.5099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8455,
+        "recency": 0.8095,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1175,14 +1115,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.453,
-      "importance": 0.453,
-      "importance_score": 0.453,
+      "score": 0.4458,
+      "importance": 0.4458,
+      "importance_score": 0.4458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.525,
+        "recency": 0.489,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1253,14 +1193,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4439,
-      "importance": 0.4439,
-      "importance_score": 0.4439,
+      "score": 0.4367,
+      "importance": 0.4367,
+      "importance_score": 0.4367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4797,
+        "recency": 0.4437,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1331,14 +1271,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4439,
-      "importance": 0.4439,
-      "importance_score": 0.4439,
+      "score": 0.4367,
+      "importance": 0.4367,
+      "importance_score": 0.4367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4797,
+        "recency": 0.4437,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1409,14 +1349,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.488,
-      "importance": 0.488,
-      "importance_score": 0.488,
+      "score": 0.4808,
+      "importance": 0.4808,
+      "importance_score": 0.4808,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6999,
+        "recency": 0.6639,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1486,14 +1426,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4211,
-      "importance": 0.4211,
-      "importance_score": 0.4211,
+      "score": 0.4139,
+      "importance": 0.4139,
+      "importance_score": 0.4139,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3654,
+        "recency": 0.3294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1508,6 +1448,103 @@
         "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_4fffe919132d",
+      "title": "Databricks 将人工智能编码支出降低了 70%",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "primary_url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source": "www.databricks.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7ddb2706d3107fd04c47e41e1637e29351e8e038",
+          "title": "Databricks 将人工智能编码支出降低了 70%",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "www.databricks.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T21:02:43.201000Z"
+        },
+        {
+          "id": "c54f7b14bdf7cd7f4ba80a98702b9010e483b939",
+          "title": "Databricks 将人工智能编码支出降低了 70% / Databricks drove down AI coding spend 70%",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T18:25:17Z"
+        },
+        {
+          "id": "edd1a51f0917f0a8d9f607996de2b3b67026b7ee",
+          "title": "Databricks 将人工智能编码支出降低了 70% / Managing AI Coding Costs at Scale",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T18:25:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "www.databricks.com"
+      ],
+      "items": [
+        {
+          "id": "7ddb2706d3107fd04c47e41e1637e29351e8e038",
+          "title": "Databricks 将人工智能编码支出降低了 70%",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "www.databricks.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-07T21:02:43.201000Z"
+        },
+        {
+          "id": "c54f7b14bdf7cd7f4ba80a98702b9010e483b939",
+          "title": "Databricks 将人工智能编码支出降低了 70% / Databricks drove down AI coding spend 70%",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T18:25:17Z"
+        },
+        {
+          "id": "edd1a51f0917f0a8d9f607996de2b3b67026b7ee",
+          "title": "Databricks 将人工智能编码支出降低了 70% / Managing AI Coding Costs at Scale",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T18:25:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.3991,
+      "importance": 0.3991,
+      "importance_score": 0.3991,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1305,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-07T18:25:17Z",
+      "latest_at": "2026-08-07T21:02:43.201000Z",
+      "primary_item": {
+        "id": "7ddb2706d3107fd04c47e41e1637e29351e8e038",
+        "title": "Databricks 将人工智能编码支出降低了 70%",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "source": "www.databricks.com",
+        "source_name": "Buzzing"
       }
     }
   ]
