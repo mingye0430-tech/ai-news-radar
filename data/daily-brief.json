@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:50:51.244315Z",
+  "generated_at": "2026-08-10T20:34:36.724841Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8815,
-      "importance": 0.8815,
-      "importance_score": 0.8815,
+      "score": 0.8754,
+      "importance": 0.8754,
+      "importance_score": 0.8754,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8575,
+        "recency": 0.8271,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,14 +119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8701,
-      "importance": 0.8701,
-      "importance_score": 0.8701,
+      "score": 0.864,
+      "importance": 0.864,
+      "importance_score": 0.864,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9855,
+        "recency": 0.9551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -180,14 +180,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8814,
+        "recency": 0.851,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,14 +241,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7751,
+        "recency": 0.7448,
         "story_heat": 0.0
       },
       "category": "official",
@@ -302,14 +302,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7772,
+        "recency": 0.7468,
         "story_heat": 0.0
       },
       "category": "official",
@@ -326,6 +326,66 @@
         "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2076e8db80a8",
+      "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+      "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+      "primary_url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+          "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T19:54:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
+          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+          "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T19:54:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9719,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T19:54:08Z",
+      "latest_at": "2026-08-10T19:54:08Z",
+      "primary_item": {
+        "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
+        "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
+        "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -363,14 +423,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.673,
+        "recency": 0.6426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,14 +484,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.757,
+        "recency": 0.7266,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,14 +545,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8389,
+        "recency": 0.8086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,66 +567,6 @@
         "title": "Claude Code 自动模式默认开启原理",
         "url": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar",
         "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9f54160ab092",
-      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-      "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
-      "primary_url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "183835e4d052e2dd20de044d67e6244198d86408",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:03:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "183835e4d052e2dd20de044d67e6244198d86408",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:03:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7587,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T14:03:26Z",
-      "latest_at": "2026-08-10T14:03:26Z",
-      "primary_item": {
-        "id": "183835e4d052e2dd20de044d67e6244198d86408",
-        "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-        "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -605,14 +605,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7569,
+        "recency": 0.7265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -631,7 +631,7 @@
       }
     },
     {
-      "story_id": "story_ce421a877907",
+      "story_id": "story_0652811e3248",
       "title": "阿里Meoo秒悟上线团队版，接入Qwen-3.8-Max模型",
       "url": "https://www.aibase.com/news/30221",
       "primary_url": "https://www.aibase.com/news/30221",
@@ -684,21 +684,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5867,
+        "recency": 0.5563,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T09:55:44.379712Z",
       "latest_at": "2026-08-10T09:55:44.379712Z",
@@ -745,14 +744,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6672,
+        "recency": 0.6368,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,14 +803,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7048,
+        "recency": 0.6744,
         "story_heat": 0.0
       },
       "category": "official",
@@ -828,6 +827,66 @@
         "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9f54160ab092",
+      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+      "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
+      "primary_url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "183835e4d052e2dd20de044d67e6244198d86408",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:03:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "183835e4d052e2dd20de044d67e6244198d86408",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:03:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7283,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T14:03:26Z",
+      "latest_at": "2026-08-10T14:03:26Z",
+      "primary_item": {
+        "id": "183835e4d052e2dd20de044d67e6244198d86408",
+        "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+        "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -865,14 +924,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5991,
+        "recency": 0.5687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -924,14 +983,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5944,
+        "recency": 0.5641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -983,14 +1042,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5908,
+        "recency": 0.5604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1042,14 +1101,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5897,
+        "recency": 0.5593,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1101,14 +1160,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.173,
+        "recency": 0.1426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1180,14 +1239,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5224,
+        "recency": 0.492,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1203,65 +1262,6 @@
         "url": "https://www.aibase.com/news/30220",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_de4e648a30b8",
-      "title": "Meta 开源 Muse Glimmer 30B 模型",
-      "url": "https://aihot.virxact.com/items/cmsn3w3ln012xror1rn8ass8c",
-      "primary_url": "https://aihot.virxact.com/items/cmsn3w3ln012xror1rn8ass8c",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ee53a262810f1c5694cbdb08191f69dac2a3506",
-          "title": "Meta 开源 Muse Glimmer 30B 模型",
-          "url": "https://aihot.virxact.com/items/cmsn3w3ln012xror1rn8ass8c",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:03:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      ],
-      "items": [
-        {
-          "id": "6ee53a262810f1c5694cbdb08191f69dac2a3506",
-          "title": "Meta 开源 Muse Glimmer 30B 模型",
-          "url": "https://aihot.virxact.com/items/cmsn3w3ln012xror1rn8ass8c",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:03:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5923,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T10:03:44Z",
-      "latest_at": "2026-08-10T10:03:44Z",
-      "primary_item": {
-        "id": "6ee53a262810f1c5694cbdb08191f69dac2a3506",
-        "title": "Meta 开源 Muse Glimmer 30B 模型",
-        "url": "https://aihot.virxact.com/items/cmsn3w3ln012xror1rn8ass8c",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
       }
     }
   ]
