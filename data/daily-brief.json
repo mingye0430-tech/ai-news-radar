@@ -1,90 +1,70 @@
 {
-  "generated_at": "2026-08-11T06:55:25.762039Z",
+  "generated_at": "2026-08-11T08:06:49.899230Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_8aa7ad27dbbb",
-      "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-      "url": "https://www.aibase.com/news/30240",
-      "primary_url": "https://www.aibase.com/news/30240",
+      "story_id": "story_84f75ac8f0c7",
+      "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+      "url": "https://www.aibase.com/news/30249",
+      "primary_url": "https://www.aibase.com/news/30249",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7a47eac01c7409575713e2385b2dbe1b2e924b76",
-          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-          "url": "https://www.aibase.com/news/30240",
+          "id": "3e9b4044c3027f36c3a2e97c36702048974456c7",
+          "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+          "url": "https://www.aibase.com/news/30249",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T04:14:16.926375Z"
-        },
-        {
-          "id": "6bb2af6d39aadebe680e69136fbefc828bdccd01",
-          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-          "url": "https://www.aibase.com/zh/news/30240",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-11T08:06:49.899230Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "7a47eac01c7409575713e2385b2dbe1b2e924b76",
-          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-          "url": "https://www.aibase.com/news/30240",
+          "id": "3e9b4044c3027f36c3a2e97c36702048974456c7",
+          "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+          "url": "https://www.aibase.com/news/30249",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T04:14:16.926375Z"
-        },
-        {
-          "id": "6bb2af6d39aadebe680e69136fbefc828bdccd01",
-          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-          "url": "https://www.aibase.com/zh/news/30240",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-11T08:06:49.899230Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8881,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T04:14:16.926375Z",
-      "latest_at": "2026-08-11T04:14:16.926375Z",
+      "earliest_at": "2026-08-11T08:06:49.899230Z",
+      "latest_at": "2026-08-11T08:06:49.899230Z",
       "primary_item": {
-        "id": "7a47eac01c7409575713e2385b2dbe1b2e924b76",
-        "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-        "url": "https://www.aibase.com/news/30240",
+        "id": "3e9b4044c3027f36c3a2e97c36702048974456c7",
+        "title": "Gemini3.5Pro迟迟未现，谷歌或跳过等待转向Gemini4",
+        "url": "https://www.aibase.com/news/30249",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_73f3559aa209",
+      "story_id": "story_eb1d75134f22",
       "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
       "url": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
       "primary_url": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
@@ -137,14 +117,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8767,
+        "recency": 0.8271,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -198,14 +178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9562,
+        "recency": 0.9067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -258,14 +238,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9508,
+        "recency": 0.9013,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -318,14 +298,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9186,
+        "recency": 0.869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -341,6 +321,66 @@
         "url": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9793b42a19d0",
+      "title": "YouTube 大幅提高创收门槛：观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲",
+      "url": "https://www.aibase.com/news/30248",
+      "primary_url": "https://www.aibase.com/news/30248",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eb68004bc12c0b9046b0f77b22730a285c56a6df",
+          "title": "YouTube 大幅提高创收门槛：观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲",
+          "url": "https://www.aibase.com/news/30248",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T08:06:49.899230Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "eb68004bc12c0b9046b0f77b22730a285c56a6df",
+          "title": "YouTube 大幅提高创收门槛：观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲",
+          "url": "https://www.aibase.com/news/30248",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T08:06:49.899230Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T08:06:49.899230Z",
+      "latest_at": "2026-08-11T08:06:49.899230Z",
+      "primary_item": {
+        "id": "eb68004bc12c0b9046b0f77b22730a285c56a6df",
+        "title": "YouTube 大幅提高创收门槛：观看时长翻倍、Shorts 播放量要求翻番，中小创作者首当其冲",
+        "url": "https://www.aibase.com/news/30248",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -397,14 +437,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.396,
+        "recency": 0.3464,
         "story_heat": 0.25
       },
       "category": "official",
@@ -422,66 +462,6 @@
         "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e67b8ed0f5e1",
-      "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-      "url": "https://www.aibase.com/news/30247",
-      "primary_url": "https://www.aibase.com/news/30247",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
-          "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-          "url": "https://www.aibase.com/news/30247",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T06:55:25.762039Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
-          "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-          "url": "https://www.aibase.com/news/30247",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T06:55:25.762039Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T06:55:25.762039Z",
-      "latest_at": "2026-08-11T06:55:25.762039Z",
-      "primary_item": {
-        "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
-        "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-        "url": "https://www.aibase.com/news/30247",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -538,14 +518,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4198,
+        "recency": 0.3703,
         "story_heat": 0.25
       },
       "category": "official",
@@ -600,14 +580,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.524,
+        "recency": 0.4744,
         "story_heat": 0.0
       },
       "category": "official",
@@ -661,20 +641,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7198,
+        "recency": 0.6703,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T00:12:00Z",
       "latest_at": "2026-08-11T00:12:00Z",
@@ -687,61 +666,81 @@
       }
     },
     {
-      "story_id": "story_5f0e259f88dc",
-      "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-      "url": "https://www.aibase.com/news/30241",
-      "primary_url": "https://www.aibase.com/news/30241",
+      "story_id": "story_8aa7ad27dbbb",
+      "title": "扎克伯格 6500 字 AI 宣言反成靶心",
+      "url": "https://www.aibase.com/news/30240",
+      "primary_url": "https://www.aibase.com/news/30240",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
-          "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-          "url": "https://www.aibase.com/news/30241",
+          "id": "7a47eac01c7409575713e2385b2dbe1b2e924b76",
+          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
+          "url": "https://www.aibase.com/news/30240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T06:55:25.762039Z"
+          "published_at": "2026-08-11T04:14:16.926375Z"
+        },
+        {
+          "id": "6bb2af6d39aadebe680e69136fbefc828bdccd01",
+          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
+          "url": "https://www.aibase.com/zh/news/30240",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
-          "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-          "url": "https://www.aibase.com/news/30241",
+          "id": "7a47eac01c7409575713e2385b2dbe1b2e924b76",
+          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
+          "url": "https://www.aibase.com/news/30240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T06:55:25.762039Z"
+          "published_at": "2026-08-11T04:14:16.926375Z"
+        },
+        {
+          "id": "6bb2af6d39aadebe680e69136fbefc828bdccd01",
+          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
+          "url": "https://www.aibase.com/zh/news/30240",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8385,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T06:55:25.762039Z",
-      "latest_at": "2026-08-11T06:55:25.762039Z",
+      "earliest_at": "2026-08-11T04:14:16.926375Z",
+      "latest_at": "2026-08-11T04:14:16.926375Z",
       "primary_item": {
-        "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
-        "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
-        "url": "https://www.aibase.com/news/30241",
+        "id": "7a47eac01c7409575713e2385b2dbe1b2e924b76",
+        "title": "扎克伯格 6500 字 AI 宣言反成靶心",
+        "url": "https://www.aibase.com/news/30240",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -781,14 +780,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.676,
+        "recency": 0.6264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -840,14 +839,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6256,
+        "recency": 0.5761,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -899,14 +898,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3136,
+        "recency": 0.2641,
         "story_heat": 0.0
       },
       "category": "official",
@@ -925,63 +924,123 @@
       }
     },
     {
-      "story_id": "story_6f027f788573",
-      "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-      "primary_url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e67b8ed0f5e1",
+      "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+      "url": "https://www.aibase.com/news/30247",
+      "primary_url": "https://www.aibase.com/news/30247",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ce59288c8c2b7edd80d7295906b1d752b72ed6ed",
-          "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
-          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:30:00Z"
+          "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
+          "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+          "url": "https://www.aibase.com/news/30247",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T06:55:25.762039Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ce59288c8c2b7edd80d7295906b1d752b72ed6ed",
-          "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
-          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:30:00Z"
+          "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
+          "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+          "url": "https://www.aibase.com/news/30247",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T06:55:25.762039Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
-      "importance_label": "官方更新",
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3157,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9504,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-10T14:30:00Z",
-      "latest_at": "2026-08-10T14:30:00Z",
+      "earliest_at": "2026-08-11T06:55:25.762039Z",
+      "latest_at": "2026-08-11T06:55:25.762039Z",
       "primary_item": {
-        "id": "ce59288c8c2b7edd80d7295906b1d752b72ed6ed",
-        "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
-        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
+        "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
+        "url": "https://www.aibase.com/news/30247",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5f0e259f88dc",
+      "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+      "url": "https://www.aibase.com/news/30241",
+      "primary_url": "https://www.aibase.com/news/30241",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
+          "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+          "url": "https://www.aibase.com/news/30241",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T06:55:25.762039Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
+          "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+          "url": "https://www.aibase.com/news/30241",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T06:55:25.762039Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9504,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T06:55:25.762039Z",
+      "latest_at": "2026-08-11T06:55:25.762039Z",
+      "primary_item": {
+        "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
+        "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+        "url": "https://www.aibase.com/news/30241",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1019,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9504,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1042,66 +1101,6 @@
         "url": "https://www.aibase.com/news/30244",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c7b962b1d9ef",
-      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "primary_url": "https://openai.com/index/model-ml",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "url": "https://openai.com/index/model-ml",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "url": "https://openai.com/index/model-ml",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2115,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T12:00:00Z",
-      "latest_at": "2026-08-10T12:00:00Z",
-      "primary_item": {
-        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "url": "https://openai.com/index/model-ml",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1139,14 +1138,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9504,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1165,122 +1164,197 @@
       }
     },
     {
-      "story_id": "story_2076e8db80a8",
-      "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-      "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-      "primary_url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_0b2744e224d2",
+      "title": "黎曼ζ函数的三分之二以上的零点位于临界线上",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "primary_url": "https://www.anthropic.com/research/riemann-zeta",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
-          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-          "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T19:54:08Z"
+          "id": "61c14183cc4a57d9e1b8d730b0f6c973a4808aa2",
+          "title": "黎曼ζ函数的三分之二以上的零点位于临界线上",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T04:58:14.972000Z"
+        },
+        {
+          "id": "427659b5f9990e5bbf1a8b83e39fb2f1485c8bc4",
+          "title": "进一步了解克劳德的数学能力 / More than two thirds of the zeros of the Riemann zeta function lie on the critical line",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T01:49:16Z"
+        },
+        {
+          "id": "12173ad590578b11991d7b1d1b2842489544711d",
+          "title": "进一步了解克劳德的数学能力",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T19:54:08.696000Z"
+        },
+        {
+          "id": "3240bc91afd2def4fa0b271aa9c2dd313d133843",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://news.ycombinator.com/item?id=49247070",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T18:47:48.635000Z"
+        },
+        {
+          "id": "b3d7644a043d7c8122eee16ee3c38d119445ebd3",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:41:13Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "61c14183cc4a57d9e1b8d730b0f6c973a4808aa2",
+          "title": "黎曼ζ函数的三分之二以上的零点位于临界线上",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T04:58:14.972000Z"
+        },
+        {
+          "id": "427659b5f9990e5bbf1a8b83e39fb2f1485c8bc4",
+          "title": "进一步了解克劳德的数学能力 / More than two thirds of the zeros of the Riemann zeta function lie on the critical line",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T01:49:16Z"
+        },
+        {
+          "id": "12173ad590578b11991d7b1d1b2842489544711d",
+          "title": "进一步了解克劳德的数学能力",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T19:54:08.696000Z"
+        },
+        {
+          "id": "3240bc91afd2def4fa0b271aa9c2dd313d133843",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://news.ycombinator.com/item?id=49247070",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T18:47:48.635000Z"
+        },
+        {
+          "id": "b3d7644a043d7c8122eee16ee3c38d119445ebd3",
+          "title": "进一步了解克劳德的数学能力 / Learning more about Claude's mathematical capabilities",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:41:13Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5968,
+      "importance": 0.5968,
+      "importance_score": 0.5968,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.869,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-10T17:41:13Z",
+      "latest_at": "2026-08-11T04:58:14.972000Z",
+      "primary_item": {
+        "id": "61c14183cc4a57d9e1b8d730b0f6c973a4808aa2",
+        "title": "黎曼ζ函数的三分之二以上的零点位于临界线上",
+        "url": "https://www.anthropic.com/research/riemann-zeta",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e87d745e96c5",
+      "title": "小米启动2027届全球校招，AI岗位需求同比增长50%",
+      "url": "https://www.aibase.com/news/30243",
+      "primary_url": "https://www.aibase.com/news/30243",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bd0893761702eb546120aea9483cfd54a8f7203b",
+          "title": "小米启动2027届全球校招，AI岗位需求同比增长50%",
+          "url": "https://www.aibase.com/news/30243",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T06:55:25.762039Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
-          "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-          "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T19:54:08Z"
+          "id": "bd0893761702eb546120aea9483cfd54a8f7203b",
+          "title": "小米启动2027届全球校招，AI岗位需求同比增长50%",
+          "url": "https://www.aibase.com/news/30243",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T06:55:25.762039Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5408,
+        "recency": 0.9504,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-10T19:54:08Z",
-      "latest_at": "2026-08-10T19:54:08Z",
+      "earliest_at": "2026-08-11T06:55:25.762039Z",
+      "latest_at": "2026-08-11T06:55:25.762039Z",
       "primary_item": {
-        "id": "c2375b837d5c54a8a18e2ca110f9680ee2563f42",
-        "title": "Claude 在黎曼猜想相关问题上取得新进展：下界从 41.6% 提升至 67.2%",
-        "url": "https://aihot.virxact.com/items/cmsno789d0eubrohfw7oczyn4",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6ba433e782ff",
-      "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
-      "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-      "primary_url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
-          "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
-          "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:00:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
-          "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
-          "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:00:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.2955,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T14:00:58Z",
-      "latest_at": "2026-08-10T14:00:58Z",
-      "primary_item": {
-        "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
-        "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
-        "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "bd0893761702eb546120aea9483cfd54a8f7203b",
+        "title": "小米启动2027届全球校招，AI岗位需求同比增长50%",
+        "url": "https://www.aibase.com/news/30243",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
