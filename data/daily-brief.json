@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:34:52.378414Z",
+  "generated_at": "2026-08-12T20:36:33.243099Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8802,
-      "importance": 0.8802,
-      "importance_score": 0.8802,
+      "score": 0.8716,
+      "importance": 0.8716,
+      "importance_score": 0.8716,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9758,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,188 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_52be363e70b3",
+      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8567,
+      "importance": 0.8567,
+      "importance_score": 0.8567,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9185,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T18:39:11Z",
+      "latest_at": "2026-08-12T18:39:11Z",
+      "primary_item": {
+        "id": "18e5595d096312125c112295fde577991c1afc7c",
+        "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_50336f408dcb",
+      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:30:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:30:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9124,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T18:30:28Z",
+      "latest_at": "2026-08-12T18:30:28Z",
+      "primary_item": {
+        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
+        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
+        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fd69ee737219",
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+      "url": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+      "primary_url": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a49e1fdac6eb56c96ace01f1f633fd8778fccbed",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "url": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "a49e1fdac6eb56c96ace01f1f633fd8778fccbed",
+          "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+          "url": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T20:15:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T20:15:51Z",
+      "latest_at": "2026-08-12T20:15:51Z",
+      "primary_item": {
+        "id": "a49e1fdac6eb56c96ace01f1f633fd8778fccbed",
+        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+        "url": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -118,14 +300,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8577,
+        "recency": 0.8149,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -179,14 +361,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9342,
+        "recency": 0.8914,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -239,14 +421,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7899,
+      "importance": 0.7899,
+      "importance_score": 0.7899,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.8896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -299,14 +481,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8086,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,14 +541,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8376,
+        "recency": 0.7948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -438,14 +620,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8492,
+        "recency": 0.8064,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -499,20 +681,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7267,
+        "recency": 0.6838,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T13:01:16Z",
       "latest_at": "2026-08-12T13:01:16Z",
@@ -578,21 +759,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5859,
+        "recency": 0.543,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T09:38:32.548180Z",
       "latest_at": "2026-08-12T09:38:32.548180Z",
@@ -639,14 +819,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6843,
+        "recency": 0.6415,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -717,21 +897,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5859,
+        "recency": 0.543,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T09:38:32.548180Z",
       "latest_at": "2026-08-12T09:38:32.548180Z",
@@ -797,14 +976,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.525,
+        "recency": 0.4822,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -876,14 +1055,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4667,
+        "recency": 0.4238,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -955,14 +1134,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.525,
+        "recency": 0.4822,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1034,14 +1213,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6222,
-      "importance": 0.6222,
-      "importance_score": 0.6222,
+      "score": 0.6136,
+      "importance": 0.6136,
+      "importance_score": 0.6136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8609,
+        "recency": 0.8181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1093,14 +1272,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
+      "score": 0.7206,
+      "importance": 0.7206,
+      "importance_score": 0.7206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5859,
+        "recency": 0.543,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1118,314 +1297,98 @@
       }
     },
     {
-      "story_id": "story_26d928369bd8",
-      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-      "url": "https://www.aibase.com/news/30287",
-      "primary_url": "https://www.aibase.com/news/30287",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
-          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "url": "https://www.aibase.com/news/30287",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T09:38:32.548180Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
-          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "url": "https://www.aibase.com/news/30287",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T09:38:32.548180Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5859,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T09:38:32.548180Z",
-      "latest_at": "2026-08-12T09:38:32.548180Z",
-      "primary_item": {
-        "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
-        "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-        "url": "https://www.aibase.com/news/30287",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_53431b349480",
-      "title": "DeepSeek v4 pro 0813 发布",
-      "url": "https://news.ycombinator.com/item?id=49276138",
-      "primary_url": "https://news.ycombinator.com/item?id=49276138",
-      "source": "news.ycombinator.com",
+      "story_id": "story_09c973eccd6b",
+      "title": "CoreWeave财报提振市场对人工智能的乐观情绪，标普500指数收高",
+      "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+      "primary_url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+      "source": "www.reuters.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "eae08d739927dc98463b04d7e131f8d1f6e29c61",
-          "title": "DeepSeek v4 pro 0813 发布",
-          "url": "https://news.ycombinator.com/item?id=49276138",
-          "source": "news.ycombinator.com",
+          "id": "ffb66327713cddc8394d535037095b048523efa8",
+          "title": "CoreWeave财报提振市场对人工智能的乐观情绪，标普500指数收高",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-12T17:56:14.215000Z"
+          "published_at": "2026-08-12T20:20:18.427000Z"
         },
         {
-          "id": "5f299c8758831ebefff15173add8c10980245e15",
-          "title": "DeepSeek V4 Pro 0813",
-          "url": "https://news.ycombinator.com/item?id=49274600",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T17:06:15.566000Z"
-        },
-        {
-          "id": "6482c99d88e591e7450752dac791c38fa01b74fc",
-          "title": "DeepSeek-V4-Pro-0813",
-          "url": "https://news.ycombinator.com/item?id=49274680",
-          "source": "news.ycombinator.com",
+          "id": "44ed6459c69e710be210a6f0fb308ac2a187cbc1",
+          "title": "CoreWeave财报提振人工智能市场乐观情绪，标普500指数上涨",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-12T16:20:20.225000Z"
+          "published_at": "2026-08-12T18:44:22.780000Z"
+        },
+        {
+          "id": "da16743d52f9e851dba28208ed976256336f95f3",
+          "title": "人工智能板块强劲的财报提振标普500指数和纳斯达克指数，通胀数据缓解了市场对加息的担忧",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T16:36:27.575000Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "hackernews",
-        "news.ycombinator.com"
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "eae08d739927dc98463b04d7e131f8d1f6e29c61",
-          "title": "DeepSeek v4 pro 0813 发布",
-          "url": "https://news.ycombinator.com/item?id=49276138",
-          "source": "news.ycombinator.com",
+          "id": "ffb66327713cddc8394d535037095b048523efa8",
+          "title": "CoreWeave财报提振市场对人工智能的乐观情绪，标普500指数收高",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-12T17:56:14.215000Z"
+          "published_at": "2026-08-12T20:20:18.427000Z"
         },
         {
-          "id": "5f299c8758831ebefff15173add8c10980245e15",
-          "title": "DeepSeek V4 Pro 0813",
-          "url": "https://news.ycombinator.com/item?id=49274600",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T17:06:15.566000Z"
-        },
-        {
-          "id": "6482c99d88e591e7450752dac791c38fa01b74fc",
-          "title": "DeepSeek-V4-Pro-0813",
-          "url": "https://news.ycombinator.com/item?id=49274680",
-          "source": "news.ycombinator.com",
+          "id": "44ed6459c69e710be210a6f0fb308ac2a187cbc1",
+          "title": "CoreWeave财报提振人工智能市场乐观情绪，标普500指数上涨",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-12T16:20:20.225000Z"
+          "published_at": "2026-08-12T18:44:22.780000Z"
+        },
+        {
+          "id": "da16743d52f9e851dba28208ed976256336f95f3",
+          "title": "人工智能板块强劲的财报提振标普500指数和纳斯达克指数，通胀数据缓解了市场对加息的担忧",
+          "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-12T16:36:27.575000Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5593,
-      "importance": 0.5593,
-      "importance_score": 0.5593,
+      "score": 0.5707,
+      "importance": 0.5707,
+      "importance_score": 0.5707,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9315,
+        "recency": 0.9887,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-12T16:20:20.225000Z",
-      "latest_at": "2026-08-12T17:56:14.215000Z",
+      "earliest_at": "2026-08-12T16:36:27.575000Z",
+      "latest_at": "2026-08-12T20:20:18.427000Z",
       "primary_item": {
-        "id": "eae08d739927dc98463b04d7e131f8d1f6e29c61",
-        "title": "DeepSeek v4 pro 0813 发布",
-        "url": "https://news.ycombinator.com/item?id=49276138",
-        "source": "news.ycombinator.com",
+        "id": "ffb66327713cddc8394d535037095b048523efa8",
+        "title": "CoreWeave财报提振市场对人工智能的乐观情绪，标普500指数收高",
+        "url": "https://www.reuters.com/business/wall-st-futures-tick-up-heading-into-july-inflation-data-2026-08-12",
+        "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6a35fe7f03ed",
-      "title": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人",
-      "url": "https://knownagents.com/insights",
-      "primary_url": "https://knownagents.com/insights",
-      "source": "knownagents.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7cafdecfd7364a924c49b20dd23832f93828c0f6",
-          "title": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人",
-          "url": "https://knownagents.com/insights",
-          "source": "knownagents.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T17:24:13.063000Z"
-        },
-        {
-          "id": "1c0ae927d4aa133ac3e48939a72fbeef1ed5d717",
-          "title": "有人正在运行大规模漏洞扫描，欺骗像 ClaudeBot 这样的人工智能机器人 / Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-          "url": "https://news.ycombinator.com/item?id=49272569",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "d7c09ca74d8af10553c20093ca864e27b989be8b",
-          "title": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人 / Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-          "url": "https://knownagents.com/insights",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-12T14:02:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "knownagents.com"
-      ],
-      "items": [
-        {
-          "id": "7cafdecfd7364a924c49b20dd23832f93828c0f6",
-          "title": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人",
-          "url": "https://knownagents.com/insights",
-          "source": "knownagents.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-12T17:24:13.063000Z"
-        },
-        {
-          "id": "1c0ae927d4aa133ac3e48939a72fbeef1ed5d717",
-          "title": "有人正在运行大规模漏洞扫描，欺骗像 ClaudeBot 这样的人工智能机器人 / Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-          "url": "https://news.ycombinator.com/item?id=49272569",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-12T15:05:58.669000Z"
-        },
-        {
-          "id": "d7c09ca74d8af10553c20093ca864e27b989be8b",
-          "title": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人 / Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-          "url": "https://knownagents.com/insights",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-12T14:02:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5549,
-      "importance": 0.5549,
-      "importance_score": 0.5549,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9093,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-12T14:02:46Z",
-      "latest_at": "2026-08-12T17:24:13.063000Z",
-      "primary_item": {
-        "id": "7cafdecfd7364a924c49b20dd23832f93828c0f6",
-        "title": "有人正在进行大规模漏洞扫描，并冒充ClaudeBot等AI机器人",
-        "url": "https://knownagents.com/insights",
-        "source": "knownagents.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e89951bde9ae",
-      "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-      "url": "https://www.aibase.com/news/30288",
-      "primary_url": "https://www.aibase.com/news/30288",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "22da68017c2d73dccb1ee203edcaa0877f672377",
-          "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-          "url": "https://www.aibase.com/news/30288",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T09:38:32.548180Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "22da68017c2d73dccb1ee203edcaa0877f672377",
-          "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-          "url": "https://www.aibase.com/news/30288",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T09:38:32.548180Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5859,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T09:38:32.548180Z",
-      "latest_at": "2026-08-12T09:38:32.548180Z",
-      "primary_item": {
-        "id": "22da68017c2d73dccb1ee203edcaa0877f672377",
-        "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
-        "url": "https://www.aibase.com/news/30288",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
