@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:48:53.254354Z",
+  "generated_at": "2026-08-15T06:25:58.902427Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7048,
+        "recency": 0.679,
         "story_heat": 0.0
       },
       "category": "official",
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4244,
+        "recency": 0.3986,
         "story_heat": 0.0
       },
       "category": "official",
@@ -197,14 +197,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.36,
+        "recency": 0.3342,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -257,14 +257,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4367,
+        "recency": 0.411,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,65 +281,6 @@
         "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_defe6c2b7230",
-      "title": "Claude 文本水印机制如何运作",
-      "url": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas",
-      "primary_url": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8922240cd6a6d39d209cd4cd8bd974f7851962c1",
-          "title": "Claude 文本水印机制如何运作",
-          "url": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "8922240cd6a6d39d209cd4cd8bd974f7851962c1",
-          "title": "Claude 文本水印机制如何运作",
-          "url": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5652,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T19:22:48Z",
-      "latest_at": "2026-08-14T19:22:48Z",
-      "primary_item": {
-        "id": "8922240cd6a6d39d209cd4cd8bd974f7851962c1",
-        "title": "Claude 文本水印机制如何运作",
-        "url": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -396,14 +337,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6682,
-      "importance": 0.6682,
-      "importance_score": 0.6682,
+      "score": 0.6631,
+      "importance": 0.6631,
+      "importance_score": 0.6631,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1561,
+        "recency": 0.1304,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -475,14 +416,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6459,
-      "importance": 0.6459,
-      "importance_score": 0.6459,
+      "score": 0.6408,
+      "importance": 0.6408,
+      "importance_score": 0.6408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0447,
+        "recency": 0.0189,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -498,6 +439,199 @@
         "url": "https://www.aibase.com/news/30353",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a1a4fdb6d6a5",
+      "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://news.ycombinator.com/item?id=49307700",
+      "primary_url": "https://news.ycombinator.com/item?id=49307700",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:26:35.487000Z"
+        },
+        {
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T04:53:57.841000Z"
+        },
+        {
+          "id": "9e2da1aa3b0c3622691c9553aed24690564828d8",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "chenxiachan.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:26:35.487000Z"
+        },
+        {
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T04:53:57.841000Z"
+        },
+        {
+          "id": "9e2da1aa3b0c3622691c9553aed24690564828d8",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T04:42:07Z",
+      "latest_at": "2026-08-15T06:26:35.487000Z",
+      "primary_item": {
+        "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+        "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "url": "https://news.ycombinator.com/item?id=49307700",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_c0d7e3a27020",
+      "title": "Show HN: Deltix – 基于人工智能的测试",
+      "url": "https://app.deltix.ai",
+      "primary_url": "https://app.deltix.ai",
+      "source": "app.deltix.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f7a11291e43024b06e2a683e729e24ac2b04dad9",
+          "title": "Show HN: Deltix – 基于人工智能的测试",
+          "url": "https://app.deltix.ai",
+          "source": "app.deltix.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T06:14:13.415000Z"
+        },
+        {
+          "id": "614c0c0a85066d44bc5804359b3d14c26380cecc",
+          "title": "Show HN: Deltix – 基于人工智能的测试 / AI Driven Testing",
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T02:42:14Z"
+        },
+        {
+          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
+          "title": "Show HN: Deltix – 基于人工智能的测试 / Show HN: Deltix – AI Driven Testing",
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T02:42:14Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "app.deltix.ai"
+      ],
+      "items": [
+        {
+          "id": "f7a11291e43024b06e2a683e729e24ac2b04dad9",
+          "title": "Show HN: Deltix – 基于人工智能的测试",
+          "url": "https://app.deltix.ai",
+          "source": "app.deltix.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T06:14:13.415000Z"
+        },
+        {
+          "id": "614c0c0a85066d44bc5804359b3d14c26380cecc",
+          "title": "Show HN: Deltix – 基于人工智能的测试 / AI Driven Testing",
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T02:42:14Z"
+        },
+        {
+          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
+          "title": "Show HN: Deltix – 基于人工智能的测试 / Show HN: Deltix – AI Driven Testing",
+          "url": "https://app.deltix.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T02:42:14Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5714,
+      "importance": 0.5714,
+      "importance_score": 0.5714,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9918,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T02:42:14Z",
+      "latest_at": "2026-08-15T06:14:13.415000Z",
+      "primary_item": {
+        "id": "f7a11291e43024b06e2a683e729e24ac2b04dad9",
+        "title": "Show HN: Deltix – 基于人工智能的测试",
+        "url": "https://app.deltix.ai",
+        "source": "app.deltix.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -554,14 +688,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9509,
+        "recency": 0.9252,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -576,6 +710,83 @@
         "url": "https://www.businessinsider.com/coinbases-cto-ai-coach-gives-him-best-career-feedback-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5cbcebef65fb",
+      "title": "显示 HN：Deltix – AI 驱动测试 / Show HN: Deltix – AI Driven Testing",
+      "url": "https://news.ycombinator.com/item?id=49307099",
+      "primary_url": "https://news.ycombinator.com/item?id=49307099",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8b6ffd93d8ba6adf6fef32f873db5a92b77d7161",
+          "title": "显示 HN：Deltix – AI 驱动测试 / Show HN: Deltix – AI Driven Testing",
+          "url": "https://news.ycombinator.com/item?id=49307099",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:26:35.487000Z"
+        },
+        {
+          "id": "6d2411dccbb5b8fb54de8595240eacb70c5266ad",
+          "title": "人工智能驱动测试 / AI Driven Testing",
+          "url": "https://news.ycombinator.com/item?id=49307099",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T03:50:43.532000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8b6ffd93d8ba6adf6fef32f873db5a92b77d7161",
+          "title": "显示 HN：Deltix – AI 驱动测试 / Show HN: Deltix – AI Driven Testing",
+          "url": "https://news.ycombinator.com/item?id=49307099",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:26:35.487000Z"
+        },
+        {
+          "id": "6d2411dccbb5b8fb54de8595240eacb70c5266ad",
+          "title": "人工智能驱动测试 / AI Driven Testing",
+          "url": "https://news.ycombinator.com/item?id=49307099",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T03:50:43.532000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T03:50:43.532000Z",
+      "latest_at": "2026-08-15T06:26:35.487000Z",
+      "primary_item": {
+        "id": "8b6ffd93d8ba6adf6fef32f873db5a92b77d7161",
+        "title": "显示 HN：Deltix – AI 驱动测试 / Show HN: Deltix – AI Driven Testing",
+        "url": "https://news.ycombinator.com/item?id=49307099",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -632,14 +843,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5181,
-      "importance": 0.5181,
-      "importance_score": 0.5181,
+      "score": 0.513,
+      "importance": 0.513,
+      "importance_score": 0.513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8507,
+        "recency": 0.825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -709,14 +920,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.5125,
+      "importance": 0.5125,
+      "importance_score": 0.5125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8484,
+        "recency": 0.8226,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -806,14 +1017,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6856,
+        "recency": 0.6598,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -883,14 +1094,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.4998,
+      "importance": 0.4998,
+      "importance_score": 0.4998,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.785,
+        "recency": 0.7592,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -905,84 +1116,6 @@
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bcd2469511a6",
-      "title": "克劳德寓言5 玩得开心 / Claude Fable 5 Having Fun",
-      "url": "https://news.ycombinator.com/item?id=49305642",
-      "primary_url": "https://news.ycombinator.com/item?id=49305642",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
-          "title": "克劳德寓言5 玩得开心 / Claude Fable 5 Having Fun",
-          "url": "https://news.ycombinator.com/item?id=49305642",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T23:45:57.446000Z"
-        },
-        {
-          "id": "e55e047834a78a545af0c1dd41cfb1a5118c170c",
-          "title": "克劳德寓言5 玩得开心 / Claude Fable 5 Having Fun",
-          "url": "https://github.com/robss2020/claude-fable-5-having-fun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T23:01:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
-          "title": "克劳德寓言5 玩得开心 / Claude Fable 5 Having Fun",
-          "url": "https://news.ycombinator.com/item?id=49305642",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T23:45:57.446000Z"
-        },
-        {
-          "id": "e55e047834a78a545af0c1dd41cfb1a5118c170c",
-          "title": "克劳德寓言5 玩得开心 / Claude Fable 5 Having Fun",
-          "url": "https://github.com/robss2020/claude-fable-5-having-fun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T23:01:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.748,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T23:01:46Z",
-      "latest_at": "2026-08-14T23:45:57.446000Z",
-      "primary_item": {
-        "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
-        "title": "克劳德寓言5 玩得开心 / Claude Fable 5 Having Fun",
-        "url": "https://news.ycombinator.com/item?id=49305642",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1039,14 +1172,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.5125,
+      "importance": 0.5125,
+      "importance_score": 0.5125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8484,
+        "recency": 0.8226,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1136,14 +1269,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.486,
-      "importance": 0.486,
-      "importance_score": 0.486,
+      "score": 0.4808,
+      "importance": 0.4808,
+      "importance_score": 0.4808,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5649,
+        "recency": 0.5392,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1213,14 +1346,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4762,
-      "importance": 0.4762,
-      "importance_score": 0.4762,
+      "score": 0.471,
+      "importance": 0.471,
+      "importance_score": 0.471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.641,
+        "recency": 0.6152,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1291,14 +1424,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4741,
-      "importance": 0.4741,
-      "importance_score": 0.4741,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6306,
+        "recency": 0.6048,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1368,14 +1501,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4735,
-      "importance": 0.4735,
-      "importance_score": 0.4735,
+      "score": 0.4684,
+      "importance": 0.4684,
+      "importance_score": 0.4684,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6277,
+        "recency": 0.6019,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1465,14 +1598,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4593,
-      "importance": 0.4593,
-      "importance_score": 0.4593,
+      "score": 0.4542,
+      "importance": 0.4542,
+      "importance_score": 0.4542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4315,
+        "recency": 0.4058,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1487,84 +1620,6 @@
         "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
         "source": "weightythoughts.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0a600d7e7744",
-      "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-      "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-      "primary_url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-      "source": "Engadget",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
-        },
-        {
-          "id": "76006f08c86e9a4efb15f3ef290db361af8a797c",
-          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:13:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Engadget",
-        "TechCrunch"
-      ],
-      "items": [
-        {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
-        },
-        {
-          "id": "76006f08c86e9a4efb15f3ef290db361af8a797c",
-          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:13:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4585,
-      "importance": 0.4585,
-      "importance_score": 0.4585,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5526,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T16:13:40Z",
-      "latest_at": "2026-08-14T19:04:42Z",
-      "primary_item": {
-        "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-        "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-        "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-        "source": "Engadget",
-        "source_name": "TechURLs"
       }
     }
   ]
