@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:20:04.274910Z",
+  "generated_at": "2026-08-15T08:53:22.780166Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5998,
+        "recency": 0.5766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3194,
+        "recency": 0.2963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -197,14 +197,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.713,
-      "importance": 0.713,
-      "importance_score": 0.713,
+      "score": 0.7084,
+      "importance": 0.7084,
+      "importance_score": 0.7084,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.255,
+        "recency": 0.2318,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -257,14 +257,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3317,
+        "recency": 0.3086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,14 +336,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6472,
-      "importance": 0.6472,
-      "importance_score": 0.6472,
+      "score": 0.6426,
+      "importance": 0.6426,
+      "importance_score": 0.6426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0511,
+        "recency": 0.028,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -434,14 +434,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5572,
-      "importance": 0.5572,
-      "importance_score": 0.5572,
+      "score": 0.5526,
+      "importance": 0.5526,
+      "importance_score": 0.5526,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9212,
+        "recency": 0.8981,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -530,14 +530,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5509,
+      "importance": 0.5509,
+      "importance_score": 0.5509,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9126,
+        "recency": 0.8895,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -552,6 +552,84 @@
         "url": "https://app.deltix.ai",
         "source": "app.deltix.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a4e34328d1a8",
+      "title": "一名男子怀疑法院使用人工智能，便在诉讼文件中植入提示词，试图赢得官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "title": "一名男子怀疑法院使用人工智能，便在诉讼文件中植入提示词，试图赢得官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T07:31:46Z"
+        },
+        {
+          "id": "7f1d414049696e1a5c087e286ea2a75b8391e481",
+          "title": "一名男子怀疑法院使用人工智能，便在诉讼文件中植入提示词，试图赢得官司",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T18:50:02.202000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "title": "一名男子怀疑法院使用人工智能，便在诉讼文件中植入提示词，试图赢得官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T07:31:46Z"
+        },
+        {
+          "id": "7f1d414049696e1a5c087e286ea2a75b8391e481",
+          "title": "一名男子怀疑法院使用人工智能，便在诉讼文件中植入提示词，试图赢得官司",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T18:50:02.202000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9433,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T18:50:02.202000Z",
+      "latest_at": "2026-08-15T07:31:46Z",
+      "primary_item": {
+        "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+        "title": "一名男子怀疑法院使用人工智能，便在诉讼文件中植入提示词，试图赢得官司 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -608,14 +686,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9489,
+        "recency": 0.9257,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -686,14 +764,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.846,
+        "recency": 0.8228,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -763,14 +841,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9212,
+        "recency": 0.8981,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -841,14 +919,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4972,
-      "importance": 0.4972,
-      "importance_score": 0.4972,
+      "score": 0.4925,
+      "importance": 0.4925,
+      "importance_score": 0.4925,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7458,
+        "recency": 0.7226,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -938,14 +1016,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4891,
-      "importance": 0.4891,
-      "importance_score": 0.4891,
+      "score": 0.4845,
+      "importance": 0.4845,
+      "importance_score": 0.4845,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5806,
+        "recency": 0.5574,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1015,14 +1093,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.484,
-      "importance": 0.484,
-      "importance_score": 0.484,
+      "score": 0.4794,
+      "importance": 0.4794,
+      "importance_score": 0.4794,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.68,
+        "recency": 0.6569,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1092,14 +1170,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4967,
-      "importance": 0.4967,
-      "importance_score": 0.4967,
+      "score": 0.4921,
+      "importance": 0.4921,
+      "importance_score": 0.4921,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7434,
+        "recency": 0.7203,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1189,14 +1267,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.465,
-      "importance": 0.465,
-      "importance_score": 0.465,
+      "score": 0.4604,
+      "importance": 0.4604,
+      "importance_score": 0.4604,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4599,
+        "recency": 0.4368,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1266,14 +1344,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4552,
-      "importance": 0.4552,
-      "importance_score": 0.4552,
+      "score": 0.4506,
+      "importance": 0.4506,
+      "importance_score": 0.4506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.536,
+        "recency": 0.5129,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,14 +1422,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4531,
-      "importance": 0.4531,
-      "importance_score": 0.4531,
+      "score": 0.4485,
+      "importance": 0.4485,
+      "importance_score": 0.4485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5256,
+        "recency": 0.5025,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1421,14 +1499,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4525,
-      "importance": 0.4525,
-      "importance_score": 0.4525,
+      "score": 0.4479,
+      "importance": 0.4479,
+      "importance_score": 0.4479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5227,
+        "recency": 0.4996,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,14 +1596,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4383,
-      "importance": 0.4383,
-      "importance_score": 0.4383,
+      "score": 0.4337,
+      "importance": 0.4337,
+      "importance_score": 0.4337,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3266,
+        "recency": 0.3034,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1540,84 +1618,6 @@
         "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
         "source": "weightythoughts.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0a600d7e7744",
-      "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-      "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-      "primary_url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-      "source": "Engadget",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
-        },
-        {
-          "id": "76006f08c86e9a4efb15f3ef290db361af8a797c",
-          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:13:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Engadget",
-        "TechCrunch"
-      ],
-      "items": [
-        {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
-        },
-        {
-          "id": "76006f08c86e9a4efb15f3ef290db361af8a797c",
-          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:13:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4375,
-      "importance": 0.4375,
-      "importance_score": 0.4375,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4477,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T16:13:40Z",
-      "latest_at": "2026-08-14T19:04:42Z",
-      "primary_item": {
-        "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-        "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-        "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-        "source": "Engadget",
-        "source_name": "TechURLs"
       }
     }
   ]
