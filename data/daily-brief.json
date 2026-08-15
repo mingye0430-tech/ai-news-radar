@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:45:04.325979Z",
+  "generated_at": "2026-08-15T23:13:47.167698Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8895,
+        "recency": 0.8695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -116,14 +116,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5109,
+        "recency": 0.491,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -250,14 +250,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6187,
-      "importance": 0.6187,
-      "importance_score": 0.6187,
+      "score": 0.6147,
+      "importance": 0.6147,
+      "importance_score": 0.6147,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9786,
+        "recency": 0.9587,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -364,14 +364,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5815,
-      "importance": 0.5815,
-      "importance_score": 0.5815,
+      "score": 0.5775,
+      "importance": 0.5775,
+      "importance_score": 0.5775,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9173,
+        "recency": 0.8973,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -386,83 +386,6 @@
         "url": "https://news.ycombinator.com/item?id=49313367",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d555dfa280b8",
-      "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-      "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-      "primary_url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
-          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:38:00.813000Z"
-        },
-        {
-          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
-          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:50:12.744000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
-          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:38:00.813000Z"
-        },
-        {
-          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
-          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:50:12.744000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9118,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:50:12.744000Z",
-      "latest_at": "2026-08-15T20:38:00.813000Z",
-      "primary_item": {
-        "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
-        "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-        "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -519,14 +442,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9117,
+        "recency": 0.8918,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -540,6 +463,83 @@
         "title": "Cloudflare的AI精神错乱",
         "url": "https://opensauce.it/cloudflare-ai-psychosis",
         "source": "opensauce.it",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d555dfa280b8",
+      "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
+      "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+      "primary_url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
+          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:38:00.813000Z"
+        },
+        {
+          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
+          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:50:12.744000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
+          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:38:00.813000Z"
+        },
+        {
+          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
+          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:50:12.744000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8918,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:50:12.744000Z",
+      "latest_at": "2026-08-15T20:38:00.813000Z",
+      "primary_item": {
+        "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
+        "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
+        "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     },
@@ -597,14 +597,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9006,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -694,14 +694,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7451,
+        "recency": 0.7252,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -791,14 +791,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5691,
+      "importance": 0.5691,
+      "importance_score": 0.5691,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9804,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -888,14 +888,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4998,
-      "importance": 0.4998,
-      "importance_score": 0.4998,
+      "score": 0.4958,
+      "importance": 0.4958,
+      "importance_score": 0.4958,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.634,
+        "recency": 0.6141,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -965,14 +965,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4782,
-      "importance": 0.4782,
-      "importance_score": 0.4782,
+      "score": 0.4742,
+      "importance": 0.4742,
+      "importance_score": 0.4742,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6509,
+        "recency": 0.6309,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1043,14 +1043,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4481,
-      "importance": 0.4481,
-      "importance_score": 0.4481,
+      "score": 0.4441,
+      "importance": 0.4441,
+      "importance_score": 0.4441,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5006,
+        "recency": 0.4806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1121,14 +1121,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9376,
+        "recency": 0.9176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1217,14 +1217,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4354,
-      "importance": 0.4354,
-      "importance_score": 0.4354,
+      "score": 0.4314,
+      "importance": 0.4314,
+      "importance_score": 0.4314,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3119,
+        "recency": 0.292,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1295,14 +1295,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4481,
-      "importance": 0.4481,
-      "importance_score": 0.4481,
+      "score": 0.4441,
+      "importance": 0.4441,
+      "importance_score": 0.4441,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5006,
+        "recency": 0.4806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1373,14 +1373,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4176,
-      "importance": 0.4176,
-      "importance_score": 0.4176,
+      "score": 0.4136,
+      "importance": 0.4136,
+      "importance_score": 0.4136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3482,
+        "recency": 0.3282,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1451,14 +1451,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9173,
+        "recency": 0.8973,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1529,14 +1529,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4459,
-      "importance": 0.4459,
-      "importance_score": 0.4459,
+      "score": 0.4419,
+      "importance": 0.4419,
+      "importance_score": 0.4419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4895,
+        "recency": 0.4696,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1645,14 +1645,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6676,
+        "recency": 0.6476,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1723,14 +1723,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.377,
-      "importance": 0.377,
-      "importance_score": 0.377,
+      "score": 0.373,
+      "importance": 0.373,
+      "importance_score": 0.373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1451,
+        "recency": 0.1251,
         "story_heat": 0.25
       },
       "category": "watch",
