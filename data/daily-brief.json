@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T02:10:35.128146Z",
+  "generated_at": "2026-08-15T03:10:48.752113Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8564,
+        "recency": 0.8145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.576,
+        "recency": 0.5342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -198,14 +198,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5116,
+        "recency": 0.4697,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -259,14 +259,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7907,
-      "importance": 0.7907,
-      "importance_score": 0.7907,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5883,
+        "recency": 0.5465,
         "story_heat": 0.0
       },
       "category": "official",
@@ -320,20 +320,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7168,
+        "recency": 0.675,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-14T19:22:48Z",
       "latest_at": "2026-08-14T19:22:48Z",
@@ -380,14 +379,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6638,
+        "recency": 0.622,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -458,14 +457,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6985,
-      "importance": 0.6985,
-      "importance_score": 0.6985,
+      "score": 0.6902,
+      "importance": 0.6902,
+      "importance_score": 0.6902,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3077,
+        "recency": 0.2659,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -537,14 +536,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6763,
-      "importance": 0.6763,
-      "importance_score": 0.6763,
+      "score": 0.6679,
+      "importance": 0.6679,
+      "importance_score": 0.6679,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1963,
+        "recency": 0.1544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -616,14 +615,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6643,
-      "importance": 0.6643,
-      "importance_score": 0.6643,
+      "score": 0.6559,
+      "importance": 0.6559,
+      "importance_score": 0.6559,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1364,
+        "recency": 0.0946,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -695,14 +694,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6643,
-      "importance": 0.6643,
-      "importance_score": 0.6643,
+      "score": 0.6559,
+      "importance": 0.6559,
+      "importance_score": 0.6559,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1364,
+        "recency": 0.0946,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -718,6 +717,84 @@
         "url": "https://www.aibase.com/news/30346",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a24a68501133",
+      "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "79566cb8b92f83ebeff565947ff3b6bf13276cb3",
+          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T02:13:58.045000Z"
+        },
+        {
+          "id": "377314d71804123b539117226ad83100ddc18e96",
+          "title": "消息人士称，Anthropic的IPO估值取决于其2028年1900亿至2000亿美元的营收预测",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T00:23:20.043000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "79566cb8b92f83ebeff565947ff3b6bf13276cb3",
+          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T02:13:58.045000Z"
+        },
+        {
+          "id": "377314d71804123b539117226ad83100ddc18e96",
+          "title": "消息人士称，Anthropic的IPO估值取决于其2028年1900亿至2000亿美元的营收预测",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T00:23:20.043000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9605,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T00:23:20.043000Z",
+      "latest_at": "2026-08-15T02:13:58.045000Z",
+      "primary_item": {
+        "id": "79566cb8b92f83ebeff565947ff3b6bf13276cb3",
+        "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -773,14 +850,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -870,14 +947,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8372,
+        "recency": 0.7953,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -947,14 +1024,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9366,
+        "recency": 0.8948,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1042,14 +1119,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7926,
+        "recency": 0.7508,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1120,14 +1197,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6489,
-      "importance": 0.6489,
-      "importance_score": 0.6489,
+      "score": 0.6405,
+      "importance": 0.6405,
+      "importance_score": 0.6405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0593,
+        "recency": 0.0175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1199,14 +1276,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8996,
+        "recency": 0.8577,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,14 +1354,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1374,14 +1451,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
+      "score": 0.5079,
+      "importance": 0.5079,
+      "importance_score": 0.5079,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7165,
+        "recency": 0.6747,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1452,14 +1529,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8149,
+        "recency": 0.773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1473,84 +1550,6 @@
         "title": "Anthropic 为其人工智能水印功能进行辩护并作出解释",
         "url": "https://www.businessinsider.com/anthropic-reveals-more-about-ai-watermarking-plans-amid-eu-regulations-2026-8",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c035f19b6650",
-      "title": "亲手打造的AI",
-      "url": "https://www.byhand.ai",
-      "primary_url": "https://www.byhand.ai",
-      "source": "www.byhand.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-          "title": "亲手打造的AI",
-          "url": "https://www.byhand.ai",
-          "source": "www.byhand.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T20:56:57.601000Z"
-        },
-        {
-          "id": "eddb4beaa7e6f6763cd7f8622ae720decf26e9de",
-          "title": "亲手打造的AI / AI by Hand",
-          "url": "https://www.byhand.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:58:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.byhand.ai"
-      ],
-      "items": [
-        {
-          "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-          "title": "亲手打造的AI",
-          "url": "https://www.byhand.ai",
-          "source": "www.byhand.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T20:56:57.601000Z"
-        },
-        {
-          "id": "eddb4beaa7e6f6763cd7f8622ae720decf26e9de",
-          "title": "亲手打造的AI / AI by Hand",
-          "url": "https://www.byhand.ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T15:58:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7822,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T15:58:59Z",
-      "latest_at": "2026-08-14T20:56:57.601000Z",
-      "primary_item": {
-        "id": "3523b13d05fc4fd151c64c39871e155186a0caf8",
-        "title": "亲手打造的AI",
-        "url": "https://www.byhand.ai",
-        "source": "www.byhand.ai",
         "source_name": "Buzzing"
       }
     }
