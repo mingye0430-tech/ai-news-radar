@@ -1,86 +1,8 @@
 {
-  "generated_at": "2026-08-16T10:16:27.141053Z",
+  "generated_at": "2026-08-16T11:14:29.602070Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_11519f4235cc",
-      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
-      "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
-      "primary_url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "512f7587903c972ae050991f7894c598a36842b2",
-          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
-          "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        },
-        {
-          "id": "c50de37af78901d547b03a25691055d4e6fe9a7d",
-          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
-          "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "512f7587903c972ae050991f7894c598a36842b2",
-          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
-          "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        },
-        {
-          "id": "c50de37af78901d547b03a25691055d4e6fe9a7d",
-          "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
-          "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T11:00:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6432,
-      "importance": 0.6432,
-      "importance_score": 0.6432,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0308,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T11:00:50Z",
-      "latest_at": "2026-08-15T11:00:50Z",
-      "primary_item": {
-        "id": "512f7587903c972ae050991f7894c598a36842b2",
-        "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入 / AI-generated books are flooding Amazon and tanking sales for human authors",
-        "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_badeeae7b539",
       "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
@@ -154,14 +76,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5602,
+      "importance": 0.5602,
+      "importance_score": 0.5602,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9761,
+        "recency": 0.9358,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -175,6 +97,84 @@
         "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
         "url": "https://littlelearner-ll.github.io",
         "source": "littlelearner-ll.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_007e645643fb",
+      "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
+      "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "588ef89a4962e7a1defc940873314cd40cdd4294",
+          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
+          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T10:45:57.134000Z"
+        },
+        {
+          "id": "ff0007fc3a2f9e2f0e94757c9bdbdee946d4d7f4",
+          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终 / The AI boom has echoes of Enron — but that might be okay, a tech guru says",
+          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T10:30:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "588ef89a4962e7a1defc940873314cd40cdd4294",
+          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
+          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T10:45:57.134000Z"
+        },
+        {
+          "id": "ff0007fc3a2f9e2f0e94757c9bdbdee946d4d7f4",
+          "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终 / The AI boom has echoes of Enron — but that might be okay, a tech guru says",
+          "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T10:30:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9802,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T10:30:01Z",
+      "latest_at": "2026-08-16T10:45:57.134000Z",
+      "primary_item": {
+        "id": "588ef89a4962e7a1defc940873314cd40cdd4294",
+        "title": "科技专家称，人工智能热潮虽与安然事件有相似之处，但并不注定会以灾难告终",
+        "url": "https://www.businessinsider.com/ai-boom-enron-tech-stocks-debt-demand-forecasts-circular-deals-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -232,14 +232,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9431,
+        "recency": 0.9028,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -347,14 +347,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6877,
+        "recency": 0.6474,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -425,14 +425,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4889,
-      "importance": 0.4889,
-      "importance_score": 0.4889,
+      "score": 0.4808,
+      "importance": 0.4808,
+      "importance_score": 0.4808,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7043,
+        "recency": 0.6639,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -503,14 +503,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
+      "score": 0.5002,
+      "importance": 0.5002,
+      "importance_score": 0.5002,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8016,
+        "recency": 0.7612,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -581,14 +581,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4817,
-      "importance": 0.4817,
-      "importance_score": 0.4817,
+      "score": 0.4737,
+      "importance": 0.4737,
+      "importance_score": 0.4737,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6686,
+        "recency": 0.6283,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -677,14 +677,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4482,
-      "importance": 0.4482,
-      "importance_score": 0.4482,
+      "score": 0.4402,
+      "importance": 0.4402,
+      "importance_score": 0.4402,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3761,
+        "recency": 0.3358,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -755,14 +755,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4343,
-      "importance": 0.4343,
-      "importance_score": 0.4343,
+      "score": 0.4263,
+      "importance": 0.4263,
+      "importance_score": 0.4263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4316,
+        "recency": 0.3913,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -832,14 +832,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4343,
-      "importance": 0.4343,
-      "importance_score": 0.4343,
+      "score": 0.4263,
+      "importance": 0.4263,
+      "importance_score": 0.4263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4316,
+        "recency": 0.3913,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -853,181 +853,6 @@
         "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
         "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
         "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3bd4f58cfc50",
-      "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-      "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-      "primary_url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:21:54.677000Z"
-        },
-        {
-          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T20:09:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:21:54.677000Z"
-        },
-        {
-          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
-          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
-          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T20:09:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4321,
-      "importance": 0.4321,
-      "importance_score": 0.4321,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4205,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T20:09:46Z",
-      "latest_at": "2026-08-15T20:21:54.677000Z",
-      "primary_item": {
-        "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
-        "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
-        "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1b995b323154",
-      "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-      "primary_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-      "source": "allen.bargi.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
-          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "allen.bargi.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T16:38:01.653000Z"
-        },
-        {
-          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI feels more like leadership than coding",
-          "url": "https://news.ycombinator.com/item?id=49309451",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T13:38:18.857000Z"
-        },
-        {
-          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
-          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI feels more like leadership than coding",
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T10:39:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "allen.bargi.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
-          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "allen.bargi.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T16:38:01.653000Z"
-        },
-        {
-          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI feels more like leadership than coding",
-          "url": "https://news.ycombinator.com/item?id=49309451",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T13:38:18.857000Z"
-        },
-        {
-          "id": "9988bf96466b9cd0d85dda41eb9e00624aab046e",
-          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI feels more like leadership than coding",
-          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T10:39:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.426,
-      "importance": 0.426,
-      "importance_score": 0.426,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.265,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:39:41Z",
-      "latest_at": "2026-08-15T16:38:01.653000Z",
-      "primary_item": {
-        "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
-        "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
-        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-        "source": "allen.bargi.org",
         "source_name": "Buzzing"
       }
     },
@@ -1104,14 +929,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.477,
-      "importance": 0.477,
-      "importance_score": 0.477,
+      "score": 0.469,
+      "importance": 0.469,
+      "importance_score": 0.469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5202,
+        "recency": 0.4799,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1182,14 +1007,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.47,
-      "importance": 0.47,
-      "importance_score": 0.47,
+      "score": 0.462,
+      "importance": 0.462,
+      "importance_score": 0.462,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6102,
+        "recency": 0.5699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1207,99 +1032,80 @@
       }
     },
     {
-      "story_id": "story_e7607846045a",
-      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-      "url": "https://sankalp.bearblog.dev/autoresearch",
-      "primary_url": "https://sankalp.bearblog.dev/autoresearch",
-      "source": "sankalp.bearblog.dev",
+      "story_id": "story_3bd4f58cfc50",
+      "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+      "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+      "primary_url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
-          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "sankalp.bearblog.dev",
+          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T13:58:02.713000Z"
+          "published_at": "2026-08-15T20:21:54.677000Z"
         },
         {
-          "id": "346274b22b37e9694636fa708f056faa34061988",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "url": "https://news.ycombinator.com/item?id=49309549",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T12:08:04.728000Z"
-        },
-        {
-          "id": "bc9604c13e3a66b8b75be69bf59facde955e8ba2",
-          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News",
+          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T11:00:02Z"
+          "published_at": "2026-08-15T20:09:46Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews",
-        "sankalp.bearblog.dev"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
-          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "sankalp.bearblog.dev",
+          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T13:58:02.713000Z"
+          "published_at": "2026-08-15T20:21:54.677000Z"
         },
         {
-          "id": "346274b22b37e9694636fa708f056faa34061988",
-          "title": "使用 Codex 自动研究：我如何实现速度提高 232 倍的内核 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "url": "https://news.ycombinator.com/item?id=49309549",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T12:08:04.728000Z"
-        },
-        {
-          "id": "bc9604c13e3a66b8b75be69bf59facde955e8ba2",
-          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News",
+          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T11:00:02Z"
+          "published_at": "2026-08-15T20:09:46Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4038,
-      "importance": 0.4038,
-      "importance_score": 0.4038,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.424,
+      "importance": 0.424,
+      "importance_score": 0.424,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1539,
-        "story_heat": 0.5
+        "recency": 0.3802,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T11:00:02Z",
-      "latest_at": "2026-08-15T13:58:02.713000Z",
+      "earliest_at": "2026-08-15T20:09:46Z",
+      "latest_at": "2026-08-15T20:21:54.677000Z",
       "primary_item": {
-        "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
-        "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-        "url": "https://sankalp.bearblog.dev/autoresearch",
-        "source": "sankalp.bearblog.dev",
+        "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
+        "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+        "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1356,14 +1162,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3822,
-      "importance": 0.3822,
-      "importance_score": 0.3822,
+      "score": 0.3741,
+      "importance": 0.3741,
+      "importance_score": 0.3741,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1708,
+        "recency": 0.1304,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1433,14 +1239,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4477,
-      "importance": 0.4477,
-      "importance_score": 0.4477,
+      "score": 0.4396,
+      "importance": 0.4396,
+      "importance_score": 0.4396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4985,
+        "recency": 0.4582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1455,162 +1261,6 @@
         "url": "https://news.ycombinator.com/item?id=49312845",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_866ffacbe824",
-      "title": "培养人工智能科学家以复现研究成果",
-      "url": "https://inherentlabs.ai/research/training-to-replicate",
-      "primary_url": "https://inherentlabs.ai/research/training-to-replicate",
-      "source": "inherentlabs.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "587b20bb7cf2a552470acca81bfa1954166016e4",
-          "title": "培养人工智能科学家以复现研究成果",
-          "url": "https://inherentlabs.ai/research/training-to-replicate",
-          "source": "inherentlabs.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.256000Z"
-        },
-        {
-          "id": "7068bd5a7a8fadabf04d8d34ec8f102ac9f6f1a3",
-          "title": "培养人工智能科学家以复现研究成果 / Training AI Scientists to Replicate Research",
-          "url": "https://inherentlabs.ai/research/training-to-replicate",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T10:40:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "inherentlabs.ai"
-      ],
-      "items": [
-        {
-          "id": "587b20bb7cf2a552470acca81bfa1954166016e4",
-          "title": "培养人工智能科学家以复现研究成果",
-          "url": "https://inherentlabs.ai/research/training-to-replicate",
-          "source": "inherentlabs.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.256000Z"
-        },
-        {
-          "id": "7068bd5a7a8fadabf04d8d34ec8f102ac9f6f1a3",
-          "title": "培养人工智能科学家以复现研究成果 / Training AI Scientists to Replicate Research",
-          "url": "https://inherentlabs.ai/research/training-to-replicate",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T10:40:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3521,
-      "importance": 0.3521,
-      "importance_score": 0.3521,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0205,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:40:55Z",
-      "latest_at": "2026-08-15T10:45:54.256000Z",
-      "primary_item": {
-        "id": "587b20bb7cf2a552470acca81bfa1954166016e4",
-        "title": "培养人工智能科学家以复现研究成果",
-        "url": "https://inherentlabs.ai/research/training-to-replicate",
-        "source": "inherentlabs.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5ca8762cdb1c",
-      "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-      "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-      "primary_url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.910000Z"
-        },
-        {
-          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:32:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.910000Z"
-        },
-        {
-          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:32:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3521,
-      "importance": 0.3521,
-      "importance_score": 0.3521,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0205,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:32:01Z",
-      "latest_at": "2026-08-15T10:45:54.910000Z",
-      "primary_item": {
-        "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-        "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-        "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1667,14 +1317,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4395,
-      "importance": 0.4395,
-      "importance_score": 0.4395,
+      "score": 0.4314,
+      "importance": 0.4314,
+      "importance_score": 0.4314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4575,
+        "recency": 0.4172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1687,6 +1337,355 @@
         "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
         "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
         "url": "https://news.ycombinator.com/item?id=49313778",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_5fc4fcc0f82f",
+      "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+      "url": "https://news.ycombinator.com/item?id=49313519",
+      "primary_url": "https://news.ycombinator.com/item?id=49313519",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "url": "https://news.ycombinator.com/item?id=49313519",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:45:56.064000Z"
+        },
+        {
+          "id": "ffdaf2e82442d53d34f93aa45f689cbc769a4b46",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T19:30:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "url": "https://news.ycombinator.com/item?id=49313519",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:45:56.064000Z"
+        },
+        {
+          "id": "ffdaf2e82442d53d34f93aa45f689cbc769a4b46",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T19:30:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4274,
+      "importance": 0.4274,
+      "importance_score": 0.4274,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3968,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:30:32Z",
+      "latest_at": "2026-08-15T20:45:56.064000Z",
+      "primary_item": {
+        "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+        "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+        "url": "https://news.ycombinator.com/item?id=49313519",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0b73ad404776",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://news.ycombinator.com/item?id=49310725",
+      "primary_url": "https://news.ycombinator.com/item?id=49310725",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:46:23.557000Z"
+        },
+        {
+          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T14:30:12.217000Z"
+        },
+        {
+          "id": "fb298e71a21de056b737cb1400f65f0be73dfa0f",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "BBC News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:46:23.557000Z"
+        },
+        {
+          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T14:30:12.217000Z"
+        },
+        {
+          "id": "fb298e71a21de056b737cb1400f65f0be73dfa0f",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.4274,
+      "importance": 0.4274,
+      "importance_score": 0.4274,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1472,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:25:32Z",
+      "latest_at": "2026-08-15T14:46:23.557000Z",
+      "primary_item": {
+        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "url": "https://news.ycombinator.com/item?id=49310725",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_8ce395516f71",
+      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:45:56.064000Z"
+        },
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T19:43:29.539000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:45:56.064000Z"
+        },
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T19:43:29.539000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4274,
+      "importance": 0.4274,
+      "importance_score": 0.4274,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3968,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:43:29.539000Z",
+      "latest_at": "2026-08-15T20:45:56.064000Z",
+      "primary_item": {
+        "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+        "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+        "url": "https://news.ycombinator.com/item?id=49313367",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2eddcc502dba",
+      "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://news.ycombinator.com/item?id=49311445",
+      "primary_url": "https://news.ycombinator.com/item?id=49311445",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "url": "https://news.ycombinator.com/item?id=49311445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:16:57.597000Z"
+        },
+        {
+          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T15:32:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "url": "https://news.ycombinator.com/item?id=49311445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:16:57.597000Z"
+        },
+        {
+          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T15:32:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.39,
+      "importance": 0.39,
+      "importance_score": 0.39,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.21,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T15:32:25Z",
+      "latest_at": "2026-08-15T16:16:57.597000Z",
+      "primary_item": {
+        "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+        "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+        "url": "https://news.ycombinator.com/item?id=49311445",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
