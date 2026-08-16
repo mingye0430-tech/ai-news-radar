@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-08-16T11:14:29.602070Z",
+  "generated_at": "2026-08-16T11:43:01.310447Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_9273e7aa2436",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
+      "primary_url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c81f8be662405076243240ef6bcb706197b51f17",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c81f8be662405076243240ef6bcb706197b51f17",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9826,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-16T11:17:57Z",
+      "latest_at": "2026-08-16T11:17:57Z",
+      "primary_item": {
+        "id": "c81f8be662405076243240ef6bcb706197b51f17",
+        "title": "新兴多智能体系统的模式与问题",
+        "url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_badeeae7b539",
       "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
@@ -76,14 +136,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9358,
+        "recency": 0.916,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -97,6 +157,162 @@
         "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
         "url": "https://littlelearner-ll.github.io",
         "source": "littlelearner-ll.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9b780e5528de",
+      "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "primary_url": "https://github.com/akitaonrails/ai-memory",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T11:29:51.730000Z"
+        },
+        {
+          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
+          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T11:29:51.730000Z"
+        },
+        {
+          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
+          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5462,
+      "importance": 0.5462,
+      "importance_score": 0.5462,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9909,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T11:14:29.602070Z",
+      "latest_at": "2026-08-16T11:29:51.730000Z",
+      "primary_item": {
+        "id": "e093aec71608c94ab78108d3149519fad3663164",
+        "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_af863cb3b215",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "832048e4912be301837a545ebb902051b16dbe65",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        },
+        {
+          "id": "7220c05a173166ccb0abeca98bc421dc3d0fb02b",
+          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T02:12:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "832048e4912be301837a545ebb902051b16dbe65",
+          "title": "新兴多智能体系统的模式与问题",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        },
+        {
+          "id": "7220c05a173166ccb0abeca98bc421dc3d0fb02b",
+          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T02:12:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9826,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T02:12:53Z",
+      "latest_at": "2026-08-16T11:17:57.393000Z",
+      "primary_item": {
+        "id": "832048e4912be301837a545ebb902051b16dbe65",
+        "title": "新兴多智能体系统的模式与问题",
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "www.anthropic.com",
         "source_name": "Buzzing"
       }
     },
@@ -154,14 +370,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9802,
+        "recency": 0.9604,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -232,14 +448,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9028,
+        "recency": 0.883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -347,14 +563,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6474,
+        "recency": 0.6276,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -425,14 +641,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4808,
-      "importance": 0.4808,
-      "importance_score": 0.4808,
+      "score": 0.4768,
+      "importance": 0.4768,
+      "importance_score": 0.4768,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6639,
+        "recency": 0.6441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -503,14 +719,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.4963,
+      "importance": 0.4963,
+      "importance_score": 0.4963,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7612,
+        "recency": 0.7414,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -581,14 +797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4737,
-      "importance": 0.4737,
-      "importance_score": 0.4737,
+      "score": 0.4697,
+      "importance": 0.4697,
+      "importance_score": 0.4697,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6283,
+        "recency": 0.6085,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -677,14 +893,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4402,
-      "importance": 0.4402,
-      "importance_score": 0.4402,
+      "score": 0.4362,
+      "importance": 0.4362,
+      "importance_score": 0.4362,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3358,
+        "recency": 0.316,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -755,14 +971,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4263,
-      "importance": 0.4263,
-      "importance_score": 0.4263,
+      "score": 0.4223,
+      "importance": 0.4223,
+      "importance_score": 0.4223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3913,
+        "recency": 0.3715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -832,14 +1048,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4263,
-      "importance": 0.4263,
-      "importance_score": 0.4263,
+      "score": 0.4223,
+      "importance": 0.4223,
+      "importance_score": 0.4223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3913,
+        "recency": 0.3715,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -929,14 +1145,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.469,
-      "importance": 0.469,
-      "importance_score": 0.469,
+      "score": 0.465,
+      "importance": 0.465,
+      "importance_score": 0.465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4799,
+        "recency": 0.4601,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1007,14 +1223,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.462,
-      "importance": 0.462,
-      "importance_score": 0.462,
+      "score": 0.458,
+      "importance": 0.458,
+      "importance_score": 0.458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5699,
+        "recency": 0.5501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1085,14 +1301,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.424,
-      "importance": 0.424,
-      "importance_score": 0.424,
+      "score": 0.4201,
+      "importance": 0.4201,
+      "importance_score": 0.4201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3802,
+        "recency": 0.3603,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1162,14 +1378,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3741,
-      "importance": 0.3741,
-      "importance_score": 0.3741,
+      "score": 0.3701,
+      "importance": 0.3701,
+      "importance_score": 0.3701,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1304,
+        "recency": 0.1106,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1239,14 +1455,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4396,
-      "importance": 0.4396,
-      "importance_score": 0.4396,
+      "score": 0.4357,
+      "importance": 0.4357,
+      "importance_score": 0.4357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4582,
+        "recency": 0.4384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1317,14 +1533,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4314,
-      "importance": 0.4314,
-      "importance_score": 0.4314,
+      "score": 0.4275,
+      "importance": 0.4275,
+      "importance_score": 0.4275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4172,
+        "recency": 0.3973,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1395,14 +1611,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4274,
-      "importance": 0.4274,
-      "importance_score": 0.4274,
+      "score": 0.4234,
+      "importance": 0.4234,
+      "importance_score": 0.4234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3968,
+        "recency": 0.377,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1415,277 +1631,6 @@
         "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
         "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
         "url": "https://news.ycombinator.com/item?id=49313519",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_0b73ad404776",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://news.ycombinator.com/item?id=49310725",
-      "primary_url": "https://news.ycombinator.com/item?id=49310725",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:46:23.557000Z"
-        },
-        {
-          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T14:30:12.217000Z"
-        },
-        {
-          "id": "fb298e71a21de056b737cb1400f65f0be73dfa0f",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T14:08:55Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "BBC News",
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:46:23.557000Z"
-        },
-        {
-          "id": "df4e0999ddfe3441c499f1ff2a561e8a81fc55e7",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T14:30:12.217000Z"
-        },
-        {
-          "id": "fb298e71a21de056b737cb1400f65f0be73dfa0f",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T14:08:55Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售正蓬勃发展。这是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4274,
-      "importance": 0.4274,
-      "importance_score": 0.4274,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1472,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:25:32Z",
-      "latest_at": "2026-08-15T14:46:23.557000Z",
-      "primary_item": {
-        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-        "url": "https://news.ycombinator.com/item?id=49310725",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8ce395516f71",
-      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-      "url": "https://news.ycombinator.com/item?id=49313367",
-      "primary_url": "https://news.ycombinator.com/item?id=49313367",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:45:56.064000Z"
-        },
-        {
-          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T19:43:29.539000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:45:56.064000Z"
-        },
-        {
-          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T19:43:29.539000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4274,
-      "importance": 0.4274,
-      "importance_score": 0.4274,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3968,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:43:29.539000Z",
-      "latest_at": "2026-08-15T20:45:56.064000Z",
-      "primary_item": {
-        "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
-        "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-        "url": "https://news.ycombinator.com/item?id=49313367",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2eddcc502dba",
-      "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-      "url": "https://news.ycombinator.com/item?id=49311445",
-      "primary_url": "https://news.ycombinator.com/item?id=49311445",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "url": "https://news.ycombinator.com/item?id=49311445",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:16:57.597000Z"
-        },
-        {
-          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T15:32:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "url": "https://news.ycombinator.com/item?id=49311445",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:16:57.597000Z"
-        },
-        {
-          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T15:32:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.39,
-      "importance": 0.39,
-      "importance_score": 0.39,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.21,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T15:32:25Z",
-      "latest_at": "2026-08-15T16:16:57.597000Z",
-      "primary_item": {
-        "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-        "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-        "url": "https://news.ycombinator.com/item?id=49311445",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
