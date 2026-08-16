@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:20:24.107463Z",
+  "generated_at": "2026-08-16T09:49:32.508617Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,14 +56,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6509,
-      "importance": 0.6509,
-      "importance_score": 0.6509,
+      "score": 0.6469,
+      "importance": 0.6469,
+      "importance_score": 0.6469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0697,
+        "recency": 0.0495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -79,6 +79,103 @@
         "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_badeeae7b539",
+      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+      "url": "https://littlelearner-ll.github.io",
+      "primary_url": "https://littlelearner-ll.github.io",
+      "source": "littlelearner-ll.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
+        },
+        {
+          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://news.ycombinator.com/item?id=49317760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T08:21:09.677000Z"
+        },
+        {
+          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "littlelearner-ll.github.io"
+      ],
+      "items": [
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
+        },
+        {
+          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://news.ycombinator.com/item?id=49317760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T08:21:09.677000Z"
+        },
+        {
+          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.572,
+      "importance": 0.572,
+      "importance_score": 0.572,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9948,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T07:37:53Z",
+      "latest_at": "2026-08-16T09:42:02.137000Z",
+      "primary_item": {
+        "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+        "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+        "url": "https://littlelearner-ll.github.io",
+        "source": "littlelearner-ll.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -135,14 +232,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9821,
+        "recency": 0.9618,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -250,14 +347,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7266,
+        "recency": 0.7064,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -275,79 +372,79 @@
       }
     },
     {
-      "story_id": "story_badeeae7b539",
-      "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://news.ycombinator.com/item?id=49317760",
-      "primary_url": "https://news.ycombinator.com/item?id=49317760",
+      "story_id": "story_c21a3b4fa623",
+      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://news.ycombinator.com/item?id=49314967",
+      "primary_url": "https://news.ycombinator.com/item?id=49314967",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://news.ycombinator.com/item?id=49317760",
+          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://news.ycombinator.com/item?id=49314967",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T08:21:09.677000Z"
+          "published_at": "2026-08-16T03:10:34.741000Z"
         },
         {
-          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T07:37:53Z"
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://arxiv.org/abs/2608.13122",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://news.ycombinator.com/item?id=49317760",
+          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://news.ycombinator.com/item?id=49314967",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T08:21:09.677000Z"
+          "published_at": "2026-08-16T03:10:34.741000Z"
         },
         {
-          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://littlelearner-ll.github.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T07:37:53Z"
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://arxiv.org/abs/2608.13122",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.4926,
+      "importance": 0.4926,
+      "importance_score": 0.4926,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9589,
+        "recency": 0.7229,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T07:37:53Z",
-      "latest_at": "2026-08-16T08:21:09.677000Z",
+      "earliest_at": "2026-08-15T22:41:51Z",
+      "latest_at": "2026-08-16T03:10:34.741000Z",
       "primary_item": {
-        "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
-        "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-        "url": "https://news.ycombinator.com/item?id=49317760",
+        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
+        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+        "url": "https://news.ycombinator.com/item?id=49314967",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -406,14 +503,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
+      "score": 0.512,
+      "importance": 0.512,
+      "importance_score": 0.512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8405,
+        "recency": 0.8202,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -431,30 +528,30 @@
       }
     },
     {
-      "story_id": "story_c21a3b4fa623",
-      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://news.ycombinator.com/item?id=49314967",
-      "primary_url": "https://news.ycombinator.com/item?id=49314967",
+      "story_id": "story_aa1bd4c71d6c",
+      "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=49315709",
+      "primary_url": "https://news.ycombinator.com/item?id=49315709",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
+          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://news.ycombinator.com/item?id=49315709",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T03:10:34.741000Z"
+          "published_at": "2026-08-16T02:19:14.902000Z"
         },
         {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
+          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://waku.sh",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
+          "published_at": "2026-08-16T00:38:44Z"
         }
       ],
       "source_count": 2,
@@ -464,46 +561,46 @@
       ],
       "items": [
         {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
+          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://news.ycombinator.com/item?id=49315709",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T03:10:34.741000Z"
+          "published_at": "2026-08-16T02:19:14.902000Z"
         },
         {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
+          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://waku.sh",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
+          "published_at": "2026-08-16T00:38:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
+      "score": 0.4855,
+      "importance": 0.4855,
+      "importance_score": 0.4855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7432,
+        "recency": 0.6873,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T22:41:51Z",
-      "latest_at": "2026-08-16T03:10:34.741000Z",
+      "earliest_at": "2026-08-16T00:38:44Z",
+      "latest_at": "2026-08-16T02:19:14.902000Z",
       "primary_item": {
-        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "url": "https://news.ycombinator.com/item?id=49314967",
+        "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+        "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+        "url": "https://news.ycombinator.com/item?id=49315709",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -580,14 +677,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.456,
-      "importance": 0.456,
-      "importance_score": 0.456,
+      "score": 0.452,
+      "importance": 0.452,
+      "importance_score": 0.452,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.415,
+        "recency": 0.3948,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -658,14 +755,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4421,
-      "importance": 0.4421,
-      "importance_score": 0.4421,
+      "score": 0.4381,
+      "importance": 0.4381,
+      "importance_score": 0.4381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4705,
+        "recency": 0.4503,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -735,14 +832,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4421,
-      "importance": 0.4421,
-      "importance_score": 0.4421,
+      "score": 0.4381,
+      "importance": 0.4381,
+      "importance_score": 0.4381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4706,
+        "recency": 0.4503,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -813,14 +910,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4399,
-      "importance": 0.4399,
-      "importance_score": 0.4399,
+      "score": 0.4358,
+      "importance": 0.4358,
+      "importance_score": 0.4358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4594,
+        "recency": 0.4391,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -910,14 +1007,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4338,
-      "importance": 0.4338,
-      "importance_score": 0.4338,
+      "score": 0.4297,
+      "importance": 0.4297,
+      "importance_score": 0.4297,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3039,
+        "recency": 0.2837,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -935,79 +1032,98 @@
       }
     },
     {
-      "story_id": "story_aa1bd4c71d6c",
-      "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-      "url": "https://news.ycombinator.com/item?id=49315709",
-      "primary_url": "https://news.ycombinator.com/item?id=49315709",
+      "story_id": "story_9497efda088c",
+      "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "url": "https://news.ycombinator.com/item?id=49314594",
+      "primary_url": "https://news.ycombinator.com/item?id=49314594",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://news.ycombinator.com/item?id=49315709",
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "url": "https://news.ycombinator.com/item?id=49314594",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T02:19:14.902000Z"
+          "published_at": "2026-08-15T22:45:32.383000Z"
         },
         {
-          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
-          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://waku.sh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T00:38:44Z"
+          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
+          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T21:57:53.048000Z"
+        },
+        {
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T21:42:39Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
+        "github.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://news.ycombinator.com/item?id=49315709",
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "url": "https://news.ycombinator.com/item?id=49314594",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T02:19:14.902000Z"
+          "published_at": "2026-08-15T22:45:32.383000Z"
         },
         {
-          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
-          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://waku.sh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T00:38:44Z"
+          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
+          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T21:57:53.048000Z"
+        },
+        {
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T21:42:39Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4895,
-      "importance": 0.4895,
-      "importance_score": 0.4895,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4808,
+      "importance": 0.4808,
+      "importance_score": 0.4808,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7075,
-        "story_heat": 0.25
+        "recency": 0.5389,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T00:38:44Z",
-      "latest_at": "2026-08-16T02:19:14.902000Z",
+      "earliest_at": "2026-08-15T21:42:39Z",
+      "latest_at": "2026-08-15T22:45:32.383000Z",
       "primary_item": {
-        "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-        "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-        "url": "https://news.ycombinator.com/item?id=49315709",
+        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+        "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "url": "https://news.ycombinator.com/item?id=49314594",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1066,14 +1182,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4778,
-      "importance": 0.4778,
-      "importance_score": 0.4778,
+      "score": 0.4738,
+      "importance": 0.4738,
+      "importance_score": 0.4738,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6491,
+        "recency": 0.6289,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1163,14 +1279,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4116,
-      "importance": 0.4116,
-      "importance_score": 0.4116,
+      "score": 0.4075,
+      "importance": 0.4075,
+      "importance_score": 0.4075,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1928,
+        "recency": 0.1726,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1185,103 +1301,6 @@
         "url": "https://sankalp.bearblog.dev/autoresearch",
         "source": "sankalp.bearblog.dev",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9497efda088c",
-      "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-      "url": "https://news.ycombinator.com/item?id=49314594",
-      "primary_url": "https://news.ycombinator.com/item?id=49314594",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://news.ycombinator.com/item?id=49314594",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:45:32.383000Z"
-        },
-        {
-          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T21:57:53.048000Z"
-        },
-        {
-          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T21:42:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://news.ycombinator.com/item?id=49314594",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:45:32.383000Z"
-        },
-        {
-          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T21:57:53.048000Z"
-        },
-        {
-          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T21:42:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4848,
-      "importance": 0.4848,
-      "importance_score": 0.4848,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5591,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T21:42:39Z",
-      "latest_at": "2026-08-15T22:45:32.383000Z",
-      "primary_item": {
-        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-        "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-        "url": "https://news.ycombinator.com/item?id=49314594",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1337,14 +1356,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3899,
-      "importance": 0.3899,
-      "importance_score": 0.3899,
+      "score": 0.3859,
+      "importance": 0.3859,
+      "importance_score": 0.3859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2097,
+        "recency": 0.1894,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1359,6 +1378,83 @@
         "url": "https://printytron.com",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_9d2443cbcb8a",
+      "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+      "url": "https://news.ycombinator.com/item?id=49312845",
+      "primary_url": "https://news.ycombinator.com/item?id=49312845",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:14:15.085000Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:14:15.085000Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4514,
+      "importance": 0.4514,
+      "importance_score": 0.4514,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5172,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T18:39:17.058000Z",
+      "latest_at": "2026-08-15T22:14:15.085000Z",
+      "primary_item": {
+        "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+        "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+        "url": "https://news.ycombinator.com/item?id=49312845",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1415,14 +1511,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3599,
-      "importance": 0.3599,
-      "importance_score": 0.3599,
+      "score": 0.3558,
+      "importance": 0.3558,
+      "importance_score": 0.3558,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0594,
+        "recency": 0.0391,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1437,83 +1533,6 @@
         "url": "https://inherentlabs.ai/research/training-to-replicate",
         "source": "inherentlabs.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9d2443cbcb8a",
-      "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-      "url": "https://news.ycombinator.com/item?id=49312845",
-      "primary_url": "https://news.ycombinator.com/item?id=49312845",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:14:15.085000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:14:15.085000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4555,
-      "importance": 0.4555,
-      "importance_score": 0.4555,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5374,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T18:39:17.058000Z",
-      "latest_at": "2026-08-15T22:14:15.085000Z",
-      "primary_item": {
-        "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-        "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-        "url": "https://news.ycombinator.com/item?id=49312845",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1570,14 +1589,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3599,
-      "importance": 0.3599,
-      "importance_score": 0.3599,
+      "score": 0.3558,
+      "importance": 0.3558,
+      "importance_score": 0.3558,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0594,
+        "recency": 0.0391,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1595,81 +1614,81 @@
       }
     },
     {
-      "story_id": "story_6585397986fa",
-      "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-      "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-      "primary_url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_6ebdd215fabf",
+      "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+      "url": "https://news.ycombinator.com/item?id=49313778",
+      "primary_url": "https://news.ycombinator.com/item?id=49313778",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9b534af4d903899a735a8130a35795f50995d60a",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:30:00.744000Z"
+          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
+          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+          "url": "https://news.ycombinator.com/item?id=49313778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:15:11.585000Z"
         },
         {
-          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:25:02Z"
+          "id": "cf73524bfc31a5ebc22a1cedc0ff5f2c35aa4ecb",
+          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T20:00:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9b534af4d903899a735a8130a35795f50995d60a",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:30:00.744000Z"
+          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
+          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+          "url": "https://news.ycombinator.com/item?id=49313778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:15:11.585000Z"
         },
         {
-          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:25:02Z"
+          "id": "cf73524bfc31a5ebc22a1cedc0ff5f2c35aa4ecb",
+          "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T20:00:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3577,
-      "importance": 0.3577,
-      "importance_score": 0.3577,
+      "score": 0.4432,
+      "importance": 0.4432,
+      "importance_score": 0.4432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0483,
+        "recency": 0.4761,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T10:25:02Z",
-      "latest_at": "2026-08-15T10:30:00.744000Z",
+      "earliest_at": "2026-08-15T20:00:14Z",
+      "latest_at": "2026-08-15T21:15:11.585000Z",
       "primary_item": {
-        "id": "9b534af4d903899a735a8130a35795f50995d60a",
-        "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-        "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
+        "title": "Meta 将在极右媒体 Newsmax 上训练其人工智能 / Meta will train its AI on Newsmax, a far-right media outlet",
+        "url": "https://news.ycombinator.com/item?id=49313778",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
