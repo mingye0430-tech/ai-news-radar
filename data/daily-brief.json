@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:24:20.288551Z",
+  "generated_at": "2026-08-19T19:01:47.157711Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8683,
-      "importance": 0.8683,
-      "importance_score": 0.8683,
+      "score": 0.8631,
+      "importance": 0.8631,
+      "importance_score": 0.8631,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9764,
+        "recency": 0.9504,
         "story_heat": 0.0
       },
       "category": "official",
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7726,
+        "recency": 0.7466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -123,6 +123,66 @@
         "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e037afe7bfd1",
+      "title": "OpenRouter 宣布加入 Stripe",
+      "url": "https://aihot.virxact.com/items/cmt0gatba0405ro2o5cov155t",
+      "primary_url": "https://aihot.virxact.com/items/cmt0gatba0405ro2o5cov155t",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5223039aa01a7624a05ab1c056ee59d7d369964",
+          "title": "OpenRouter 宣布加入 Stripe",
+          "url": "https://aihot.virxact.com/items/cmt0gatba0405ro2o5cov155t",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T18:46:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "f5223039aa01a7624a05ab1c056ee59d7d369964",
+          "title": "OpenRouter 宣布加入 Stripe",
+          "url": "https://aihot.virxact.com/items/cmt0gatba0405ro2o5cov155t",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T18:46:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9892,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T18:46:11Z",
+      "latest_at": "2026-08-19T18:46:11Z",
+      "primary_item": {
+        "id": "f5223039aa01a7624a05ab1c056ee59d7d369964",
+        "title": "OpenRouter 宣布加入 Stripe",
+        "url": "https://aihot.virxact.com/items/cmt0gatba0405ro2o5cov155t",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -160,14 +220,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 0.9545,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -220,14 +280,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.957,
+        "recency": 0.931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -280,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8087,
+        "recency": 0.7827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -378,14 +438,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5057,
+        "recency": 0.4797,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -458,21 +518,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5865,
+        "recency": 0.5605,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T08:28:52.823707Z",
       "latest_at": "2026-08-19T08:28:52.823707Z",
@@ -538,21 +597,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5865,
+        "recency": 0.5605,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T08:28:52.823707Z",
       "latest_at": "2026-08-19T08:28:52.823707Z",
@@ -599,14 +657,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.668,
+        "recency": 0.642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -658,14 +716,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6477,
+        "recency": 0.6217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,14 +794,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6117,
-      "importance": 0.6117,
-      "importance_score": 0.6117,
+      "score": 0.6065,
+      "importance": 0.6065,
+      "importance_score": 0.6065,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8087,
+        "recency": 0.7827,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -795,14 +853,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5865,
+        "recency": 0.5605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -817,6 +875,317 @@
         "url": "https://www.aibase.com/news/30474",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fcbdacd7376e",
+      "title": "人工智能在谷歌新推出的 Pixel 11 中没有帮助 / The A.I. In Google's New Pixel 11 Is Not Helpful",
+      "url": "https://news.ycombinator.com/item?id=49365383",
+      "primary_url": "https://news.ycombinator.com/item?id=49365383",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5e9bda5d9290ba7331ad1f1ce76bd1a380fd6783",
+          "title": "人工智能在谷歌新推出的 Pixel 11 中没有帮助 / The A.I. In Google's New Pixel 11 Is Not Helpful",
+          "url": "https://news.ycombinator.com/item?id=49365383",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T19:02:14.497000Z"
+        },
+        {
+          "id": "fe940349674cfadbc7cf99e8628518a505e06014",
+          "title": "人工智能在谷歌新推出的 Pixel 11 中没有帮助 / The A.I. In Google's New Pixel 11 Is Not Helpful",
+          "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T18:32:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5e9bda5d9290ba7331ad1f1ce76bd1a380fd6783",
+          "title": "人工智能在谷歌新推出的 Pixel 11 中没有帮助 / The A.I. In Google's New Pixel 11 Is Not Helpful",
+          "url": "https://news.ycombinator.com/item?id=49365383",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T19:02:14.497000Z"
+        },
+        {
+          "id": "fe940349674cfadbc7cf99e8628518a505e06014",
+          "title": "人工智能在谷歌新推出的 Pixel 11 中没有帮助 / The A.I. In Google's New Pixel 11 Is Not Helpful",
+          "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T18:32:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T18:32:20Z",
+      "latest_at": "2026-08-19T19:02:14.497000Z",
+      "primary_item": {
+        "id": "5e9bda5d9290ba7331ad1f1ce76bd1a380fd6783",
+        "title": "人工智能在谷歌新推出的 Pixel 11 中没有帮助 / The A.I. In Google's New Pixel 11 Is Not Helpful",
+        "url": "https://news.ycombinator.com/item?id=49365383",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_f9b6fc261a9c",
+      "title": "OpenRouter 将加入 Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "source": "openrouter.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
+          "title": "OpenRouter 将加入 Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.132000Z"
+        },
+        {
+          "id": "5f828a6b51ecaa737e9be91990d058bb2d54344d",
+          "title": "OpenRouter 将加入 Stripe / Openrouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T17:32:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "openrouter.ai"
+      ],
+      "items": [
+        {
+          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
+          "title": "OpenRouter 将加入 Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.132000Z"
+        },
+        {
+          "id": "5f828a6b51ecaa737e9be91990d058bb2d54344d",
+          "title": "OpenRouter 将加入 Stripe / Openrouter is joining Stripe",
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T17:32:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9892,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T17:32:38Z",
+      "latest_at": "2026-08-19T18:46:11.132000Z",
+      "primary_item": {
+        "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
+        "title": "OpenRouter 将加入 Stripe",
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+        "source": "openrouter.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e78845aaefd8",
+      "title": "Ornith-1.5：从自我构建到自我优化",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "primary_url": "https://ornith.ai/ornith_1_5.html",
+      "source": "ornith.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "76b183b4b6b56d4cf5b59c4b8453f445ad94b73f",
+          "title": "Ornith-1.5：从自我构建到自我优化",
+          "url": "https://ornith.ai/ornith_1_5.html",
+          "source": "ornith.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.128000Z"
+        },
+        {
+          "id": "913db90a4d40530a3471c1adab0d5ed5689675ff",
+          "title": "Ornith-1.5：从自我构建到自我优化 / Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+          "url": "https://ornith.ai/ornith_1_5.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T14:48:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "ornith.ai"
+      ],
+      "items": [
+        {
+          "id": "76b183b4b6b56d4cf5b59c4b8453f445ad94b73f",
+          "title": "Ornith-1.5：从自我构建到自我优化",
+          "url": "https://ornith.ai/ornith_1_5.html",
+          "source": "ornith.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:11.128000Z"
+        },
+        {
+          "id": "913db90a4d40530a3471c1adab0d5ed5689675ff",
+          "title": "Ornith-1.5：从自我构建到自我优化 / Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+          "url": "https://ornith.ai/ornith_1_5.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T14:48:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9892,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T14:48:39Z",
+      "latest_at": "2026-08-19T18:46:11.128000Z",
+      "primary_item": {
+        "id": "76b183b4b6b56d4cf5b59c4b8453f445ad94b73f",
+        "title": "Ornith-1.5：从自我构建到自我优化",
+        "url": "https://ornith.ai/ornith_1_5.html",
+        "source": "ornith.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7b5b835385d1",
+      "title": "支付公司Stripe将收购电商平台OpenRouter，以推进人工智能业务",
+      "url": "https://www.reuters.com/technology/payments-firm-stripe-buy-ai-developer-platform-openrouter-2026-08-19",
+      "primary_url": "https://www.reuters.com/technology/payments-firm-stripe-buy-ai-developer-platform-openrouter-2026-08-19",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6243b9b26b730e22ce9d1c62c84d7ade727acc92",
+          "title": "支付公司Stripe将收购电商平台OpenRouter，以推进人工智能业务",
+          "url": "https://www.reuters.com/technology/payments-firm-stripe-buy-ai-developer-platform-openrouter-2026-08-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:12.850000Z"
+        },
+        {
+          "id": "2374eaaef8e7233f73af62207e7c1d148847b915",
+          "title": "支付公司Stripe将收购人工智能开发平台OpenRouter",
+          "url": "https://www.reuters.com/technology/payments-firm-stripe-buy-ai-developer-platform-openrouter-2026-08-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T17:58:13.313000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "6243b9b26b730e22ce9d1c62c84d7ade727acc92",
+          "title": "支付公司Stripe将收购电商平台OpenRouter，以推进人工智能业务",
+          "url": "https://www.reuters.com/technology/payments-firm-stripe-buy-ai-developer-platform-openrouter-2026-08-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T18:46:12.850000Z"
+        },
+        {
+          "id": "2374eaaef8e7233f73af62207e7c1d148847b915",
+          "title": "支付公司Stripe将收购人工智能开发平台OpenRouter",
+          "url": "https://www.reuters.com/technology/payments-firm-stripe-buy-ai-developer-platform-openrouter-2026-08-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T17:58:13.313000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9892,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T17:58:13.313000Z",
+      "latest_at": "2026-08-19T18:46:12.850000Z",
+      "primary_item": {
+        "id": "6243b9b26b730e22ce9d1c62c84d7ade727acc92",
+        "title": "支付公司Stripe将收购电商平台OpenRouter，以推进人工智能业务",
+        "url": "https://www.reuters.com/technology/payments-firm-stripe-buy-ai-developer-platform-openrouter-2026-08-19",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -854,14 +1223,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5865,
+        "recency": 0.5605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -876,84 +1245,6 @@
         "url": "https://www.aibase.com/news/30472",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_11b62d30a274",
-      "title": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具 / Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "url": "https://news.ycombinator.com/item?id=49363710",
-      "primary_url": "https://news.ycombinator.com/item?id=49363710",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f4dcc76ad7d34c89f46e2d9abe85f2fec0170314",
-          "title": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具 / Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-          "url": "https://news.ycombinator.com/item?id=49363710",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T17:01:55.811000Z"
-        },
-        {
-          "id": "c66b442e5f092966da908ae91a62dc819bf64b7b",
-          "title": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具 / Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-          "url": "https://github.com/onecli/onecli",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T16:29:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f4dcc76ad7d34c89f46e2d9abe85f2fec0170314",
-          "title": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具 / Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-          "url": "https://news.ycombinator.com/item?id=49363710",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T17:01:55.811000Z"
-        },
-        {
-          "id": "c66b442e5f092966da908ae91a62dc819bf64b7b",
-          "title": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具 / Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-          "url": "https://github.com/onecli/onecli",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T16:29:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9428,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T16:29:02Z",
-      "latest_at": "2026-08-19T17:01:55.811000Z",
-      "primary_item": {
-        "id": "f4dcc76ad7d34c89f46e2d9abe85f2fec0170314",
-        "title": "推出 HN：OneCLI (YC S26) – 适用于团队的 OSS 沙盒代理工具 / Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-        "url": "https://news.ycombinator.com/item?id=49363710",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -991,14 +1282,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5865,
+        "recency": 0.5605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1069,14 +1360,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.5037,
+      "importance": 0.5037,
+      "importance_score": 0.5037,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8044,
+        "recency": 0.7784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1090,333 +1381,6 @@
         "title": "即使在笔记本电脑上，也能训练自己的AI模型",
         "url": "https://news.ycombinator.com/item?id=49361322",
         "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ab34aba0bc80",
-      "title": "克劳德水印去除剂 / Claude Watermark Remover",
-      "url": "https://www.producthunt.com/products/claude-watermark",
-      "primary_url": "https://www.producthunt.com/products/claude-watermark",
-      "source": "producthunt",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6e5f95ab21eeeb61fbe58d21129930ab6a4f3ed9",
-          "title": "克劳德水印去除剂 / Claude Watermark Remover",
-          "url": "https://www.producthunt.com/products/claude-watermark",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T13:39:01.492000Z"
-        },
-        {
-          "id": "3f1602c8a90bd3e73b6838cf6bf836bb77de4761",
-          "title": "克劳德·沃特马克 / Claude Watermark",
-          "url": "https://www.producthunt.com/products/claude-watermark",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T11:06:27.772000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "6e5f95ab21eeeb61fbe58d21129930ab6a4f3ed9",
-          "title": "克劳德水印去除剂 / Claude Watermark Remover",
-          "url": "https://www.producthunt.com/products/claude-watermark",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T13:39:01.492000Z"
-        },
-        {
-          "id": "3f1602c8a90bd3e73b6838cf6bf836bb77de4761",
-          "title": "克劳德·沃特马克 / Claude Watermark",
-          "url": "https://www.producthunt.com/products/claude-watermark",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T11:06:27.772000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5084,
-      "importance": 0.5084,
-      "importance_score": 0.5084,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8019,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T11:06:27.772000Z",
-      "latest_at": "2026-08-19T13:39:01.492000Z",
-      "primary_item": {
-        "id": "6e5f95ab21eeeb61fbe58d21129930ab6a4f3ed9",
-        "title": "克劳德水印去除剂 / Claude Watermark Remover",
-        "url": "https://www.producthunt.com/products/claude-watermark",
-        "source": "producthunt",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7cb24afa7d5a",
-      "title": "法学硕士时代的可扩展软件 / Extensible Software in the Age of LLMs",
-      "url": "https://news.ycombinator.com/item?id=49363668",
-      "primary_url": "https://news.ycombinator.com/item?id=49363668",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
-          "title": "法学硕士时代的可扩展软件 / Extensible Software in the Age of LLMs",
-          "url": "https://news.ycombinator.com/item?id=49363668",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T17:01:55.811000Z"
-        },
-        {
-          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
-          "title": "法学硕士时代的可扩展软件 / Extensible Software in the Age of LLMs",
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T16:26:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
-          "title": "法学硕士时代的可扩展软件 / Extensible Software in the Age of LLMs",
-          "url": "https://news.ycombinator.com/item?id=49363668",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T17:01:55.811000Z"
-        },
-        {
-          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
-          "title": "法学硕士时代的可扩展软件 / Extensible Software in the Age of LLMs",
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T16:26:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9428,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T16:26:05Z",
-      "latest_at": "2026-08-19T17:01:55.811000Z",
-      "primary_item": {
-        "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
-        "title": "法学硕士时代的可扩展软件 / Extensible Software in the Age of LLMs",
-        "url": "https://news.ycombinator.com/item?id=49363668",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_bbcb419123d8",
-      "title": "2027年，GrapheneOS将登陆摩托罗拉高端手机 / Devices with GrapheneOS support should be available in 2027",
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "primary_url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "a119fad0a20763231928c5d4e55bd7e630a3446e",
-          "title": "2027年，GrapheneOS将登陆摩托罗拉高端手机 / Devices with GrapheneOS support should be available in 2027",
-          "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-19T11:46:58Z"
-        },
-        {
-          "id": "fadec058d4c86c164eb4ba9517ebb4a65a6c2712",
-          "title": "2027年，GrapheneOS将登陆摩托罗拉高端手机 / GrapheneOS in 2027 available on high-end Motorola phones",
-          "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-19T11:46:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "a119fad0a20763231928c5d4e55bd7e630a3446e",
-          "title": "2027年，GrapheneOS将登陆摩托罗拉高端手机 / Devices with GrapheneOS support should be available in 2027",
-          "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-19T11:46:58Z"
-        },
-        {
-          "id": "fadec058d4c86c164eb4ba9517ebb4a65a6c2712",
-          "title": "2027年，GrapheneOS将登陆摩托罗拉高端手机 / GrapheneOS in 2027 available on high-end Motorola phones",
-          "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-19T11:46:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4928,
-      "importance": 0.4928,
-      "importance_score": 0.4928,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.724,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T11:46:58Z",
-      "latest_at": "2026-08-19T11:46:58Z",
-      "primary_item": {
-        "id": "a119fad0a20763231928c5d4e55bd7e630a3446e",
-        "title": "2027年，GrapheneOS将登陆摩托罗拉高端手机 / Devices with GrapheneOS support should be available in 2027",
-        "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_1fa6ecfb9685",
-      "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5e3ae1d387d24763fd61c15c4fadd325a805fc5c",
-          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T08:05:57.269000Z"
-        },
-        {
-          "id": "2f9c56c1365530efe40ed398daa5e2ba4402e9f0",
-          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨629%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T01:42:02.547000Z"
-        },
-        {
-          "id": "7fb33377fdcb058b49a58d7c4a98380a1e3f6f96",
-          "title": "Unitree Robotics 完成 9.04 亿美元上海首次公开募股后即将上市",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T23:18:19.985000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "5e3ae1d387d24763fd61c15c4fadd325a805fc5c",
-          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T08:05:57.269000Z"
-        },
-        {
-          "id": "2f9c56c1365530efe40ed398daa5e2ba4402e9f0",
-          "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨629%",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T01:42:02.547000Z"
-        },
-        {
-          "id": "7fb33377fdcb058b49a58d7c4a98380a1e3f6f96",
-          "title": "Unitree Robotics 完成 9.04 亿美元上海首次公开募股后即将上市",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T23:18:19.985000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4871,
-      "importance": 0.4871,
-      "importance_score": 0.4871,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5706,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T23:18:19.985000Z",
-      "latest_at": "2026-08-19T08:05:57.269000Z",
-      "primary_item": {
-        "id": "5e3ae1d387d24763fd61c15c4fadd325a805fc5c",
-        "title": "Unitree Robotics在上海完成9.04亿美元IPO后股价暴涨460%",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
-        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     }
