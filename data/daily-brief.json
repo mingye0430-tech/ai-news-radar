@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:20:41.769439Z",
+  "generated_at": "2026-08-22T08:55:01.602599Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 0.8208,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.324,
+        "recency": 0.3002,
         "story_heat": 0.0
       },
       "category": "official",
@@ -158,14 +158,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3215,
+        "recency": 0.2976,
         "story_heat": 0.0
       },
       "category": "official",
@@ -218,14 +218,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3805,
+        "recency": 0.3566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -316,14 +316,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6711,
-      "importance": 0.6711,
-      "importance_score": 0.6711,
+      "score": 0.6663,
+      "importance": 0.6663,
+      "importance_score": 0.6663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0454,
+        "recency": 0.0216,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -395,14 +395,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6511,
-      "importance": 0.6511,
-      "importance_score": 0.6511,
+      "score": 0.6463,
+      "importance": 0.6463,
+      "importance_score": 0.6463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0703,
+        "recency": 0.0465,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -552,14 +552,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6511,
-      "importance": 0.6511,
-      "importance_score": 0.6511,
+      "score": 0.6463,
+      "importance": 0.6463,
+      "importance_score": 0.6463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0703,
+        "recency": 0.0465,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -573,85 +573,6 @@
         "id": "819f3242f7c77f6583788f0c3f742aede633205a",
         "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
         "url": "https://www.aibase.com/news/30535",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8b3f8b3d79fc",
-      "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
-      "url": "https://www.aibase.com/news/30533",
-      "primary_url": "https://www.aibase.com/news/30533",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8b4934413b6222572539508e765a783f252dafa6",
-          "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
-          "url": "https://www.aibase.com/news/30533",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T08:31:51.958543Z"
-        },
-        {
-          "id": "2d763b5057c73bcea1c32fa060eb213dc9e9f289",
-          "title": "韩国互联网巨头 Kakao 董事会通过拆分方案，拟设立 Kakao AI",
-          "url": "https://www.aibase.com/zh/news/30533",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8b4934413b6222572539508e765a783f252dafa6",
-          "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
-          "url": "https://www.aibase.com/news/30533",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T08:31:51.958543Z"
-        },
-        {
-          "id": "2d763b5057c73bcea1c32fa060eb213dc9e9f289",
-          "title": "韩国互联网巨头 Kakao 董事会通过拆分方案，拟设立 Kakao AI",
-          "url": "https://www.aibase.com/zh/news/30533",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6386,
-      "importance": 0.6386,
-      "importance_score": 0.6386,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0078,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T08:31:51.958543Z",
-      "latest_at": "2026-08-21T09:29:33.481992Z",
-      "primary_item": {
-        "id": "8b4934413b6222572539508e765a783f252dafa6",
-        "title": "韩国互联网巨头Kakao董事会通过拆分方案，拟设立Kakao AI",
-        "url": "https://www.aibase.com/news/30533",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -710,14 +631,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9808,
+        "recency": 0.957,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -788,14 +709,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.912,
+        "recency": 0.8882,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -923,14 +844,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4856,
+        "recency": 0.4618,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1000,14 +921,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8805,
+        "recency": 0.8566,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1078,14 +999,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4925,
-      "importance": 0.4925,
-      "importance_score": 0.4925,
+      "score": 0.4878,
+      "importance": 0.4878,
+      "importance_score": 0.4878,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7227,
+        "recency": 0.6988,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1156,14 +1077,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4881,
-      "importance": 0.4881,
-      "importance_score": 0.4881,
+      "score": 0.4833,
+      "importance": 0.4833,
+      "importance_score": 0.4833,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7005,
+        "recency": 0.6766,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1234,14 +1155,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8594,
+        "recency": 0.8356,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1311,14 +1232,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4886,
-      "importance": 0.4886,
-      "importance_score": 0.4886,
+      "score": 0.4838,
+      "importance": 0.4838,
+      "importance_score": 0.4838,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.253,
+        "recency": 0.2291,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1389,14 +1310,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4525,
-      "importance": 0.4525,
-      "importance_score": 0.4525,
+      "score": 0.4478,
+      "importance": 0.4478,
+      "importance_score": 0.4478,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5227,
+        "recency": 0.4988,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1486,14 +1407,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4509,
-      "importance": 0.4509,
-      "importance_score": 0.4509,
+      "score": 0.4461,
+      "importance": 0.4461,
+      "importance_score": 0.4461,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3894,
+        "recency": 0.3655,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1583,14 +1504,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4537,
-      "importance": 0.4537,
-      "importance_score": 0.4537,
+      "score": 0.449,
+      "importance": 0.449,
+      "importance_score": 0.449,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4036,
+        "recency": 0.3798,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1605,6 +1526,84 @@
         "url": "https://news.ycombinator.com/item?id=49390739",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1130499a9347",
+      "title": "我正在变得对人工智能视而不见",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "primary_url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "source": "cymerys.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+          "title": "我正在变得对人工智能视而不见",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "cymerys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T16:37:38.437000Z"
+        },
+        {
+          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
+          "title": "我正在变得对人工智能视而不见 / I'm becoming AI-blind",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T11:48:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "cymerys.com"
+      ],
+      "items": [
+        {
+          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+          "title": "我正在变得对人工智能视而不见",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "cymerys.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T16:37:38.437000Z"
+        },
+        {
+          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
+          "title": "我正在变得对人工智能视而不见 / I'm becoming AI-blind",
+          "url": "https://cymerys.com/w/im-becoming-ai-blind",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T11:48:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4123,
+      "importance": 0.4123,
+      "importance_score": 0.4123,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3213,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T11:48:05Z",
+      "latest_at": "2026-08-21T16:37:38.437000Z",
+      "primary_item": {
+        "id": "b0554dda6c8729a87900fa7cfccabee476232512",
+        "title": "我正在变得对人工智能视而不见",
+        "url": "https://cymerys.com/w/im-becoming-ai-blind",
+        "source": "cymerys.com",
+        "source_name": "Buzzing"
       }
     }
   ]
