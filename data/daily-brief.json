@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:43:15.525992Z",
+  "generated_at": "2026-08-22T12:25:26.056019Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.704,
+        "recency": 0.6747,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-22T04:36:59Z",
       "latest_at": "2026-08-22T04:36:59Z",
@@ -117,14 +116,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.604,
-      "importance": 0.604,
-      "importance_score": 0.604,
+      "score": 0.5982,
+      "importance": 0.5982,
+      "importance_score": 0.5982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8901,
+        "recency": 0.8608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -195,14 +194,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.516,
-      "importance": 0.516,
-      "importance_score": 0.516,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8401,
+        "recency": 0.8108,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -273,14 +272,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5023,
-      "importance": 0.5023,
-      "importance_score": 0.5023,
+      "score": 0.4964,
+      "importance": 0.4964,
+      "importance_score": 0.4964,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7713,
+        "recency": 0.742,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -408,14 +407,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.492,
-      "importance": 0.492,
-      "importance_score": 0.492,
+      "score": 0.4861,
+      "importance": 0.4861,
+      "importance_score": 0.4861,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.345,
+        "recency": 0.3157,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -485,14 +484,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
+      "score": 0.4901,
+      "importance": 0.4901,
+      "importance_score": 0.4901,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7398,
+        "recency": 0.7105,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -563,14 +562,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4644,
-      "importance": 0.4644,
-      "importance_score": 0.4644,
+      "score": 0.4585,
+      "importance": 0.4585,
+      "importance_score": 0.4585,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.582,
+        "recency": 0.5527,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -641,14 +640,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.46,
-      "importance": 0.46,
-      "importance_score": 0.46,
+      "score": 0.4541,
+      "importance": 0.4541,
+      "importance_score": 0.4541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5598,
+        "recency": 0.5305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -719,14 +718,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4918,
-      "importance": 0.4918,
-      "importance_score": 0.4918,
+      "score": 0.4859,
+      "importance": 0.4859,
+      "importance_score": 0.4859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7188,
+        "recency": 0.6895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -796,14 +795,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4605,
-      "importance": 0.4605,
-      "importance_score": 0.4605,
+      "score": 0.4546,
+      "importance": 0.4546,
+      "importance_score": 0.4546,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.1123,
+        "recency": 0.083,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -874,14 +873,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4244,
-      "importance": 0.4244,
-      "importance_score": 0.4244,
+      "score": 0.4185,
+      "importance": 0.4185,
+      "importance_score": 0.4185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.382,
+        "recency": 0.3527,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -971,14 +970,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4227,
-      "importance": 0.4227,
-      "importance_score": 0.4227,
+      "score": 0.4169,
+      "importance": 0.4169,
+      "importance_score": 0.4169,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2487,
+        "recency": 0.2194,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1068,14 +1067,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4256,
-      "importance": 0.4256,
-      "importance_score": 0.4256,
+      "score": 0.4197,
+      "importance": 0.4197,
+      "importance_score": 0.4197,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.263,
+        "recency": 0.2337,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1090,84 +1089,6 @@
         "url": "https://news.ycombinator.com/item?id=49390739",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_1130499a9347",
-      "title": "我正在变得对人工智能视而不见",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "primary_url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "source": "cymerys.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
-          "title": "我正在变得对人工智能视而不见",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "cymerys.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T16:37:38.437000Z"
-        },
-        {
-          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
-          "title": "我正在变得对人工智能视而不见 / I'm becoming AI-blind",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T11:48:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "cymerys.com"
-      ],
-      "items": [
-        {
-          "id": "b0554dda6c8729a87900fa7cfccabee476232512",
-          "title": "我正在变得对人工智能视而不见",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "cymerys.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T16:37:38.437000Z"
-        },
-        {
-          "id": "febe879f73b0a7f62d32e0919954f590962d24dc",
-          "title": "我正在变得对人工智能视而不见 / I'm becoming AI-blind",
-          "url": "https://cymerys.com/w/im-becoming-ai-blind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T11:48:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3889,
-      "importance": 0.3889,
-      "importance_score": 0.3889,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2044,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T11:48:05Z",
-      "latest_at": "2026-08-21T16:37:38.437000Z",
-      "primary_item": {
-        "id": "b0554dda6c8729a87900fa7cfccabee476232512",
-        "title": "我正在变得对人工智能视而不见",
-        "url": "https://cymerys.com/w/im-becoming-ai-blind",
-        "source": "cymerys.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1224,14 +1145,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3875,
-      "importance": 0.3875,
-      "importance_score": 0.3875,
+      "score": 0.3817,
+      "importance": 0.3817,
+      "importance_score": 0.3817,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1976,
+        "recency": 0.1684,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1302,14 +1223,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4066,
-      "importance": 0.4066,
-      "importance_score": 0.4066,
+      "score": 0.4008,
+      "importance": 0.4008,
+      "importance_score": 0.4008,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2932,
+        "recency": 0.2639,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,14 +1300,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3983,
-      "importance": 0.3983,
-      "importance_score": 0.3983,
+      "score": 0.3925,
+      "importance": 0.3925,
+      "importance_score": 0.3925,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2517,
+        "recency": 0.2224,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1456,14 +1377,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.364,
-      "importance": 0.364,
-      "importance_score": 0.364,
+      "score": 0.3582,
+      "importance": 0.3582,
+      "importance_score": 0.3582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0801,
+        "recency": 0.0508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,14 +1455,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4214,
-      "importance": 0.4214,
-      "importance_score": 0.4214,
+      "score": 0.4156,
+      "importance": 0.4156,
+      "importance_score": 0.4156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3672,
+        "recency": 0.3379,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1612,14 +1533,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.36,
-      "importance": 0.36,
-      "importance_score": 0.36,
+      "score": 0.3542,
+      "importance": 0.3542,
+      "importance_score": 0.3542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0602,
+        "recency": 0.0309,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1634,6 +1555,84 @@
         "url": "https://github.com/baturyilmaz/agent-office",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_62928a839319",
+      "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://news.ycombinator.com/item?id=49392331",
+      "primary_url": "https://news.ycombinator.com/item?id=49392331",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
+          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://news.ycombinator.com/item?id=49392331",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T20:02:00.899000Z"
+        },
+        {
+          "id": "61926377da4327cce7a49afbead3d8815ccef66d",
+          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T18:48:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
+          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://news.ycombinator.com/item?id=49392331",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T20:02:00.899000Z"
+        },
+        {
+          "id": "61926377da4327cce7a49afbead3d8815ccef66d",
+          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T18:48:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4114,
+      "importance": 0.4114,
+      "importance_score": 0.4114,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3171,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T18:48:28Z",
+      "latest_at": "2026-08-21T20:02:00.899000Z",
+      "primary_item": {
+        "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
+        "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "url": "https://news.ycombinator.com/item?id=49392331",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
