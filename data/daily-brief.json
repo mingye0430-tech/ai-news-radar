@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:14:30.542444Z",
+  "generated_at": "2026-08-23T23:43:04.160297Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6243,
+        "recency": 0.6045,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -156,14 +156,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6394,
-      "importance": 0.6394,
-      "importance_score": 0.6394,
+      "score": 0.6355,
+      "importance": 0.6355,
+      "importance_score": 0.6355,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8822,
+        "recency": 0.8624,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -234,14 +234,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.595,
-      "importance": 0.595,
-      "importance_score": 0.595,
+      "score": 0.591,
+      "importance": 0.591,
+      "importance_score": 0.591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.7399,
+        "recency": 0.7201,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -331,14 +331,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5542,
-      "importance": 0.5542,
-      "importance_score": 0.5542,
+      "score": 0.5503,
+      "importance": 0.5503,
+      "importance_score": 0.5503,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9061,
+        "recency": 0.8863,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -353,6 +353,83 @@
         "url": "https://news.ycombinator.com/item?id=49411178",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_262aada998cf",
+      "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+      "url": "https://www.v2ex.com/t/1236652",
+      "primary_url": "https://www.v2ex.com/t/1236652",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c6a242a6cee69bc6dac58923d53368aca5355308",
+          "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+          "url": "https://www.v2ex.com/t/1236652",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:14:24Z"
+        },
+        {
+          "id": "70a6c836680204d76a8b493627f15b4d11bb3859",
+          "title": "[分享创造] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+          "url": "https://www.v2ex.com/t/1236652",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:14:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "c6a242a6cee69bc6dac58923d53368aca5355308",
+          "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+          "url": "https://www.v2ex.com/t/1236652",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:14:24Z"
+        },
+        {
+          "id": "70a6c836680204d76a8b493627f15b4d11bb3859",
+          "title": "[分享创造] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+          "url": "https://www.v2ex.com/t/1236652",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:14:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9801,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:14:24Z",
+      "latest_at": "2026-08-23T23:14:24Z",
+      "primary_item": {
+        "id": "c6a242a6cee69bc6dac58923d53368aca5355308",
+        "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+        "url": "https://www.v2ex.com/t/1236652",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -409,14 +486,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.9266,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -431,6 +508,84 @@
         "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0c0154a85503",
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://news.ycombinator.com/item?id=49412909",
+      "primary_url": "https://news.ycombinator.com/item?id=49412909",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "url": "https://news.ycombinator.com/item?id=49412909",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T23:29:40.385000Z"
+        },
+        {
+          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "url": "https://github.com/AlpinDale/gpt2.cmake",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T21:41:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "url": "https://news.ycombinator.com/item?id=49412909",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T23:29:40.385000Z"
+        },
+        {
+          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
+          "title": "Implementation of GPT-2 in pure CMake",
+          "url": "https://github.com/AlpinDale/gpt2.cmake",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T21:41:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5461,
+      "importance": 0.5461,
+      "importance_score": 0.5461,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9907,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T21:41:17Z",
+      "latest_at": "2026-08-23T23:29:40.385000Z",
+      "primary_item": {
+        "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
+        "title": "Implementation of GPT-2 in pure CMake",
+        "url": "https://news.ycombinator.com/item?id=49412909",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -487,14 +642,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8353,
+        "recency": 0.8155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -509,84 +664,6 @@
         "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
         "source": "surfingcomplexity.blog",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b832fd5e0972",
-      "title": "Training AI to Paint with Code",
-      "url": "https://news.ycombinator.com/item?id=49411800",
-      "primary_url": "https://news.ycombinator.com/item?id=49411800",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
-          "title": "Training AI to Paint with Code",
-          "url": "https://news.ycombinator.com/item?id=49411800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "4357a536e3efc54511c68f99b8fe6b06e30ac9dd",
-          "title": "Training AI to Paint with Code",
-          "url": "https://surya.website/rling-qwen-to-paint-with-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T19:39:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
-          "title": "Training AI to Paint with Code",
-          "url": "https://news.ycombinator.com/item?id=49411800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T22:29:30.661000Z"
-        },
-        {
-          "id": "4357a536e3efc54511c68f99b8fe6b06e30ac9dd",
-          "title": "Training AI to Paint with Code",
-          "url": "https://surya.website/rling-qwen-to-paint-with-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T19:39:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9688,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T19:39:29Z",
-      "latest_at": "2026-08-23T22:29:30.661000Z",
-      "primary_item": {
-        "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
-        "title": "Training AI to Paint with Code",
-        "url": "https://news.ycombinator.com/item?id=49411800",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -643,14 +720,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5017,
-      "importance": 0.5017,
-      "importance_score": 0.5017,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7685,
+        "recency": 0.7487,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,14 +798,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4855,
-      "importance": 0.4855,
-      "importance_score": 0.4855,
+      "score": 0.4816,
+      "importance": 0.4816,
+      "importance_score": 0.4816,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6877,
+        "recency": 0.6679,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -799,14 +876,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8353,
+        "recency": 0.8155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -821,6 +898,239 @@
         "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b832fd5e0972",
+      "title": "Training AI to Paint with Code",
+      "url": "https://news.ycombinator.com/item?id=49411800",
+      "primary_url": "https://news.ycombinator.com/item?id=49411800",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
+          "title": "Training AI to Paint with Code",
+          "url": "https://news.ycombinator.com/item?id=49411800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T22:29:30.661000Z"
+        },
+        {
+          "id": "4357a536e3efc54511c68f99b8fe6b06e30ac9dd",
+          "title": "Training AI to Paint with Code",
+          "url": "https://surya.website/rling-qwen-to-paint-with-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:39:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
+          "title": "Training AI to Paint with Code",
+          "url": "https://news.ycombinator.com/item?id=49411800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T22:29:30.661000Z"
+        },
+        {
+          "id": "4357a536e3efc54511c68f99b8fe6b06e30ac9dd",
+          "title": "Training AI to Paint with Code",
+          "url": "https://surya.website/rling-qwen-to-paint-with-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:39:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9489,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T19:39:29Z",
+      "latest_at": "2026-08-23T22:29:30.661000Z",
+      "primary_item": {
+        "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
+        "title": "Training AI to Paint with Code",
+        "url": "https://news.ycombinator.com/item?id=49411800",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_8351ddcedbab",
+      "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+      "primary_url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
+          "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T11:49:13.726000Z"
+        },
+        {
+          "id": "0838aaa50b80c51bcae2f702ae27bb0364e8d993",
+          "title": "阿里巴巴计划在香港配售100亿美元股票，以筹集资金用于人工智能领域的支出",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T06:45:30.468000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
+          "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T11:49:13.726000Z"
+        },
+        {
+          "id": "0838aaa50b80c51bcae2f702ae27bb0364e8d993",
+          "title": "阿里巴巴计划在香港配售100亿美元股票，以筹集资金用于人工智能领域的支出",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T06:45:30.468000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4489,
+      "importance": 0.4489,
+      "importance_score": 0.4489,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5043,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T06:45:30.468000Z",
+      "latest_at": "2026-08-23T11:49:13.726000Z",
+      "primary_item": {
+        "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
+        "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
+        "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_930dd1342c71",
+      "title": "NousResearch /      hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "primary_url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:47.764000Z"
+        },
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:47.764000Z"
+        },
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4444,
+      "importance": 0.4444,
+      "importance_score": 0.4444,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4818,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:15:10.289126Z",
+      "latest_at": "2026-08-23T11:16:47.764000Z",
+      "primary_item": {
+        "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+        "title": "NousResearch /      hermes-agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -915,14 +1225,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6969,
+        "recency": 0.6771,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -936,161 +1246,6 @@
         "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
         "url": "https://news.ycombinator.com/item?id=49409073",
         "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8351ddcedbab",
-      "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
-      "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-      "primary_url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
-          "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T11:49:13.726000Z"
-        },
-        {
-          "id": "0838aaa50b80c51bcae2f702ae27bb0364e8d993",
-          "title": "阿里巴巴计划在香港配售100亿美元股票，以筹集资金用于人工智能领域的支出",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T06:45:30.468000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
-          "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T11:49:13.726000Z"
-        },
-        {
-          "id": "0838aaa50b80c51bcae2f702ae27bb0364e8d993",
-          "title": "阿里巴巴计划在香港配售100亿美元股票，以筹集资金用于人工智能领域的支出",
-          "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T06:45:30.468000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4528,
-      "importance": 0.4528,
-      "importance_score": 0.4528,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5241,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T06:45:30.468000Z",
-      "latest_at": "2026-08-23T11:49:13.726000Z",
-      "primary_item": {
-        "id": "dc73bdc80f056742cc675ed0ab6774b54d8aeda9",
-        "title": "阿里巴巴推出100亿美元香港配售计划，以筹集人工智能领域投资资金",
-        "url": "https://www.reuters.com/business/retail-consumer/alibaba-proposes-hong-kong-share-placement-worth-10-billion-2026-08-23",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_930dd1342c71",
-      "title": "NousResearch /      hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "primary_url": "https://github.com/NousResearch/hermes-agent",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
-          "title": "NousResearch /      hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T11:16:47.764000Z"
-        },
-        {
-          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
-          "title": "NousResearch / hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
-          "title": "NousResearch /      hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T11:16:47.764000Z"
-        },
-        {
-          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
-          "title": "NousResearch / hermes-agent",
-          "url": "https://github.com/NousResearch/hermes-agent",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4483,
-      "importance": 0.4483,
-      "importance_score": 0.4483,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5016,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T11:15:10.289126Z",
-      "latest_at": "2026-08-23T11:16:47.764000Z",
-      "primary_item": {
-        "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
-        "title": "NousResearch /      hermes-agent",
-        "url": "https://github.com/NousResearch/hermes-agent",
-        "source": "github",
         "source_name": "NewsNow"
       }
     },
@@ -1148,14 +1303,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4733,
-      "importance": 0.4733,
-      "importance_score": 0.4733,
+      "score": 0.4693,
+      "importance": 0.4693,
+      "importance_score": 0.4693,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6266,
+        "recency": 0.6067,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1170,84 +1325,6 @@
         "url": "https://www.ithome.com/0/993/301.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9bca989a7de9",
-      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-      "url": "https://news.ycombinator.com/item?id=49410480",
-      "primary_url": "https://news.ycombinator.com/item?id=49410480",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "url": "https://news.ycombinator.com/item?id=49410480",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T20:59:21.789000Z"
-        },
-        {
-          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:07:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "url": "https://news.ycombinator.com/item?id=49410480",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T20:59:21.789000Z"
-        },
-        {
-          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
-          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:07:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9061,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T17:07:04Z",
-      "latest_at": "2026-08-23T20:59:21.789000Z",
-      "primary_item": {
-        "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
-        "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-        "url": "https://news.ycombinator.com/item?id=49410480",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1303,14 +1380,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4195,
-      "importance": 0.4195,
-      "importance_score": 0.4195,
+      "score": 0.4156,
+      "importance": 0.4156,
+      "importance_score": 0.4156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3577,
+        "recency": 0.3379,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1381,14 +1458,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4483,
-      "importance": 0.4483,
-      "importance_score": 0.4483,
+      "score": 0.4444,
+      "importance": 0.4444,
+      "importance_score": 0.4444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5016,
+        "recency": 0.4818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1406,30 +1483,30 @@
       }
     },
     {
-      "story_id": "story_832f333b63ac",
-      "title": "I turned Unix talk from 1983 into the interface for my AI",
-      "url": "https://news.ycombinator.com/item?id=49410936",
-      "primary_url": "https://news.ycombinator.com/item?id=49410936",
+      "story_id": "story_9bca989a7de9",
+      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+      "url": "https://news.ycombinator.com/item?id=49410480",
+      "primary_url": "https://news.ycombinator.com/item?id=49410480",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "689f77ac07c92976524e3cb29f117a67688c6c3f",
-          "title": "I turned Unix talk from 1983 into the interface for my AI",
-          "url": "https://news.ycombinator.com/item?id=49410936",
+          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "url": "https://news.ycombinator.com/item?id=49410480",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T20:59:21.789000Z"
         },
         {
-          "id": "bbb3c17977b2a04b5743421ab82cc2f32db537d2",
-          "title": "I turned Unix talk from 1983 into the interface for my AI",
-          "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai",
+          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T18:00:20Z"
+          "published_at": "2026-08-23T17:07:04Z"
         }
       ],
       "source_count": 2,
@@ -1439,46 +1516,46 @@
       ],
       "items": [
         {
-          "id": "689f77ac07c92976524e3cb29f117a67688c6c3f",
-          "title": "I turned Unix talk from 1983 into the interface for my AI",
-          "url": "https://news.ycombinator.com/item?id=49410936",
+          "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "url": "https://news.ycombinator.com/item?id=49410480",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-23T20:59:21.789000Z"
         },
         {
-          "id": "bbb3c17977b2a04b5743421ab82cc2f32db537d2",
-          "title": "I turned Unix talk from 1983 into the interface for my AI",
-          "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai",
+          "id": "a849006f66840a38cb3b57493f9f3d5f587ef4cd",
+          "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+          "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T18:00:20Z"
+          "published_at": "2026-08-23T17:07:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9061,
+        "recency": 0.8863,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T18:00:20Z",
+      "earliest_at": "2026-08-23T17:07:04Z",
       "latest_at": "2026-08-23T20:59:21.789000Z",
       "primary_item": {
-        "id": "689f77ac07c92976524e3cb29f117a67688c6c3f",
-        "title": "I turned Unix talk from 1983 into the interface for my AI",
-        "url": "https://news.ycombinator.com/item?id=49410936",
+        "id": "9cc132493b619f8bb95454c4fea6fa02f6d675cd",
+        "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+        "url": "https://news.ycombinator.com/item?id=49410480",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1537,14 +1614,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4595,
-      "importance": 0.4595,
-      "importance_score": 0.4595,
+      "score": 0.4555,
+      "importance": 0.4555,
+      "importance_score": 0.4555,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5576,
+        "recency": 0.5377,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1559,84 +1636,6 @@
         "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cb08435a825e",
-      "title": "freestylefly /      awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "primary_url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
-          "title": "freestylefly /      awesome-gpt-image-2",
-          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T11:16:47.764000Z"
-        },
-        {
-          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
-          "title": "freestylefly / awesome-gpt-image-2",
-          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
-          "title": "freestylefly /      awesome-gpt-image-2",
-          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T11:16:47.764000Z"
-        },
-        {
-          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
-          "title": "freestylefly / awesome-gpt-image-2",
-          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4483,
-      "importance": 0.4483,
-      "importance_score": 0.4483,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5016,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T11:15:10.289126Z",
-      "latest_at": "2026-08-23T11:16:47.764000Z",
-      "primary_item": {
-        "id": "3b2fa912249c187adb07c7989a414ac187beec37",
-        "title": "freestylefly /      awesome-gpt-image-2",
-        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-        "source": "github",
-        "source_name": "NewsNow"
       }
     }
   ]
