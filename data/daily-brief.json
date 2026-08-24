@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T03:30:03.887418Z",
+  "generated_at": "2026-08-24T04:23:03.447307Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8648,
-      "importance": 0.8648,
-      "importance_score": 0.8648,
+      "score": 0.8575,
+      "importance": 0.8575,
+      "importance_score": 0.8575,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8541,
+        "recency": 0.8173,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,86 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9c317f9a6836",
+      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+      "url": "https://www.aibase.com/news/30560",
+      "primary_url": "https://www.aibase.com/news/30560",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:03.887418Z"
+        },
+        {
+          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
+          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/zh/news/30560",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:03.887418Z"
+        },
+        {
+          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
+          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/zh/news/30560",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9632,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:30:03.887418Z",
+      "latest_at": "2026-08-24T04:23:03.447307Z",
+      "primary_item": {
+        "id": "8d89245121d571a0818783bedc56d65364697144",
+        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "url": "https://www.aibase.com/news/30560",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -118,14 +198,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9632,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -198,14 +278,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9632,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -225,7 +305,7 @@
       }
     },
     {
-      "story_id": "story_987d19cfbde3",
+      "story_id": "story_279d0430cc6b",
       "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
       "url": "https://www.aibase.com/news/30552",
       "primary_url": "https://www.aibase.com/news/30552",
@@ -278,14 +358,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,86 +380,6 @@
         "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
         "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
         "url": "https://www.aibase.com/news/30552",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c82154b3fc84",
-      "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-      "url": "https://www.aibase.com/news/30548",
-      "primary_url": "https://www.aibase.com/news/30548",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
-          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-          "url": "https://www.aibase.com/news/30548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:19:52.604615Z"
-        },
-        {
-          "id": "b51c2955be9a76be6b69c879607f339933defe67",
-          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-          "url": "https://www.aibase.com/zh/news/30548",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
-          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-          "url": "https://www.aibase.com/news/30548",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:19:52.604615Z"
-        },
-        {
-          "id": "b51c2955be9a76be6b69c879607f339933defe67",
-          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-          "url": "https://www.aibase.com/zh/news/30548",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9513,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:19:52.604615Z",
-      "latest_at": "2026-08-24T02:19:52.604615Z",
-      "primary_item": {
-        "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
-        "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
-        "url": "https://www.aibase.com/news/30548",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -438,17 +438,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
+      "score": 0.719,
+      "importance": 0.719,
+      "importance_score": 0.719,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4468,
+        "recency": 0.41,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -461,6 +461,86 @@
         "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c82154b3fc84",
+      "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+      "url": "https://www.aibase.com/news/30548",
+      "primary_url": "https://www.aibase.com/news/30548",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:19:52.604615Z"
+        },
+        {
+          "id": "b51c2955be9a76be6b69c879607f339933defe67",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/zh/news/30548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:19:52.604615Z"
+        },
+        {
+          "id": "b51c2955be9a76be6b69c879607f339933defe67",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "url": "https://www.aibase.com/zh/news/30548",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9145,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:19:52.604615Z",
+      "latest_at": "2026-08-24T02:19:52.604615Z",
+      "primary_item": {
+        "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+        "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+        "url": "https://www.aibase.com/news/30548",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -517,14 +597,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -597,14 +677,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -677,14 +757,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -699,86 +779,6 @@
         "id": "953b1e03df563d378ad735a75980e42305674c69",
         "title": "端侧AI大洗牌：vivo蓝心登顶手机大模型榜首，3B小参数跑分逼近云端巨头",
         "url": "https://www.aibase.com/news/30551",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0bf4a7eadc3e",
-      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-      "url": "https://www.aibase.com/news/30546",
-      "primary_url": "https://www.aibase.com/news/30546",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/news/30546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:19:52.604615Z"
-        },
-        {
-          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/zh/news/30546",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/news/30546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:19:52.604615Z"
-        },
-        {
-          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/zh/news/30546",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9513,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:19:52.604615Z",
-      "latest_at": "2026-08-24T02:19:52.604615Z",
-      "primary_item": {
-        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-        "url": "https://www.aibase.com/news/30546",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -856,14 +856,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6039,
-      "importance": 0.6039,
-      "importance_score": 0.6039,
+      "score": 0.5966,
+      "importance": 0.5966,
+      "importance_score": 0.5966,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7047,
+        "recency": 0.6679,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -881,26 +881,26 @@
       }
     },
     {
-      "story_id": "story_3370a42495b2",
-      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-      "url": "https://www.aibase.com/news/30540",
-      "primary_url": "https://www.aibase.com/news/30540",
+      "story_id": "story_0bf4a7eadc3e",
+      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+      "url": "https://www.aibase.com/news/30546",
+      "primary_url": "https://www.aibase.com/news/30546",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-          "url": "https://www.aibase.com/news/30540",
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T00:54:26.381737Z"
+          "published_at": "2026-08-24T02:19:52.604615Z"
         },
         {
-          "id": "0bc698a2f277b97ac648380600510034a9a88088",
-          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
-          "url": "https://www.aibase.com/zh/news/30540",
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -914,18 +914,18 @@
       ],
       "items": [
         {
-          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-          "url": "https://www.aibase.com/news/30540",
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T00:54:26.381737Z"
+          "published_at": "2026-08-24T02:19:52.604615Z"
         },
         {
-          "id": "0bc698a2f277b97ac648380600510034a9a88088",
-          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
-          "url": "https://www.aibase.com/zh/news/30540",
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -934,14 +934,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8919,
+        "recency": 0.9145,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -950,12 +950,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T00:54:26.381737Z",
+      "earliest_at": "2026-08-24T02:19:52.604615Z",
       "latest_at": "2026-08-24T02:19:52.604615Z",
       "primary_item": {
-        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
-        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
-        "url": "https://www.aibase.com/news/30540",
+        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+        "url": "https://www.aibase.com/news/30546",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1014,14 +1014,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.5625,
+        "recency": 0.5257,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1039,61 +1039,159 @@
       }
     },
     {
-      "story_id": "story_9c317f9a6836",
-      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-      "url": "https://www.aibase.com/news/30560",
-      "primary_url": "https://www.aibase.com/news/30560",
+      "story_id": "story_5d36aa2deb2b",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://news.ycombinator.com/item?id=49413561",
+      "primary_url": "https://news.ycombinator.com/item?id=49413561",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://news.ycombinator.com/item?id=49413561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T03:55:33.737000Z"
+        },
+        {
+          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://news.ycombinator.com/item?id=49413561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T03:55:33.737000Z"
+        },
+        {
+          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9809,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:18:17Z",
+      "latest_at": "2026-08-24T03:55:33.737000Z",
+      "primary_item": {
+        "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+        "title": "I built a low-latency AI companion that plays Skyrim with me",
+        "url": "https://news.ycombinator.com/item?id=49413561",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_3370a42495b2",
+      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+      "url": "https://www.aibase.com/news/30540",
+      "primary_url": "https://www.aibase.com/news/30540",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8d89245121d571a0818783bedc56d65364697144",
-          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/news/30560",
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "url": "https://www.aibase.com/news/30540",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T03:30:03.887418Z"
+          "published_at": "2026-08-24T00:54:26.381737Z"
+        },
+        {
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "url": "https://www.aibase.com/zh/news/30540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "8d89245121d571a0818783bedc56d65364697144",
-          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/news/30560",
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "url": "https://www.aibase.com/news/30540",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T03:30:03.887418Z"
+          "published_at": "2026-08-24T00:54:26.381737Z"
+        },
+        {
+          "id": "0bc698a2f277b97ac648380600510034a9a88088",
+          "title": "专为青少年打造却遭专家「泼冷水」：OpenAI 青少年版 ChatGPT 安全机制引争议",
+          "url": "https://www.aibase.com/zh/news/30540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8551,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T03:30:03.887418Z",
-      "latest_at": "2026-08-24T03:30:03.887418Z",
+      "earliest_at": "2026-08-24T00:54:26.381737Z",
+      "latest_at": "2026-08-24T02:19:52.604615Z",
       "primary_item": {
-        "id": "8d89245121d571a0818783bedc56d65364697144",
-        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-        "url": "https://www.aibase.com/news/30560",
+        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "url": "https://www.aibase.com/news/30540",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1151,14 +1249,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5218,
-      "importance": 0.5218,
-      "importance_score": 0.5218,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8689,
+        "recency": 0.8321,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1172,6 +1270,221 @@
         "title": "亚洲股市走低，市场聚焦人工智能，油价下跌：市场综述",
         "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
         "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_262aada998cf",
+      "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+      "url": "https://www.v2ex.com/t/1236652",
+      "primary_url": "https://www.v2ex.com/t/1236652",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c6a242a6cee69bc6dac58923d53368aca5355308",
+          "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+          "url": "https://www.v2ex.com/t/1236652",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:14:24Z"
+        },
+        {
+          "id": "70a6c836680204d76a8b493627f15b4d11bb3859",
+          "title": "[分享创造] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+          "url": "https://www.v2ex.com/t/1236652",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:14:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "c6a242a6cee69bc6dac58923d53368aca5355308",
+          "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+          "url": "https://www.v2ex.com/t/1236652",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:14:24Z"
+        },
+        {
+          "id": "70a6c836680204d76a8b493627f15b4d11bb3859",
+          "title": "[分享创造] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+          "url": "https://www.v2ex.com/t/1236652",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:14:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7857,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:14:24Z",
+      "latest_at": "2026-08-23T23:14:24Z",
+      "primary_item": {
+        "id": "c6a242a6cee69bc6dac58923d53368aca5355308",
+        "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
+        "url": "https://www.v2ex.com/t/1236652",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_40984cda808f",
+      "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+      "url": "https://www.aibase.com/news/30562",
+      "primary_url": "https://www.aibase.com/news/30562",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
+          "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "url": "https://www.aibase.com/news/30562",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:03.887418Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
+          "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+          "url": "https://www.aibase.com/news/30562",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:30:03.887418Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9632,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:30:03.887418Z",
+      "latest_at": "2026-08-24T03:30:03.887418Z",
+      "primary_item": {
+        "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
+        "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
+        "url": "https://www.aibase.com/news/30562",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bf8914f7a7d4",
+      "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+      "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+      "primary_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T21:57:23.465000Z"
+        },
+        {
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T21:38:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T21:57:23.465000Z"
+        },
+        {
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T21:38:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4944,
+      "importance": 0.4944,
+      "importance_score": 0.4944,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7322,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T21:38:35Z",
+      "latest_at": "2026-08-23T21:57:23.465000Z",
+      "primary_item": {
+        "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+        "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+        "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1248,14 +1561,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7287,
+        "recency": 0.6919,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1268,299 +1581,6 @@
         "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
         "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
         "url": "https://news.ycombinator.com/item?id=49411178",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_262aada998cf",
-      "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
-      "url": "https://www.v2ex.com/t/1236652",
-      "primary_url": "https://www.v2ex.com/t/1236652",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "c6a242a6cee69bc6dac58923d53368aca5355308",
-          "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
-          "url": "https://www.v2ex.com/t/1236652",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T23:14:24Z"
-        },
-        {
-          "id": "70a6c836680204d76a8b493627f15b4d11bb3859",
-          "title": "[分享创造] eros3.ai AI 角色扮演 Telegram Bot [送码]",
-          "url": "https://www.v2ex.com/t/1236652",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T23:14:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "c6a242a6cee69bc6dac58923d53368aca5355308",
-          "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
-          "url": "https://www.v2ex.com/t/1236652",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T23:14:24Z"
-        },
-        {
-          "id": "70a6c836680204d76a8b493627f15b4d11bb3859",
-          "title": "[分享创造] eros3.ai AI 角色扮演 Telegram Bot [送码]",
-          "url": "https://www.v2ex.com/t/1236652",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T23:14:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5125,
-      "importance": 0.5125,
-      "importance_score": 0.5125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8225,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T23:14:24Z",
-      "latest_at": "2026-08-23T23:14:24Z",
-      "primary_item": {
-        "id": "c6a242a6cee69bc6dac58923d53368aca5355308",
-        "title": "[Telegram] eros3.ai AI 角色扮演 Telegram Bot [送码]",
-        "url": "https://www.v2ex.com/t/1236652",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_40984cda808f",
-      "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
-      "url": "https://www.aibase.com/news/30562",
-      "primary_url": "https://www.aibase.com/news/30562",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
-          "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
-          "url": "https://www.aibase.com/news/30562",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:30:03.887418Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
-          "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
-          "url": "https://www.aibase.com/news/30562",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:30:03.887418Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T03:30:03.887418Z",
-      "latest_at": "2026-08-24T03:30:03.887418Z",
-      "primary_item": {
-        "id": "18bdc5882c25f330b8f9468c41f9c7a12b09b275",
-        "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
-        "url": "https://www.aibase.com/news/30562",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bf8914f7a7d4",
-      "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-      "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-      "primary_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T21:57:23.465000Z"
-        },
-        {
-          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:38:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T21:57:23.465000Z"
-        },
-        {
-          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:38:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5018,
-      "importance": 0.5018,
-      "importance_score": 0.5018,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.769,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T21:38:35Z",
-      "latest_at": "2026-08-23T21:57:23.465000Z",
-      "primary_item": {
-        "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
-        "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-        "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0c0154a85503",
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://news.ycombinator.com/item?id=49412909",
-      "primary_url": "https://news.ycombinator.com/item?id=49412909",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://news.ycombinator.com/item?id=49412909",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T23:29:40.385000Z"
-        },
-        {
-          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://github.com/AlpinDale/gpt2.cmake",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:41:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://news.ycombinator.com/item?id=49412909",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T23:29:40.385000Z"
-        },
-        {
-          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://github.com/AlpinDale/gpt2.cmake",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:41:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8331,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T21:41:17Z",
-      "latest_at": "2026-08-23T23:29:40.385000Z",
-      "primary_item": {
-        "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-        "title": "Implementation of GPT-2 in pure CMake",
-        "url": "https://news.ycombinator.com/item?id=49412909",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
