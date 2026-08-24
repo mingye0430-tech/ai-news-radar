@@ -1,8 +1,229 @@
 {
-  "generated_at": "2026-08-24T07:35:37.349282Z",
+  "generated_at": "2026-08-24T08:39:50.661318Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_31755bd12d08",
+      "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+      "url": "https://www.aibase.com/news/30576",
+      "primary_url": "https://www.aibase.com/news/30576",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
+          "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "url": "https://www.aibase.com/news/30576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T08:39:50.661318Z"
+        },
+        {
+          "id": "2e964e477a3c50aef90356c1bfe742673f33d07b",
+          "title": "字节整合 AI 办公产品，TRAE、扣子团队并入豆包",
+          "url": "https://www.aibase.com/zh/news/30576",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
+          "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+          "url": "https://www.aibase.com/news/30576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T08:39:50.661318Z"
+        },
+        {
+          "id": "2e964e477a3c50aef90356c1bfe742673f33d07b",
+          "title": "字节整合 AI 办公产品，TRAE、扣子团队并入豆包",
+          "url": "https://www.aibase.com/zh/news/30576",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T08:39:50.661318Z",
+      "latest_at": "2026-08-24T08:39:50.661318Z",
+      "primary_item": {
+        "id": "bbf2b2813aedb138047f867ceabd2fb101456b8d",
+        "title": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
+        "url": "https://www.aibase.com/news/30576",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.149.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.639,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T00:00:00Z",
+      "latest_at": "2026-08-24T00:00:00Z",
+      "primary_item": {
+        "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+        "title": "Codex CLI 0.149.1",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0e43ccb56746",
+      "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+      "url": "https://www.aibase.com/news/30575",
+      "primary_url": "https://www.aibase.com/news/30575",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d396324050e904c672a54d5a0829c02ab1491963",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "url": "https://www.aibase.com/news/30575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T08:39:50.661318Z"
+        },
+        {
+          "id": "95566d430eb5bba9f6579cd7eb959eb6bf83889f",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "url": "https://www.aibase.com/zh/news/30575",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d396324050e904c672a54d5a0829c02ab1491963",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "url": "https://www.aibase.com/news/30575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T08:39:50.661318Z"
+        },
+        {
+          "id": "95566d430eb5bba9f6579cd7eb959eb6bf83889f",
+          "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+          "url": "https://www.aibase.com/zh/news/30575",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T08:39:50.661318Z",
+      "latest_at": "2026-08-24T08:39:50.661318Z",
+      "primary_item": {
+        "id": "d396324050e904c672a54d5a0829c02ab1491963",
+        "title": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
+        "url": "https://www.aibase.com/news/30575",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
     {
       "story_id": "story_30f0830ff94e",
       "title": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
@@ -57,14 +278,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9554,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,67 +302,6 @@
         "url": "https://www.aibase.com/news/30563",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.149.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
-          "title": "Codex CLI 0.149.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-24T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
-          "title": "Codex CLI 0.149.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-24T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.6836,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T00:00:00Z",
-      "latest_at": "2026-08-24T00:00:00Z",
-      "primary_item": {
-        "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
-        "title": "Codex CLI 0.149.1",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -198,14 +358,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9554,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -278,14 +438,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9554,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,66 +460,6 @@
         "id": "f256813569aa7710851e92d40d6da25a75e90d07",
         "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
         "url": "https://www.aibase.com/news/30568",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_aa10cf24d468",
-      "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-      "url": "https://www.aibase.com/news/30569",
-      "primary_url": "https://www.aibase.com/news/30569",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "url": "https://www.aibase.com/news/30569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-          "url": "https://www.aibase.com/news/30569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:35:37.349282Z",
-      "latest_at": "2026-08-24T07:35:37.349282Z",
-      "primary_item": {
-        "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
-        "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
-        "url": "https://www.aibase.com/news/30569",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -418,14 +518,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6923,
-      "importance": 0.6923,
-      "importance_score": 0.6923,
+      "score": 0.6833,
+      "importance": 0.6833,
+      "importance_score": 0.6833,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2763,
+        "recency": 0.2317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -441,6 +541,186 @@
         "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_57b89cc94e66",
+      "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+      "url": "https://www.aibase.com/news/30577",
+      "primary_url": "https://www.aibase.com/news/30577",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6184d032c29d61ea490aadf2660e63d7b9d86edf",
+          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "url": "https://www.aibase.com/news/30577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T08:39:50.661318Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6184d032c29d61ea490aadf2660e63d7b9d86edf",
+          "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+          "url": "https://www.aibase.com/news/30577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T08:39:50.661318Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T08:39:50.661318Z",
+      "latest_at": "2026-08-24T08:39:50.661318Z",
+      "primary_item": {
+        "id": "6184d032c29d61ea490aadf2660e63d7b9d86edf",
+        "title": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
+        "url": "https://www.aibase.com/news/30577",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a1a8a03397ef",
+      "title": "小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙",
+      "url": "https://www.aibase.com/news/30574",
+      "primary_url": "https://www.aibase.com/news/30574",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aeefb023cc3e834ab461c6683a24091621bb44ac",
+          "title": "小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙",
+          "url": "https://www.aibase.com/news/30574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T08:39:50.661318Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "aeefb023cc3e834ab461c6683a24091621bb44ac",
+          "title": "小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙",
+          "url": "https://www.aibase.com/news/30574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T08:39:50.661318Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T08:39:50.661318Z",
+      "latest_at": "2026-08-24T08:39:50.661318Z",
+      "primary_item": {
+        "id": "aeefb023cc3e834ab461c6683a24091621bb44ac",
+        "title": "小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙",
+        "url": "https://www.aibase.com/news/30574",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_aa10cf24d468",
+      "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+      "url": "https://www.aibase.com/news/30569",
+      "primary_url": "https://www.aibase.com/news/30569",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
+          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "url": "https://www.aibase.com/news/30569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T07:35:37.349282Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
+          "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+          "url": "https://www.aibase.com/news/30569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T07:35:37.349282Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9554,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T07:35:37.349282Z",
+      "latest_at": "2026-08-24T07:35:37.349282Z",
+      "primary_item": {
+        "id": "4b9037d97c4a5c655dd2d781b5475329ef903e8e",
+        "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
+        "url": "https://www.aibase.com/news/30569",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -478,14 +758,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -499,246 +779,6 @@
         "id": "5061d231ca641ae2c2f2327f8c097ab30065ae23",
         "title": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
         "url": "https://www.aibase.com/news/30571",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6e01560a1655",
-      "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-      "url": "https://www.aibase.com/news/30572",
-      "primary_url": "https://www.aibase.com/news/30572",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "url": "https://www.aibase.com/news/30572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-          "url": "https://www.aibase.com/news/30572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:35:37.349282Z",
-      "latest_at": "2026-08-24T07:35:37.349282Z",
-      "primary_item": {
-        "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
-        "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
-        "url": "https://www.aibase.com/news/30572",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1c661abc936b",
-      "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-      "url": "https://www.aibase.com/news/30564",
-      "primary_url": "https://www.aibase.com/news/30564",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f374a1a3015c52287b30f4956b4f05a20fe33af3",
-          "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-          "url": "https://www.aibase.com/news/30564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f374a1a3015c52287b30f4956b4f05a20fe33af3",
-          "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-          "url": "https://www.aibase.com/news/30564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:35:37.349282Z",
-      "latest_at": "2026-08-24T07:35:37.349282Z",
-      "primary_item": {
-        "id": "f374a1a3015c52287b30f4956b4f05a20fe33af3",
-        "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
-        "url": "https://www.aibase.com/news/30564",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0e3335defeb2",
-      "title": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性",
-      "url": "https://www.aibase.com/news/30567",
-      "primary_url": "https://www.aibase.com/news/30567",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f1c534ea91e355a2bf3d0d3f8bee6c0622884a55",
-          "title": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性",
-          "url": "https://www.aibase.com/news/30567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f1c534ea91e355a2bf3d0d3f8bee6c0622884a55",
-          "title": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性",
-          "url": "https://www.aibase.com/news/30567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:35:37.349282Z",
-      "latest_at": "2026-08-24T07:35:37.349282Z",
-      "primary_item": {
-        "id": "f1c534ea91e355a2bf3d0d3f8bee6c0622884a55",
-        "title": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性",
-        "url": "https://www.aibase.com/news/30567",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f24513b29e79",
-      "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
-      "url": "https://www.aibase.com/news/30573",
-      "primary_url": "https://www.aibase.com/news/30573",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
-          "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
-          "url": "https://www.aibase.com/news/30573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
-          "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
-          "url": "https://www.aibase.com/news/30573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:35:37.349282Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:35:37.349282Z",
-      "latest_at": "2026-08-24T07:35:37.349282Z",
-      "primary_item": {
-        "id": "14b0cfc3773b7c6da693e25ffc32d7184e6a0b4a",
-        "title": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
-        "url": "https://www.aibase.com/news/30573",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -816,14 +856,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5609,
+      "importance": 0.5609,
+      "importance_score": 0.5609,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.5342,
+        "recency": 0.4896,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -841,95 +881,95 @@
       }
     },
     {
-      "story_id": "story_b0c0eb916d82",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://news.ycombinator.com/item?id=49415852",
-      "primary_url": "https://news.ycombinator.com/item?id=49415852",
+      "story_id": "story_86d587d69f77",
+      "title": "Anthropic Claude and API service outages",
+      "url": "https://news.ycombinator.com/item?id=49415907",
+      "primary_url": "https://news.ycombinator.com/item?id=49415907",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a808b34637cb68a682bfcf9466a272449d302111",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://news.ycombinator.com/item?id=49415852",
+          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+          "title": "Anthropic Claude and API service outages",
+          "url": "https://news.ycombinator.com/item?id=49415907",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-24T07:13:48.516000Z"
+          "published_at": "2026-08-24T08:15:21.742000Z"
         },
         {
-          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:25:31Z"
+          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
+          "title": "Anthropic Claude and API service outages",
+          "url": "https://status.claude.com/uptime",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:32:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "a808b34637cb68a682bfcf9466a272449d302111",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://news.ycombinator.com/item?id=49415852",
+          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+          "title": "Anthropic Claude and API service outages",
+          "url": "https://news.ycombinator.com/item?id=49415907",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-24T07:13:48.516000Z"
+          "published_at": "2026-08-24T08:15:21.742000Z"
         },
         {
-          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
-          "title": "OCR It – pull text out of un-copyable documents for your LLM",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:25:31Z"
+          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
+          "title": "Anthropic Claude and API service outages",
+          "url": "https://status.claude.com/uptime",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:32:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9849,
+        "recency": 0.983,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-24T06:25:31Z",
-      "latest_at": "2026-08-24T07:13:48.516000Z",
+      "earliest_at": "2026-08-24T06:32:28Z",
+      "latest_at": "2026-08-24T08:15:21.742000Z",
       "primary_item": {
-        "id": "a808b34637cb68a682bfcf9466a272449d302111",
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://news.ycombinator.com/item?id=49415852",
+        "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+        "title": "Anthropic Claude and API service outages",
+        "url": "https://news.ycombinator.com/item?id=49415907",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_73c797bfc7be",
-      "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-      "url": "https://www.aibase.com/news/30570",
-      "primary_url": "https://www.aibase.com/news/30570",
+      "story_id": "story_6e01560a1655",
+      "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+      "url": "https://www.aibase.com/news/30572",
+      "primary_url": "https://www.aibase.com/news/30572",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f7e9ab654ead3a6eed341207217074173776f267",
-          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "url": "https://www.aibase.com/news/30570",
+          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
+          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "url": "https://www.aibase.com/news/30572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -942,9 +982,9 @@
       ],
       "items": [
         {
-          "id": "f7e9ab654ead3a6eed341207217074173776f267",
-          "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-          "url": "https://www.aibase.com/news/30570",
+          "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
+          "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+          "url": "https://www.aibase.com/news/30572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -953,14 +993,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,9 +1011,9 @@
       "earliest_at": "2026-08-24T07:35:37.349282Z",
       "latest_at": "2026-08-24T07:35:37.349282Z",
       "primary_item": {
-        "id": "f7e9ab654ead3a6eed341207217074173776f267",
-        "title": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
-        "url": "https://www.aibase.com/news/30570",
+        "id": "9ad7791022b22eaef9a14ec0a4fc54b98ba1119a",
+        "title": "小米发布玄戒O3/O100/D100三款自研AI芯片，搭建人车家全生态算力底座",
+        "url": "https://www.aibase.com/news/30572",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1031,14 +1071,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9466,
+        "recency": 0.902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1109,14 +1149,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5254,
-      "importance": 0.5254,
-      "importance_score": 0.5254,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.3919,
+        "recency": 0.3473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1134,17 +1174,95 @@
       }
     },
     {
-      "story_id": "story_cad957faeca3",
-      "title": "顶尖研究员Luke Metz离职OpenAI，正式加盟Meta超级智能实验室",
-      "url": "https://www.aibase.com/news/30566",
-      "primary_url": "https://www.aibase.com/news/30566",
+      "story_id": "story_c187bfb233fc",
+      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+      "url": "https://news.ycombinator.com/item?id=49415695",
+      "primary_url": "https://news.ycombinator.com/item?id=49415695",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "32e97ac378487011fb43cbb9902c916722ea6320",
+          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "url": "https://news.ycombinator.com/item?id=49415695",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T08:15:21.742000Z"
+        },
+        {
+          "id": "5ba104d3c892378ecf5a310b3c736c7614283ea7",
+          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T06:00:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "32e97ac378487011fb43cbb9902c916722ea6320",
+          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "url": "https://news.ycombinator.com/item?id=49415695",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T08:15:21.742000Z"
+        },
+        {
+          "id": "5ba104d3c892378ecf5a310b3c736c7614283ea7",
+          "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+          "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-24T06:00:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.983,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T06:00:50Z",
+      "latest_at": "2026-08-24T08:15:21.742000Z",
+      "primary_item": {
+        "id": "32e97ac378487011fb43cbb9902c916722ea6320",
+        "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+        "url": "https://news.ycombinator.com/item?id=49415695",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1c661abc936b",
+      "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
+      "url": "https://www.aibase.com/news/30564",
+      "primary_url": "https://www.aibase.com/news/30564",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fea365082a10a1d4b1db53fee0347220661e8da0",
-          "title": "顶尖研究员Luke Metz离职OpenAI，正式加盟Meta超级智能实验室",
-          "url": "https://www.aibase.com/news/30566",
+          "id": "f374a1a3015c52287b30f4956b4f05a20fe33af3",
+          "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
+          "url": "https://www.aibase.com/news/30564",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1157,9 +1275,9 @@
       ],
       "items": [
         {
-          "id": "fea365082a10a1d4b1db53fee0347220661e8da0",
-          "title": "顶尖研究员Luke Metz离职OpenAI，正式加盟Meta超级智能实验室",
-          "url": "https://www.aibase.com/news/30566",
+          "id": "f374a1a3015c52287b30f4956b4f05a20fe33af3",
+          "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
+          "url": "https://www.aibase.com/news/30564",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1168,14 +1286,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1186,9 +1304,9 @@
       "earliest_at": "2026-08-24T07:35:37.349282Z",
       "latest_at": "2026-08-24T07:35:37.349282Z",
       "primary_item": {
-        "id": "fea365082a10a1d4b1db53fee0347220661e8da0",
-        "title": "顶尖研究员Luke Metz离职OpenAI，正式加盟Meta超级智能实验室",
-        "url": "https://www.aibase.com/news/30566",
+        "id": "f374a1a3015c52287b30f4956b4f05a20fe33af3",
+        "title": "达摩院肝癌 AI 模型 DAMO LiON：揪出 1 厘米\"隐形\"肿瘤，两月补漏 15 例",
+        "url": "https://www.aibase.com/news/30564",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1246,14 +1364,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4877,
-      "importance": 0.4877,
-      "importance_score": 0.4877,
+      "score": 0.4788,
+      "importance": 0.4788,
+      "importance_score": 0.4788,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6984,
+        "recency": 0.6538,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1271,161 +1389,81 @@
       }
     },
     {
-      "story_id": "story_5d36aa2deb2b",
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://news.ycombinator.com/item?id=49413561",
-      "primary_url": "https://news.ycombinator.com/item?id=49413561",
+      "story_id": "story_b0c0eb916d82",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://news.ycombinator.com/item?id=49415852",
+      "primary_url": "https://news.ycombinator.com/item?id=49415852",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
-          "title": "I built a low-latency AI companion that plays Skyrim with me",
-          "url": "https://news.ycombinator.com/item?id=49413561",
+          "id": "a808b34637cb68a682bfcf9466a272449d302111",
+          "title": "OCR It – pull text out of un-copyable documents for your LLM",
+          "url": "https://news.ycombinator.com/item?id=49415852",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-24T03:55:33.737000Z"
+          "published_at": "2026-08-24T07:13:48.516000Z"
         },
         {
-          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
-          "title": "I built a low-latency AI companion that plays Skyrim with me",
-          "url": "https://pantel.is/projects/ai-gaming-companion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T23:18:17Z"
+          "id": "d8543c19cae2e2adde650adc06e9c1bdcb434607",
+          "title": "OCR It – pull text out of un-copyable documents for your LLM",
+          "url": "https://github.com/thiagotigaz/ocr-it",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:25:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
-          "title": "I built a low-latency AI companion that plays Skyrim with me",
-          "url": "https://news.ycombinator.com/item?id=49413561",
+          "id": "a808b34637cb68a682bfcf9466a272449d302111",
+          "title": "OCR It – pull text out of un-copyable documents for your LLM",
+          "url": "https://news.ycombinator.com/item?id=49415852",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-24T03:55:33.737000Z"
+          "published_at": "2026-08-24T07:13:48.516000Z"
         },
         {
-          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
-          "title": "I built a low-latency AI companion that plays Skyrim with me",
-          "url": "https://pantel.is/projects/ai-gaming-companion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T23:18:17Z"
+          "id": "d8543c19cae2e2adde650adc06e9c1bdcb434607",
+          "title": "OCR It – pull text out of un-copyable documents for your LLM",
+          "url": "https://github.com/thiagotigaz/ocr-it",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:25:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8472,
+        "recency": 0.9403,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T23:18:17Z",
-      "latest_at": "2026-08-24T03:55:33.737000Z",
+      "earliest_at": "2026-08-24T06:25:31Z",
+      "latest_at": "2026-08-24T07:13:48.516000Z",
       "primary_item": {
-        "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
-        "title": "I built a low-latency AI companion that plays Skyrim with me",
-        "url": "https://news.ycombinator.com/item?id=49413561",
+        "id": "a808b34637cb68a682bfcf9466a272449d302111",
+        "title": "OCR It – pull text out of un-copyable documents for your LLM",
+        "url": "https://news.ycombinator.com/item?id=49415852",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_9c317f9a6836",
-      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-      "url": "https://www.aibase.com/news/30560",
-      "primary_url": "https://www.aibase.com/news/30560",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8d89245121d571a0818783bedc56d65364697144",
-          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/news/30560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:30:03.887418Z"
-        },
-        {
-          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
-          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/zh/news/30560",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8d89245121d571a0818783bedc56d65364697144",
-          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/news/30560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T03:30:03.887418Z"
-        },
-        {
-          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
-          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
-          "url": "https://www.aibase.com/zh/news/30560",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8295,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T03:30:03.887418Z",
-      "latest_at": "2026-08-24T04:23:03.447307Z",
-      "primary_item": {
-        "id": "8d89245121d571a0818783bedc56d65364697144",
-        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
-        "url": "https://www.aibase.com/news/30560",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
