@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T21:52:38.870722Z",
+  "generated_at": "2026-08-29T23:49:33.185348Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6924,
-      "importance": 0.6924,
-      "importance_score": 0.6924,
+      "score": 0.6761,
+      "importance": 0.6761,
+      "importance_score": 0.6761,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2769,
+        "recency": 0.1957,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -80,6 +80,84 @@
         "url": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_29619d6b2c05",
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+      "primary_url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f6d71c42c5e1e98c34141da2974bdc2f5fcc5222",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:36:53.423000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f6d71c42c5e1e98c34141da2974bdc2f5fcc5222",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:36:53.423000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T21:36:53.423000Z",
+      "latest_at": "2026-08-29T23:49:33.185348Z",
+      "primary_item": {
+        "id": "f6d71c42c5e1e98c34141da2974bdc2f5fcc5222",
+        "title": "LLMs are making me lose my savviness",
+        "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -155,14 +233,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9358,
+        "recency": 0.8547,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -233,14 +311,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5318,
+      "importance": 0.5318,
+      "importance_score": 0.5318,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9188,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -255,84 +333,6 @@
         "url": "https://github.com/ComposioHQ/awesome-claude-skills",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_697adcd01e97",
-      "title": "LLMs are making me lose my savviness",
-      "url": "https://news.ycombinator.com/item?id=49492184",
-      "primary_url": "https://news.ycombinator.com/item?id=49492184",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
-          "title": "LLMs are making me lose my savviness",
-          "url": "https://news.ycombinator.com/item?id=49492184",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T21:36:53.423000Z"
-        },
-        {
-          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
-          "title": "LLMs are making me lose my savviness",
-          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T18:38:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
-          "title": "LLMs are making me lose my savviness",
-          "url": "https://news.ycombinator.com/item?id=49492184",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T21:36:53.423000Z"
-        },
-        {
-          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
-          "title": "LLMs are making me lose my savviness",
-          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T18:38:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9891,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T18:38:52Z",
-      "latest_at": "2026-08-29T21:36:53.423000Z",
-      "primary_item": {
-        "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
-        "title": "LLMs are making me lose my savviness",
-        "url": "https://news.ycombinator.com/item?id=49492184",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -389,14 +389,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5189,
+      "importance": 0.5189,
+      "importance_score": 0.5189,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9358,
+        "recency": 0.8547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -411,6 +411,84 @@
         "url": "https://github.com/todotge/canonical-basis",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0783c1760033",
+      "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+      "url": "https://www.ithome.com/0/996/057.htm",
+      "primary_url": "https://www.ithome.com/0/996/057.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
+          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+          "url": "https://www.ithome.com/0/996/057.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
+          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+          "url": "https://www.ithome.com/0/996/057.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T23:11:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
+          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+          "url": "https://www.ithome.com/0/996/057.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
+          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
+          "url": "https://www.ithome.com/0/996/057.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T23:11:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T23:11:16Z",
+      "latest_at": "2026-08-29T23:49:33.185348Z",
+      "primary_item": {
+        "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
+        "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
+        "url": "https://www.ithome.com/0/996/057.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -467,14 +545,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9136,
+        "recency": 0.8324,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -492,79 +570,157 @@
       }
     },
     {
-      "story_id": "story_dbef34f02ce8",
-      "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-      "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_6a55c76d0a2a",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://news.ycombinator.com/item?id=49491113",
+      "primary_url": "https://news.ycombinator.com/item?id=49491113",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
         },
         {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
+          "published_at": "2026-08-29T16:16:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
         },
         {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
+          "published_at": "2026-08-29T16:16:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
+      "score": 0.5087,
+      "importance": 0.5087,
+      "importance_score": 0.5087,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.757,
+        "recency": 0.8035,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T13:17:26Z",
-      "latest_at": "2026-08-29T16:02:44.355824Z",
+      "earliest_at": "2026-08-29T16:16:32Z",
+      "latest_at": "2026-08-29T19:06:35.204000Z",
       "primary_item": {
-        "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-        "url": "https://www.huxiu.com/article/4887054.html?f=rss",
+        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://news.ycombinator.com/item?id=49491113",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_eb0bc1242835",
+      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+      "url": "https://www.ithome.com/0/996/053.htm",
+      "primary_url": "https://www.ithome.com/0/996/053.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T22:44:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
+          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
+          "url": "https://www.ithome.com/0/996/053.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T22:44:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T22:44:37Z",
+      "latest_at": "2026-08-29T23:49:33.185348Z",
+      "primary_item": {
+        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
+        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
+        "url": "https://www.ithome.com/0/996/053.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -623,14 +779,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4974,
-      "importance": 0.4974,
-      "importance_score": 0.4974,
+      "score": 0.4812,
+      "importance": 0.4812,
+      "importance_score": 0.4812,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.747,
+        "recency": 0.6658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -648,81 +804,81 @@
       }
     },
     {
-      "story_id": "story_6a55c76d0a2a",
-      "title": "The growing divide between AI hype and software engineering reality",
-      "url": "https://news.ycombinator.com/item?id=49491113",
-      "primary_url": "https://news.ycombinator.com/item?id=49491113",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_419cb405c97f",
+      "title": "荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法",
+      "url": "https://www.ithome.com/0/996/058.htm",
+      "primary_url": "https://www.ithome.com/0/996/058.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
+          "id": "0e092d1aee69bf1cfa393006cb7703333e591ec0",
+          "title": "荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法",
+          "url": "https://www.ithome.com/0/996/058.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News (黑客新闻)",
+          "id": "4fece964f35ab99320eb5601f416c064a82cde73",
+          "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
+          "url": "https://www.ithome.com/0/996/058.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T16:16:32Z"
+          "published_at": "2026-08-29T23:18:24Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
+          "id": "0e092d1aee69bf1cfa393006cb7703333e591ec0",
+          "title": "荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法",
+          "url": "https://www.ithome.com/0/996/058.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News (黑客新闻)",
+          "id": "4fece964f35ab99320eb5601f416c064a82cde73",
+          "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
+          "url": "https://www.ithome.com/0/996/058.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-29T16:16:32Z"
+          "published_at": "2026-08-29T23:18:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8847,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T16:16:32Z",
-      "latest_at": "2026-08-29T19:06:35.204000Z",
+      "earliest_at": "2026-08-29T23:18:24Z",
+      "latest_at": "2026-08-29T23:49:33.185348Z",
       "primary_item": {
-        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-        "title": "The growing divide between AI hype and software engineering reality",
-        "url": "https://news.ycombinator.com/item?id=49491113",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "0e092d1aee69bf1cfa393006cb7703333e591ec0",
+        "title": "荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法",
+        "url": "https://www.ithome.com/0/996/058.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -779,14 +935,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4774,
-      "importance": 0.4774,
-      "importance_score": 0.4774,
+      "score": 0.4612,
+      "importance": 0.4612,
+      "importance_score": 0.4612,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6472,
+        "recency": 0.5661,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -800,103 +956,6 @@
         "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
         "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6f0715608976",
-      "title": "我不小心把LLM内存变成了程序分析",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-      "primary_url": "https://pwning.systems/posts/llm-memory-program-analysis",
-      "source": "pwning.systems",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-          "title": "我不小心把LLM内存变成了程序分析",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "pwning.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:44:16.846000Z"
-        },
-        {
-          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
-          "title": "我不小心把LLM记忆变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://news.ycombinator.com/item?id=49485416",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T05:10:32.038000Z"
-        },
-        {
-          "id": "fd2b65633b91a63524f6b19eb80227d31ac475bc",
-          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T23:27:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "pwning.systems"
-      ],
-      "items": [
-        {
-          "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-          "title": "我不小心把LLM内存变成了程序分析",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "pwning.systems",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T06:44:16.846000Z"
-        },
-        {
-          "id": "36d6f35c8e5d0357dc5d24415a7121610c8f8d41",
-          "title": "我不小心把LLM记忆变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://news.ycombinator.com/item?id=49485416",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T05:10:32.038000Z"
-        },
-        {
-          "id": "fd2b65633b91a63524f6b19eb80227d31ac475bc",
-          "title": "我不小心把LLM内存变成了程序分析 / I accidentally turned LLM memory into program analysis",
-          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-28T23:27:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4468,
-      "importance": 0.4468,
-      "importance_score": 0.4468,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3692,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-28T23:27:45Z",
-      "latest_at": "2026-08-29T06:44:16.846000Z",
-      "primary_item": {
-        "id": "f53cc7718c916a82ba7d2a5ffe22cee80d301975",
-        "title": "我不小心把LLM内存变成了程序分析",
-        "url": "https://pwning.systems/posts/llm-memory-program-analysis",
-        "source": "pwning.systems",
         "source_name": "Buzzing"
       }
     },
@@ -954,14 +1013,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4463,
-      "importance": 0.4463,
-      "importance_score": 0.4463,
+      "score": 0.4301,
+      "importance": 0.4301,
+      "importance_score": 0.4301,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4915,
+        "recency": 0.4103,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1051,14 +1110,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4757,
-      "importance": 0.4757,
-      "importance_score": 0.4757,
+      "score": 0.4595,
+      "importance": 0.4595,
+      "importance_score": 0.4595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5137,
+        "recency": 0.4325,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1076,86 +1135,8 @@
       }
     },
     {
-      "story_id": "story_d7273736be3d",
-      "title": "全球首例：AI 辅助医生完成脑外科手术",
-      "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887022.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "05cd32105d19483ba89d9f27b5b3f454b7dbf1fc",
-          "title": "全球首例：AI 辅助医生完成脑外科手术",
-          "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "41f76686a6fa59fa4fdd85af3b2567e38361adcd",
-          "title": "全球首例，AI辅助医生完成脑外科手术",
-          "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T09:56:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "05cd32105d19483ba89d9f27b5b3f454b7dbf1fc",
-          "title": "全球首例：AI 辅助医生完成脑外科手术",
-          "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "41f76686a6fa59fa4fdd85af3b2567e38361adcd",
-          "title": "全球首例，AI辅助医生完成脑外科手术",
-          "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T09:56:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4634,
-      "importance": 0.4634,
-      "importance_score": 0.4634,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5771,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T09:56:46Z",
-      "latest_at": "2026-08-29T11:43:43.320714Z",
-      "primary_item": {
-        "id": "05cd32105d19483ba89d9f27b5b3f454b7dbf1fc",
-        "title": "全球首例：AI 辅助医生完成脑外科手术",
-        "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
       "story_id": "story_356cb5adee51",
-      "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+      "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
       "url": "https://www.inventati.org/who/manifesto",
       "primary_url": "https://www.inventati.org/who/manifesto",
       "source": "Hacker News · 24h最热",
@@ -1163,7 +1144,7 @@
       "sources": [
         {
           "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
           "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1172,7 +1153,7 @@
         },
         {
           "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "Manifesto – who we are and what do we want (2002)",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Manifesto – who we are and what do we want (2002)",
           "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1187,7 +1168,7 @@
       "items": [
         {
           "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-          "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
           "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1196,7 +1177,7 @@
         },
         {
           "id": "1b4538a74c8cc494e3074f226f077d120748ebca",
-          "title": "Manifesto – who we are and what do we want (2002)",
+          "title": "《宣言》——我们是谁，我们想要什么（2002） / Manifesto – who we are and what do we want (2002)",
           "url": "https://www.inventati.org/who/manifesto",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1206,14 +1187,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4294,
-      "importance": 0.4294,
-      "importance_score": 0.4294,
+      "score": 0.4131,
+      "importance": 0.4131,
+      "importance_score": 0.4131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4069,
+        "recency": 0.3257,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1224,7 +1205,7 @@
       "latest_at": "2026-08-29T07:38:31Z",
       "primary_item": {
         "id": "bec95a20ddb8a04d00e9af7d3ab95f9f1d5d1c69",
-        "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+        "title": "《宣言》——我们是谁，我们想要什么（2002） / Autistici/inventati: Manifesto – who we are and what do we want (2002)",
         "url": "https://www.inventati.org/who/manifesto",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -1284,14 +1265,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4174,
-      "importance": 0.4174,
-      "importance_score": 0.4174,
+      "score": 0.4012,
+      "importance": 0.4012,
+      "importance_score": 0.4012,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.347,
+        "recency": 0.2658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1362,14 +1343,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4088,
-      "importance": 0.4088,
-      "importance_score": 0.4088,
+      "score": 0.3926,
+      "importance": 0.3926,
+      "importance_score": 0.3926,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3041,
+        "recency": 0.2229,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1383,6 +1364,103 @@
         "title": "ChromeDevTools /      chrome-devtools-mcp",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
         "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_092c8de02e8b",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://news.ycombinator.com/item?id=49486172",
+      "primary_url": "https://news.ycombinator.com/item?id=49486172",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://news.ycombinator.com/item?id=49486172",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T05:10:32.038000Z"
+        },
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        },
+        {
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
+          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T01:47:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://news.ycombinator.com/item?id=49486172",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T05:10:32.038000Z"
+        },
+        {
+          "id": "5960ffda3180fdd84c52d8498531d18672e70c38",
+          "title": "关于Cursor被SpaceX收购后的决定",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T03:16:20.612000Z"
+        },
+        {
+          "id": "b34fdb3d7e7fef53933ea8761c7c4705834c246d",
+          "title": "关于Cursor被SpaceX收购后的决定 / Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-29T01:47:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4176,
+      "importance": 0.4176,
+      "importance_score": 0.4176,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2229,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T01:47:53Z",
+      "latest_at": "2026-08-29T05:10:32.038000Z",
+      "primary_item": {
+        "id": "51fc4d3ab169cb35a9e11f844415dff762bddac0",
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://news.ycombinator.com/item?id=49486172",
+        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -1440,14 +1518,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3986,
-      "importance": 0.3986,
-      "importance_score": 0.3986,
+      "score": 0.3824,
+      "importance": 0.3824,
+      "importance_score": 0.3824,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2532,
+        "recency": 0.1721,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,14 +1596,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3907,
-      "importance": 0.3907,
-      "importance_score": 0.3907,
+      "score": 0.3745,
+      "importance": 0.3745,
+      "importance_score": 0.3745,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2137,
+        "recency": 0.1325,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1539,84 +1617,6 @@
         "title": "Debian 对 LLM 的使用既不支持也不禁止",
         "url": "https://www.debian.org/vote/2026/vote_002",
         "source": "www.debian.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2cce40fa1295",
-      "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
-      "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
-      "primary_url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
-          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
-          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.871000Z"
-        },
-        {
-          "id": "a7625f6dceed6c5cf6f72df3bd96d0c92c5a0b44",
-          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作 / New hires at this AI startup have to earn their AI privileges",
-          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T09:22:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
-          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
-          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T09:40:21.871000Z"
-        },
-        {
-          "id": "a7625f6dceed6c5cf6f72df3bd96d0c92c5a0b44",
-          "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作 / New hires at this AI startup have to earn their AI privileges",
-          "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T09:22:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4463,
-      "importance": 0.4463,
-      "importance_score": 0.4463,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4915,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T09:22:01Z",
-      "latest_at": "2026-08-29T09:40:21.871000Z",
-      "primary_item": {
-        "id": "ea0c2ddcd3f47f5375b12cc76236ca7718d9e9b3",
-        "title": "一位CEO解决AI生成的低质量内容问题的办法：让新员工在不依赖AI的情况下熟悉工作",
-        "url": "https://www.businessinsider.com/valon-ceo-bans-ai-most-new-hires-job-skills-2026-8",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
