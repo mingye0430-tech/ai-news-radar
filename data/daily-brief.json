@@ -1,124 +1,378 @@
 {
-  "generated_at": "2026-08-30T09:22:41.378321Z",
+  "generated_at": "2026-08-30T14:28:18.449032Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 18,
   "items": [
     {
-      "story_id": "story_8e8751db3ed0",
-      "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-      "url": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed",
-      "primary_url": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "story_id": "story_82ed3e26cfbe",
+      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+      "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+      "primary_url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "02ae1d31db0059681f3d80264d25cbb157fd444a",
-          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "url": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "id": "bdafe2744b0baab86c41ec7e8ae880c836262e1b",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-30T00:54:08Z"
+          "published_at": "2026-08-30T08:50:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "02ae1d31db0059681f3d80264d25cbb157fd444a",
-          "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-          "url": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "id": "bdafe2744b0baab86c41ec7e8ae880c836262e1b",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-30T00:54:08Z"
+          "published_at": "2026-08-30T08:50:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6468,
+        "recency": 0.7653,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-30T00:54:08Z",
-      "latest_at": "2026-08-30T00:54:08Z",
+      "earliest_at": "2026-08-30T08:50:20Z",
+      "latest_at": "2026-08-30T08:50:20Z",
       "primary_item": {
-        "id": "02ae1d31db0059681f3d80264d25cbb157fd444a",
-        "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-        "url": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "id": "bdafe2744b0baab86c41ec7e8ae880c836262e1b",
+        "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+        "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_68fae5f9593d",
-      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-      "url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-      "primary_url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_773e61521fea",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://news.ycombinator.com/item?id=49498201",
+      "primary_url": "https://news.ycombinator.com/item?id=49498201",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9a3f00ce1ac0874a610522288b021e3dc2adbd7c",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
+          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://news.ycombinator.com/item?id=49498201",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T14:28:48.555000Z"
+        },
+        {
+          "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T12:50:54Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9a3f00ce1ac0874a610522288b021e3dc2adbd7c",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
+          "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://news.ycombinator.com/item?id=49498201",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T14:28:48.555000Z"
+        },
+        {
+          "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T12:50:54Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7238,
-      "importance": 0.7238,
-      "importance_score": 0.7238,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5592,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-29T22:47:53Z",
-      "latest_at": "2026-08-29T22:47:53Z",
+      "earliest_at": "2026-08-30T12:50:54Z",
+      "latest_at": "2026-08-30T14:28:48.555000Z",
       "primary_item": {
-        "id": "9a3f00ce1ac0874a610522288b021e3dc2adbd7c",
-        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-        "url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
+        "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
+        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+        "url": "https://news.ycombinator.com/item?id=49498201",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b1f15b8a23b7",
+      "title": "pollen-robotics / microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "primary_url": "https://github.com/pollen-robotics/microduck_rl",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T14:06:31.200000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T14:06:31.200000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T14:06:31.200000Z",
+      "latest_at": "2026-08-30T14:28:18.449032Z",
+      "primary_item": {
+        "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+        "title": "pollen-robotics / microduck_rl",
+        "url": "https://github.com/pollen-robotics/microduck_rl",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1190010667fb",
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://news.ycombinator.com/item?id=49497357",
+      "primary_url": "https://news.ycombinator.com/item?id=49497357",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://news.ycombinator.com/item?id=49497357",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T14:28:48.555000Z"
+        },
+        {
+          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T10:20:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://news.ycombinator.com/item?id=49497357",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T14:28:48.555000Z"
+        },
+        {
+          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T10:20:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T10:20:11Z",
+      "latest_at": "2026-08-30T14:28:48.555000Z",
+      "primary_item": {
+        "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+        "url": "https://news.ycombinator.com/item?id=49497357",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7d9153c0bf2c",
+      "title": "punkpeye / awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "primary_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T14:06:31.200000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T14:06:31.200000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T14:06:31.200000Z",
+      "latest_at": "2026-08-30T14:28:18.449032Z",
+      "primary_item": {
+        "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+        "title": "punkpeye / awesome-mcp-servers",
+        "url": "https://github.com/punkpeye/awesome-mcp-servers",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -175,14 +429,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.4747,
+      "importance": 0.4747,
+      "importance_score": 0.4747,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8455,
+        "recency": 0.6333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -253,14 +507,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4684,
-      "importance": 0.4684,
-      "importance_score": 0.4684,
+      "score": 0.426,
+      "importance": 0.426,
+      "importance_score": 0.426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.602,
+        "recency": 0.3898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -350,14 +604,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4643,
-      "importance": 0.4643,
-      "importance_score": 0.4643,
+      "score": 0.4219,
+      "importance": 0.4219,
+      "importance_score": 0.4219,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4566,
+        "recency": 0.2444,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -372,84 +626,6 @@
         "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
         "source": "newsletter.eng-leadership.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6b401487edf8",
-      "title": "ComposioHQ / awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "primary_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
-          "title": "ComposioHQ / awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5c613512de4f6a0e3b09f72b7321837ee8e9a1f2",
-          "title": "ComposioHQ /      awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T21:33:02.110000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
-          "title": "ComposioHQ / awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5c613512de4f6a0e3b09f72b7321837ee8e9a1f2",
-          "title": "ComposioHQ /      awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T21:33:02.110000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4522,
-      "importance": 0.4522,
-      "importance_score": 0.4522,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5208,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T21:33:02.110000Z",
-      "latest_at": "2026-08-29T21:52:38.870722Z",
-      "primary_item": {
-        "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
-        "title": "ComposioHQ / awesome-claude-skills",
-        "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     },
     {
@@ -506,14 +682,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4393,
-      "importance": 0.4393,
-      "importance_score": 0.4393,
+      "score": 0.3969,
+      "importance": 0.3969,
+      "importance_score": 0.3969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4566,
+        "recency": 0.2444,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -584,14 +760,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4684,
-      "importance": 0.4684,
-      "importance_score": 0.4684,
+      "score": 0.426,
+      "importance": 0.426,
+      "importance_score": 0.426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.602,
+        "recency": 0.3898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -662,14 +838,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4349,
-      "importance": 0.4349,
-      "importance_score": 0.4349,
+      "score": 0.3924,
+      "importance": 0.3924,
+      "importance_score": 0.3924,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4344,
+        "recency": 0.2222,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -739,14 +915,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4328,
-      "importance": 0.4328,
-      "importance_score": 0.4328,
+      "score": 0.3904,
+      "importance": 0.3904,
+      "importance_score": 0.3904,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4241,
+        "recency": 0.2119,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -761,84 +937,6 @@
         "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_6a55c76d0a2a",
-      "title": "The growing divide between AI hype and software engineering reality",
-      "url": "https://news.ycombinator.com/item?id=49491113",
-      "primary_url": "https://news.ycombinator.com/item?id=49491113",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
-        },
-        {
-          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T16:16:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
-        },
-        {
-          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T16:16:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4291,
-      "importance": 0.4291,
-      "importance_score": 0.4291,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4055,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T16:16:32Z",
-      "latest_at": "2026-08-29T19:06:35.204000Z",
-      "primary_item": {
-        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-        "title": "The growing divide between AI hype and software engineering reality",
-        "url": "https://news.ycombinator.com/item?id=49491113",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -895,14 +993,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4684,
-      "importance": 0.4684,
-      "importance_score": 0.4684,
+      "score": 0.426,
+      "importance": 0.426,
+      "importance_score": 0.426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.602,
+        "recency": 0.3898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -973,14 +1071,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4016,
-      "importance": 0.4016,
-      "importance_score": 0.4016,
+      "score": 0.3591,
+      "importance": 0.3591,
+      "importance_score": 0.3591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2678,
+        "recency": 0.0555,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -998,100 +1096,81 @@
       }
     },
     {
-      "story_id": "story_9b2727cbce15",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://news.ycombinator.com/item?id=49489982",
-      "primary_url": "https://news.ycombinator.com/item?id=49489982",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_6b401487edf8",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "primary_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "530b878515479cfee39827671c67e698af01cd81",
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://news.ycombinator.com/item?id=49489982",
-          "source": "hackernews",
+          "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
+          "title": "ComposioHQ / awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5c613512de4f6a0e3b09f72b7321837ee8e9a1f2",
+          "title": "ComposioHQ /      awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T15:36:08.035000Z"
-        },
-        {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
-        },
-        {
-          "id": "898e06fd595957bac0a3cf1b17d6c656c142b1a3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T14:02:10Z"
+          "published_at": "2026-08-29T21:33:02.110000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "lwn.net"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "530b878515479cfee39827671c67e698af01cd81",
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://news.ycombinator.com/item?id=49489982",
-          "source": "hackernews",
+          "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
+          "title": "ComposioHQ / awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5c613512de4f6a0e3b09f72b7321837ee8e9a1f2",
+          "title": "ComposioHQ /      awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T15:36:08.035000Z"
-        },
-        {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
-        },
-        {
-          "id": "898e06fd595957bac0a3cf1b17d6c656c142b1a3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T14:02:10Z"
+          "published_at": "2026-08-29T21:33:02.110000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4249,
-      "importance": 0.4249,
-      "importance_score": 0.4249,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4097,
+      "importance": 0.4097,
+      "importance_score": 0.4097,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2593,
-        "story_heat": 0.5
+        "recency": 0.3086,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T14:02:10Z",
-      "latest_at": "2026-08-29T15:36:08.035000Z",
+      "earliest_at": "2026-08-29T21:33:02.110000Z",
+      "latest_at": "2026-08-29T21:52:38.870722Z",
       "primary_item": {
-        "id": "530b878515479cfee39827671c67e698af01cd81",
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
-        "url": "https://news.ycombinator.com/item?id=49489982",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
+        "title": "ComposioHQ / awesome-claude-skills",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1148,14 +1227,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4155,
-      "importance": 0.4155,
-      "importance_score": 0.4155,
+      "score": 0.3731,
+      "importance": 0.3731,
+      "importance_score": 0.3731,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3376,
+        "recency": 0.1254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1226,14 +1305,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4684,
-      "importance": 0.4684,
-      "importance_score": 0.4684,
+      "score": 0.426,
+      "importance": 0.426,
+      "importance_score": 0.426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.602,
+        "recency": 0.3898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1251,237 +1330,81 @@
       }
     },
     {
-      "story_id": "story_29a8261d3470",
-      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_6a55c76d0a2a",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://news.ycombinator.com/item?id=49491113",
+      "primary_url": "https://news.ycombinator.com/item?id=49491113",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
         },
         {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T16:16:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
         },
         {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
+          "id": "bea77a5d801861b7edff23b6feccf6aba8059d25",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T16:16:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3816,
-      "importance": 0.3816,
-      "importance_score": 0.3816,
+      "score": 0.3866,
+      "importance": 0.3866,
+      "importance_score": 0.3866,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1681,
+        "recency": 0.1932,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T13:05:01Z",
-      "latest_at": "2026-08-29T13:24:41.103000Z",
+      "earliest_at": "2026-08-29T16:16:32Z",
+      "latest_at": "2026-08-29T19:06:35.204000Z",
       "primary_item": {
-        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dbef34f02ce8",
-      "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-      "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4036,
-      "importance": 0.4036,
-      "importance_score": 0.4036,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2778,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T13:17:26Z",
-      "latest_at": "2026-08-29T16:02:44.355824Z",
-      "primary_item": {
-        "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-        "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d7273736be3d",
-      "title": "全球首例：AI 辅助医生完成脑外科手术",
-      "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887022.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "05cd32105d19483ba89d9f27b5b3f454b7dbf1fc",
-          "title": "全球首例：AI 辅助医生完成脑外科手术",
-          "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "41f76686a6fa59fa4fdd85af3b2567e38361adcd",
-          "title": "全球首例，AI辅助医生完成脑外科手术",
-          "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T09:56:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "05cd32105d19483ba89d9f27b5b3f454b7dbf1fc",
-          "title": "全球首例：AI 辅助医生完成脑外科手术",
-          "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "41f76686a6fa59fa4fdd85af3b2567e38361adcd",
-          "title": "全球首例，AI辅助医生完成脑外科手术",
-          "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T09:56:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3676,
-      "importance": 0.3676,
-      "importance_score": 0.3676,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0979,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T09:56:46Z",
-      "latest_at": "2026-08-29T11:43:43.320714Z",
-      "primary_item": {
-        "id": "05cd32105d19483ba89d9f27b5b3f454b7dbf1fc",
-        "title": "全球首例：AI 辅助医生完成脑外科手术",
-        "url": "https://www.huxiu.com/article/4887022.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://news.ycombinator.com/item?id=49491113",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
