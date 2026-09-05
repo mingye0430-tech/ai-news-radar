@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T19:12:47.641418Z",
+  "generated_at": "2026-09-05T21:26:25.856436Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.787,
+      "importance": 0.787,
+      "importance_score": 0.787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9677,
+        "recency": 0.8749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.8604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -158,20 +158,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7627,
+        "recency": 0.6699,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-05T13:31:04Z",
       "latest_at": "2026-09-05T13:31:04Z",
@@ -218,14 +217,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6878,
+        "recency": 0.595,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,14 +276,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6855,
+        "recency": 0.5927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -336,14 +335,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6688,
+        "recency": 0.576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,55 +360,150 @@
       }
     },
     {
-      "story_id": "story_97d58f7b5a16",
-      "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
-      "url": "https://www.ithome.com/0/998/837.htm",
-      "primary_url": "https://www.ithome.com/0/998/837.htm",
+      "story_id": "story_774f7412d1a3",
+      "title": "Isar Aerospace launch into orbit [video]",
+      "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "primary_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+          "title": "Isar Aerospace launch into orbit [video]",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T20:25:30Z"
+        },
+        {
+          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
+          "title": "LG TVs aren't the only ones spying on you [video]",
+          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T10:36:14Z"
+        },
+        {
+          "id": "ef2cec06f1b4051909cbdf8ad24c60096cb2aa25",
+          "title": "LG and Samsung TVs are logging everything you say [video]",
+          "url": "https://www.youtube.com/watch?v=w5KnFmKjFTA",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T05:45:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+          "title": "Isar Aerospace launch into orbit [video]",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T20:25:30Z"
+        },
+        {
+          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
+          "title": "LG TVs aren't the only ones spying on you [video]",
+          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T10:36:14Z"
+        },
+        {
+          "id": "ef2cec06f1b4051909cbdf8ad24c60096cb2aa25",
+          "title": "LG and Samsung TVs are logging everything you say [video]",
+          "url": "https://www.youtube.com/watch?v=w5KnFmKjFTA",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T05:45:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5645,
+      "importance": 0.5645,
+      "importance_score": 0.5645,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9577,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T05:45:54Z",
+      "latest_at": "2026-09-05T20:25:30Z",
+      "primary_item": {
+        "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
+        "title": "Isar Aerospace launch into orbit [video]",
+        "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_a20ed4a4c949",
+      "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+      "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+      "primary_url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
-          "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
-          "url": "https://www.ithome.com/0/998/837.htm",
+          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
+          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c5fc434aeb9626f8f1cf785c09f2b0815ed1ad02",
-          "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
-          "url": "https://www.ithome.com/0/998/837.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T15:19:57Z"
+          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
+          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
-          "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
-          "url": "https://www.ithome.com/0/998/837.htm",
+          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
+          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c5fc434aeb9626f8f1cf785c09f2b0815ed1ad02",
-          "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
-          "url": "https://www.ithome.com/0/998/837.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T15:19:57Z"
+          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
+          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:00:00Z"
         }
       ],
       "item_count": 2,
@@ -428,12 +522,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T15:19:57Z",
-      "latest_at": "2026-09-05T19:12:47.641418Z",
+      "earliest_at": "2026-09-05T20:00:00Z",
+      "latest_at": "2026-09-05T21:26:25.856436Z",
       "primary_item": {
-        "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
-        "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
-        "url": "https://www.ithome.com/0/998/837.htm",
+        "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
+        "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+        "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -492,14 +586,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9327,
+        "recency": 0.8399,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -570,14 +664,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5139,
+      "importance": 0.5139,
+      "importance_score": 0.5139,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9225,
+        "recency": 0.8297,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -648,14 +742,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5053,
+      "importance": 0.5053,
+      "importance_score": 0.5053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8792,
+        "recency": 0.7864,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -726,14 +820,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5238,
-      "importance": 0.5238,
-      "importance_score": 0.5238,
+      "score": 0.5053,
+      "importance": 0.5053,
+      "importance_score": 0.5053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8792,
+        "recency": 0.7864,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -748,6 +842,84 @@
         "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
         "source": "www.anthropic.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_97d58f7b5a16",
+      "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
+      "url": "https://www.ithome.com/0/998/837.htm",
+      "primary_url": "https://www.ithome.com/0/998/837.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
+          "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
+          "url": "https://www.ithome.com/0/998/837.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c5fc434aeb9626f8f1cf785c09f2b0815ed1ad02",
+          "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
+          "url": "https://www.ithome.com/0/998/837.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T15:19:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
+          "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
+          "url": "https://www.ithome.com/0/998/837.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c5fc434aeb9626f8f1cf785c09f2b0815ed1ad02",
+          "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
+          "url": "https://www.ithome.com/0/998/837.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-05T15:19:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9072,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T15:19:57Z",
+      "latest_at": "2026-09-05T19:12:47.641418Z",
+      "primary_item": {
+        "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
+        "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
+        "url": "https://www.ithome.com/0/998/837.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -804,14 +976,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8412,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -882,14 +1054,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
+      "score": 0.4948,
+      "importance": 0.4948,
+      "importance_score": 0.4948,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.827,
+        "recency": 0.7342,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -904,6 +1076,83 @@
         "url": "https://news.ycombinator.com/item?id=49575143",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_40e652a61cdb",
+      "title": "生活中的奢华 / The Luxuries in Life",
+      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+      "primary_url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
+          "title": "生活中的奢华 / The Luxuries in Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:46:16Z"
+        },
+        {
+          "id": "f0214d546b88e0c101310fb66f82647aa020f6f6",
+          "title": "生活中的奢华 / The Real Luxuries In Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:46:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
+          "title": "生活中的奢华 / The Luxuries in Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:46:16Z"
+        },
+        {
+          "id": "f0214d546b88e0c101310fb66f82647aa020f6f6",
+          "title": "生活中的奢华 / The Real Luxuries In Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-05T17:46:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8471,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T17:46:16Z",
+      "latest_at": "2026-09-05T17:46:16Z",
+      "primary_item": {
+        "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
+        "title": "生活中的奢华 / The Luxuries in Life",
+        "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -978,14 +1227,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5054,
-      "importance": 0.5054,
-      "importance_score": 0.5054,
+      "score": 0.4868,
+      "importance": 0.4868,
+      "importance_score": 0.4868,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6619,
+        "recency": 0.5691,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1056,14 +1305,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.4976,
+      "importance": 0.4976,
+      "importance_score": 0.4976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8408,
+        "recency": 0.748,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1078,179 +1327,6 @@
         "url": "https://www.ithome.com/0/998/828.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "LG TVs aren't the only ones spying on you [video]",
-      "url": "https://www.youtube.com/watch?v=IvFu343KNek",
-      "primary_url": "https://www.youtube.com/watch?v=IvFu343KNek",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
-          "title": "LG TVs aren't the only ones spying on you [video]",
-          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:36:14Z"
-        },
-        {
-          "id": "ef2cec06f1b4051909cbdf8ad24c60096cb2aa25",
-          "title": "LG and Samsung TVs are logging everything you say [video]",
-          "url": "https://www.youtube.com/watch?v=w5KnFmKjFTA",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T05:45:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
-          "title": "LG TVs aren't the only ones spying on you [video]",
-          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:36:14Z"
-        },
-        {
-          "id": "ef2cec06f1b4051909cbdf8ad24c60096cb2aa25",
-          "title": "LG and Samsung TVs are logging everything you say [video]",
-          "url": "https://www.youtube.com/watch?v=w5KnFmKjFTA",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T05:45:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6413,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T05:45:54Z",
-      "latest_at": "2026-09-05T10:36:14Z",
-      "primary_item": {
-        "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
-        "title": "LG TVs aren't the only ones spying on you [video]",
-        "url": "https://www.youtube.com/watch?v=IvFu343KNek",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_3208b0500294",
-      "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
-      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "primary_url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "source": "gmcgoldr.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "868a4eb235448a81931f8b771337a63322ef36ee",
-          "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "gmcgoldr.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T06:06:08.624000Z"
-        },
-        {
-          "id": "c16f2b85001c4050e96d99339238394415db268d",
-          "title": "别再把大型语言模型（LLM）视为“下一个令牌预测器”了",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "gmcgoldr.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T20:47:16.455000Z"
-        },
-        {
-          "id": "ad99a9ccc837105554c7ced18438c316ddd0050b",
-          "title": "别再把大型语言模型（LLM）视为“下一个令牌预测器”了 / Stop Thinking of LLMs as Next-Token Predictors",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T19:46:18Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "gmcgoldr.github.io"
-      ],
-      "items": [
-        {
-          "id": "868a4eb235448a81931f8b771337a63322ef36ee",
-          "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "gmcgoldr.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T06:06:08.624000Z"
-        },
-        {
-          "id": "c16f2b85001c4050e96d99339238394415db268d",
-          "title": "别再把大型语言模型（LLM）视为“下一个令牌预测器”了",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "gmcgoldr.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T20:47:16.455000Z"
-        },
-        {
-          "id": "ad99a9ccc837105554c7ced18438c316ddd0050b",
-          "title": "别再把大型语言模型（LLM）视为“下一个令牌预测器”了 / Stop Thinking of LLMs as Next-Token Predictors",
-          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T19:46:18Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4637,
-      "importance": 0.4637,
-      "importance_score": 0.4637,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4537,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-04T19:46:18Z",
-      "latest_at": "2026-09-05T06:06:08.624000Z",
-      "primary_item": {
-        "id": "868a4eb235448a81931f8b771337a63322ef36ee",
-        "title": "“下一个令牌预测器”是针对大型语言模型（LLMs）的一种错误的思维模型",
-        "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-        "source": "gmcgoldr.github.io",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1307,14 +1383,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4499,
-      "importance": 0.4499,
-      "importance_score": 0.4499,
+      "score": 0.4313,
+      "importance": 0.4313,
+      "importance_score": 0.4313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5093,
+        "recency": 0.4165,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1385,14 +1461,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4499,
-      "importance": 0.4499,
-      "importance_score": 0.4499,
+      "score": 0.4313,
+      "importance": 0.4313,
+      "importance_score": 0.4313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5093,
+        "recency": 0.4165,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1407,83 +1483,6 @@
         "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
         "source": "lobste.rs",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_414e743c4f90",
-      "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US",
-      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-      "primary_url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "eca950efffab7c75bc03bfdd17ae5df3ca076b80",
-          "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US",
-          "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:14:28Z"
-        },
-        {
-          "id": "3de7d657e32d1ac4601d62964cfa2c77cc536195",
-          "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-          "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:14:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "eca950efffab7c75bc03bfdd17ae5df3ca076b80",
-          "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US",
-          "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:14:28Z"
-        },
-        {
-          "id": "3de7d657e32d1ac4601d62964cfa2c77cc536195",
-          "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-          "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:14:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4732,
-      "importance": 0.4732,
-      "importance_score": 0.4732,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6262,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T10:14:28Z",
-      "latest_at": "2026-09-05T10:14:28Z",
-      "primary_item": {
-        "id": "eca950efffab7c75bc03bfdd17ae5df3ca076b80",
-        "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US",
-        "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
