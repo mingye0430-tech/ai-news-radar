@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:09:59.587633Z",
+  "generated_at": "2026-09-06T14:17:03.343352Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.687,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-06T06:46:16Z",
       "latest_at": "2026-09-06T06:46:16Z",
@@ -64,54 +63,55 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+      "story_id": "story_00143ffe2cbd",
+      "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+      "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+      "primary_url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
-          "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "32b897478229f1071bbe306166f519e50a664973",
-          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T12:30:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
-          "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+          "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "32b897478229f1071bbe306166f519e50a664973",
-          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1609471a0c3c4e42099ed11bd509604107717edf",
+          "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能 / Flock's AI search tool for police officers has been reverse engineered — here's what it shows",
+          "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-06T12:30:00Z"
         }
       ],
       "item_count": 2,
@@ -130,13 +130,91 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T15:23:31.633166Z",
-      "latest_at": "2026-09-06T11:09:59.587633Z",
+      "earliest_at": "2026-09-06T12:30:00Z",
+      "latest_at": "2026-09-06T14:17:03.343352Z",
       "primary_item": {
-        "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
-        "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+        "id": "e58dbb57a567b35015def7aa2c8093185e4b8e87",
+        "title": "Flock 的 AI 警务搜索工具被逆向工程，揭示其功能",
+        "url": "https://www.techradar.com/tech/flocks-ai-search-tool-for-police-officers-has-been-reverse-engineered-heres-what-it-shows",
         "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4aff7db928cd",
+      "title": "开放/技能 / openai / skills",
+      "url": "https://github.com/openai/skills",
+      "primary_url": "https://github.com/openai/skills",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T14:00:08.281000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T14:00:08.281000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T14:00:08.281000Z",
+      "latest_at": "2026-09-06T14:17:03.343352Z",
+      "primary_item": {
+        "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+        "title": "开放/技能 / openai / skills",
+        "url": "https://github.com/openai/skills",
+        "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
     },
@@ -194,14 +272,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -272,14 +350,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -369,14 +447,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7812,
+        "recency": 0.6513,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -447,14 +525,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5201,
-      "importance": 0.5201,
-      "importance_score": 0.5201,
+      "score": 0.4941,
+      "importance": 0.4941,
+      "importance_score": 0.4941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8603,
+        "recency": 0.7304,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -469,6 +547,83 @@
         "url": "https://mathstodon.xyz/@tao/117207856734787448",
         "source": "mathstodon.xyz",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
+          "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "32b897478229f1071bbe306166f519e50a664973",
+          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
+          "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "32b897478229f1071bbe306166f519e50a664973",
+          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8701,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T15:23:31.633166Z",
+      "latest_at": "2026-09-06T11:09:59.587633Z",
+      "primary_item": {
+        "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
+        "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -525,14 +680,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -545,84 +700,6 @@
         "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
         "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
         "url": "https://www.ithome.com/0/999/014.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7d6bff4b18cf",
-      "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
-      "url": "https://www.ithome.com/0/999/001.htm",
-      "primary_url": "https://www.ithome.com/0/999/001.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
-          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
-          "url": "https://www.ithome.com/0/999/001.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ae92636981b8e989516f05356118f8b623d2c809",
-          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
-          "url": "https://www.ithome.com/0/999/001.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T09:30:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
-          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
-          "url": "https://www.ithome.com/0/999/001.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ae92636981b8e989516f05356118f8b623d2c809",
-          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
-          "url": "https://www.ithome.com/0/999/001.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T09:30:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T09:30:01Z",
-      "latest_at": "2026-09-06T11:09:59.587633Z",
-      "primary_item": {
-        "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
-        "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
-        "url": "https://www.ithome.com/0/999/001.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -699,14 +776,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4661,
-      "importance": 0.4661,
-      "importance_score": 0.4661,
+      "score": 0.4401,
+      "importance": 0.4401,
+      "importance_score": 0.4401,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4653,
+        "recency": 0.3354,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -721,6 +798,84 @@
         "url": "https://arxiv.org/abs/2609.03344",
         "source": "arxiv.org",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7d6bff4b18cf",
+      "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+      "url": "https://www.ithome.com/0/999/001.htm",
+      "primary_url": "https://www.ithome.com/0/999/001.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8701,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T09:30:01Z",
+      "latest_at": "2026-09-06T11:09:59.587633Z",
+      "primary_item": {
+        "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+        "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+        "url": "https://www.ithome.com/0/999/001.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -777,14 +932,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4628,
-      "importance": 0.4628,
-      "importance_score": 0.4628,
+      "score": 0.4369,
+      "importance": 0.4369,
+      "importance_score": 0.4369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5742,
+        "recency": 0.4443,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -799,84 +954,6 @@
         "url": "https://news.ycombinator.com/item?id=49581240",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_5d7622c2cc7c",
-      "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
-      "url": "https://www.ithome.com/0/998/921.htm",
-      "primary_url": "https://www.ithome.com/0/998/921.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
-          "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
-          "url": "https://www.ithome.com/0/998/921.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "84c043ad184d74f780f115346df0c4d5add35ad4",
-          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
-          "url": "https://www.ithome.com/0/998/921.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T05:18:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
-          "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
-          "url": "https://www.ithome.com/0/998/921.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "84c043ad184d74f780f115346df0c4d5add35ad4",
-          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
-          "url": "https://www.ithome.com/0/998/921.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T05:18:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T05:18:42Z",
-      "latest_at": "2026-09-06T06:12:13.071369Z",
-      "primary_item": {
-        "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
-        "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
-        "url": "https://www.ithome.com/0/998/921.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -932,14 +1009,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.403,
-      "importance": 0.403,
-      "importance_score": 0.403,
+      "score": 0.3771,
+      "importance": 0.3771,
+      "importance_score": 0.3771,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2752,
+        "recency": 0.1453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1010,14 +1087,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4016,
-      "importance": 0.4016,
-      "importance_score": 0.4016,
+      "score": 0.3756,
+      "importance": 0.3756,
+      "importance_score": 0.3756,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2679,
+        "recency": 0.138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1088,14 +1165,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3996,
-      "importance": 0.3996,
-      "importance_score": 0.3996,
+      "score": 0.3736,
+      "importance": 0.3736,
+      "importance_score": 0.3736,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2578,
+        "recency": 0.1278,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1166,14 +1243,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3909,
-      "importance": 0.3909,
-      "importance_score": 0.3909,
+      "score": 0.3649,
+      "importance": 0.3649,
+      "importance_score": 0.3649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2144,
+        "recency": 0.0845,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1191,81 +1268,81 @@
       }
     },
     {
-      "story_id": "story_44c50944f9bd",
-      "title": "费马最后定理的形式化表述",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "primary_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
+      "story_id": "story_5d7622c2cc7c",
+      "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
+      "url": "https://www.ithome.com/0/998/921.htm",
+      "primary_url": "https://www.ithome.com/0/998/921.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
-          "title": "费马最后定理的形式化表述",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T16:18:46.923000Z"
+          "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
+          "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
+          "url": "https://www.ithome.com/0/998/921.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "ec3e90eede4080deb0304c59f27b85c80b25094a",
-          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Lobsters (技术社区)",
+          "id": "84c043ad184d74f780f115346df0c4d5add35ad4",
+          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
+          "url": "https://www.ithome.com/0/998/921.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-05T12:54:53Z"
+          "published_at": "2026-09-06T05:18:42Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "www.anthropic.com"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
-          "title": "费马最后定理的形式化表述",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T16:18:46.923000Z"
+          "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
+          "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
+          "url": "https://www.ithome.com/0/998/921.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "ec3e90eede4080deb0304c59f27b85c80b25094a",
-          "title": "费马最后定理的形式化表述 / Formalizing Fermat's Last Theorem",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "source": "Lobsters (技术社区)",
+          "id": "84c043ad184d74f780f115346df0c4d5add35ad4",
+          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
+          "url": "https://www.ithome.com/0/998/921.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-05T12:54:53Z"
+          "published_at": "2026-09-06T05:18:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3909,
-      "importance": 0.3909,
-      "importance_score": 0.3909,
+      "score": 0.4807,
+      "importance": 0.4807,
+      "importance_score": 0.4807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2144,
+        "recency": 0.6633,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T12:54:53Z",
-      "latest_at": "2026-09-05T16:18:46.923000Z",
+      "earliest_at": "2026-09-06T05:18:42Z",
+      "latest_at": "2026-09-06T06:12:13.071369Z",
       "primary_item": {
-        "id": "5d7a48957e4e10cf0dda866b09736eb8fe3412c0",
-        "title": "费马最后定理的形式化表述",
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
+        "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
+        "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
+        "url": "https://www.ithome.com/0/998/921.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1322,14 +1399,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4461,
-      "importance": 0.4461,
-      "importance_score": 0.4461,
+      "score": 0.4201,
+      "importance": 0.4201,
+      "importance_score": 0.4201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4906,
+        "recency": 0.3607,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1400,14 +1477,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3833,
-      "importance": 0.3833,
-      "importance_score": 0.3833,
+      "score": 0.3573,
+      "importance": 0.3573,
+      "importance_score": 0.3573,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1764,
+        "recency": 0.0465,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1478,14 +1555,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4336,
-      "importance": 0.4336,
-      "importance_score": 0.4336,
+      "score": 0.4076,
+      "importance": 0.4076,
+      "importance_score": 0.4076,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4281,
+        "recency": 0.2982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1498,84 +1575,6 @@
         "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
         "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
         "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_97d58f7b5a16",
-      "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
-      "url": "https://www.ithome.com/0/998/837.htm",
-      "primary_url": "https://www.ithome.com/0/998/837.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
-          "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
-          "url": "https://www.ithome.com/0/998/837.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c5fc434aeb9626f8f1cf785c09f2b0815ed1ad02",
-          "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
-          "url": "https://www.ithome.com/0/998/837.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T15:19:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
-          "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
-          "url": "https://www.ithome.com/0/998/837.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c5fc434aeb9626f8f1cf785c09f2b0815ed1ad02",
-          "title": "合成器大厂罗兰 Roland 进军 AI 生成音乐领域，主打“旋律创作”",
-          "url": "https://www.ithome.com/0/998/837.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T15:19:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4151,
-      "importance": 0.4151,
-      "importance_score": 0.4151,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3353,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T15:19:57Z",
-      "latest_at": "2026-09-05T19:12:47.641418Z",
-      "primary_item": {
-        "id": "0166f8745aca5872ee3beea86a0bba134f8bae7f",
-        "title": "合成器大厂罗兰进军 AI 生成音乐领域，主打旋律创作",
-        "url": "https://www.ithome.com/0/998/837.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
