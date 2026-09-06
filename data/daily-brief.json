@@ -1,65 +1,299 @@
 {
-  "generated_at": "2026-09-06T06:12:13.071369Z",
+  "generated_at": "2026-09-06T11:09:59.587633Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_1a374c35055a",
-      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-      "url": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
-      "primary_url": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
-      "source": "X：Testing Catalog (@testingcatalog)",
+      "story_id": "story_1353b269eaa3",
+      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+      "url": "https://aihot.virxact.com/items/cmtphtttc01pkroxxh8pinzq2",
+      "primary_url": "https://aihot.virxact.com/items/cmtphtttc01pkroxxh8pinzq2",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3635ccac2ada030b8636725a4c34ebaf048b569a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
-          "source": "X：Testing Catalog (@testingcatalog)",
+          "id": "a249d378f1f83585235742ab5ee4637b71bc1b44",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "url": "https://aihot.virxact.com/items/cmtphtttc01pkroxxh8pinzq2",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
+          "published_at": "2026-09-06T06:46:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "3635ccac2ada030b8636725a4c34ebaf048b569a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
-          "source": "X：Testing Catalog (@testingcatalog)",
+          "id": "a249d378f1f83585235742ab5ee4637b71bc1b44",
+          "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+          "url": "https://aihot.virxact.com/items/cmtphtttc01pkroxxh8pinzq2",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
+          "published_at": "2026-09-06T06:46:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6386,
+        "recency": 0.8169,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-05T21:31:52Z",
-      "latest_at": "2026-09-05T21:31:52Z",
+      "earliest_at": "2026-09-06T06:46:16Z",
+      "latest_at": "2026-09-06T06:46:16Z",
       "primary_item": {
-        "id": "3635ccac2ada030b8636725a4c34ebaf048b569a",
-        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-        "url": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
-        "source": "X：Testing Catalog (@testingcatalog)",
+        "id": "a249d378f1f83585235742ab5ee4637b71bc1b44",
+        "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
+        "url": "https://aihot.virxact.com/items/cmtphtttc01pkroxxh8pinzq2",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
+          "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "32b897478229f1071bbe306166f519e50a664973",
+          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
+          "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "32b897478229f1071bbe306166f519e50a664973",
+          "title": "VLA 开环盲区，终于被堵上了：40M Corrector 让机器人边做边纠错",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651054866&idx=2&sn=a5b19e8dedc1f6d07a839850f02caf33",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T15:23:31.633166Z",
+      "latest_at": "2026-09-06T11:09:59.587633Z",
+      "primary_item": {
+        "id": "a4a94b2df13ba65ce4175b164f9ff944e2315e75",
+        "title": "David Baker 启动 AI BioDesign 项目：按功能设计蛋白质等生物分子",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649804227&idx=2&sn=5a2ff13912120c7d17dbe8f563eac84a",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_40e9283ab126",
+      "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+      "url": "https://www.oschina.net/news/502302",
+      "primary_url": "https://www.oschina.net/news/502302",
+      "source": "开源中国 · 热门资讯",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7d21a1f09097b20ecd9a79b2f62226be1b2527e9",
+          "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+          "url": "https://www.oschina.net/news/502302",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "78fbc2d35f8ef42b4eae155c6ba544f197d61148",
+          "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+          "url": "https://juejin.cn/post/7681142626944450614",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T10:55:30.726000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "juejin",
+        "开源中国 · 热门资讯"
+      ],
+      "items": [
+        {
+          "id": "7d21a1f09097b20ecd9a79b2f62226be1b2527e9",
+          "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+          "url": "https://www.oschina.net/news/502302",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "78fbc2d35f8ef42b4eae155c6ba544f197d61148",
+          "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+          "url": "https://juejin.cn/post/7681142626944450614",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T10:55:30.726000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T10:55:30.726000Z",
+      "latest_at": "2026-09-06T11:09:59.587633Z",
+      "primary_item": {
+        "id": "7d21a1f09097b20ecd9a79b2f62226be1b2527e9",
+        "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+        "url": "https://www.oschina.net/news/502302",
+        "source": "开源中国 · 热门资讯",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7f7d5d336686",
+      "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
+      "url": "https://www.36kr.com/p/3971524976849160",
+      "primary_url": "https://www.36kr.com/p/3971524976849160",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c4655d7390f26b270524f3fd04fe910e1a014f04",
+          "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
+          "url": "https://www.36kr.com/p/3971524976849160",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2df164d14d601e8783f4aeda646a24056d7a8053",
+          "title": "索尼、华纳围剿Anthropic，AI 时代的版权大战怎么打？",
+          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T06:07:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "c4655d7390f26b270524f3fd04fe910e1a014f04",
+          "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
+          "url": "https://www.36kr.com/p/3971524976849160",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2df164d14d601e8783f4aeda646a24056d7a8053",
+          "title": "索尼、华纳围剿Anthropic，AI 时代的版权大战怎么打？",
+          "url": "https://www.huxiu.com/article/4888906.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T06:07:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T06:07:15Z",
+      "latest_at": "2026-09-06T11:09:59.587633Z",
+      "primary_item": {
+        "id": "c4655d7390f26b270524f3fd04fe910e1a014f04",
+        "title": "索尼、华纳围剿Anthropic，AI时代的版权大战怎么打？",
+        "url": "https://www.36kr.com/p/3971524976849160",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -135,14 +369,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5706,
-      "importance": 0.5706,
-      "importance_score": 0.5706,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.988,
+        "recency": 0.7812,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -160,30 +394,108 @@
       }
     },
     {
-      "story_id": "story_5d7622c2cc7c",
-      "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
-      "url": "https://www.ithome.com/0/998/921.htm",
-      "primary_url": "https://www.ithome.com/0/998/921.htm",
+      "story_id": "story_826679545639",
+      "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+      "url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "primary_url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "source": "mathstodon.xyz",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T07:48:53.501000Z"
+        },
+        {
+          "id": "05d96717a15c645dcd388f6c95f9d86c0a480984",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题 / Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T07:45:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "mathstodon.xyz"
+      ],
+      "items": [
+        {
+          "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "mathstodon.xyz",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T07:48:53.501000Z"
+        },
+        {
+          "id": "05d96717a15c645dcd388f6c95f9d86c0a480984",
+          "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题 / Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+          "url": "https://mathstodon.xyz/@tao/117207856734787448",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T07:45:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8603,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T07:45:24Z",
+      "latest_at": "2026-09-06T07:48:53.501000Z",
+      "primary_item": {
+        "id": "856183ebde749a684f67f599ef0d4ce69a0b934a",
+        "title": "陶哲轩谈仅凭纯人工智能方法过早解决[一个数学]问题",
+        "url": "https://mathstodon.xyz/@tao/117207856734787448",
+        "source": "mathstodon.xyz",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d23e2982639a",
+      "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+      "url": "https://www.ithome.com/0/999/014.htm",
+      "primary_url": "https://www.ithome.com/0/999/014.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
-          "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
-          "url": "https://www.ithome.com/0/998/921.htm",
+          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "84c043ad184d74f780f115346df0c4d5add35ad4",
-          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
-          "url": "https://www.ithome.com/0/998/921.htm",
+          "id": "caa20886270988499beb1538247d5da585229a41",
+          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-06T05:18:42Z"
+          "published_at": "2026-09-06T10:51:36Z"
         }
       ],
       "source_count": 2,
@@ -193,22 +505,22 @@
       ],
       "items": [
         {
-          "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
-          "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
-          "url": "https://www.ithome.com/0/998/921.htm",
+          "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+          "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "84c043ad184d74f780f115346df0c4d5add35ad4",
-          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
-          "url": "https://www.ithome.com/0/998/921.htm",
+          "id": "caa20886270988499beb1538247d5da585229a41",
+          "title": "微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行",
+          "url": "https://www.ithome.com/0/999/014.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-06T05:18:42Z"
+          "published_at": "2026-09-06T10:51:36Z"
         }
       ],
       "item_count": 2,
@@ -227,12 +539,90 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-06T05:18:42Z",
-      "latest_at": "2026-09-06T06:12:13.071369Z",
+      "earliest_at": "2026-09-06T10:51:36Z",
+      "latest_at": "2026-09-06T11:09:59.587633Z",
       "primary_item": {
-        "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
-        "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
-        "url": "https://www.ithome.com/0/998/921.htm",
+        "id": "8b5e55a886e85d4ac3b3f39bc04ccdc1c40c06e0",
+        "title": "微软重塑 Win11 AI 战略：「无计量智能」将让更多 AI 在 PC 本地运行",
+        "url": "https://www.ithome.com/0/999/014.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7d6bff4b18cf",
+      "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+      "url": "https://www.ithome.com/0/999/001.htm",
+      "primary_url": "https://www.ithome.com/0/999/001.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+          "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ae92636981b8e989516f05356118f8b623d2c809",
+          "title": "能识别花蕊、授粉、采集，我国智能育种机器人“吉儿”发布具身智能版本",
+          "url": "https://www.ithome.com/0/999/001.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T09:30:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T09:30:01Z",
+      "latest_at": "2026-09-06T11:09:59.587633Z",
+      "primary_item": {
+        "id": "fc4b67e27dec79e131d769c77cdde1898cb17cba",
+        "title": "我国智能育种机器人「吉儿」发布具身智能版本，可识别花蕊、授粉、采集",
+        "url": "https://www.ithome.com/0/999/001.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -309,14 +699,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.4661,
+      "importance": 0.4661,
+      "importance_score": 0.4661,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6721,
+        "recency": 0.4653,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -387,14 +777,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
+      "score": 0.4628,
+      "importance": 0.4628,
+      "importance_score": 0.4628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.781,
+        "recency": 0.5742,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -412,30 +802,108 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "Isar Aerospace launch into orbit [video]",
-      "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-      "primary_url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "story_id": "story_5d7622c2cc7c",
+      "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
+      "url": "https://www.ithome.com/0/998/921.htm",
+      "primary_url": "https://www.ithome.com/0/998/921.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
+          "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
+          "url": "https://www.ithome.com/0/998/921.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "84c043ad184d74f780f115346df0c4d5add35ad4",
+          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
+          "url": "https://www.ithome.com/0/998/921.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T05:18:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
+          "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
+          "url": "https://www.ithome.com/0/998/921.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "84c043ad184d74f780f115346df0c4d5add35ad4",
+          "title": "B站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获得一等奖拿下百万奖金",
+          "url": "https://www.ithome.com/0/998/921.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T05:18:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T05:18:42Z",
+      "latest_at": "2026-09-06T06:12:13.071369Z",
+      "primary_item": {
+        "id": "d6a12e3268fc323121ddddd6d0b8bae5525ff2e0",
+        "title": "B 站首届 AI 创造公开赛收官，《猫娘计划 Project N.E.K.O.》获一等奖及百万奖金",
+        "url": "https://www.ithome.com/0/998/921.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_40e652a61cdb",
+      "title": "生活中的奢华 / The Luxuries in Life",
+      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
+      "primary_url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
-          "title": "Isar Aerospace launch into orbit [video]",
-          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
+          "title": "生活中的奢华 / The Luxuries in Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-05T20:25:30Z"
+          "published_at": "2026-09-05T17:46:16Z"
         },
         {
-          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
-          "title": "LG TVs aren't the only ones spying on you [video]",
-          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
+          "id": "f0214d546b88e0c101310fb66f82647aa020f6f6",
+          "title": "生活中的奢华 / The Real Luxuries In Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-05T10:36:14Z"
+          "published_at": "2026-09-05T17:46:16Z"
         }
       ],
       "source_count": 2,
@@ -444,126 +912,48 @@
       ],
       "items": [
         {
-          "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
-          "title": "Isar Aerospace launch into orbit [video]",
-          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+          "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
+          "title": "生活中的奢华 / The Luxuries in Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-05T20:25:30Z"
+          "published_at": "2026-09-05T17:46:16Z"
         },
         {
-          "id": "ee571ae9ad7bf931bd9e2ecd8222a9c2e1b864f4",
-          "title": "LG TVs aren't the only ones spying on you [video]",
-          "url": "https://www.youtube.com/watch?v=IvFu343KNek",
+          "id": "f0214d546b88e0c101310fb66f82647aa020f6f6",
+          "title": "生活中的奢华 / The Real Luxuries In Life",
+          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-05T10:36:14Z"
+          "published_at": "2026-09-05T17:46:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4665,
-      "importance": 0.4665,
-      "importance_score": 0.4665,
+      "score": 0.403,
+      "importance": 0.403,
+      "importance_score": 0.403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5926,
+        "recency": 0.2752,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T10:36:14Z",
-      "latest_at": "2026-09-05T20:25:30Z",
+      "earliest_at": "2026-09-05T17:46:16Z",
+      "latest_at": "2026-09-05T17:46:16Z",
       "primary_item": {
-        "id": "ba5ebb699dc8bf5d724e83d9f7c960d1ae69f8d4",
-        "title": "Isar Aerospace launch into orbit [video]",
-        "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+        "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
+        "title": "生活中的奢华 / The Luxuries in Life",
+        "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_a20ed4a4c949",
-      "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-      "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-      "primary_url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
-          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
-          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T20:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
-          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
-          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
-          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-05T20:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.475,
-      "importance": 0.475,
-      "importance_score": 0.475,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6349,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T20:00:00Z",
-      "latest_at": "2026-09-05T21:26:25.856436Z",
-      "primary_item": {
-        "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
-        "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
-        "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -620,14 +1010,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4429,
-      "importance": 0.4429,
-      "importance_score": 0.4429,
+      "score": 0.4016,
+      "importance": 0.4016,
+      "importance_score": 0.4016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4747,
+        "recency": 0.2679,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -698,14 +1088,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4409,
-      "importance": 0.4409,
-      "importance_score": 0.4409,
+      "score": 0.3996,
+      "importance": 0.3996,
+      "importance_score": 0.3996,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4645,
+        "recency": 0.2578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -776,14 +1166,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4322,
-      "importance": 0.4322,
-      "importance_score": 0.4322,
+      "score": 0.3909,
+      "importance": 0.3909,
+      "importance_score": 0.3909,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4212,
+        "recency": 0.2144,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -854,14 +1244,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4322,
-      "importance": 0.4322,
-      "importance_score": 0.4322,
+      "score": 0.3909,
+      "importance": 0.3909,
+      "importance_score": 0.3909,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4212,
+        "recency": 0.2144,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -932,14 +1322,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4875,
-      "importance": 0.4875,
-      "importance_score": 0.4875,
+      "score": 0.4461,
+      "importance": 0.4461,
+      "importance_score": 0.4461,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6974,
+        "recency": 0.4906,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1010,14 +1400,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4246,
-      "importance": 0.4246,
-      "importance_score": 0.4246,
+      "score": 0.3833,
+      "importance": 0.3833,
+      "importance_score": 0.3833,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3832,
+        "recency": 0.1764,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1035,176 +1425,81 @@
       }
     },
     {
-      "story_id": "story_40e652a61cdb",
-      "title": "生活中的奢华 / The Luxuries in Life",
-      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
-      "primary_url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_a20ed4a4c949",
+      "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+      "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+      "primary_url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
-          "title": "生活中的奢华 / The Luxuries in Life",
-          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T17:46:16Z"
+          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
+          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f0214d546b88e0c101310fb66f82647aa020f6f6",
-          "title": "生活中的奢华 / The Real Luxuries In Life",
-          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T17:46:16Z"
+          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
+          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
-          "title": "生活中的奢华 / The Luxuries in Life",
-          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T17:46:16Z"
+          "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
+          "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f0214d546b88e0c101310fb66f82647aa020f6f6",
-          "title": "生活中的奢华 / The Real Luxuries In Life",
-          "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T17:46:16Z"
+          "id": "8ab49e00731588a0369684cacb2e6623bac8d8bf",
+          "title": "This new robot lawn mower comes with its own infrared hedgehog-spotter — and a handy approach to edge-trimming",
+          "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T20:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4444,
-      "importance": 0.4444,
-      "importance_score": 0.4444,
+      "score": 0.4336,
+      "importance": 0.4336,
+      "importance_score": 0.4336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.482,
+        "recency": 0.4281,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T17:46:16Z",
-      "latest_at": "2026-09-05T17:46:16Z",
+      "earliest_at": "2026-09-05T20:00:00Z",
+      "latest_at": "2026-09-05T21:26:25.856436Z",
       "primary_item": {
-        "id": "da7f60ccbe278f012cdd61e70cb2a204fb349baa",
-        "title": "生活中的奢华 / The Luxuries in Life",
-        "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_40d7d24c82bd",
-      "title": "AI 处理事件，工程师与系统脱节",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "primary_url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "source": "www.sylvainkalache.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5a8e9f74ca12247563c50725057e5c3d858abe8c",
-          "title": "AI 处理事件，工程师与系统脱节",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T11:05:53.747000Z"
-        },
-        {
-          "id": "c0469deb46a8399d3027c29d218c6f94a4a18867",
-          "title": "AI 处理事件，工程师与系统失去联系 / AI handles incidents, engineers lose touch with their systems",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T10:57:04Z"
-        },
-        {
-          "id": "b523761cf5b2991dd8ccc0ba2bc25d010ee84e1e",
-          "title": "AI 处理事件，工程师与系统失去联系",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T10:17:42.890000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.sylvainkalache.com"
-      ],
-      "items": [
-        {
-          "id": "5a8e9f74ca12247563c50725057e5c3d858abe8c",
-          "title": "AI 处理事件，工程师与系统脱节",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T11:05:53.747000Z"
-        },
-        {
-          "id": "c0469deb46a8399d3027c29d218c6f94a4a18867",
-          "title": "AI 处理事件，工程师与系统失去联系 / AI handles incidents, engineers lose touch with their systems",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T10:57:04Z"
-        },
-        {
-          "id": "b523761cf5b2991dd8ccc0ba2bc25d010ee84e1e",
-          "title": "AI 处理事件，工程师与系统失去联系",
-          "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-          "source": "www.sylvainkalache.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T10:17:42.890000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4138,
-      "importance": 0.4138,
-      "importance_score": 0.4138,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2039,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T10:17:42.890000Z",
-      "latest_at": "2026-09-05T11:05:53.747000Z",
-      "primary_item": {
-        "id": "5a8e9f74ca12247563c50725057e5c3d858abe8c",
-        "title": "AI 处理事件，工程师与系统脱节",
-        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "source": "www.sylvainkalache.com",
-        "source_name": "Buzzing"
+        "id": "00a7d56d39862a92bbc4340360bb619baea6a3aa",
+        "title": "Anthbot robot lawn mower adds infrared hedgehog detection and EdgeEase edge-trimming",
+        "url": "https://www.techradar.com/home/smart-home/this-new-robot-lawn-mower-comes-with-its-own-infrared-hedgehog-spotter-and-a-handy-approach-to-edge-trimming",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1261,14 +1556,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4564,
-      "importance": 0.4564,
-      "importance_score": 0.4564,
+      "score": 0.4151,
+      "importance": 0.4151,
+      "importance_score": 0.4151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5421,
+        "recency": 0.3353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1283,317 +1578,6 @@
         "url": "https://www.ithome.com/0/998/837.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a0b106d51afc",
-      "title": "要求开发者利用人工智能来审查他们亲手编写的代码，这要求是否太高了？",
-      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-      "primary_url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-      "source": "lobste.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "95a69818f9fdbd26d775090e0f529b95d5481d21",
-          "title": "要求开发者利用人工智能来审查他们亲手编写的代码，这要求是否太高了？",
-          "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T07:26:09.256000Z"
-        },
-        {
-          "id": "f3e0347938680992e9db22a3aa2399debb2342be",
-          "title": "要求开发者利用人工智能来审查他们亲手编写的代码，这要求是否太高了？ / Is it too much to ask devs to use AI to review their hand-crafted code?",
-          "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T07:09:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "lobste.rs"
-      ],
-      "items": [
-        {
-          "id": "95a69818f9fdbd26d775090e0f529b95d5481d21",
-          "title": "要求开发者利用人工智能来审查他们亲手编写的代码，这要求是否太高了？",
-          "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T07:26:09.256000Z"
-        },
-        {
-          "id": "f3e0347938680992e9db22a3aa2399debb2342be",
-          "title": "要求开发者利用人工智能来审查他们亲手编写的代码，这要求是否太高了？ / Is it too much to ask devs to use AI to review their hand-crafted code?",
-          "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T07:09:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3583,
-      "importance": 0.3583,
-      "importance_score": 0.3583,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0513,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T07:09:14Z",
-      "latest_at": "2026-09-05T07:26:09.256000Z",
-      "primary_item": {
-        "id": "95a69818f9fdbd26d775090e0f529b95d5481d21",
-        "title": "要求开发者利用人工智能来审查他们亲手编写的代码，这要求是否太高了？",
-        "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
-        "source": "lobste.rs",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_deeac2ea54be",
-      "title": "HTC 黄昭颖：手机难有创新突破，资源转向 AI 眼镜",
-      "url": "https://www.ithome.com/0/998/828.htm",
-      "primary_url": "https://www.ithome.com/0/998/828.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "58291dd88b6e7aa1de75126c401a1ecbadaa1865",
-          "title": "HTC 黄昭颖：手机难有创新突破，资源转向 AI 眼镜",
-          "url": "https://www.ithome.com/0/998/828.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "920137e64a5c356c41c4071b74e7f470a74f88e6",
-          "title": "HTC 黄昭颖：手机发展至今很难再找到新的创新突破，眼下资源转向 AI 眼镜",
-          "url": "https://www.ithome.com/0/998/828.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T13:46:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "58291dd88b6e7aa1de75126c401a1ecbadaa1865",
-          "title": "HTC 黄昭颖：手机难有创新突破，资源转向 AI 眼镜",
-          "url": "https://www.ithome.com/0/998/828.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "920137e64a5c356c41c4071b74e7f470a74f88e6",
-          "title": "HTC 黄昭颖：手机发展至今很难再找到新的创新突破，眼下资源转向 AI 眼镜",
-          "url": "https://www.ithome.com/0/998/828.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-05T13:46:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4246,
-      "importance": 0.4246,
-      "importance_score": 0.4246,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3829,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T13:46:34Z",
-      "latest_at": "2026-09-05T15:23:31.633166Z",
-      "primary_item": {
-        "id": "58291dd88b6e7aa1de75126c401a1ecbadaa1865",
-        "title": "HTC 黄昭颖：手机难有创新突破，资源转向 AI 眼镜",
-        "url": "https://www.ithome.com/0/998/828.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7c32fbb7723e",
-      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-      "url": "https://news.ycombinator.com/item?id=49575143",
-      "primary_url": "https://news.ycombinator.com/item?id=49575143",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c9e4f6d73606ef6d010eff9270a6561036a746d7",
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "url": "https://news.ycombinator.com/item?id=49575143",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T15:03:40.291000Z"
-        },
-        {
-          "id": "9b1a7d551a5ff71890d1a1ba7fb794ba5b37325e",
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:32:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c9e4f6d73606ef6d010eff9270a6561036a746d7",
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "url": "https://news.ycombinator.com/item?id=49575143",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-05T15:03:40.291000Z"
-        },
-        {
-          "id": "9b1a7d551a5ff71890d1a1ba7fb794ba5b37325e",
-          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-          "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:32:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4218,
-      "importance": 0.4218,
-      "importance_score": 0.4218,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3691,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T10:32:09Z",
-      "latest_at": "2026-09-05T15:03:40.291000Z",
-      "primary_item": {
-        "id": "c9e4f6d73606ef6d010eff9270a6561036a746d7",
-        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-        "url": "https://news.ycombinator.com/item?id=49575143",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_414e743c4f90",
-      "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US",
-      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-      "primary_url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "eca950efffab7c75bc03bfdd17ae5df3ca076b80",
-          "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US",
-          "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:14:28Z"
-        },
-        {
-          "id": "3de7d657e32d1ac4601d62964cfa2c77cc536195",
-          "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-          "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:14:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "eca950efffab7c75bc03bfdd17ae5df3ca076b80",
-          "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US",
-          "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:14:28Z"
-        },
-        {
-          "id": "3de7d657e32d1ac4601d62964cfa2c77cc536195",
-          "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-          "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-05T10:14:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3816,
-      "importance": 0.3816,
-      "importance_score": 0.3816,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1682,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-05T10:14:28Z",
-      "latest_at": "2026-09-05T10:14:28Z",
-      "primary_item": {
-        "id": "eca950efffab7c75bc03bfdd17ae5df3ca076b80",
-        "title": "荷兰因担忧“地缘政治动荡”从美国撤回黄金 / Netherlands pulls gold out of the US",
-        "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
