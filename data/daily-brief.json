@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-09-11T17:27:29.530627Z",
+  "generated_at": "2026-09-11T19:55:59.432732Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c7d3c8aeae42",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "primary_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI News",
+      "story_id": "story_8587315c03c9",
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI News",
+          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
+          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-11T10:00:00Z"
+          "published_at": "2026-09-11T18:26:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI News",
+          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
+          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-11T10:00:00Z"
+          "published_at": "2026-09-11T18:26:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6892,
+        "ai_relevance": 0.87,
+        "recency": 0.9376,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,14 +54,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T10:00:00Z",
-      "latest_at": "2026-09-11T10:00:00Z",
+      "earliest_at": "2026-09-11T18:26:10Z",
+      "latest_at": "2026-09-11T18:26:10Z",
       "primary_item": {
-        "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "source": "OpenAI News",
+        "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
+        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_18c9e4823a56",
+      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+      "url": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+      "primary_url": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0d558cf17fe02d2e1bf0ae32815d38dfe02fc22",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "url": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T18:26:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "f0d558cf17fe02d2e1bf0ae32815d38dfe02fc22",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "url": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T18:26:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9376,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T18:26:10Z",
+      "latest_at": "2026-09-11T18:26:10Z",
+      "primary_item": {
+        "id": "f0d558cf17fe02d2e1bf0ae32815d38dfe02fc22",
+        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+        "url": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -99,14 +159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,14 +219,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -219,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -279,14 +339,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8493,
+        "recency": 0.7462,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -339,14 +399,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6892,
+        "recency": 0.5861,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -417,14 +477,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.7402,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,7 +504,7 @@
       }
     },
     {
-      "story_id": "story_d2c80bae0b96",
+      "story_id": "story_dd6fef7eb3a4",
       "title": "Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发",
       "url": "https://www.aibase.com/news/30993",
       "primary_url": "https://www.aibase.com/news/30993",
@@ -497,14 +557,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.7402,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -558,14 +618,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.7402,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -618,14 +678,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.7402,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -678,14 +738,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.7402,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -701,6 +761,103 @@
         "url": "https://www.aibase.com/news/30992",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_da05411f0a2d",
+      "title": "数学领域中人工智能的严重偏差",
+      "url": "https://mathandai.org",
+      "primary_url": "https://mathandai.org",
+      "source": "mathandai.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7e714b3150cc17dea5e6af57e6e97172f05a5955",
+          "title": "数学领域中人工智能的严重偏差",
+          "url": "https://mathandai.org",
+          "source": "mathandai.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:23:06.738000Z"
+        },
+        {
+          "id": "fe4f4916f84e5a4221aa29b0fe2fe2c8dc9840d6",
+          "title": "数学领域中人工智能的严重偏差 / A Severe Misalignment of AI in Mathematics",
+          "url": "https://mathandai.org",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T19:09:22Z"
+        },
+        {
+          "id": "d0ef9d0f1ca16ef1f0c2ea6a82397a5ccb3268f0",
+          "title": "数学领域中人工智能的严重偏差 / A misalignment of AI in mathematics",
+          "url": "https://mathandai.org",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T17:45:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Lobsters (技术社区)",
+        "mathandai.org"
+      ],
+      "items": [
+        {
+          "id": "7e714b3150cc17dea5e6af57e6e97172f05a5955",
+          "title": "数学领域中人工智能的严重偏差",
+          "url": "https://mathandai.org",
+          "source": "mathandai.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:23:06.738000Z"
+        },
+        {
+          "id": "fe4f4916f84e5a4221aa29b0fe2fe2c8dc9840d6",
+          "title": "数学领域中人工智能的严重偏差 / A Severe Misalignment of AI in Mathematics",
+          "url": "https://mathandai.org",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T19:09:22Z"
+        },
+        {
+          "id": "d0ef9d0f1ca16ef1f0c2ea6a82397a5ccb3268f0",
+          "title": "数学领域中人工智能的严重偏差 / A misalignment of AI in mathematics",
+          "url": "https://mathandai.org",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T17:45:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5684,
+      "importance": 0.5684,
+      "importance_score": 0.5684,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9772,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T17:45:12Z",
+      "latest_at": "2026-09-11T19:23:06.738000Z",
+      "primary_item": {
+        "id": "7e714b3150cc17dea5e6af57e6e97172f05a5955",
+        "title": "数学领域中人工智能的严重偏差",
+        "url": "https://mathandai.org",
+        "source": "mathandai.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -738,14 +895,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.7402,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -761,6 +918,318 @@
         "url": "https://www.aibase.com/news/30996",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b52898a627b9",
+      "title": "数学领域中人工智能的偏差",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "primary_url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "source": "terrytao.wordpress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:07:02.862000Z"
+        },
+        {
+          "id": "90a9f01a51043897a1ae39cab395ed7f6b3b807e",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T17:30:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "terrytao.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:07:02.862000Z"
+        },
+        {
+          "id": "90a9f01a51043897a1ae39cab395ed7f6b3b807e",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T17:30:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.966,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T17:30:26Z",
+      "latest_at": "2026-09-11T19:07:02.862000Z",
+      "primary_item": {
+        "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+        "title": "数学领域中人工智能的偏差",
+        "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+        "source": "terrytao.wordpress.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_68fed68a3569",
+      "title": "Hugging Face 首席执行官就 Anthropic 研究人员关于人工智能的警告回应道：“这就像去问修空调的师傅关于气候变化的问题一样”",
+      "url": "https://www.businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9",
+      "primary_url": "https://www.businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6b95077c67c0eb49bc5ffa4f022856ef8424c6df",
+          "title": "Hugging Face 首席执行官就 Anthropic 研究人员关于人工智能的警告回应道：“这就像去问修空调的师傅关于气候变化的问题一样”",
+          "url": "https://www.businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T18:35:17.919000Z"
+        },
+        {
+          "id": "38e320b25be0c8420362decfbb906e533e7414ea",
+          "title": "Hugging Face 首席执行官就 Anthropic 研究人员关于人工智能的警告回应道：“这就像去问修空调的师傅关于气候变化的问题一样” / Hugging Face CEO says asking Anthropic researcher ‘about AI extinction risk is like asking your AC guy about climate change’",
+          "url": "https://www.businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T18:25:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6b95077c67c0eb49bc5ffa4f022856ef8424c6df",
+          "title": "Hugging Face 首席执行官就 Anthropic 研究人员关于人工智能的警告回应道：“这就像去问修空调的师傅关于气候变化的问题一样”",
+          "url": "https://www.businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T18:35:17.919000Z"
+        },
+        {
+          "id": "38e320b25be0c8420362decfbb906e533e7414ea",
+          "title": "Hugging Face 首席执行官就 Anthropic 研究人员关于人工智能的警告回应道：“这就像去问修空调的师傅关于气候变化的问题一样” / Hugging Face CEO says asking Anthropic researcher ‘about AI extinction risk is like asking your AC guy about climate change’",
+          "url": "https://www.businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T18:25:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.944,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T18:25:05Z",
+      "latest_at": "2026-09-11T18:35:17.919000Z",
+      "primary_item": {
+        "id": "6b95077c67c0eb49bc5ffa4f022856ef8424c6df",
+        "title": "Hugging Face 首席执行官就 Anthropic 研究人员关于人工智能的警告回应道：“这就像去问修空调的师傅关于气候变化的问题一样”",
+        "url": "https://www.businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a9928dd2bba3",
+      "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+      "primary_url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T18:07:08Z"
+        },
+        {
+          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒",
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:05.859000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T18:07:08Z"
+        },
+        {
+          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒",
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:05.859000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9244,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T17:48:05.859000Z",
+      "latest_at": "2026-09-11T18:07:08Z",
+      "primary_item": {
+        "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+        "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+        "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_f9c0dce4fed1",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "primary_url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "source": "TechRadar",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "257a7b4390eb1833aa8c413d79281b056ee03a7e",
+          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T18:05:00Z"
+        },
+        {
+          "id": "a92040f0cccf96556cd4b3750184fce216b1e7ff",
+          "title": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "url": "https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T16:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Slashdot (科技资讯)",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "257a7b4390eb1833aa8c413d79281b056ee03a7e",
+          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T18:05:00Z"
+        },
+        {
+          "id": "a92040f0cccf96556cd4b3750184fce216b1e7ff",
+          "title": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "url": "https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas",
+          "source": "Slashdot (科技资讯)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T16:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9229,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T16:00:00Z",
+      "latest_at": "2026-09-11T18:05:00Z",
+      "primary_item": {
+        "id": "257a7b4390eb1833aa8c413d79281b056ee03a7e",
+        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+        "source": "TechRadar",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -781,15 +1250,6 @@
           "published_at": "2026-09-11T17:01:02.180000Z"
         },
         {
-          "id": "6e86f578c5aa4b81a05e97beec941c1de4162e33",
-          "title": "Show HN: Hacker News, Without AI",
-          "url": "https://www.unslop.news",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-11T16:08:50Z"
-        },
-        {
           "id": "e65f4a168b6b221aeb4c389370c2e1f8f7446e17",
           "title": "Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI",
           "url": "https://hcker.news/?ai=exclude",
@@ -799,9 +1259,8 @@
           "published_at": "2026-09-11T15:01:19Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
         "hcker.news"
       ],
@@ -816,15 +1275,6 @@
           "published_at": "2026-09-11T17:01:02.180000Z"
         },
         {
-          "id": "6e86f578c5aa4b81a05e97beec941c1de4162e33",
-          "title": "Show HN: Hacker News, Without AI",
-          "url": "https://www.unslop.news",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-11T16:08:50Z"
-        },
-        {
           "id": "e65f4a168b6b221aeb4c389370c2e1f8f7446e17",
           "title": "Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI",
           "url": "https://hcker.news/?ai=exclude",
@@ -834,19 +1284,19 @@
           "published_at": "2026-09-11T15:01:19Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5693,
-      "importance": 0.5693,
-      "importance_score": 0.5693,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9816,
-        "story_heat": 0.5
+        "recency": 0.8785,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
@@ -914,14 +1364,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9809,
+        "recency": 0.8778,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -936,474 +1386,6 @@
         "url": "https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai",
         "source": "Slashdot (科技资讯)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_2d9c7158e6f8",
-      "title": "对人工智能感到难过 / Feeling Sad about AI",
-      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-      "primary_url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "66b2206ad7bdb3844604c52e49d13115f24daab4",
-          "title": "对人工智能感到难过 / Feeling Sad about AI",
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T16:50:51Z"
-        },
-        {
-          "id": "1cc954518e9d372f96c0de619207d26b9b0445d1",
-          "title": "对人工智能感到难过",
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "artificialworlds.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T12:46:12.244000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "artificialworlds.net"
-      ],
-      "items": [
-        {
-          "id": "66b2206ad7bdb3844604c52e49d13115f24daab4",
-          "title": "对人工智能感到难过 / Feeling Sad about AI",
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T16:50:51Z"
-        },
-        {
-          "id": "1cc954518e9d372f96c0de619207d26b9b0445d1",
-          "title": "对人工智能感到难过",
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "artificialworlds.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T12:46:12.244000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9746,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T12:46:12.244000Z",
-      "latest_at": "2026-09-11T16:50:51Z",
-      "primary_item": {
-        "id": "66b2206ad7bdb3844604c52e49d13115f24daab4",
-        "title": "对人工智能感到难过 / Feeling Sad about AI",
-        "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_3d3fef8d4330",
-      "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-      "url": "https://www.aibase.com/news/31001",
-      "primary_url": "https://www.aibase.com/news/31001",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "url": "https://www.aibase.com/news/31001",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T13:41:49.361553Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "url": "https://www.aibase.com/news/31001",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T13:41:49.361553Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8433,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T13:41:49.361553Z",
-      "latest_at": "2026-09-11T13:41:49.361553Z",
-      "primary_item": {
-        "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-        "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-        "url": "https://www.aibase.com/news/31001",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8a5049d98b35",
-      "title": "HuggingFace：Security.txt",
-      "url": "https://huggingface.co/security.txt",
-      "primary_url": "https://huggingface.co/security.txt",
-      "source": "huggingface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a2677d351e869cce370cf2a1deca3516c04c76d4",
-          "title": "HuggingFace：Security.txt",
-          "url": "https://huggingface.co/security.txt",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T16:29:16.989000Z"
-        },
-        {
-          "id": "8305a28b5c90e3bf8aa988c81bd876e96a3f085e",
-          "title": "HuggingFace: Security.txt",
-          "url": "https://huggingface.co/security.txt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T14:38:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "a2677d351e869cce370cf2a1deca3516c04c76d4",
-          "title": "HuggingFace：Security.txt",
-          "url": "https://huggingface.co/security.txt",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T16:29:16.989000Z"
-        },
-        {
-          "id": "8305a28b5c90e3bf8aa988c81bd876e96a3f085e",
-          "title": "HuggingFace: Security.txt",
-          "url": "https://huggingface.co/security.txt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T14:38:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9596,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T14:38:13Z",
-      "latest_at": "2026-09-11T16:29:16.989000Z",
-      "primary_item": {
-        "id": "a2677d351e869cce370cf2a1deca3516c04c76d4",
-        "title": "HuggingFace：Security.txt",
-        "url": "https://huggingface.co/security.txt",
-        "source": "huggingface.co",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_90177518853c",
-      "title": "《大空头》投资者迈克尔·伯里购入名贵葡萄酒，以对冲美元贬值和人工智能引发的危机",
-      "url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
-      "primary_url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7133fb5c4daeaaff483902a54ce3143ffbab4096",
-          "title": "《大空头》投资者迈克尔·伯里购入名贵葡萄酒，以对冲美元贬值和人工智能引发的危机",
-          "url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T15:24:58.992000Z"
-        },
-        {
-          "id": "b3a29ad88379111b82e9e50bdf98b5317bb5c90c",
-          "title": "《大空头》投资者迈克尔·伯里购入名贵葡萄酒，以对冲美元贬值和人工智能引发的危机 / Michael Burry says the best defense against dollar doom and AI disasters might be a fine Bordeaux",
-          "url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T14:51:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7133fb5c4daeaaff483902a54ce3143ffbab4096",
-          "title": "《大空头》投资者迈克尔·伯里购入名贵葡萄酒，以对冲美元贬值和人工智能引发的危机",
-          "url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T15:24:58.992000Z"
-        },
-        {
-          "id": "b3a29ad88379111b82e9e50bdf98b5317bb5c90c",
-          "title": "《大空头》投资者迈克尔·伯里购入名贵葡萄酒，以对冲美元贬值和人工智能引发的危机 / Michael Burry says the best defense against dollar doom and AI disasters might be a fine Bordeaux",
-          "url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T14:51:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9149,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T14:51:33Z",
-      "latest_at": "2026-09-11T15:24:58.992000Z",
-      "primary_item": {
-        "id": "7133fb5c4daeaaff483902a54ce3143ffbab4096",
-        "title": "《大空头》投资者迈克尔·伯里购入名贵葡萄酒，以对冲美元贬值和人工智能引发的危机",
-        "url": "https://www.businessinsider.com/big-short-michael-burry-fine-wines-dollar-ai-investing-substack-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8e10c98735ba",
-      "title": "克劳德不再为未成年人提供服务",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "primary_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "source": "support.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
-          "title": "克劳德不再为未成年人提供服务",
-          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-          "source": "support.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T12:14:15.973000Z"
-        },
-        {
-          "id": "e1c9a72498cb27001ba7bdf498842dacb82e6637",
-          "title": "克劳德不再为未成年人提供服务 / Claude is no longer available for minors",
-          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T10:48:00Z"
-        },
-        {
-          "id": "ff9a689ebae377c3b641271d952e26388c5696e1",
-          "title": "克劳德不再为未成年人提供服务 / Claude is only available to people over 18 years",
-          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T10:48:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "support.claude.com"
-      ],
-      "items": [
-        {
-          "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
-          "title": "克劳德不再为未成年人提供服务",
-          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-          "source": "support.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T12:14:15.973000Z"
-        },
-        {
-          "id": "e1c9a72498cb27001ba7bdf498842dacb82e6637",
-          "title": "克劳德不再为未成年人提供服务 / Claude is no longer available for minors",
-          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T10:48:00Z"
-        },
-        {
-          "id": "ff9a689ebae377c3b641271d952e26388c5696e1",
-          "title": "克劳德不再为未成年人提供服务 / Claude is only available to people over 18 years",
-          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T10:48:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7825,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T10:48:00Z",
-      "latest_at": "2026-09-11T12:14:15.973000Z",
-      "primary_item": {
-        "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
-        "title": "克劳德不再为未成年人提供服务",
-        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-        "source": "support.claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c27b8a46e84b",
-      "title": "Claude用户找到了绕过生物武器研究安全防护措施的方法",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-      "primary_url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "125d25de8ba560b57715ce2d725365dd0d58defe",
-          "title": "Claude用户找到了绕过生物武器研究安全防护措施的方法",
-          "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T13:48:57.675000Z"
-        },
-        {
-          "id": "661d5640ca4e77200e435725779b8d07ae91722c",
-          "title": "Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research",
-          "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T13:02:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "125d25de8ba560b57715ce2d725365dd0d58defe",
-          "title": "Claude用户找到了绕过生物武器研究安全防护措施的方法",
-          "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T13:48:57.675000Z"
-        },
-        {
-          "id": "661d5640ca4e77200e435725779b8d07ae91722c",
-          "title": "Claude用户找到了绕过生物武器研究安全防护措施的方法 / Claude users found ways around safeguards for bioweapons research",
-          "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T13:02:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8482,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T13:02:35Z",
-      "latest_at": "2026-09-11T13:48:57.675000Z",
-      "primary_item": {
-        "id": "125d25de8ba560b57715ce2d725365dd0d58defe",
-        "title": "Claude用户找到了绕过生物武器研究安全防护措施的方法",
-        "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
       }
     }
   ]
