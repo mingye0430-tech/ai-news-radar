@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T14:45:48.834668Z",
+  "generated_at": "2026-09-13T17:49:48.260578Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_12e9dd685180",
@@ -65,62 +65,255 @@
       }
     },
     {
-      "story_id": "story_531ee900c5f2",
-      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-      "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-      "primary_url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_d09476a7d8a5",
+      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+      "url": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+      "primary_url": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+      "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "90bb07fde02ee080c5351e45ac3a570cebb3d1a2",
-          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-          "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-          "source": "MarkTechPost（RSS）",
+          "id": "b1f56f6196685f649e684db6517b633e53b506ca",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "url": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-13T05:56:03Z"
+          "published_at": "2026-09-13T14:15:40Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "Hacker News：AI 热帖"
       ],
       "items": [
         {
-          "id": "90bb07fde02ee080c5351e45ac3a570cebb3d1a2",
-          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-          "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-          "source": "MarkTechPost（RSS）",
+          "id": "b1f56f6196685f649e684db6517b633e53b506ca",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "url": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-13T05:56:03Z"
+          "published_at": "2026-09-13T14:15:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6321,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-13T05:56:03Z",
-      "latest_at": "2026-09-13T05:56:03Z",
+      "earliest_at": "2026-09-13T14:15:40Z",
+      "latest_at": "2026-09-13T14:15:40Z",
       "primary_item": {
-        "id": "90bb07fde02ee080c5351e45ac3a570cebb3d1a2",
-        "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-        "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-        "source": "MarkTechPost（RSS）",
+        "id": "b1f56f6196685f649e684db6517b633e53b506ca",
+        "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+        "url": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+      "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+      "primary_url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
+          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:54:25Z"
+        },
+        {
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        },
+        {
+          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
+          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
+          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:35:36Z"
+        },
+        {
+          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
+          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
+          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:28:24Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
+          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+          "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T13:54:25Z"
+        },
+        {
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        },
+        {
+          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
+          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
+          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:35:36Z"
+        },
+        {
+          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
+          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
+          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:28:24Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5653,
+      "importance": 0.5653,
+      "importance_score": 0.5653,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8365,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T19:28:24Z",
+      "latest_at": "2026-09-13T13:54:25Z",
+      "primary_item": {
+        "id": "52fb3ea4635895cc9a4e289589f4f496fbf8541e",
+        "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+        "url": "https://www.youtube.com/watch?v=xJzrU38pGWc",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_543492d80546",
+      "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "source": "techcrunch.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "ea782f86fc770f87a95ec7e0a0eabbe814a2301a",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "ea782f86fc770f87a95ec7e0a0eabbe814a2301a",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.547,
+      "importance": 0.547,
+      "importance_score": 0.547,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.995,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T15:44:38Z",
+      "latest_at": "2026-09-13T17:42:38.853000Z",
+      "primary_item": {
+        "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+        "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "source": "techcrunch.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -196,14 +389,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5717,
-      "importance": 0.5717,
-      "importance_score": 0.5717,
+      "score": 0.5461,
+      "importance": 0.5461,
+      "importance_score": 0.5461,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 0.8657,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -217,6 +410,161 @@
         "title": "关于人工智能的惊人内部警告在硅谷部分人士中未引起重视",
         "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_106d06eb2624",
+      "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
+      "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+      "primary_url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
+          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
+          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T16:10:27.930000Z"
+        },
+        {
+          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
+          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
+          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T16:01:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
+          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
+          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T16:10:27.930000Z"
+        },
+        {
+          "id": "63da3751edf1939a47e1df9cab0b3a5403517093",
+          "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO） / Anthropic has chosen the Nasdaq for its IPO listing",
+          "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T16:01:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.931,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T16:01:38Z",
+      "latest_at": "2026-09-13T16:10:27.930000Z",
+      "primary_item": {
+        "id": "66627fae641c5b9491ecd3218d7137fde7241bc4",
+        "title": "Anthropic 已选择在纳斯达克进行首次公开募股（IPO）",
+        "url": "https://www.businessinsider.com/anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_80d6aeeaf16c",
+      "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓发展步伐",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e07a031f4a511e2b917fa869f867be17eb677264",
+          "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓发展步伐",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T15:54:33.636000Z"
+        },
+        {
+          "id": "ce49a64a86b3ed192b6a91494715d365d5f8d226",
+          "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓该技术的发展",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T14:20:28.467000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "e07a031f4a511e2b917fa869f867be17eb677264",
+          "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓发展步伐",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T15:54:33.636000Z"
+        },
+        {
+          "id": "ce49a64a86b3ed192b6a91494715d365d5f8d226",
+          "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓该技术的发展",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T14:20:28.467000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.92,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T14:20:28.467000Z",
+      "latest_at": "2026-09-13T15:54:33.636000Z",
+      "primary_item": {
+        "id": "e07a031f4a511e2b917fa869f867be17eb677264",
+        "title": "特朗普淡化对人工智能的担忧，而企业高管们则呼吁放缓发展步伐",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
@@ -274,14 +622,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8722,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -296,6 +644,84 @@
         "url": "https://www.36kr.com/p/3981230650522630",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_85bf9f141842",
+      "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9906357a88d58c48bc40d091137125c5838ebc37",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T16:40:21.025000Z"
+        },
+        {
+          "id": "a50670accf6eb23b0a5bee21bfbe2282313c2f7c",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays AI risks after dire expert warnings and calls to slow development down",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T16:29:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "9906357a88d58c48bc40d091137125c5838ebc37",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T16:40:21.025000Z"
+        },
+        {
+          "id": "a50670accf6eb23b0a5bee21bfbe2282313c2f7c",
+          "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险 / Trump downplays AI risks after dire expert warnings and calls to slow development down",
+          "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T16:29:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9518,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T16:29:27Z",
+      "latest_at": "2026-09-13T16:40:21.025000Z",
+      "primary_item": {
+        "id": "9906357a88d58c48bc40d091137125c5838ebc37",
+        "title": "在专家发出严厉警告并呼吁放缓发展步伐后，特朗普淡化了人工智能的风险",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -352,14 +778,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.516,
-      "importance": 0.516,
-      "importance_score": 0.516,
+      "score": 0.4904,
+      "importance": 0.4904,
+      "importance_score": 0.4904,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8398,
+        "recency": 0.712,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -430,14 +856,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.516,
-      "importance": 0.516,
-      "importance_score": 0.516,
+      "score": 0.4904,
+      "importance": 0.4904,
+      "importance_score": 0.4904,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8398,
+        "recency": 0.712,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -452,180 +878,6 @@
         "url": "https://www.techflowpost.com/zh-CN/newsletter/136036",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_19828795af35",
-      "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
-      "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-      "primary_url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
-          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
-          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T09:24:44.970000Z"
-        },
-        {
-          "id": "33a3325b406e5a57e551808c15d2608521e13f13",
-          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。 / I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants.",
-          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T09:04:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
-          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
-          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T09:24:44.970000Z"
-        },
-        {
-          "id": "33a3325b406e5a57e551808c15d2608521e13f13",
-          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。 / I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants.",
-          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-13T09:04:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5034,
-      "importance": 0.5034,
-      "importance_score": 0.5034,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.777,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T09:04:01Z",
-      "latest_at": "2026-09-13T09:24:44.970000Z",
-      "primary_item": {
-        "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
-        "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
-        "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "Show HN: 3dbae 上的实时 AI 渲染",
-      "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-      "primary_url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
-        },
-        {
-          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
-          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:35:36Z"
-        },
-        {
-          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
-          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
-          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:28:24Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-          "title": "Show HN: 3dbae 上的实时 AI 渲染",
-          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T04:41:15.291000Z"
-        },
-        {
-          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
-          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:35:36Z"
-        },
-        {
-          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
-          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
-          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:28:24Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.489,
-      "importance": 0.489,
-      "importance_score": 0.489,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5802,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T19:28:24Z",
-      "latest_at": "2026-09-13T04:41:15.291000Z",
-      "primary_item": {
-        "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
-        "title": "Show HN: 3dbae 上的实时 AI 渲染",
-        "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -682,14 +934,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4857,
-      "importance": 0.4857,
-      "importance_score": 0.4857,
+      "score": 0.4602,
+      "importance": 0.4602,
+      "importance_score": 0.4602,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6885,
+        "recency": 0.5608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -703,6 +955,84 @@
         "title": "为什么人工智能代理会说谎、作弊并相互协调？",
         "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
         "source": "yoshuabengio.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_19828795af35",
+      "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
+      "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+      "primary_url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
+          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T09:24:44.970000Z"
+        },
+        {
+          "id": "33a3325b406e5a57e551808c15d2608521e13f13",
+          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。 / I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants.",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T09:04:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
+          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T09:24:44.970000Z"
+        },
+        {
+          "id": "33a3325b406e5a57e551808c15d2608521e13f13",
+          "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。 / I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants.",
+          "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T09:04:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4779,
+      "importance": 0.4779,
+      "importance_score": 0.4779,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6493,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T09:04:01Z",
+      "latest_at": "2026-09-13T09:24:44.970000Z",
+      "primary_item": {
+        "id": "a87a66b7dee0a18eabd2e689608c9e4b14439426",
+        "title": "我在一家未来将建成的Meta AI数据中心附近经营着一家房屋租赁业务。我们的租户大多是建筑工人。",
+        "url": "https://www.businessinsider.com/meta-ai-data-center-louisiana-housing-market-home-rentals-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -778,14 +1108,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4673,
-      "importance": 0.4673,
-      "importance_score": 0.4673,
+      "score": 0.4418,
+      "importance": 0.4418,
+      "importance_score": 0.4418,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4717,
+        "recency": 0.3439,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -856,14 +1186,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4359,
-      "importance": 0.4359,
-      "importance_score": 0.4359,
+      "score": 0.4104,
+      "importance": 0.4104,
+      "importance_score": 0.4104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4396,
+        "recency": 0.3119,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -878,6 +1208,84 @@
         "url": "https://withspecific.com/benchmarks/real-swe",
         "source": "withspecific.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4ee70cea304a",
+      "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
+      "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+      "primary_url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
+          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
+          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T01:00:00Z"
+        },
+        {
+          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
+          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+          "source": "NYTimes (纽约时报热榜)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T00:15:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "NYTimes (纽约时报热榜)",
+        "Slashdot"
+      ],
+      "items": [
+        {
+          "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
+          "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
+          "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T01:00:00Z"
+        },
+        {
+          "id": "939dd9ee8507e1e147b22ed962e594468aa13f5f",
+          "title": "人类首席执行官达里奥·阿莫代呼吁人工智能减速 / Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+          "source": "NYTimes (纽约时报热榜)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T00:15:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4077,
+      "importance": 0.4077,
+      "importance_score": 0.4077,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2987,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T00:15:54Z",
+      "latest_at": "2026-09-13T01:00:00Z",
+      "primary_item": {
+        "id": "6d52570d503fcabdbc87b76760d586a2bea816ab",
+        "title": "Anthropic 首席执行官 Dario Amodei 呼吁放慢人工智能速度 / Anthropic CEO Dario Amodei Calls For AI Slowdown",
+        "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -934,14 +1342,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4294,
-      "importance": 0.4294,
-      "importance_score": 0.4294,
+      "score": 0.4039,
+      "importance": 0.4039,
+      "importance_score": 0.4039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4072,
+        "recency": 0.2794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1012,14 +1420,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3979,
-      "importance": 0.3979,
-      "importance_score": 0.3979,
+      "score": 0.3723,
+      "importance": 0.3723,
+      "importance_score": 0.3723,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2493,
+        "recency": 0.1215,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1090,14 +1498,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3956,
-      "importance": 0.3956,
-      "importance_score": 0.3956,
+      "score": 0.37,
+      "importance": 0.37,
+      "importance_score": 0.37,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.238,
+        "recency": 0.1102,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1168,14 +1576,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.376,
-      "importance": 0.376,
-      "importance_score": 0.376,
+      "score": 0.3504,
+      "importance": 0.3504,
+      "importance_score": 0.3504,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1398,
+        "recency": 0.012,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1190,317 +1598,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
         "source": "Hacker News",
         "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_d4e724e82e7d",
-      "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "d0eedcca8e75ce08d8d59081339dc445c66f0f6e",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T17:42:38Z"
-        },
-        {
-          "id": "f4d9b42e23f5754fde72cfee4cc2a74e842d657d",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐",
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T15:50:30.516000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "d0eedcca8e75ce08d8d59081339dc445c66f0f6e",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T17:42:38Z"
-        },
-        {
-          "id": "f4d9b42e23f5754fde72cfee4cc2a74e842d657d",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐",
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T15:50:30.516000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3726,
-      "importance": 0.3726,
-      "importance_score": 0.3726,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1228,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:50:30.516000Z",
-      "latest_at": "2026-09-12T17:42:38Z",
-      "primary_item": {
-        "id": "d0eedcca8e75ce08d8d59081339dc445c66f0f6e",
-        "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
-        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_a699cca17620",
-      "title": "asgeirtj /      system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "primary_url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
-          "title": "asgeirtj /      system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-12T20:44:45.541000Z"
-        },
-        {
-          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-          "title": "asgeirtj / system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
-          "title": "asgeirtj /      system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-12T20:44:45.541000Z"
-        },
-        {
-          "id": "2fa4d188d72c83942d8eda61541a4bf7f9cd6c7d",
-          "title": "asgeirtj / system_prompts_leaks",
-          "url": "https://github.com/asgeirtj/system_prompts_leaks",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3979,
-      "importance": 0.3979,
-      "importance_score": 0.3979,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2493,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T20:44:16.177125Z",
-      "latest_at": "2026-09-12T20:44:45.541000Z",
-      "primary_item": {
-        "id": "baa9d03b16ed38aed33577d7ed876031205e6795",
-        "title": "asgeirtj /      system_prompts_leaks",
-        "url": "https://github.com/asgeirtj/system_prompts_leaks",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c63b548b0537",
-      "title": "英伟达是人工智能领域的“中央银行”",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "www.economist.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3635,
-      "importance": 0.3635,
-      "importance_score": 0.3635,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0775,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:08:27Z",
-      "latest_at": "2026-09-12T16:37:21.932000Z",
-      "primary_item": {
-        "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-        "title": "英伟达是人工智能领域的“中央银行”",
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "source": "www.economist.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_02ca07bd38d4",
-      "title": "[Claude] claude 被封 5 天，苹果不退款。",
-      "url": "https://www.v2ex.com/t/1241607",
-      "primary_url": "https://www.v2ex.com/t/1241607",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "6bcf558e0ab27b7492d108efd7cfbf13d6da5c28",
-          "title": "[Claude] claude 被封 5 天，苹果不退款。",
-          "url": "https://www.v2ex.com/t/1241607",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:05:15Z"
-        },
-        {
-          "id": "9af2be757982379ccb58da5b15b3e58047ef0076",
-          "title": "[问与答] claude 被封 5 天，苹果不退款。",
-          "url": "https://www.v2ex.com/t/1241607",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:05:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "6bcf558e0ab27b7492d108efd7cfbf13d6da5c28",
-          "title": "[Claude] claude 被封 5 天，苹果不退款。",
-          "url": "https://www.v2ex.com/t/1241607",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:05:15Z"
-        },
-        {
-          "id": "9af2be757982379ccb58da5b15b3e58047ef0076",
-          "title": "[问与答] claude 被封 5 天，苹果不退款。",
-          "url": "https://www.v2ex.com/t/1241607",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:05:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3507,
-      "importance": 0.3507,
-      "importance_score": 0.3507,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0135,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:05:15Z",
-      "latest_at": "2026-09-12T15:05:15Z",
-      "primary_item": {
-        "id": "6bcf558e0ab27b7492d108efd7cfbf13d6da5c28",
-        "title": "[Claude] claude 被封 5 天，苹果不退款。",
-        "url": "https://www.v2ex.com/t/1241607",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
       }
     }
   ]
