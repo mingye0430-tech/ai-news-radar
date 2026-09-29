@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:56:50.592080Z",
+  "generated_at": "2026-09-29T00:11:03.498252Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8693,
-      "importance": 0.8693,
-      "importance_score": 0.8693,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9216,
+        "recency": 0.7451,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,366 @@
         "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4874945092f6",
+      "title": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
+      "url": "https://aihot.news/items/cys03vwcvrtshg6zmbmjgfj87",
+      "primary_url": "https://aihot.news/items/cys03vwcvrtshg6zmbmjgfj87",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "159c533b2b7668fbc5cff3e9afde81c0ed4b0b69",
+          "title": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
+          "url": "https://aihot.news/items/cys03vwcvrtshg6zmbmjgfj87",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T23:09:29Z"
+        },
+        {
+          "id": "39425fa3aa4af391064f34e82d4712da4982eca7",
+          "title": "AMD 斥资 82 亿美元收购 World Labs，“AI 教母”李飞飞出任执行副总裁兼首席科学家",
+          "url": "https://www.ithome.com/1/008/076.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-28T23:09:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "159c533b2b7668fbc5cff3e9afde81c0ed4b0b69",
+          "title": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
+          "url": "https://aihot.news/items/cys03vwcvrtshg6zmbmjgfj87",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T23:09:29Z"
+        },
+        {
+          "id": "39425fa3aa4af391064f34e82d4712da4982eca7",
+          "title": "AMD 斥资 82 亿美元收购 World Labs，“AI 教母”李飞飞出任执行副总裁兼首席科学家",
+          "url": "https://www.ithome.com/1/008/076.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-28T23:09:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9572,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T23:09:29Z",
+      "latest_at": "2026-09-28T23:09:29Z",
+      "primary_item": {
+        "id": "159c533b2b7668fbc5cff3e9afde81c0ed4b0b69",
+        "title": "AMD 以 82 亿美元全股票收购 World Labs，李飞飞出任执行副总裁兼首席科学家",
+        "url": "https://aihot.news/items/cys03vwcvrtshg6zmbmjgfj87",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f636ab03b376",
+      "title": "World Labs 宣布加入 AMD",
+      "url": "https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41",
+      "primary_url": "https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41",
+      "source": "X：World Labs (@theworldlabs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "948fd9705a69611dbb4c79b2a4e281affbae4088",
+          "title": "World Labs 宣布加入 AMD",
+          "url": "https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41",
+          "source": "X：World Labs (@theworldlabs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:12:41Z"
+        },
+        {
+          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
+          "title": "World Labs 将加入 AMD",
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "www.worldlabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T22:08:12.115000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "X：World Labs (@theworldlabs)",
+        "www.worldlabs.ai"
+      ],
+      "items": [
+        {
+          "id": "948fd9705a69611dbb4c79b2a4e281affbae4088",
+          "title": "World Labs 宣布加入 AMD",
+          "url": "https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41",
+          "source": "X：World Labs (@theworldlabs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:12:41Z"
+        },
+        {
+          "id": "60cddb973f9a6dc85895d36376743355c29e4fc7",
+          "title": "World Labs 将加入 AMD",
+          "url": "https://www.worldlabs.ai/blog/amd-announcement",
+          "source": "www.worldlabs.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T22:08:12.115000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8345,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:12:41Z",
+      "latest_at": "2026-09-28T22:08:12.115000Z",
+      "primary_item": {
+        "id": "948fd9705a69611dbb4c79b2a4e281affbae4088",
+        "title": "World Labs 宣布加入 AMD",
+        "url": "https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41",
+        "source": "X：World Labs (@theworldlabs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0aa0287df3b1",
+      "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
+      "url": "https://aihot.news/items/csi7kj1dg2owrejs3xnsz9c4c",
+      "primary_url": "https://aihot.news/items/csi7kj1dg2owrejs3xnsz9c4c",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fa19693a0d0ae7def68f089c2bc63f944b413541",
+          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
+          "url": "https://aihot.news/items/csi7kj1dg2owrejs3xnsz9c4c",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T19:54:02Z"
+        },
+        {
+          "id": "29d4dba0e97370f388619552124196c84e8f5c72",
+          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
+          "url": "https://aihot.news/items/tbqa0k90fspnu0oj9ef2527uz",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:36:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)",
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "fa19693a0d0ae7def68f089c2bc63f944b413541",
+          "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
+          "url": "https://aihot.news/items/csi7kj1dg2owrejs3xnsz9c4c",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T19:54:02Z"
+        },
+        {
+          "id": "29d4dba0e97370f388619552124196c84e8f5c72",
+          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
+          "url": "https://aihot.news/items/tbqa0k90fspnu0oj9ef2527uz",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:36:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8215,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T18:36:07Z",
+      "latest_at": "2026-09-28T19:54:02Z",
+      "primary_item": {
+        "id": "fa19693a0d0ae7def68f089c2bc63f944b413541",
+        "title": "Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30%",
+        "url": "https://aihot.news/items/csi7kj1dg2owrejs3xnsz9c4c",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d24768c8861b",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，更快更便宜并成为 claude.ai 免费层默认模型",
+      "url": "https://aihot.news/items/du8h9qjwjv97yvtr9ri2ctzg0",
+      "primary_url": "https://aihot.news/items/du8h9qjwjv97yvtr9ri2ctzg0",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c7144e641802a3c2793c2d140626aabdcf913cb5",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，更快更便宜并成为 claude.ai 免费层默认模型",
+          "url": "https://aihot.news/items/du8h9qjwjv97yvtr9ri2ctzg0",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T22:07:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "c7144e641802a3c2793c2d140626aabdcf913cb5",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，更快更便宜并成为 claude.ai 免费层默认模型",
+          "url": "https://aihot.news/items/du8h9qjwjv97yvtr9ri2ctzg0",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T22:07:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9143,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T22:07:38Z",
+      "latest_at": "2026-09-28T22:07:38Z",
+      "primary_item": {
+        "id": "c7144e641802a3c2793c2d140626aabdcf913cb5",
+        "title": "Anthropic 发布 Claude Sonnet 5.5，更快更便宜并成为 claude.ai 免费层默认模型",
+        "url": "https://aihot.news/items/du8h9qjwjv97yvtr9ri2ctzg0",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_934860b75b4a",
+      "title": "Claude Sonnet 5.5 发布，官方附上开发使用指南",
+      "url": "https://aihot.news/items/mbtmvu99jtxhxtzo5ivkyf5be",
+      "primary_url": "https://aihot.news/items/mbtmvu99jtxhxtzo5ivkyf5be",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a41a79ede3979180de67c0b491c8c8858a483cd0",
+          "title": "Claude Sonnet 5.5 发布，官方附上开发使用指南",
+          "url": "https://aihot.news/items/mbtmvu99jtxhxtzo5ivkyf5be",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T21:40:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "a41a79ede3979180de67c0b491c8c8858a483cd0",
+          "title": "Claude Sonnet 5.5 发布，官方附上开发使用指南",
+          "url": "https://aihot.news/items/mbtmvu99jtxhxtzo5ivkyf5be",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T21:40:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T21:40:50Z",
+      "latest_at": "2026-09-28T21:40:50Z",
+      "primary_item": {
+        "id": "a41a79ede3979180de67c0b491c8c8858a483cd0",
+        "title": "Claude Sonnet 5.5 发布，官方附上开发使用指南",
+        "url": "https://aihot.news/items/mbtmvu99jtxhxtzo5ivkyf5be",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -99,14 +459,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8563,
-      "importance": 0.8563,
-      "importance_score": 0.8563,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9763,
+        "recency": 0.7998,
         "story_heat": 0.0
       },
       "category": "official",
@@ -123,6 +483,66 @@
         "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f717098670b6",
+      "title": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs",
+      "url": "https://aihot.news/items/za4a4680axap7kw100yn1yab8",
+      "primary_url": "https://aihot.news/items/za4a4680axap7kw100yn1yab8",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3feadf25f1bf79f1d87589ff9b0141d1879dfbf1",
+          "title": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs",
+          "url": "https://aihot.news/items/za4a4680axap7kw100yn1yab8",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T21:31:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3feadf25f1bf79f1d87589ff9b0141d1879dfbf1",
+          "title": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs",
+          "url": "https://aihot.news/items/za4a4680axap7kw100yn1yab8",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T21:31:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7899,
+      "importance": 0.7899,
+      "importance_score": 0.7899,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8893,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T21:31:35Z",
+      "latest_at": "2026-09-28T21:31:35Z",
+      "primary_item": {
+        "id": "3feadf25f1bf79f1d87589ff9b0141d1879dfbf1",
+        "title": "AMD 以约 82 亿美元全股票收购李飞飞联合创办的 World Labs",
+        "url": "https://aihot.news/items/za4a4680axap7kw100yn1yab8",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -179,14 +599,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9245,
+        "recency": 0.7479,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -206,21 +626,141 @@
       }
     },
     {
-      "story_id": "story_f917b6c9c3e3",
-      "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-      "url": "https://aihot.news/items/j5cdomxfvsx5v14b6foz9tz5b",
-      "primary_url": "https://aihot.news/items/j5cdomxfvsx5v14b6foz9tz5b",
+      "story_id": "story_059a48a915b9",
+      "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
+      "url": "https://aihot.news/items/d6db33d5gkum5q95ntdszq48b",
+      "primary_url": "https://aihot.news/items/d6db33d5gkum5q95ntdszq48b",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6a9bd0536a03b72406d7d2a80e7db12674fe83cb",
+          "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
+          "url": "https://aihot.news/items/d6db33d5gkum5q95ntdszq48b",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:44:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "6a9bd0536a03b72406d7d2a80e7db12674fe83cb",
+          "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
+          "url": "https://aihot.news/items/d6db33d5gkum5q95ntdszq48b",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:44:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8564,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:44:16Z",
+      "latest_at": "2026-09-28T20:44:16Z",
+      "primary_item": {
+        "id": "6a9bd0536a03b72406d7d2a80e7db12674fe83cb",
+        "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
+        "url": "https://aihot.news/items/d6db33d5gkum5q95ntdszq48b",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d2c4929cfa2b",
+      "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+      "url": "https://aihot.news/items/nmbyslhbyk1orphus6lpe7wnu",
+      "primary_url": "https://aihot.news/items/nmbyslhbyk1orphus6lpe7wnu",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1dddf2987156a8e2e3e7837fe6b7a763897c0e70",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "url": "https://aihot.news/items/nmbyslhbyk1orphus6lpe7wnu",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1dddf2987156a8e2e3e7837fe6b7a763897c0e70",
+          "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+          "url": "https://aihot.news/items/nmbyslhbyk1orphus6lpe7wnu",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:39:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8531,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:39:33Z",
+      "latest_at": "2026-09-28T20:39:33Z",
+      "primary_item": {
+        "id": "1dddf2987156a8e2e3e7837fe6b7a763897c0e70",
+        "title": "AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs",
+        "url": "https://aihot.news/items/nmbyslhbyk1orphus6lpe7wnu",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3f0f221dfa34",
+      "title": "AMD 以约 $8.2B 股票收购李飞飞的 World Labs 并聘其为首席科学家",
+      "url": "https://aihot.news/items/jur2vu6z6q2p6jh9olomehrks",
+      "primary_url": "https://aihot.news/items/jur2vu6z6q2p6jh9olomehrks",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f699a8fe0f91ce2e2bb8beeb2dbbb8c53d622afa",
-          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-          "url": "https://aihot.news/items/j5cdomxfvsx5v14b6foz9tz5b",
+          "id": "a573cdbdab83813a3eeac059538c0a23aade6d12",
+          "title": "AMD 以约 $8.2B 股票收购李飞飞的 World Labs 并聘其为首席科学家",
+          "url": "https://aihot.news/items/jur2vu6z6q2p6jh9olomehrks",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T19:08:15Z"
+          "published_at": "2026-09-28T20:37:24Z"
         }
       ],
       "source_count": 1,
@@ -229,25 +769,25 @@
       ],
       "items": [
         {
-          "id": "f699a8fe0f91ce2e2bb8beeb2dbbb8c53d622afa",
-          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-          "url": "https://aihot.news/items/j5cdomxfvsx5v14b6foz9tz5b",
+          "id": "a573cdbdab83813a3eeac059538c0a23aade6d12",
+          "title": "AMD 以约 $8.2B 股票收购李飞飞的 World Labs 并聘其为首席科学家",
+          "url": "https://aihot.news/items/jur2vu6z6q2p6jh9olomehrks",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T19:08:15Z"
+          "published_at": "2026-09-28T20:37:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9663,
+        "recency": 0.8516,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -255,13 +795,332 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T19:08:15Z",
-      "latest_at": "2026-09-28T19:08:15Z",
+      "earliest_at": "2026-09-28T20:37:24Z",
+      "latest_at": "2026-09-28T20:37:24Z",
       "primary_item": {
-        "id": "f699a8fe0f91ce2e2bb8beeb2dbbb8c53d622afa",
-        "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
-        "url": "https://aihot.news/items/j5cdomxfvsx5v14b6foz9tz5b",
+        "id": "a573cdbdab83813a3eeac059538c0a23aade6d12",
+        "title": "AMD 以约 $8.2B 股票收购李飞飞的 World Labs 并聘其为首席科学家",
+        "url": "https://aihot.news/items/jur2vu6z6q2p6jh9olomehrks",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_111c5062b974",
+      "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+      "url": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+      "primary_url": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6bbd4cd14460ea59b35ddb7d4eccecd20c7bd6d5",
+          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+          "url": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:18:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "6bbd4cd14460ea59b35ddb7d4eccecd20c7bd6d5",
+          "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+          "url": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:18:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8382,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:18:05Z",
+      "latest_at": "2026-09-28T20:18:05Z",
+      "primary_item": {
+        "id": "6bbd4cd14460ea59b35ddb7d4eccecd20c7bd6d5",
+        "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+        "url": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dc19b5974702",
+      "title": "Databricks 如何让 1.4 万名员工在模型发布首日用上新模型",
+      "url": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry",
+      "primary_url": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry",
+      "source": "Databricks：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "35e667ffce87e8b84624dcb167cfd91ac3c7b6b6",
+          "title": "Databricks 如何让 1.4 万名员工在模型发布首日用上新模型",
+          "url": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry",
+          "source": "Databricks：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:11:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Databricks：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "35e667ffce87e8b84624dcb167cfd91ac3c7b6b6",
+          "title": "Databricks 如何让 1.4 万名员工在模型发布首日用上新模型",
+          "url": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry",
+          "source": "Databricks：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:11:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8336,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:11:23Z",
+      "latest_at": "2026-09-28T20:11:23Z",
+      "primary_item": {
+        "id": "35e667ffce87e8b84624dcb167cfd91ac3c7b6b6",
+        "title": "Databricks 如何让 1.4 万名员工在模型发布首日用上新模型",
+        "url": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry",
+        "source": "Databricks：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a5b0467c861b",
+      "title": "李飞飞宣布 World Labs 并入 AMD，出任执行副总裁兼首席科学家",
+      "url": "https://aihot.news/items/rsznt3xyn2s3hprqtur5eonhu",
+      "primary_url": "https://aihot.news/items/rsznt3xyn2s3hprqtur5eonhu",
+      "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1410198e6ec7ab1fa4dda01b44666a097df8436e",
+          "title": "李飞飞宣布 World Labs 并入 AMD，出任执行副总裁兼首席科学家",
+          "url": "https://aihot.news/items/rsznt3xyn2s3hprqtur5eonhu",
+          "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:07:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Fei-Fei Li (@drfeifei, World Labs)"
+      ],
+      "items": [
+        {
+          "id": "1410198e6ec7ab1fa4dda01b44666a097df8436e",
+          "title": "李飞飞宣布 World Labs 并入 AMD，出任执行副总裁兼首席科学家",
+          "url": "https://aihot.news/items/rsznt3xyn2s3hprqtur5eonhu",
+          "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T20:07:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8311,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T20:07:51Z",
+      "latest_at": "2026-09-28T20:07:51Z",
+      "primary_item": {
+        "id": "1410198e6ec7ab1fa4dda01b44666a097df8436e",
+        "title": "李飞飞宣布 World Labs 并入 AMD，出任执行副总裁兼首席科学家",
+        "url": "https://aihot.news/items/rsznt3xyn2s3hprqtur5eonhu",
+        "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_16ed0f6e0208",
+      "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+      "url": "https://aihot.news/items/jrp2kp8w4h2k80523cd04i9vo",
+      "primary_url": "https://aihot.news/items/jrp2kp8w4h2k80523cd04i9vo",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e536e6b7c59c3715526d6ff0b6d67cbfd5e8f3fd",
+          "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+          "url": "https://aihot.news/items/jrp2kp8w4h2k80523cd04i9vo",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T23:40:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e536e6b7c59c3715526d6ff0b6d67cbfd5e8f3fd",
+          "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+          "url": "https://aihot.news/items/jrp2kp8w4h2k80523cd04i9vo",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T23:40:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9789,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T23:40:42Z",
+      "latest_at": "2026-09-28T23:40:42Z",
+      "primary_item": {
+        "id": "e536e6b7c59c3715526d6ff0b6d67cbfd5e8f3fd",
+        "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
+        "url": "https://aihot.news/items/jrp2kp8w4h2k80523cd04i9vo",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a093faa49580",
+      "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
+      "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
+      "primary_url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "692db9ebbd4b3e33a2905891514ebea6624d5d7f",
+          "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
+          "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T16:43:18Z"
+        },
+        {
+          "id": "44fa152ac873c40d0a1cc0d54d86f8db22a62bd8",
+          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
+          "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T16:43:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "692db9ebbd4b3e33a2905891514ebea6624d5d7f",
+          "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
+          "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T16:43:18Z"
+        },
+        {
+          "id": "44fa152ac873c40d0a1cc0d54d86f8db22a62bd8",
+          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
+          "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T16:43:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6891,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T16:43:18Z",
+      "latest_at": "2026-09-28T16:43:18Z",
+      "primary_item": {
+        "id": "692db9ebbd4b3e33a2905891514ebea6624d5d7f",
+        "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
+        "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -300,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9605,
+        "recency": 0.784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -322,66 +1181,6 @@
         "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞",
         "url": "https://aihot.news/items/znhv47px0r7w6s8cikm7fb0pp",
         "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0aa0287df3b1",
-      "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-      "url": "https://aihot.news/items/tbqa0k90fspnu0oj9ef2527uz",
-      "primary_url": "https://aihot.news/items/tbqa0k90fspnu0oj9ef2527uz",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "29d4dba0e97370f388619552124196c84e8f5c72",
-          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-          "url": "https://aihot.news/items/tbqa0k90fspnu0oj9ef2527uz",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:36:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "29d4dba0e97370f388619552124196c84e8f5c72",
-          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-          "url": "https://aihot.news/items/tbqa0k90fspnu0oj9ef2527uz",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:36:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:36:07Z",
-      "latest_at": "2026-09-28T18:36:07Z",
-      "primary_item": {
-        "id": "29d4dba0e97370f388619552124196c84e8f5c72",
-        "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
-        "url": "https://aihot.news/items/tbqa0k90fspnu0oj9ef2527uz",
-        "source": "X：Claude Devs (@ClaudeDevs)",
         "source_name": "AI HOT"
       }
     },
@@ -420,14 +1219,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.7642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -442,66 +1241,6 @@
         "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
         "url": "https://aihot.news/items/nastdr2zteysm2n0dg58d6tb1",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fb0c15a64de1",
-      "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
-      "url": "https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s",
-      "primary_url": "https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "07865c9fa86430e10dcee9675a9f32d47c6320e2",
-          "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
-          "url": "https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:30:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "07865c9fa86430e10dcee9675a9f32d47c6320e2",
-          "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
-          "url": "https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:30:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9403,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:30:55Z",
-      "latest_at": "2026-09-28T18:30:55Z",
-      "primary_item": {
-        "id": "07865c9fa86430e10dcee9675a9f32d47c6320e2",
-        "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
-        "url": "https://aihot.news/items/mvjo660ytgz5zvwnpohs21j1s",
-        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
@@ -540,14 +1279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9368,
+        "recency": 0.7602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -563,706 +1302,6 @@
         "url": "https://aihot.news/items/ir0q60kimsv4skbvijgn9l0yo",
         "source": "X：Boris Cherny (@bcherny)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0b39b78cb867",
-      "title": "Anthropic 发布 Claude Sonnet 5.5",
-      "url": "https://aihot.news/items/bwsummhexyofxfa9zev9dck85",
-      "primary_url": "https://aihot.news/items/bwsummhexyofxfa9zev9dck85",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28e17cb1c28bfe9f6f5816c82375730311ca0421",
-          "title": "Anthropic 发布 Claude Sonnet 5.5",
-          "url": "https://aihot.news/items/bwsummhexyofxfa9zev9dck85",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "28e17cb1c28bfe9f6f5816c82375730311ca0421",
-          "title": "Anthropic 发布 Claude Sonnet 5.5",
-          "url": "https://aihot.news/items/bwsummhexyofxfa9zev9dck85",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9217,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:04:06Z",
-      "latest_at": "2026-09-28T18:04:06Z",
-      "primary_item": {
-        "id": "28e17cb1c28bfe9f6f5816c82375730311ca0421",
-        "title": "Anthropic 发布 Claude Sonnet 5.5",
-        "url": "https://aihot.news/items/bwsummhexyofxfa9zev9dck85",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e62370c08a1",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型",
-      "url": "https://aihot.news/items/iqlanyovh4aitjxz2uj7puweh",
-      "primary_url": "https://aihot.news/items/iqlanyovh4aitjxz2uj7puweh",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cbaca64f2dd8d6b55b3f08a24c9b7de15dfd4fdd",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型",
-          "url": "https://aihot.news/items/iqlanyovh4aitjxz2uj7puweh",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:03:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "cbaca64f2dd8d6b55b3f08a24c9b7de15dfd4fdd",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型",
-          "url": "https://aihot.news/items/iqlanyovh4aitjxz2uj7puweh",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:03:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9213,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:03:31Z",
-      "latest_at": "2026-09-28T18:03:31Z",
-      "primary_item": {
-        "id": "cbaca64f2dd8d6b55b3f08a24c9b7de15dfd4fdd",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型",
-        "url": "https://aihot.news/items/iqlanyovh4aitjxz2uj7puweh",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_15192a63719a",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-      "url": "https://aihot.news/items/ag0ivtvpyt00uwr2o0o5vjur7",
-      "primary_url": "https://aihot.news/items/ag0ivtvpyt00uwr2o0o5vjur7",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b749a03509d823c412990e7391ad3fc2c0f58ecd",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "url": "https://aihot.news/items/ag0ivtvpyt00uwr2o0o5vjur7",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b749a03509d823c412990e7391ad3fc2c0f58ecd",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "url": "https://aihot.news/items/ag0ivtvpyt00uwr2o0o5vjur7",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9204,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:02:10Z",
-      "latest_at": "2026-09-28T18:02:10Z",
-      "primary_item": {
-        "id": "b749a03509d823c412990e7391ad3fc2c0f58ecd",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-        "url": "https://aihot.news/items/ag0ivtvpyt00uwr2o0o5vjur7",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_00bf0838e9a1",
-      "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-      "url": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
-      "primary_url": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "79024ebd8b78da23fc1b2d8f2e14bc5b3ea2f22f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-          "url": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:58:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "79024ebd8b78da23fc1b2d8f2e14bc5b3ea2f22f",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-          "url": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:58:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9176,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:58:11Z",
-      "latest_at": "2026-09-28T17:58:11Z",
-      "primary_item": {
-        "id": "79024ebd8b78da23fc1b2d8f2e14bc5b3ea2f22f",
-        "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30%",
-        "url": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_15cd503b75a9",
-      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-      "url": "https://aihot.news/items/utlli05ofg17l8l9piwz0we87",
-      "primary_url": "https://aihot.news/items/utlli05ofg17l8l9piwz0we87",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fe025ff74ec2f25a8d4d881b46b6da9eb55de671",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "url": "https://aihot.news/items/utlli05ofg17l8l9piwz0we87",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fe025ff74ec2f25a8d4d881b46b6da9eb55de671",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "url": "https://aihot.news/items/utlli05ofg17l8l9piwz0we87",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:09:02Z",
-      "latest_at": "2026-09-28T17:09:02Z",
-      "primary_item": {
-        "id": "fe025ff74ec2f25a8d4d881b46b6da9eb55de671",
-        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-        "url": "https://aihot.news/items/utlli05ofg17l8l9piwz0we87",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a093faa49580",
-      "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-      "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
-      "primary_url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "44fa152ac873c40d0a1cc0d54d86f8db22a62bd8",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-          "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "44fa152ac873c40d0a1cc0d54d86f8db22a62bd8",
-          "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-          "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8656,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T16:43:18Z",
-      "latest_at": "2026-09-28T16:43:18Z",
-      "primary_item": {
-        "id": "44fa152ac873c40d0a1cc0d54d86f8db22a62bd8",
-        "title": "OpenAI 暂停前沿模型训练，因多起智能体对齐事件",
-        "url": "https://aihot.news/items/dr71bfb4h3mnv7fbe72dm4ki9",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a4d9b4eeafc7",
-      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-      "url": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
-      "primary_url": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e672df43bb64bf14c03de9b3c1e66c340e0d1caa",
-          "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-          "url": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T15:41:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "e672df43bb64bf14c03de9b3c1e66c340e0d1caa",
-          "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-          "url": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T15:41:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8226,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T15:41:27Z",
-      "latest_at": "2026-09-28T15:41:27Z",
-      "primary_item": {
-        "id": "e672df43bb64bf14c03de9b3c1e66c340e0d1caa",
-        "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-        "url": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cb2737aa8d0a",
-      "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-      "url": "https://www.aibase.com/news/31384",
-      "primary_url": "https://www.aibase.com/news/31384",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/news/31384",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T12:37:30.107950Z"
-        },
-        {
-          "id": "d46f528833e48d2cea5784d4c7be08e39b2ba1ee",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/zh/news/31384",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/news/31384",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T12:37:30.107950Z"
-        },
-        {
-          "id": "d46f528833e48d2cea5784d4c7be08e39b2ba1ee",
-          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-          "url": "https://www.aibase.com/zh/news/31384",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6949,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T12:37:30.107950Z",
-      "latest_at": "2026-09-28T12:37:30.107950Z",
-      "primary_item": {
-        "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
-        "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
-        "url": "https://www.aibase.com/news/31384",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_16ebaa4fdcc4",
-      "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-      "url": "https://aihot.news/items/a9232gqkdvffzddxfcywal2ng",
-      "primary_url": "https://aihot.news/items/a9232gqkdvffzddxfcywal2ng",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f629b14683cdfa8d76e2714ec18a17919c8aa616",
-          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-          "url": "https://aihot.news/items/a9232gqkdvffzddxfcywal2ng",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:04:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "f629b14683cdfa8d76e2714ec18a17919c8aa616",
-          "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-          "url": "https://aihot.news/items/a9232gqkdvffzddxfcywal2ng",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:04:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8801,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:04:09Z",
-      "latest_at": "2026-09-28T17:04:09Z",
-      "primary_item": {
-        "id": "f629b14683cdfa8d76e2714ec18a17919c8aa616",
-        "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-        "url": "https://aihot.news/items/a9232gqkdvffzddxfcywal2ng",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_729af7e16fc7",
-      "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-      "url": "https://www.aibase.com/news/31382",
-      "primary_url": "https://www.aibase.com/news/31382",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "url": "https://www.aibase.com/news/31382",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T12:37:30.107950Z"
-        },
-        {
-          "id": "d010544698f534bcacf57f17c939c04ece5d2e04",
-          "title": "英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别",
-          "url": "https://www.aibase.com/zh/news/31382",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "url": "https://www.aibase.com/news/31382",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T12:37:30.107950Z"
-        },
-        {
-          "id": "d010544698f534bcacf57f17c939c04ece5d2e04",
-          "title": "英伟达发布 1 亿参数免费模型 Nemotron3，支持 8 人实时语音分割识别",
-          "url": "https://www.aibase.com/zh/news/31382",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6949,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T12:37:30.107950Z",
-      "latest_at": "2026-09-28T12:37:30.107950Z",
-      "primary_item": {
-        "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-        "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-        "url": "https://www.aibase.com/news/31382",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.158.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.1689,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T00:00:00Z",
-      "latest_at": "2026-09-28T00:00:00Z",
-      "primary_item": {
-        "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-        "title": "Codex CLI 0.158.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
