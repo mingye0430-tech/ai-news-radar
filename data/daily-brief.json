@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-01T21:31:54.432886Z",
+  "generated_at": "2026-10-02T13:59:34.579874Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_819b8b6c47de",
-      "title": "GitHub Copilot can now interact with desktop apps with computer use",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "story_id": "story_04cee568ccaf",
+      "title": "Confidential comments on repository security advisories",
+      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot can now interact with desktop apps with computer use",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "Confidential comments on repository security advisories",
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
+          "published_at": "2026-10-02T13:15:40Z"
         }
       ],
       "source_count": 1,
@@ -27,267 +27,25 @@
       ],
       "items": [
         {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot can now interact with desktop apps with computer use",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "Confidential comments on repository security advisories",
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
+          "published_at": "2026-10-02T13:15:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8535,
-      "importance": 0.8535,
-      "importance_score": 0.8535,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9024,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:11:26Z",
-      "latest_at": "2026-10-01T19:11:26Z",
-      "primary_item": {
-        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-        "title": "GitHub Copilot can now interact with desktop apps with computer use",
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b33dfcad9023",
-      "title": "GitHub Copilot in VS Code, September 2026 releases",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "GitHub Copilot in VS Code, September 2026 releases",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "GitHub Copilot in VS Code, September 2026 releases",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8532,
-      "importance": 0.8532,
-      "importance_score": 0.8532,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9009,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:09:10Z",
-      "latest_at": "2026-10-01T19:09:10Z",
-      "primary_item": {
-        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-        "title": "GitHub Copilot in VS Code, September 2026 releases",
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0884e432d9c9",
-      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-      "url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
-      "primary_url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
-      "source": "OpenRouter",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c7a6b37d71d4b64e73a42cb5929c55209cf567b0",
-          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-          "url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
-          "source": "OpenRouter",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:37:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter"
-      ],
-      "items": [
-        {
-          "id": "c7a6b37d71d4b64e73a42cb5929c55209cf567b0",
-          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-          "url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
-          "source": "OpenRouter",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:37:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9623,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T20:37:38Z",
-      "latest_at": "2026-10-01T20:37:38Z",
-      "primary_item": {
-        "id": "c7a6b37d71d4b64e73a42cb5929c55209cf567b0",
-        "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-        "url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
-        "source": "OpenRouter",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9d51b2d0dae",
-      "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-      "url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
-      "primary_url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
-      "source": "Arena",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "10f5fef8b1956cffd1baa60d407139f999bb5636",
-          "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-          "url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T18:57:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Arena"
-      ],
-      "items": [
-        {
-          "id": "10f5fef8b1956cffd1baa60d407139f999bb5636",
-          "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-          "url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T18:57:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8931,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T18:57:58Z",
-      "latest_at": "2026-10-01T18:57:58Z",
-      "primary_item": {
-        "id": "10f5fef8b1956cffd1baa60d407139f999bb5636",
-        "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
-        "url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
-        "source": "Arena",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_65858f5c8d43",
-      "title": "Rate limits for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "Rate limits for private vulnerability reports",
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "Rate limits for private vulnerability reports",
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8549,
+      "importance": 0.8549,
+      "importance_score": 0.8549,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9345,
+        "recency": 0.9695,
         "story_heat": 0.0
       },
       "category": "official",
@@ -296,59 +54,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:57:39Z",
-      "latest_at": "2026-10-01T19:57:39Z",
+      "earliest_at": "2026-10-02T13:15:40Z",
+      "latest_at": "2026-10-02T13:15:40Z",
       "primary_item": {
-        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-        "title": "Rate limits for private vulnerability reports",
-        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+        "id": "75d3ae652733e012708727418c039e9c82d67827",
+        "title": "Confidential comments on repository security advisories",
+        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_50ae49e54c33",
-      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-      "url": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2",
-      "primary_url": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2",
-      "source": "Claude Devs",
+      "story_id": "story_561cfa6a64c2",
+      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+      "url": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+      "primary_url": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+      "source": "NVIDIA Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6864d604d6de39579e6f1d86dd88328770983e8a",
-          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-          "url": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2",
-          "source": "Claude Devs",
+          "id": "c6e3a6106d502e791274911bbf1a56e6e2d7ee1d",
+          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+          "url": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+          "source": "NVIDIA Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-01T18:08:07Z"
+          "published_at": "2026-10-02T13:00:39Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude Devs"
+        "NVIDIA Blog"
       ],
       "items": [
         {
-          "id": "6864d604d6de39579e6f1d86dd88328770983e8a",
-          "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-          "url": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2",
-          "source": "Claude Devs",
+          "id": "c6e3a6106d502e791274911bbf1a56e6e2d7ee1d",
+          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+          "url": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+          "source": "NVIDIA Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-01T18:08:07Z"
+          "published_at": "2026-10-02T13:00:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8585,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -356,59 +114,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T18:08:07Z",
-      "latest_at": "2026-10-01T18:08:07Z",
+      "earliest_at": "2026-10-02T13:00:39Z",
+      "latest_at": "2026-10-02T13:00:39Z",
       "primary_item": {
-        "id": "6864d604d6de39579e6f1d86dd88328770983e8a",
-        "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
-        "url": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2",
-        "source": "Claude Devs",
+        "id": "c6e3a6106d502e791274911bbf1a56e6e2d7ee1d",
+        "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+        "url": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+        "source": "NVIDIA Blog",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_407fdffed6e2",
-      "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
-      "url": "https://aihot.news/items/t6jf7f9e5zbw4sxftwim9wgk7",
-      "primary_url": "https://aihot.news/items/t6jf7f9e5zbw4sxftwim9wgk7",
-      "source": "LangChain：Blog",
+      "story_id": "story_023569e29630",
+      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+      "url": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+      "primary_url": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+      "source": "Rohan Paul",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9201a685be8c60925e298b1dac565332cfcabcae",
-          "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
-          "url": "https://aihot.news/items/t6jf7f9e5zbw4sxftwim9wgk7",
-          "source": "LangChain：Blog",
+          "id": "5128f92dff9a6757ea0d893ecf218bcc62d257d9",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "url": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+          "source": "Rohan Paul",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-01T17:01:32Z"
+          "published_at": "2026-10-02T07:23:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LangChain：Blog"
+        "Rohan Paul"
       ],
       "items": [
         {
-          "id": "9201a685be8c60925e298b1dac565332cfcabcae",
-          "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
-          "url": "https://aihot.news/items/t6jf7f9e5zbw4sxftwim9wgk7",
-          "source": "LangChain：Blog",
+          "id": "5128f92dff9a6757ea0d893ecf218bcc62d257d9",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "url": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+          "source": "Rohan Paul",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-01T17:01:32Z"
+          "published_at": "2026-10-02T07:23:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8122,
+        "recency": 0.7248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -416,617 +174,735 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T17:01:32Z",
-      "latest_at": "2026-10-01T17:01:32Z",
+      "earliest_at": "2026-10-02T07:23:13Z",
+      "latest_at": "2026-10-02T07:23:13Z",
       "primary_item": {
-        "id": "9201a685be8c60925e298b1dac565332cfcabcae",
-        "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
-        "url": "https://aihot.news/items/t6jf7f9e5zbw4sxftwim9wgk7",
-        "source": "LangChain：Blog",
+        "id": "5128f92dff9a6757ea0d893ecf218bcc62d257d9",
+        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+        "url": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+        "source": "Rohan Paul",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_eebe7e321dec",
-      "title": "Structured forms for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1eadfb1cd5ee",
+      "title": "克劳德式的科学 / Claude-Shaped Science",
+      "url": "https://www.anthropic.com/research/claude-shaped-science",
+      "primary_url": "https://www.anthropic.com/research/claude-shaped-science",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-          "title": "Structured forms for private vulnerability reports",
-          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:28Z"
+          "id": "783f5fde746be00082378f289bc8d104215aeba3",
+          "title": "克劳德式的科学 / Claude-Shaped Science",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-02T13:38:03Z"
+        },
+        {
+          "id": "afa99fd526c91322d4f56995eefe51084edbdd25",
+          "title": "克劳德式的科学",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T10:16:49.580000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News (黑客新闻)",
+        "www.anthropic.com"
       ],
       "items": [
         {
-          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-          "title": "Structured forms for private vulnerability reports",
-          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:28Z"
+          "id": "783f5fde746be00082378f289bc8d104215aeba3",
+          "title": "克劳德式的科学 / Claude-Shaped Science",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-02T13:38:03Z"
+        },
+        {
+          "id": "afa99fd526c91322d4f56995eefe51084edbdd25",
+          "title": "克劳德式的科学",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T10:16:49.580000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9344,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9851,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T19:57:28Z",
-      "latest_at": "2026-10-01T19:57:28Z",
+      "earliest_at": "2026-10-02T10:16:49.580000Z",
+      "latest_at": "2026-10-02T13:38:03Z",
       "primary_item": {
-        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-        "title": "Structured forms for private vulnerability reports",
-        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "783f5fde746be00082378f289bc8d104215aeba3",
+        "title": "克劳德式的科学 / Claude-Shaped Science",
+        "url": "https://www.anthropic.com/research/claude-shaped-science",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_7dc2d91dc3fe",
-      "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
-      "url": "https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f",
-      "primary_url": "https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f",
-      "source": "Arena",
-      "source_name": "AI HOT",
+      "story_id": "story_ea67658b3ad2",
+      "title": "美国各州州长对人工智能和数据中心的立场",
+      "url": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10",
+      "primary_url": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "f81f28090aee3cdd3afcea437fcfb54e16baaad9",
-          "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
-          "url": "https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T16:51:02Z"
+          "id": "698dad085a77873a800e1ad7189954d46e0faede",
+          "title": "美国各州州长对人工智能和数据中心的立场",
+          "url": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T11:35:55.117000Z"
+        },
+        {
+          "id": "63a1bdf9623727aaaeee03408a8f86e2bbba6791",
+          "title": "美国各州州长对人工智能和数据中心的立场 / Where every US governor stands on AI and the data-center boom",
+          "url": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T11:13:01Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Arena"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "f81f28090aee3cdd3afcea437fcfb54e16baaad9",
-          "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
-          "url": "https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f",
-          "source": "Arena",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T16:51:02Z"
+          "id": "698dad085a77873a800e1ad7189954d46e0faede",
+          "title": "美国各州州长对人工智能和数据中心的立场",
+          "url": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T11:35:55.117000Z"
+        },
+        {
+          "id": "63a1bdf9623727aaaeee03408a8f86e2bbba6791",
+          "title": "美国各州州长对人工智能和数据中心的立场 / Where every US governor stands on AI and the data-center boom",
+          "url": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T11:13:01Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8049,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9002,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T16:51:02Z",
-      "latest_at": "2026-10-01T16:51:02Z",
+      "earliest_at": "2026-10-02T11:13:01Z",
+      "latest_at": "2026-10-02T11:35:55.117000Z",
       "primary_item": {
-        "id": "f81f28090aee3cdd3afcea437fcfb54e16baaad9",
-        "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
-        "url": "https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f",
-        "source": "Arena",
-        "source_name": "AI HOT"
+        "id": "698dad085a77873a800e1ad7189954d46e0faede",
+        "title": "美国各州州长对人工智能和数据中心的立场",
+        "url": "https://www.businessinsider.com/where-every-us-governor-stands-ai-data-centers-midterms-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_3e2d303ec6c5",
-      "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
-      "url": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
-      "primary_url": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
+      "story_id": "story_fbc7283f1ec7",
+      "title": "OpenAI因员工不当处理“敏感信息”而解雇相关员工 / OpenAI fires workers for 'mishandling sensitive information'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "fc41756ea4696a8fc762817c1835053256346e7e",
-          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
-          "url": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T12:05:49Z"
+          "id": "f857cf4d9b96f379b78eea14f143534b5dac4e71",
+          "title": "OpenAI因员工不当处理“敏感信息”而解雇相关员工 / OpenAI fires workers for 'mishandling sensitive information'",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-02T08:20:32Z"
+        },
+        {
+          "id": "912e9219c91cd9c75fb4241e5e711074aa0a8520",
+          "title": "OpenAI因员工不当处理“敏感信息”而解雇相关员工",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T02:56:58.785000Z"
+        },
+        {
+          "id": "154f725cf79cbb0a7db1ac0041e1f2ccf1046360",
+          "title": "OpenAI因员工不当处理“敏感信息”而解雇相关员工 / OpenAI fires three workers over mishandling 'sensitive information'",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T01:34:56Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "The Decoder：AI News"
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
       ],
       "items": [
         {
-          "id": "fc41756ea4696a8fc762817c1835053256346e7e",
-          "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
-          "url": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T12:05:49Z"
+          "id": "f857cf4d9b96f379b78eea14f143534b5dac4e71",
+          "title": "OpenAI因员工不当处理“敏感信息”而解雇相关员工 / OpenAI fires workers for 'mishandling sensitive information'",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-02T08:20:32Z"
+        },
+        {
+          "id": "912e9219c91cd9c75fb4241e5e711074aa0a8520",
+          "title": "OpenAI因员工不当处理“敏感信息”而解雇相关员工",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T02:56:58.785000Z"
+        },
+        {
+          "id": "154f725cf79cbb0a7db1ac0041e1f2ccf1046360",
+          "title": "OpenAI因员工不当处理“敏感信息”而解雇相关员工 / OpenAI fires three workers over mishandling 'sensitive information'",
+          "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T01:34:56Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6069,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7646,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T12:05:49Z",
-      "latest_at": "2026-10-01T12:05:49Z",
+      "earliest_at": "2026-10-02T01:34:56Z",
+      "latest_at": "2026-10-02T08:20:32Z",
       "primary_item": {
-        "id": "fc41756ea4696a8fc762817c1835053256346e7e",
-        "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
-        "url": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled",
-        "source": "The Decoder：AI News",
-        "source_name": "AI HOT"
+        "id": "f857cf4d9b96f379b78eea14f143534b5dac4e71",
+        "title": "OpenAI因员工不当处理“敏感信息”而解雇相关员工 / OpenAI fires workers for 'mishandling sensitive information'",
+        "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_8dad79f3b424",
-      "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-      "url": "https://aihot.news/items/sbvvdrkyjbtob4gp4iwwtyar1",
-      "primary_url": "https://aihot.news/items/sbvvdrkyjbtob4gp4iwwtyar1",
-      "source": "Anthropic：Claude.dev 开发者博客",
-      "source_name": "AI HOT",
+      "story_id": "story_a5bf984e60eb",
+      "title": "人工智能依然需要人的触感。埃森哲正是咨询类股票能够蓬勃发展的最新例证。",
+      "url": "https://www.businessinsider.com/why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-2026-10",
+      "primary_url": "https://www.businessinsider.com/why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fb3e1edc7f731496b8a3bc8c16360134de725a6a",
-          "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-          "url": "https://aihot.news/items/sbvvdrkyjbtob4gp4iwwtyar1",
-          "source": "Anthropic：Claude.dev 开发者博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T12:00:00Z"
+          "id": "c5ddc33f86f6b7738a30fe34577d80028ceb7ad4",
+          "title": "人工智能依然需要人的触感。埃森哲正是咨询类股票能够蓬勃发展的最新例证。",
+          "url": "https://www.businessinsider.com/why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T10:01:48.465000Z"
+        },
+        {
+          "id": "ab01336d4026f1746aa2c04083cbdf0d744bbf6a",
+          "title": "人工智能依然需要人的触感。埃森哲正是咨询类股票能够蓬勃发展的最新例证。 / AI still needs a human touch. Consulting stocks are the latest proof.",
+          "url": "https://www.businessinsider.com/why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T09:50:01Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Anthropic：Claude.dev 开发者博客"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "fb3e1edc7f731496b8a3bc8c16360134de725a6a",
-          "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-          "url": "https://aihot.news/items/sbvvdrkyjbtob4gp4iwwtyar1",
-          "source": "Anthropic：Claude.dev 开发者博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T12:00:00Z"
+          "id": "c5ddc33f86f6b7738a30fe34577d80028ceb7ad4",
+          "title": "人工智能依然需要人的触感。埃森哲正是咨询类股票能够蓬勃发展的最新例证。",
+          "url": "https://www.businessinsider.com/why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T10:01:48.465000Z"
+        },
+        {
+          "id": "ab01336d4026f1746aa2c04083cbdf0d744bbf6a",
+          "title": "人工智能依然需要人的触感。埃森哲正是咨询类股票能够蓬勃发展的最新例证。 / AI still needs a human touch. Consulting stocks are the latest proof.",
+          "url": "https://www.businessinsider.com/why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T09:50:01Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6028,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8349,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T12:00:00Z",
-      "latest_at": "2026-10-01T12:00:00Z",
+      "earliest_at": "2026-10-02T09:50:01Z",
+      "latest_at": "2026-10-02T10:01:48.465000Z",
       "primary_item": {
-        "id": "fb3e1edc7f731496b8a3bc8c16360134de725a6a",
-        "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-        "url": "https://aihot.news/items/sbvvdrkyjbtob4gp4iwwtyar1",
-        "source": "Anthropic：Claude.dev 开发者博客",
-        "source_name": "AI HOT"
+        "id": "c5ddc33f86f6b7738a30fe34577d80028ceb7ad4",
+        "title": "人工智能依然需要人的触感。埃森哲正是咨询类股票能够蓬勃发展的最新例证。",
+        "url": "https://www.businessinsider.com/why-accenture-consulting-stocks-thrive-ai-trade-needs-human-touch-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_2c64651c7dcf",
-      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-      "url": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
-      "primary_url": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
-      "source": "Ethan Mollick：One Useful Thing",
-      "source_name": "AI HOT",
+      "story_id": "story_4c41d0de1f5c",
+      "title": "DeepSeek 束带",
+      "url": "https://www.deepseek.com/en/harness",
+      "primary_url": "https://www.deepseek.com/en/harness",
+      "source": "www.deepseek.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "07a1d842b012968733d4aee6ad597c80bee01004",
-          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-          "url": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
-          "source": "Ethan Mollick：One Useful Thing",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T10:54:12Z"
+          "id": "e92d26d4e7b45d24ef5621a607abb3d989b6b73f",
+          "title": "DeepSeek 束带",
+          "url": "https://www.deepseek.com/en/harness",
+          "source": "www.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T06:05:38.511000Z"
+        },
+        {
+          "id": "7465a70e89e63ffe00fe186ec63e5d75bdb1ca7f",
+          "title": "DeepSeek 束带 / DeepSeek Harness Desktop for macOS and Windows",
+          "url": "https://www.deepseek.com/en/harness",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T03:11:20Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Ethan Mollick：One Useful Thing"
+        "Hacker News · 24h最热",
+        "www.deepseek.com"
       ],
       "items": [
         {
-          "id": "07a1d842b012968733d4aee6ad597c80bee01004",
-          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-          "url": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
-          "source": "Ethan Mollick：One Useful Thing",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T10:54:12Z"
+          "id": "e92d26d4e7b45d24ef5621a607abb3d989b6b73f",
+          "title": "DeepSeek 束带",
+          "url": "https://www.deepseek.com/en/harness",
+          "source": "www.deepseek.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T06:05:38.511000Z"
+        },
+        {
+          "id": "7465a70e89e63ffe00fe186ec63e5d75bdb1ca7f",
+          "title": "DeepSeek 束带 / DeepSeek Harness Desktop for macOS and Windows",
+          "url": "https://www.deepseek.com/en/harness",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T03:11:20Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4822,
+      "importance": 0.4822,
+      "importance_score": 0.4822,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5571,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6709,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T10:54:12Z",
-      "latest_at": "2026-10-01T10:54:12Z",
+      "earliest_at": "2026-10-02T03:11:20Z",
+      "latest_at": "2026-10-02T06:05:38.511000Z",
       "primary_item": {
-        "id": "07a1d842b012968733d4aee6ad597c80bee01004",
-        "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-        "url": "https://aihot.news/items/i35lar26hjm4djheowz5ytplm",
-        "source": "Ethan Mollick：One Useful Thing",
-        "source_name": "AI HOT"
+        "id": "e92d26d4e7b45d24ef5621a607abb3d989b6b73f",
+        "title": "DeepSeek 束带",
+        "url": "https://www.deepseek.com/en/harness",
+        "source": "www.deepseek.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_1d7c1228c839",
-      "title": "Accessibility statements highlighted on repository overview",
-      "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_79f8fdb93f17",
+      "title": "《青蛙和蟾蜍与日益强大的机器》",
+      "url": "https://www.frogandtoad.ai",
+      "primary_url": "https://www.frogandtoad.ai",
+      "source": "www.frogandtoad.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-          "title": "Accessibility statements highlighted on repository overview",
-          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:04:32Z"
+          "id": "0f83a345d564742b943347b3e660b0dcecbf06cc",
+          "title": "《青蛙和蟾蜍与日益强大的机器》",
+          "url": "https://www.frogandtoad.ai",
+          "source": "www.frogandtoad.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T05:35:05.352000Z"
+        },
+        {
+          "id": "e3bbbf656f8208ef5d826b51d9c02f223106b1f6",
+          "title": "《青蛙和蟾蜍与日益强大的机器》 / Frog and Toad and the Increasingly Capable Machines",
+          "url": "https://www.frogandtoad.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T22:23:38Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News (黑客新闻)",
+        "www.frogandtoad.ai"
       ],
       "items": [
         {
-          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-          "title": "Accessibility statements highlighted on repository overview",
-          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:04:32Z"
+          "id": "0f83a345d564742b943347b3e660b0dcecbf06cc",
+          "title": "《青蛙和蟾蜍与日益强大的机器》",
+          "url": "https://www.frogandtoad.ai",
+          "source": "www.frogandtoad.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T05:35:05.352000Z"
+        },
+        {
+          "id": "e3bbbf656f8208ef5d826b51d9c02f223106b1f6",
+          "title": "《青蛙和蟾蜍与日益强大的机器》 / Frog and Toad and the Increasingly Capable Machines",
+          "url": "https://www.frogandtoad.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-01T22:23:38Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4779,
+      "importance": 0.4779,
+      "importance_score": 0.4779,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8977,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6497,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T19:04:32Z",
-      "latest_at": "2026-10-01T19:04:32Z",
+      "earliest_at": "2026-10-01T22:23:38Z",
+      "latest_at": "2026-10-02T05:35:05.352000Z",
       "primary_item": {
-        "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-        "title": "Accessibility statements highlighted on repository overview",
-        "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "0f83a345d564742b943347b3e660b0dcecbf06cc",
+        "title": "《青蛙和蟾蜍与日益强大的机器》",
+        "url": "https://www.frogandtoad.ai",
+        "source": "www.frogandtoad.ai",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_11541a89b22f",
-      "title": "Actions retention now covers checks, runs, and statuses",
-      "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "primary_url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_8fe0f43c8e68",
+      "title": "投票选出Hacker News提出的哪些AI挑战已经实现",
+      "url": "https://stoppels.ch/goalposts",
+      "primary_url": "https://stoppels.ch/goalposts",
+      "source": "stoppels.ch",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions retention now covers checks, runs, and statuses",
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
+          "id": "1344ab06c57d57dd972f87cc0f3b9a717252c90c",
+          "title": "投票选出Hacker News提出的哪些AI挑战已经实现",
+          "url": "https://stoppels.ch/goalposts",
+          "source": "stoppels.ch",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T02:56:57.255000Z"
+        },
+        {
+          "id": "e8ec2efcaf259fc6dae84a83e83844abf1071050",
+          "title": "投票选出Hacker News提出的哪些AI挑战已经实现 / Vote on which of Hacker News' challenges for AI have been met",
+          "url": "https://stoppels.ch/goalposts",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T17:32:43Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News · 24h最热",
+        "stoppels.ch"
       ],
       "items": [
         {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions retention now covers checks, runs, and statuses",
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
+          "id": "1344ab06c57d57dd972f87cc0f3b9a717252c90c",
+          "title": "投票选出Hacker News提出的哪些AI挑战已经实现",
+          "url": "https://stoppels.ch/goalposts",
+          "source": "stoppels.ch",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T02:56:57.255000Z"
+        },
+        {
+          "id": "e8ec2efcaf259fc6dae84a83e83844abf1071050",
+          "title": "投票选出Hacker News提出的哪些AI挑战已经实现 / Vote on which of Hacker News' challenges for AI have been met",
+          "url": "https://stoppels.ch/goalposts",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T17:32:43Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.456,
+      "importance": 0.456,
+      "importance_score": 0.456,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8528,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5398,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T17:59:54Z",
-      "latest_at": "2026-10-01T17:59:54Z",
+      "earliest_at": "2026-10-01T17:32:43Z",
+      "latest_at": "2026-10-02T02:56:57.255000Z",
       "primary_item": {
-        "id": "bd680e642074865eae97e27770212465ae6180e3",
-        "title": "Actions retention now covers checks, runs, and statuses",
-        "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "1344ab06c57d57dd972f87cc0f3b9a717252c90c",
+        "title": "投票选出Hacker News提出的哪些AI挑战已经实现",
+        "url": "https://stoppels.ch/goalposts",
+        "source": "stoppels.ch",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_90b9985c3923",
-      "title": "Dynamic workflows in Copilot CLI and the Copilot app",
-      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1a81a97a2652",
+      "title": "我经营着一家人工智能公司，拥有34名AI员工。我的每一天都离不开健怡可乐、DoorDash和“克劳德散步”——以下就是我的日常安排。",
+      "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10",
+      "primary_url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
+          "id": "9316292cf1d484bb2cf3d20b28a3917c11732d22",
+          "title": "我经营着一家人工智能公司，拥有34名AI员工。我的每一天都离不开健怡可乐、DoorDash和“克劳德散步”——以下就是我的日常安排。",
+          "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T09:15:01.352000Z"
+        },
+        {
+          "id": "b644c1a4f8e092bf36d5fdfaadaab951febcb1ca",
+          "title": "我经营着一家人工智能公司，拥有34名AI员工。我的每一天都离不开健怡可乐、DoorDash和“克劳德散步”——以下就是我的日常安排。 / I run an AI company with a workforce of 34 AI agents. My days are powered by Diet Coke, DoorDash, and 'Claude walks' — here's my routine.",
+          "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T09:05:01Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
+          "id": "9316292cf1d484bb2cf3d20b28a3917c11732d22",
+          "title": "我经营着一家人工智能公司，拥有34名AI员工。我的每一天都离不开健怡可乐、DoorDash和“克劳德散步”——以下就是我的日常安排。",
+          "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T09:15:01.352000Z"
+        },
+        {
+          "id": "b644c1a4f8e092bf36d5fdfaadaab951febcb1ca",
+          "title": "我经营着一家人工智能公司，拥有34名AI员工。我的每一天都离不开健怡可乐、DoorDash和“克劳德散步”——以下就是我的日常安排。 / I run an AI company with a workforce of 34 AI agents. My days are powered by Diet Coke, DoorDash, and 'Claude walks' — here's my routine.",
+          "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-02T09:05:01Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7905,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8024,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T16:30:10Z",
-      "latest_at": "2026-10-01T16:30:10Z",
+      "earliest_at": "2026-10-02T09:05:01Z",
+      "latest_at": "2026-10-02T09:15:01.352000Z",
       "primary_item": {
-        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-        "title": "Dynamic workflows in Copilot CLI and the Copilot app",
-        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "9316292cf1d484bb2cf3d20b28a3917c11732d22",
+        "title": "我经营着一家人工智能公司，拥有34名AI员工。我的每一天都离不开健怡可乐、DoorDash和“克劳德散步”——以下就是我的日常安排。",
+        "url": "https://www.businessinsider.com/open-machine-ceo-allie-k-miller-discusses-ai-daily-life-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_e9f82fa22589",
-      "title": "Code coverage uploads no longer fail CI for new branches",
-      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-      "primary_url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_83044bac058d",
+      "title": "上下文语言模型",
+      "url": "https://arxiv.org/abs/2609.37725",
+      "primary_url": "https://arxiv.org/abs/2609.37725",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-          "title": "Code coverage uploads no longer fail CI for new branches",
-          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:05Z"
+          "id": "2980f2b6f74288b9a7f917eac3c4d5445403ffd1",
+          "title": "上下文语言模型",
+          "url": "https://arxiv.org/abs/2609.37725",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T00:34:04.025000Z"
+        },
+        {
+          "id": "04a900f577e464b6246dd33ef92a4f9e1d868b65",
+          "title": "上下文语言模型 / Context Language Models",
+          "url": "https://arxiv.org/abs/2609.37725",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T14:51:33Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News · 24h最热",
+        "arxiv.org"
       ],
       "items": [
         {
-          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-          "title": "Code coverage uploads no longer fail CI for new branches",
-          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8036,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T16:49:05Z",
-      "latest_at": "2026-10-01T16:49:05Z",
-      "primary_item": {
-        "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-        "title": "Code coverage uploads no longer fail CI for new branches",
-        "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_baa9bc568213",
-      "title": "Scheduled code scanning skips inactive repositories",
-      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
-      "primary_url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
+          "id": "2980f2b6f74288b9a7f917eac3c4d5445403ffd1",
+          "title": "上下文语言模型",
+          "url": "https://arxiv.org/abs/2609.37725",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T00:34:04.025000Z"
+        },
         {
-          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
-          "title": "Scheduled code scanning skips inactive repositories",
-          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:15Z"
+          "id": "04a900f577e464b6246dd33ef92a4f9e1d868b65",
+          "title": "上下文语言模型 / Context Language Models",
+          "url": "https://arxiv.org/abs/2609.37725",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T14:51:33Z"
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
-          "title": "Scheduled code scanning skips inactive repositories",
-          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4361,
+      "importance": 0.4361,
+      "importance_score": 0.4361,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8037,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4406,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-01T16:49:15Z",
-      "latest_at": "2026-10-01T16:49:15Z",
+      "earliest_at": "2026-10-01T14:51:33Z",
+      "latest_at": "2026-10-02T00:34:04.025000Z",
       "primary_item": {
-        "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
-        "title": "Scheduled code scanning skips inactive repositories",
-        "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "2980f2b6f74288b9a7f917eac3c4d5445403ffd1",
+        "title": "上下文语言模型",
+        "url": "https://arxiv.org/abs/2609.37725",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1048,7 +924,7 @@
         },
         {
           "id": "52f52d912fa33bc43e77f8c092a662cb78712433",
-          "title": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
+          "title": "Oura 与 Xella Health 合作，将您的智能戒指数据与人工智能驱动的生物标志物测试相结合 / Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
           "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
           "source": "TechRadar",
           "source_name": "TechURLs",
@@ -1073,7 +949,7 @@
         },
         {
           "id": "52f52d912fa33bc43e77f8c092a662cb78712433",
-          "title": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
+          "title": "Oura 与 Xella Health 合作，将您的智能戒指数据与人工智能驱动的生物标志物测试相结合 / Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
           "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
           "source": "TechRadar",
           "source_name": "TechURLs",
@@ -1083,14 +959,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.4108,
+      "importance": 0.4108,
+      "importance_score": 0.4108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.3141,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1105,67 +981,6 @@
         "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_881ea4500cdd",
-      "title": "New dashboard experience now the default",
-      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-      "primary_url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
-          "title": "New dashboard experience now the default",
-          "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:14:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
-          "title": "New dashboard experience now the default",
-          "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:14:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7799,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T16:14:56Z",
-      "latest_at": "2026-10-01T16:14:56Z",
-      "primary_item": {
-        "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
-        "title": "New dashboard experience now the default",
-        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1258,14 +1073,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.4079,
+      "importance": 0.4079,
+      "importance_score": 0.4079,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7356,
+        "recency": 0.0497,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1280,6 +1095,492 @@
         "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_de0a1dfa7625",
+      "title": "法官驳回了Chegg和Penske针对谷歌AI搜索提起的反垄断诉讼",
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
+      "primary_url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "decab956ee4aa0369e28dfa4521537587b5ccabd",
+          "title": "法官驳回了Chegg和Penske针对谷歌AI搜索提起的反垄断诉讼",
+          "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T20:55:04.619000Z"
+        },
+        {
+          "id": "12e40f29365184a210823ad170a8851e859d53f5",
+          "title": "法官驳回了Chegg和Penske针对谷歌AI搜索提起的反垄断诉讼 / Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+          "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-01T20:11:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "decab956ee4aa0369e28dfa4521537587b5ccabd",
+          "title": "法官驳回了Chegg和Penske针对谷歌AI搜索提起的反垄断诉讼",
+          "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T20:55:04.619000Z"
+        },
+        {
+          "id": "12e40f29365184a210823ad170a8851e859d53f5",
+          "title": "法官驳回了Chegg和Penske针对谷歌AI搜索提起的反垄断诉讼 / Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+          "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-01T20:11:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4057,
+      "importance": 0.4057,
+      "importance_score": 0.4057,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2885,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T20:11:55Z",
+      "latest_at": "2026-10-01T20:55:04.619000Z",
+      "primary_item": {
+        "id": "decab956ee4aa0369e28dfa4521537587b5ccabd",
+        "title": "法官驳回了Chegg和Penske针对谷歌AI搜索提起的反垄断诉讼",
+        "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8ca2633994ab",
+      "title": "Figma 将 MCP 访问权限限制在白名单中的客户端，Pi 不在其中",
+      "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+      "primary_url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e2f980a3d28bac01dc7d43bd12ae5136abeda921",
+          "title": "Figma 将 MCP 访问权限限制在白名单中的客户端，Pi 不在其中",
+          "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T17:31:03.153000Z"
+        },
+        {
+          "id": "e7f9e088b71ea3829231bf31e1023eba7a04cfce",
+          "title": "Figma 将 MCP 访问权限限制在白名单中的客户端，Pi 不在其中 / Figma restricts MCP access to whitelisted clients, excluding Pi",
+          "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T15:10:46Z"
+        },
+        {
+          "id": "8806d85e81c0bba1af3979d9035ed3ca66cc82ac",
+          "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+          "url": "https://news.ycombinator.com/item?id=49922729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T15:10:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "e2f980a3d28bac01dc7d43bd12ae5136abeda921",
+          "title": "Figma 将 MCP 访问权限限制在白名单中的客户端，Pi 不在其中",
+          "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T17:31:03.153000Z"
+        },
+        {
+          "id": "e7f9e088b71ea3829231bf31e1023eba7a04cfce",
+          "title": "Figma 将 MCP 访问权限限制在白名单中的客户端，Pi 不在其中 / Figma restricts MCP access to whitelisted clients, excluding Pi",
+          "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T15:10:46Z"
+        },
+        {
+          "id": "8806d85e81c0bba1af3979d9035ed3ca66cc82ac",
+          "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+          "url": "https://news.ycombinator.com/item?id=49922729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T15:10:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4024,
+      "importance": 0.4024,
+      "importance_score": 0.4024,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1469,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T15:10:46Z",
+      "latest_at": "2026-10-01T17:31:03.153000Z",
+      "primary_item": {
+        "id": "e2f980a3d28bac01dc7d43bd12ae5136abeda921",
+        "title": "Figma 将 MCP 访问权限限制在白名单中的客户端，Pi 不在其中",
+        "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a088176f0003",
+      "title": "Show HN: 482家医院的收费情况与保险公司支付金额的对比（数据源自各医院自身档案）",
+      "url": "https://www.billmender.com/hospital-prices",
+      "primary_url": "https://www.billmender.com/hospital-prices",
+      "source": "www.billmender.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d46708b8c87412a4c5dc3410d0d7669a527e549b",
+          "title": "Show HN: 482家医院的收费情况与保险公司支付金额的对比（数据源自各医院自身档案）",
+          "url": "https://www.billmender.com/hospital-prices",
+          "source": "www.billmender.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T20:23:14.498000Z"
+        },
+        {
+          "id": "154fa9e0a0ae3040d4ae56f60418880bf4d36b3d",
+          "title": "Show HN: 482家医院的收费情况与保险公司支付金额的对比（数据源自各医院自身档案） / Show HN: What 482 hospitals charge vs. what insurers pay, from their own files",
+          "url": "https://www.billmender.com/hospital-prices",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T19:42:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.billmender.com"
+      ],
+      "items": [
+        {
+          "id": "d46708b8c87412a4c5dc3410d0d7669a527e549b",
+          "title": "Show HN: 482家医院的收费情况与保险公司支付金额的对比（数据源自各医院自身档案）",
+          "url": "https://www.billmender.com/hospital-prices",
+          "source": "www.billmender.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T20:23:14.498000Z"
+        },
+        {
+          "id": "154fa9e0a0ae3040d4ae56f60418880bf4d36b3d",
+          "title": "Show HN: 482家医院的收费情况与保险公司支付金额的对比（数据源自各医院自身档案） / Show HN: What 482 hospitals charge vs. what insurers pay, from their own files",
+          "url": "https://www.billmender.com/hospital-prices",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T19:42:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4013,
+      "importance": 0.4013,
+      "importance_score": 0.4013,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2664,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T19:42:09Z",
+      "latest_at": "2026-10-01T20:23:14.498000Z",
+      "primary_item": {
+        "id": "d46708b8c87412a4c5dc3410d0d7669a527e549b",
+        "title": "Show HN: 482家医院的收费情况与保险公司支付金额的对比（数据源自各医院自身档案）",
+        "url": "https://www.billmender.com/hospital-prices",
+        "source": "www.billmender.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_317971da35b1",
+      "title": "Clef：我们的开源决策模型",
+      "url": "https://blog.cloudflare.com/clef-decision-models",
+      "primary_url": "https://blog.cloudflare.com/clef-decision-models",
+      "source": "blog.cloudflare.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a0bfbc155a4872066fb0f80fcb114e567cf6c60c",
+          "title": "Clef：我们的开源决策模型",
+          "url": "https://blog.cloudflare.com/clef-decision-models",
+          "source": "blog.cloudflare.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T17:31:03.157000Z"
+        },
+        {
+          "id": "39fbaa81e73e3d9af901d78307b7ee7cf61eb03d",
+          "title": "Clef：我们的开源决策模型 / Clef: Open-source decision models, and new RL fine-tuning platform",
+          "url": "https://blog.cloudflare.com/clef-decision-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T16:18:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "blog.cloudflare.com"
+      ],
+      "items": [
+        {
+          "id": "a0bfbc155a4872066fb0f80fcb114e567cf6c60c",
+          "title": "Clef：我们的开源决策模型",
+          "url": "https://blog.cloudflare.com/clef-decision-models",
+          "source": "blog.cloudflare.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-01T17:31:03.157000Z"
+        },
+        {
+          "id": "39fbaa81e73e3d9af901d78307b7ee7cf61eb03d",
+          "title": "Clef：我们的开源决策模型 / Clef: Open-source decision models, and new RL fine-tuning platform",
+          "url": "https://blog.cloudflare.com/clef-decision-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T16:18:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3774,
+      "importance": 0.3774,
+      "importance_score": 0.3774,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1469,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T16:18:57Z",
+      "latest_at": "2026-10-01T17:31:03.157000Z",
+      "primary_item": {
+        "id": "a0bfbc155a4872066fb0f80fcb114e567cf6c60c",
+        "title": "Clef：我们的开源决策模型",
+        "url": "https://blog.cloudflare.com/clef-decision-models",
+        "source": "blog.cloudflare.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1f9ad68eb044",
+      "title": "汽车就是一辆会行驶的智能手机。以下是哪些公司正在关注这一趋势 / Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "primary_url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "9a0a37f88d5b3f1beb8418fd5647f50678be0a5b",
+          "title": "汽车就是一辆会行驶的智能手机。以下是哪些公司正在关注这一趋势 / Automatic Transmission – a data-privacy study of connected vehicles",
+          "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T20:23:27Z"
+        },
+        {
+          "id": "51332ca3532df98f88b12bc95e9b689f95a21bc4",
+          "title": "汽车就是一辆会行驶的智能手机。以下是哪些公司正在关注这一趋势 / Car Is a Smartphone on Wheels. Here's Who's Listening",
+          "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T20:23:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "9a0a37f88d5b3f1beb8418fd5647f50678be0a5b",
+          "title": "汽车就是一辆会行驶的智能手机。以下是哪些公司正在关注这一趋势 / Automatic Transmission – a data-privacy study of connected vehicles",
+          "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T20:23:27Z"
+        },
+        {
+          "id": "51332ca3532df98f88b12bc95e9b689f95a21bc4",
+          "title": "汽车就是一辆会行驶的智能手机。以下是哪些公司正在关注这一趋势 / Car Is a Smartphone on Wheels. Here's Who's Listening",
+          "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-01T20:23:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4013,
+      "importance": 0.4013,
+      "importance_score": 0.4013,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2666,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T20:23:27Z",
+      "latest_at": "2026-10-01T20:23:27Z",
+      "primary_item": {
+        "id": "9a0a37f88d5b3f1beb8418fd5647f50678be0a5b",
+        "title": "汽车就是一辆会行驶的智能手机。以下是哪些公司正在关注这一趋势 / Automatic Transmission – a data-privacy study of connected vehicles",
+        "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_1fb256ce62b7",
+      "title": "光标/插件 / cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "primary_url": "https://github.com/cursor/plugins",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e17cae5eb30b6b551476cfdf90ffa5faff33298c",
+          "title": "光标/插件 / cursor / plugins",
+          "url": "https://github.com/cursor/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "be86f99c8fabe7e0c38c29066ae37b2b4b37f1d8",
+          "title": "光标/插件 / cursor /      plugins",
+          "url": "https://github.com/cursor/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T16:17:02.983000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "e17cae5eb30b6b551476cfdf90ffa5faff33298c",
+          "title": "光标/插件 / cursor / plugins",
+          "url": "https://github.com/cursor/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "be86f99c8fabe7e0c38c29066ae37b2b4b37f1d8",
+          "title": "光标/插件 / cursor /      plugins",
+          "url": "https://github.com/cursor/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-01T16:17:02.983000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3697,
+      "importance": 0.3697,
+      "importance_score": 0.3697,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1086,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-01T16:17:02.983000Z",
+      "latest_at": "2026-10-01T16:36:00.121239Z",
+      "primary_item": {
+        "id": "e17cae5eb30b6b551476cfdf90ffa5faff33298c",
+        "title": "光标/插件 / cursor / plugins",
+        "url": "https://github.com/cursor/plugins",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     }
   ]
