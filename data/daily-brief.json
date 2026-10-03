@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:42:57.829699Z",
+  "generated_at": "2026-10-03T20:29:03.107894Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6785,
+        "recency": 0.5632,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -183,18 +183,9 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-02T20:59:54.195000Z"
-        },
-        {
-          "id": "0eecac1f939a8cac5378b79ed2ed2d12abbda2b9",
-          "title": "如果我们停止使用 GPU 会怎样？ [视频] / What if we stopped using GPUs? [video]",
-          "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T18:09:38Z"
         }
       ],
-      "source_count": 7,
+      "source_count": 6,
       "source_names": [
         "Hacker News · 24h最热",
         "Lobsters (技术社区)",
@@ -254,40 +245,109 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-02T20:59:54.195000Z"
-        },
-        {
-          "id": "0eecac1f939a8cac5378b79ed2ed2d12abbda2b9",
-          "title": "如果我们停止使用 GPU 会怎样？ [视频] / What if we stopped using GPUs? [video]",
-          "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T18:09:38Z"
         }
       ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.5765,
-      "importance": 0.5765,
-      "importance_score": 0.5765,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.5534,
+      "importance": 0.5534,
+      "importance_score": 0.5534,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7673,
+        "recency": 0.652,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T18:09:38Z",
+      "earliest_at": "2026-10-02T20:59:54.195000Z",
       "latest_at": "2026-10-03T12:07:54.478000Z",
       "primary_item": {
         "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
         "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
         "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
         "source": "www.youtube.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5f57051b63cd",
+      "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+      "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+      "primary_url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.515000Z"
+        },
+        {
+          "id": "8221a55e5df868c8dfa529edede0a880d2d6db7a",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献 / OpenAI leader who quit says he can do more for safety from outside the company",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T19:01:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.515000Z"
+        },
+        {
+          "id": "8221a55e5df868c8dfa529edede0a880d2d6db7a",
+          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献 / OpenAI leader who quit says he can do more for safety from outside the company",
+          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T19:01:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9784,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T19:01:53Z",
+      "latest_at": "2026-10-03T19:57:53.515000Z",
+      "primary_item": {
+        "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
+        "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
+        "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -309,6 +369,15 @@
           "published_at": "2026-10-03T10:49:44.714000Z"
         },
         {
+          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T10:43:51Z"
+        },
+        {
           "id": "b84a8375a5247ee3a46c762700baee7461309647",
           "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
           "url": "https://tej.as/blog/aleph-alpha-kolibri",
@@ -345,7 +414,7 @@
           "published_at": "2026-10-03T10:43:51Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
@@ -363,6 +432,15 @@
           "published_at": "2026-10-03T10:49:44.714000Z"
         },
         {
+          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T10:43:51Z"
+        },
+        {
           "id": "b84a8375a5247ee3a46c762700baee7461309647",
           "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
           "url": "https://tej.as/blog/aleph-alpha-kolibri",
@@ -399,16 +477,16 @@
           "published_at": "2026-10-03T10:43:51Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5656,
-      "importance": 0.5656,
-      "importance_score": 0.5656,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.713,
+        "recency": 0.5977,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -423,6 +501,84 @@
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "tej.as",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fc994d69ad09",
+      "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.917,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T18:29:30Z",
+      "latest_at": "2026-10-03T18:29:30Z",
+      "primary_item": {
+        "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
+        "title": "在 Claude 和 Claude 代码中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -478,14 +634,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9291,
+        "recency": 0.8137,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -503,159 +659,81 @@
       }
     },
     {
-      "story_id": "story_956aebcec474",
-      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "story_id": "story_810f091c82ef",
+      "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
+          "published_at": "2026-10-03T17:57:03Z"
         },
         {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "www.theatlantic.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
+          "published_at": "2026-10-03T17:57:03Z"
         },
         {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8358,
+        "recency": 0.8944,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T11:05:53.668000Z",
-      "latest_at": "2026-10-03T13:46:34Z",
+      "earliest_at": "2026-10-03T17:57:03Z",
+      "latest_at": "2026-10-03T17:57:03Z",
       "primary_item": {
-        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-        "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+        "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+        "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_b8da10635efb",
-      "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "primary_url": "https://github.com/thedotmack/claude-mem",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T13:35:15.944000Z"
-        },
-        {
-          "id": "d15dffa69886b6928cdb7167cbfb27dfa8d74691",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack / claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T13:35:15.944000Z"
-        },
-        {
-          "id": "d15dffa69886b6928cdb7167cbfb27dfa8d74691",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack / claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.828,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T13:34:43.542403Z",
-      "latest_at": "2026-10-03T13:35:15.944000Z",
-      "primary_item": {
-        "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
-        "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "source": "github",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -712,14 +790,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
+      "score": 0.4905,
+      "importance": 0.4905,
+      "importance_score": 0.4905,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8276,
+        "recency": 0.7123,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -734,6 +812,84 @@
         "url": "https://www.huxiu.com/article/4895291.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b8da10635efb",
+      "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "primary_url": "https://github.com/thedotmack/claude-mem",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
+          "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:35:15.944000Z"
+        },
+        {
+          "id": "d15dffa69886b6928cdb7167cbfb27dfa8d74691",
+          "title": "塞多马克 / 克劳德·梅姆 / thedotmack / claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
+          "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:35:15.944000Z"
+        },
+        {
+          "id": "d15dffa69886b6928cdb7167cbfb27dfa8d74691",
+          "title": "塞多马克 / 克劳德·梅姆 / thedotmack / claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4905,
+      "importance": 0.4905,
+      "importance_score": 0.4905,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7126,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T13:34:43.542403Z",
+      "latest_at": "2026-10-03T13:35:15.944000Z",
+      "primary_item": {
+        "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
+        "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -809,14 +965,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4954,
-      "importance": 0.4954,
-      "importance_score": 0.4954,
+      "score": 0.4723,
+      "importance": 0.4723,
+      "importance_score": 0.4723,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6118,
+        "recency": 0.4965,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -887,14 +1043,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4862,
-      "importance": 0.4862,
-      "importance_score": 0.4862,
+      "score": 0.4631,
+      "importance": 0.4631,
+      "importance_score": 0.4631,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6909,
+        "recency": 0.5756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -912,178 +1068,81 @@
       }
     },
     {
-      "story_id": "story_e35138269f8b",
-      "title": "Show HN: 开发了一个开源的乐高AI生成器",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "primary_url": "https://github.com/anteloc/ldraw-nova",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "story_id": "story_956aebcec474",
+      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T06:39:44.372000Z"
-        },
-        {
-          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://github.com/anteloc/ldraw-nova",
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-02T20:00:15Z"
+          "published_at": "2026-10-03T13:46:34Z"
         },
         {
-          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
-          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://news.ycombinator.com/item?id=49937916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T20:00:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "github.com",
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T06:39:44.372000Z"
-        },
-        {
-          "id": "c24639a6187c2d76a863de1d12cb2ae83dbdf20e",
-          "title": "Show HN: 开发了一个开源的乐高AI生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://github.com/anteloc/ldraw-nova",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T20:00:15Z"
-        },
-        {
-          "id": "a666c1a00df38beccd91fc3b866760e75714ab81",
-          "title": "Show HN：制作了一个开源乐高人工智能生成器 / Show HN: Made an open-source Lego AI generator",
-          "url": "https://news.ycombinator.com/item?id=49937916",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T20:00:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4809,
-      "importance": 0.4809,
-      "importance_score": 0.4809,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5394,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T20:00:15Z",
-      "latest_at": "2026-10-03T06:39:44.372000Z",
-      "primary_item": {
-        "id": "f1db89ef77edc52c279f0048fcbda72012a75d9d",
-        "title": "Show HN: 开发了一个开源的乐高AI生成器",
-        "url": "https://github.com/anteloc/ldraw-nova",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5981ed276f26",
-      "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-      "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-      "primary_url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:47:55.404000Z"
-        },
-        {
-          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:30:02Z"
+          "published_at": "2026-10-03T11:05:53.668000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热",
+        "www.theatlantic.com"
       ],
       "items": [
         {
-          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:47:55.404000Z"
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
         },
         {
-          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
-          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
-          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:30:02Z"
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T11:05:53.668000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.482,
-      "importance": 0.482,
-      "importance_score": 0.482,
+      "score": 0.4921,
+      "importance": 0.4921,
+      "importance_score": 0.4921,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6701,
+        "recency": 0.7205,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T09:30:02Z",
-      "latest_at": "2026-10-03T09:47:55.404000Z",
+      "earliest_at": "2026-10-03T11:05:53.668000Z",
+      "latest_at": "2026-10-03T13:46:34Z",
       "primary_item": {
-        "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
-        "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
-        "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+        "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1159,14 +1218,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4418,
-      "importance": 0.4418,
-      "importance_score": 0.4418,
+      "score": 0.4187,
+      "importance": 0.4187,
+      "importance_score": 0.4187,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3438,
+        "recency": 0.2285,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1236,14 +1295,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4704,
-      "importance": 0.4704,
-      "importance_score": 0.4704,
+      "score": 0.4473,
+      "importance": 0.4473,
+      "importance_score": 0.4473,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6118,
+        "recency": 0.4965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1314,14 +1373,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4704,
-      "importance": 0.4704,
-      "importance_score": 0.4704,
+      "score": 0.4473,
+      "importance": 0.4473,
+      "importance_score": 0.4473,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6118,
+        "recency": 0.4965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1336,84 +1395,6 @@
         "url": "https://www.36kr.com/p/4009352273236101",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e8563f2099fa",
-      "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-      "url": "https://casp.ac/reports/intelligence-explosion",
-      "primary_url": "https://casp.ac/reports/intelligence-explosion",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "cdab341a767b6bd073d950398865017a43cc9890",
-          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-          "url": "https://casp.ac/reports/intelligence-explosion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T07:06:02Z"
-        },
-        {
-          "id": "50b030484c651d6ced0bb71ba09c85f2a7e79070",
-          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-          "url": "https://news.ycombinator.com/item?id=49942002",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T07:06:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cdab341a767b6bd073d950398865017a43cc9890",
-          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-          "url": "https://casp.ac/reports/intelligence-explosion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T07:06:02Z"
-        },
-        {
-          "id": "50b030484c651d6ced0bb71ba09c85f2a7e79070",
-          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-          "url": "https://news.ycombinator.com/item?id=49942002",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T07:06:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4595,
-      "importance": 0.4595,
-      "importance_score": 0.4595,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5577,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T07:06:02Z",
-      "latest_at": "2026-10-03T07:06:02Z",
-      "primary_item": {
-        "id": "cdab341a767b6bd073d950398865017a43cc9890",
-        "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-        "url": "https://casp.ac/reports/intelligence-explosion",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1470,14 +1451,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4233,
-      "importance": 0.4233,
-      "importance_score": 0.4233,
+      "score": 0.4002,
+      "importance": 0.4002,
+      "importance_score": 0.4002,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3764,
+        "recency": 0.2611,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1495,99 +1476,80 @@
       }
     },
     {
-      "story_id": "story_3577570198f4",
-      "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
-      "url": "https://dwarfstar.sh",
-      "primary_url": "https://dwarfstar.sh",
-      "source": "dwarfstar.sh",
+      "story_id": "story_5981ed276f26",
+      "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
+      "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+      "primary_url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7b7a31ed4993ecc973e4f341a5ee01b63b703e93",
-          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
-          "url": "https://dwarfstar.sh",
-          "source": "dwarfstar.sh",
+          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
+          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
+          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-02T22:49:45.900000Z"
+          "published_at": "2026-10-03T09:47:55.404000Z"
         },
         {
-          "id": "e182e6b34aa4a4a559c65ef452609c18fae4463b",
-          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
-          "url": "https://dwarfstar.sh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T18:01:16Z"
-        },
-        {
-          "id": "9858d29843a45db6ecc1abb1df646663ba9e8898",
-          "title": "来自Redis的创建者；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
-          "url": "https://news.ycombinator.com/item?id=49936575",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T18:01:16Z"
+          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
+          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
+          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T09:30:02Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "dwarfstar.sh",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "7b7a31ed4993ecc973e4f341a5ee01b63b703e93",
-          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
-          "url": "https://dwarfstar.sh",
-          "source": "dwarfstar.sh",
+          "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
+          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
+          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-02T22:49:45.900000Z"
+          "published_at": "2026-10-03T09:47:55.404000Z"
         },
         {
-          "id": "e182e6b34aa4a4a559c65ef452609c18fae4463b",
-          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
-          "url": "https://dwarfstar.sh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T18:01:16Z"
-        },
-        {
-          "id": "9858d29843a45db6ecc1abb1df646663ba9e8898",
-          "title": "来自Redis的创建者；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
-          "url": "https://news.ycombinator.com/item?id=49936575",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-02T18:01:16Z"
+          "id": "adea3472cbdd1d29c89c1fd961aa3c52b1a08034",
+          "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。 / AI slop is coming for Hollywood. Some of it is already better.",
+          "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-03T09:30:02Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4156,
-      "importance": 0.4156,
-      "importance_score": 0.4156,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.459,
+      "importance": 0.459,
+      "importance_score": 0.459,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2131,
-        "story_heat": 0.5
+        "recency": 0.5548,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T18:01:16Z",
-      "latest_at": "2026-10-02T22:49:45.900000Z",
+      "earliest_at": "2026-10-03T09:30:02Z",
+      "latest_at": "2026-10-03T09:47:55.404000Z",
       "primary_item": {
-        "id": "7b7a31ed4993ecc973e4f341a5ee01b63b703e93",
-        "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
-        "url": "https://dwarfstar.sh",
-        "source": "dwarfstar.sh",
+        "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
+        "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
+        "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1645,14 +1607,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4038,
-      "importance": 0.4038,
-      "importance_score": 0.4038,
+      "score": 0.3808,
+      "importance": 0.3808,
+      "importance_score": 0.3808,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2791,
+        "recency": 0.1638,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1670,81 +1632,80 @@
       }
     },
     {
-      "story_id": "story_001fe0e44261",
-      "title": "Muse 智能设备",
-      "url": "https://gadgets.muse.ai",
-      "primary_url": "https://gadgets.muse.ai",
-      "source": "gadgets.muse.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_a650c74fe354",
+      "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+      "primary_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-          "title": "Muse 智能设备",
-          "url": "https://gadgets.muse.ai",
-          "source": "gadgets.muse.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T00:08:54.342000Z"
+          "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
+          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:36:04Z"
         },
         {
-          "id": "e8a89ab4d1a15956ae6cd8ebec199c03918775fc",
-          "title": "Muse 智能设备 / Muse Gadgets",
-          "url": "https://gadgets.muse.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T19:26:54Z"
+          "id": "1c41707746af6412df270725b43291fc673341c3",
+          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri: A Sovereign Open-Weight Model",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:36:04Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "gadgets.muse.ai"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-          "title": "Muse 智能设备",
-          "url": "https://gadgets.muse.ai",
-          "source": "gadgets.muse.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T00:08:54.342000Z"
+          "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
+          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:36:04Z"
         },
         {
-          "id": "e8a89ab4d1a15956ae6cd8ebec199c03918775fc",
-          "title": "Muse 智能设备 / Muse Gadgets",
-          "url": "https://gadgets.muse.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-02T19:26:54Z"
+          "id": "1c41707746af6412df270725b43291fc673341c3",
+          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri: A Sovereign Open-Weight Model",
+          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T09:36:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4016,
-      "importance": 0.4016,
-      "importance_score": 0.4016,
+      "score": 0.4573,
+      "importance": 0.4573,
+      "importance_score": 0.4573,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.268,
+        "recency": 0.5465,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T19:26:54Z",
-      "latest_at": "2026-10-03T00:08:54.342000Z",
+      "earliest_at": "2026-10-03T09:36:04Z",
+      "latest_at": "2026-10-03T09:36:04Z",
       "primary_item": {
-        "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-        "title": "Muse 智能设备",
-        "url": "https://gadgets.muse.ai",
-        "source": "gadgets.muse.ai",
-        "source_name": "Buzzing"
+        "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
+        "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
