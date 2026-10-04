@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-10-03T23:15:08.644817Z",
+  "generated_at": "2026-10-04T02:47:44.074000Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_eba4bcb4d3a1",
+      "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+      "url": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh",
+      "primary_url": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh",
+      "source": "Hugging Face：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9cf920e741222bd7a80f8b9c61eaed03d1132f1e",
+          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+          "url": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh",
+          "source": "Hugging Face：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T22:56:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face：Blog"
+      ],
+      "items": [
+        {
+          "id": "9cf920e741222bd7a80f8b9c61eaed03d1132f1e",
+          "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+          "url": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh",
+          "source": "Hugging Face：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T22:56:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8396,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T22:56:48Z",
+      "latest_at": "2026-10-03T22:56:48Z",
+      "primary_item": {
+        "id": "9cf920e741222bd7a80f8b9c61eaed03d1132f1e",
+        "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
+        "url": "https://aihot.news/items/gqh4yclcjmaci6uhur56580uh",
+        "source": "Hugging Face：Blog",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_c0ddb502944e",
       "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
@@ -38,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9424,
+        "recency": 0.7948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,20 +158,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7208,
+      "importance": 0.7208,
+      "importance_score": 0.7208,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6914,
+        "recency": 0.5438,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-03T15:50:46Z",
       "latest_at": "2026-10-03T15:50:46Z",
@@ -196,14 +255,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.97,
+        "recency": 0.8224,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -274,14 +333,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5185,
+      "importance": 0.5185,
+      "importance_score": 0.5185,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8524,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -352,14 +411,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5106,
+      "importance": 0.5106,
+      "importance_score": 0.5106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9605,
+        "recency": 0.8128,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -430,14 +489,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5061,
+      "importance": 0.5061,
+      "importance_score": 0.5061,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.938,
+        "recency": 0.7904,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -497,18 +556,9 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-03T10:21:24Z"
-        },
-        {
-          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
-          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:22:04.817000Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
         "Hacker News · 24h最热",
         "Lobsters (技术社区)",
@@ -550,34 +600,25 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-03T10:21:24Z"
-        },
-        {
-          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
-          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:22:04.817000Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.4758,
+      "importance": 0.4758,
+      "importance_score": 0.4758,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5366,
-        "story_heat": 1.0
+        "recency": 0.389,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T23:22:04.817000Z",
+      "earliest_at": "2026-10-03T10:21:24Z",
       "latest_at": "2026-10-03T12:07:54.478000Z",
       "primary_item": {
         "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
@@ -678,14 +719,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4945,
-      "importance": 0.4945,
-      "importance_score": 0.4945,
+      "score": 0.4649,
+      "importance": 0.4649,
+      "importance_score": 0.4649,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4824,
+        "recency": 0.3347,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -756,14 +797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
+      "score": 0.4932,
+      "importance": 0.4932,
+      "importance_score": 0.4932,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8734,
+        "recency": 0.7258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -833,14 +874,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4877,
-      "importance": 0.4877,
-      "importance_score": 0.4877,
+      "score": 0.4582,
+      "importance": 0.4582,
+      "importance_score": 0.4582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6984,
+        "recency": 0.5508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -911,14 +952,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.4743,
+      "importance": 0.4743,
+      "importance_score": 0.4743,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7791,
+        "recency": 0.6315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -989,14 +1030,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4675,
-      "importance": 0.4675,
-      "importance_score": 0.4675,
+      "score": 0.4379,
+      "importance": 0.4379,
+      "importance_score": 0.4379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5973,
+        "recency": 0.4497,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1067,14 +1108,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
+      "score": 0.4911,
+      "importance": 0.4911,
+      "importance_score": 0.4911,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.863,
+        "recency": 0.7154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1089,103 +1130,6 @@
         "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fea867abcd50",
-      "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
-      "url": "https://www.36kr.com/p/4009475424063619",
-      "primary_url": "https://www.36kr.com/p/4009475424063619",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
-          "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
-          "url": "https://www.36kr.com/p/4009475424063619",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-03T08:23:57.904251Z"
-        },
-        {
-          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
-          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
-          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T03:27:52Z"
-        },
-        {
-          "id": "3f8925ae3dd542d7099e9b1eb23ad0ad851e9136",
-          "title": "刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观",
-          "url": "https://www.36kr.com/p/4009475424063619",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-03T02:10:24.516456Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
-          "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
-          "url": "https://www.36kr.com/p/4009475424063619",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-03T08:23:57.904251Z"
-        },
-        {
-          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
-          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
-          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T03:27:52Z"
-        },
-        {
-          "id": "3f8925ae3dd542d7099e9b1eb23ad0ad851e9136",
-          "title": "刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观",
-          "url": "https://www.36kr.com/p/4009475424063619",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-03T02:10:24.516456Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4492,
-      "importance": 0.4492,
-      "importance_score": 0.4492,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3811,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T02:10:24.516456Z",
-      "latest_at": "2026-10-03T08:23:57.904251Z",
-      "primary_item": {
-        "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
-        "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
-        "url": "https://www.36kr.com/p/4009475424063619",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1241,14 +1185,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4437,
-      "importance": 0.4437,
-      "importance_score": 0.4437,
+      "score": 0.4141,
+      "importance": 0.4141,
+      "importance_score": 0.4141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4783,
+        "recency": 0.3306,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1319,14 +1263,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4725,
+      "importance": 0.4725,
+      "importance_score": 0.4725,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7704,
+        "recency": 0.6227,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1397,14 +1341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4674,
-      "importance": 0.4674,
-      "importance_score": 0.4674,
+      "score": 0.4379,
+      "importance": 0.4379,
+      "importance_score": 0.4379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5969,
+        "recency": 0.4493,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1422,176 +1366,79 @@
       }
     },
     {
-      "story_id": "story_c6c4cf80a42a",
-      "title": "Show HN: Google 地图抓取工具 MCP",
-      "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-      "primary_url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-      "source": "gmapscrawl.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d25d7c38edd0b8531b165853022543fc2aa7ae37",
-          "title": "Show HN: Google 地图抓取工具 MCP",
-          "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-          "source": "gmapscrawl.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T01:58:05.229000Z"
-        },
-        {
-          "id": "1f73bfe751045212ed0759632545af83fadf2e76",
-          "title": "Show HN: Google 地图抓取工具 MCP / Show HN: Google Maps Scraper MCP",
-          "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T01:46:39Z"
-        },
-        {
-          "id": "74f259ffc26e1745be071fa38d2478d99729aa3e",
-          "title": "显示 HN：Google 地图 Scraper MCP / Show HN: Google Maps Scraper MCP",
-          "url": "https://news.ycombinator.com/item?id=49940653",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T01:46:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "gmapscrawl.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d25d7c38edd0b8531b165853022543fc2aa7ae37",
-          "title": "Show HN: Google 地图抓取工具 MCP",
-          "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-          "source": "gmapscrawl.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T01:58:05.229000Z"
-        },
-        {
-          "id": "1f73bfe751045212ed0759632545af83fadf2e76",
-          "title": "Show HN: Google 地图抓取工具 MCP / Show HN: Google Maps Scraper MCP",
-          "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T01:46:39Z"
-        },
-        {
-          "id": "74f259ffc26e1745be071fa38d2478d99729aa3e",
-          "title": "显示 HN：Google 地图 Scraper MCP / Show HN: Google Maps Scraper MCP",
-          "url": "https://news.ycombinator.com/item?id=49940653",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T01:46:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.3956,
-      "importance": 0.3956,
-      "importance_score": 0.3956,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1132,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T01:46:39Z",
-      "latest_at": "2026-10-03T01:58:05.229000Z",
-      "primary_item": {
-        "id": "d25d7c38edd0b8531b165853022543fc2aa7ae37",
-        "title": "Show HN: Google 地图抓取工具 MCP",
-        "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-        "source": "gmapscrawl.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ceec469193dc",
-      "title": "刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」",
-      "url": "https://www.36kr.com/p/4009352273236101",
-      "primary_url": "https://www.36kr.com/p/4009352273236101",
+      "story_id": "story_54a7d29e5903",
+      "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
+      "url": "https://www.36kr.com/p/4009475424063619",
+      "primary_url": "https://www.36kr.com/p/4009475424063619",
       "source": "36氪 · 24小时热榜",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "7adab54fbcf58fb0bffbde8db753923574b9a99b",
-          "title": "刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」",
-          "url": "https://www.36kr.com/p/4009352273236101",
+          "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
+          "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.36kr.com/p/4009475424063619",
           "source": "36氪 · 24小时热榜",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": "2026-10-03T08:23:57.904251Z"
         },
         {
-          "id": "cd97daf50aa7f6ea54526dfc31970f5d4ce2f557",
-          "title": "Meta 开源 Muse Gadgets，让全球开发者自己「造 AI 外设」",
-          "url": "https://www.36kr.com/p/4009352273236101",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
+          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T03:27:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "36氪 · 24小时热榜",
-        "Readhub · AI"
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "7adab54fbcf58fb0bffbde8db753923574b9a99b",
-          "title": "刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」",
-          "url": "https://www.36kr.com/p/4009352273236101",
+          "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
+          "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.36kr.com/p/4009475424063619",
           "source": "36氪 · 24小时热榜",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": "2026-10-03T08:23:57.904251Z"
         },
         {
-          "id": "cd97daf50aa7f6ea54526dfc31970f5d4ce2f557",
-          "title": "Meta 开源 Muse Gadgets，让全球开发者自己「造 AI 外设」",
-          "url": "https://www.36kr.com/p/4009352273236101",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
+          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T03:27:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4242,
-      "importance": 0.4242,
-      "importance_score": 0.4242,
+      "score": 0.3947,
+      "importance": 0.3947,
+      "importance_score": 0.3947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3811,
+        "recency": 0.2335,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T02:10:24.516456Z",
+      "earliest_at": "2026-10-03T03:27:52Z",
       "latest_at": "2026-10-03T08:23:57.904251Z",
       "primary_item": {
-        "id": "7adab54fbcf58fb0bffbde8db753923574b9a99b",
-        "title": "刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」",
-        "url": "https://www.36kr.com/p/4009352273236101",
+        "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
+        "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
+        "url": "https://www.36kr.com/p/4009475424063619",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
       }
@@ -1650,14 +1497,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.469,
-      "importance": 0.469,
-      "importance_score": 0.469,
+      "score": 0.4395,
+      "importance": 0.4395,
+      "importance_score": 0.4395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6052,
+        "recency": 0.4575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1672,6 +1519,83 @@
         "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "DeepSeek V4 适配昇腾：黄仁勋最担心的「去英伟达化」走到哪一步？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649806423&idx=1&sn=cc0ed94347c57c13f04402bd1131a32a",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649806423&idx=1&sn=cc0ed94347c57c13f04402bd1131a32a",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "dc7db0641b17ddeea66debd7aa1e9e01f2e97ff6",
+          "title": "DeepSeek V4 适配昇腾：黄仁勋最担心的「去英伟达化」走到哪一步？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649806423&idx=1&sn=cc0ed94347c57c13f04402bd1131a32a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "94764e6b36cdfe4b6c64c1caec7d9a5ecb4847a7",
+          "title": "普林斯顿大学团队实现毫秒级原子补充，同时保持量子比特相干性",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649806423&idx=2&sn=7879e2f3686dadc697201d5038bf22f5",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dc7db0641b17ddeea66debd7aa1e9e01f2e97ff6",
+          "title": "DeepSeek V4 适配昇腾：黄仁勋最担心的「去英伟达化」走到哪一步？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649806423&idx=1&sn=cc0ed94347c57c13f04402bd1131a32a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "94764e6b36cdfe4b6c64c1caec7d9a5ecb4847a7",
+          "title": "普林斯顿大学团队实现毫秒级原子补充，同时保持量子比特相干性",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649806423&idx=2&sn=7879e2f3686dadc697201d5038bf22f5",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3947,
+      "importance": 0.3947,
+      "importance_score": 0.3947,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2335,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T08:23:57.904251Z",
+      "latest_at": "2026-10-03T08:23:57.904251Z",
+      "primary_item": {
+        "id": "dc7db0641b17ddeea66debd7aa1e9e01f2e97ff6",
+        "title": "DeepSeek V4 适配昇腾：黄仁勋最担心的「去英伟达化」走到哪一步？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649806423&idx=1&sn=cc0ed94347c57c13f04402bd1131a32a",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
